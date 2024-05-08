@@ -1,0 +1,16 @@
+{
+  "post.title": "A edição de publicações está bloqueada",
+  "post.message": "A edição não está disponível enquanto a discussão estiver bloqueada.",
+  "post.message.item": "A edição não está disponível enquanto a discussão estiver bloqueada neste item.",
+  "post.message.group": "A edição não está disponível enquanto a discussão estiver bloqueada neste grupo.",
+  "reply.title": "A edição de respostas está bloqueada",
+  "reply.title.generic": "Discussões bloqueadas",
+  "reply.message": "A edição não está disponível enquanto a discussão estiver bloqueada.",
+  "reply.message.generic": "Não é possível criar respostas neste momento.",
+  "reply.message.item": "A edição não está disponível enquanto a discussão estiver bloqueada neste item.",
+  "reply.message.group": "A edição não está disponível enquanto a discussão estiver bloqueada neste grupo.",
+  "item.title": "Discussão do item bloqueada",
+  "item.message": "Este item não está aprovado para discussão.",
+  "group.title": "Discussão do grupo bloqueada",
+  "group.message": "Este grupo não está aprovado para discussão."
+}

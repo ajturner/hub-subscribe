@@ -1,0 +1,16 @@
+{
+  "post.title": "La modifica dei post è bloccata",
+  "post.message": "La modifica non è disponibile quando le discussioni sono bloccate.",
+  "post.message.item": "La modifica non è disponibile quando le discussioni sono bloccate su questo elemento.",
+  "post.message.group": "La modifica non è disponibile quando le discussioni sono bloccate su questo gruppo.",
+  "reply.title": "La modifica delle risposte è bloccata",
+  "reply.title.generic": "Discussione bloccata",
+  "reply.message": "La modifica non è disponibile quando le discussioni sono bloccate.",
+  "reply.message.generic": "Non è possibile creare risposte in questo momento.",
+  "reply.message.item": "La modifica non è disponibile quando le discussioni sono bloccate su questo elemento.",
+  "reply.message.group": "La modifica non è disponibile quando le discussioni sono bloccate su questo gruppo.",
+  "item.title": "Discussione elemento bloccata",
+  "item.message": "Questo elemento non è approvato per la discussione.",
+  "group.title": "Discussione gruppo bloccata",
+  "group.message": "Questo gruppo non è approvato per la discussione."
+}

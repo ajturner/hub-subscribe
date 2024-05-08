@@ -1,0 +1,30 @@
+{
+  "helperText": "定義和設定目錄",
+  "sections": {
+    "groups": {
+      "title": "群組",
+      "helperText": "下面的群組包含您的搜尋目錄中的內容。 選擇群組以檢視其設定、內容等。",
+      "createGroup": "建立新群組"
+    },
+    "feeds": {
+      "title": "摘要配置",
+      "helperText": "透過 Hub 摘要，使您的公共 Open Data 可以輕鬆存取和重複使用。",
+      "learn": "瞭解有關 Hub 摘要的詳細資訊",
+      "toggle": "啟用摘要 ",
+      "configure": "配置摘要",
+      "notice": "要啟用摘要，您需要先在「設定」中將 Hub 網站設為「公開」"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "從",
+    "editGroups": "編輯群組",
+    "viewGroups": "檢視群組",
+    "myGroup": "我的群組",
+    "myOrganization": "我的組織",
+    "myCommunity": "我的社群"
+  },
+  "formAlert": "表格警示",
+  "alertMessages": {
+    "error": "儲存編輯內容時發生錯誤"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "createdBy": "Skapat av {creator}",
+  "emptyMessage": "Inga versioner hittades",
+  "errorMessage": "Fel vid hämtning av versioner",
+  "menuLabel": "visa åtgärder",
+  "publishedBadge": "Publicerad",
+  "viewingBadge": "Visar",
+  "popover.label": "Versionsåtgärder",
+  "popover.actions.delete": "Ta bort",
+  "popover.actions.edit": "Redigera information",
+  "popover.actions.share": "Dela",
+  "shareErrorMessage": "Fel vid kopiering av delnings-URL till Urklipp.",
+  "shareSuccessMessage": "Delnings-URL:en kopierades till Urklipp."
+}

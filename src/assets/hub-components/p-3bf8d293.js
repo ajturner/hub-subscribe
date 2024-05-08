@@ -1,0 +1,1 @@
+function t(t,e=300){let n;return function(u,...c){clearTimeout(n),n=setTimeout((()=>t.apply(u,c)),e)}}function e(e){return function(n,u,c){const{value:i}=c,o=`${u.toString()}Debounced`;return Object.assign(Object.assign({},c),{value:function(...n){this[o]||Object.defineProperty(this,o,{value:t(i,e.timeout)}),this[o](this,...n)}})}}export{e as D}

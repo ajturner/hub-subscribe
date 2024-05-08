@@ -1,0 +1,36 @@
+{
+  "edit": "Modifica",
+  "delete": "Elimina",
+  "noneMessage": "Nessuna posizione impostata",
+  "entityTypes": {
+    "project": "Progetto",
+    "site": "Sito",
+    "initiative": "Iniziativa",
+    "discussion": "Discussione",
+    "content": "Contenuto"
+  },
+  "emptyLocation": {
+    "title": "Nessuna posizione disegnata",
+    "message": "{entityType} non verrà visualizzata sulle mappe fino a quando non verrà aggiunta una posizione"
+  },
+  "populatedLocation": {
+    "title": "Aggiungere un'altra posizione?",
+    "message": "Seleziona nuovamente lo strumento di disegno per aggiungere altre posizioni (fino a {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Punti massimi raggiunti ({currentCount}/{maxLocations})",
+    "message": "Per aggiungere altre posizioni: cancella i punti, oppure modifica le linee e le aree per eliminare i relativi punti (clic destro)."
+  },
+  "maximumLocations": {
+    "title": "Le posizioni massime raggiunte",
+    "message": "Per aggiungere altre posizioni, rimuoverne una o più, oppure rimuovere tutte le posizioni e utilizzare un'area più generale."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Aggiungi posizione",
+    "clear": "Deseleziona tutto",
+    "extent": "Disegna un rettangolo",
+    "point": "Scegli un punto",
+    "polyline": "Disegna una linea",
+    "polygon": "Disegna un'area"
+  }
+}

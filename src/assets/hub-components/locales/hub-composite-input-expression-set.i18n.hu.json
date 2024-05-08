@@ -1,0 +1,15 @@
+{
+  "addFilter": "Szűrő hozzáadása",
+  "attributeFilter": "Szűrő",
+  "between": "Között",
+  "deleteFilter": "Szűrő törlése",
+  "endingDate": "Záró dátum",
+  "endingValue": "Záró érték",
+  "expression": "Kifejezés",
+  "filterType": "Szűrő típusa",
+  "filterValue": "Szűrés értéke",
+  "isExactly": "Pontosan",
+  "startingDate": "Kezdő dátum",
+  "startingValue": "Kezdő érték",
+  "selectAttribute": "Attribútum kiválasztása"
+}

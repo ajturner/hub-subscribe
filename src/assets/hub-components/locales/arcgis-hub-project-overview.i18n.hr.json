@@ -1,0 +1,27 @@
+{
+  "overview": "Pregledaj",
+  "telemetry": {
+    "pageViews": "Pregledi stranice",
+    "last30days": "Posljednjih 30 dana",
+    "lastUpdated": "Ažurirano posljednji put prije {hoursElapsed} sati"
+  },
+  "newNotice": {
+    "title": "Ovo je radni prostor vašeg projekta",
+    "message": "Ovaj radni prostor je prilagođen za uređivanje projekata. Radni prostori omogućuju suradnicima da se usredotoče na pojedinačne stavke i u stalnom su razvoju.",
+    "link": "Saznajte više"
+  },
+  "learnAbout": "Saznajte više o Hub projektima",
+  "feedbackNotice": {
+    "message": "Kako vam se sviđaju Hub projekti? Pošto je ova značajka još uvijek u beta fazi, želimo čuti kako je možete koristiti.",
+    "link": "Pošaljite povratne informacije"
+  },
+  "status": {
+    "notStarted": "Nije započeto",
+    "inProgress": "U tijeku",
+    "onHold": "Na čekanju",
+    "complete": "Završeno"
+  },
+  "editDetails": "Uredi pojedinosti",
+  "noPurposeSet": "Svrha nije postavljenas",
+  "noLocationSet": "Nije postavljena lokacija"
+}

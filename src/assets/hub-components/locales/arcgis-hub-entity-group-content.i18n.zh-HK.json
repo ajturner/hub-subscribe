@@ -1,0 +1,50 @@
+{
+  "title": "內容",
+  "facets": {
+    "type": "類型",
+    "tags": "標籤",
+    "categories": "類別",
+    "sharing": "分享",
+    "dateUpdated": "更新日期",
+    "map": {
+      "label": "位置",
+      "tooltip": "將地圖範圍套用為位置篩選器"
+    }
+  },
+  "shareContent": {
+    "buttonText": "新增內容",
+    "catalog": {
+      "myContent": "我的內容",
+      "favorites": "我的最愛",
+      "organization": "我的組織",
+      "world": "世界 (公眾)"
+    },
+    "facets": {
+      "type": "類型",
+      "sharing": "正在分享"
+    },
+    "collection": {
+      "appsAndMaps": "應用程式與地圖",
+      "dataset": "資料",
+      "documents": "文件",
+      "feedback": "回饋意見",
+      "sites": "網站"
+    },
+    "modal": {
+      "title": "新增內容"
+    },
+    "unsharedModal": {
+      "title": "未新增項目",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "危險",
+        "title": "動作不完整",
+        "message": "無法新增部分項目。 這可能是由於內容內的分享級別不符，或因為項目的擁有者不是群組的成員所致。",
+        "linkText": "閱讀分享的更多資訊"
+      }
+    },
+    "itemSharedSuccessAlert": "已成功分享項目"
+  },
+  "close": "關閉",
+  "newTab": "在新頁籤中開啟"
+}

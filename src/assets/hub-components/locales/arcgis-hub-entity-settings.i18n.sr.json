@@ -1,0 +1,34 @@
+{
+  "settings": "Postavke",
+  "delete": {
+    "project": "Izbrišite projekat",
+    "initiative": "Izbrišite inicijativu",
+    "site": "Izbrišite sajt",
+    "discussion": "Izbrišite diskusiju",
+    "content": "Izbrišite sadržaj",
+    "page": "Obriši stranicu",
+    "group": "Obriši grupu"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Izbrišite projekat",
+      "initiative": "Izbrišite inicijativu",
+      "site": "Izbrišite sajt",
+      "discussion": "Izbrišite diskusiju",
+      "content": "Izbrišite sadržaj",
+      "page": "Obriši stranicu",
+      "group": "Obriši grupu"
+    },
+    "content": "Želite li zaista da izbrišete:",
+    "delete": "Izbriši",
+    "cancel": "Otkaži"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Mogućnost „Izdvojte“ menja podešavanja usluge.",
+        "message": "Druge stavke koje se odnose na uslugu će biti pogođene. Više informacija potražite u <docLink>Izvoženje podataka iz hostovanih slojeva geoobjekata</docLink>"
+      }
+    }
+  }
+}

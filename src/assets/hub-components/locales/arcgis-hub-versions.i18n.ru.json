@@ -1,0 +1,14 @@
+{
+  "createdBy": "Создано {creator}",
+  "emptyMessage": "Версии не найдены",
+  "errorMessage": "Ошибка при извлечении версий",
+  "menuLabel": "показать действия",
+  "publishedBadge": "Опубликовано",
+  "viewingBadge": "Просмотр",
+  "popover.label": "Действия версий",
+  "popover.actions.delete": "Удалить",
+  "popover.actions.edit": "Редактирование информации об элементах",
+  "popover.actions.share": "Общий доступ",
+  "shareErrorMessage": "Ошибка при копировании общего URL-адреса в буфер обмена.",
+  "shareSuccessMessage": "Общий URL-адрес, скопированный в буфер обмена."
+}

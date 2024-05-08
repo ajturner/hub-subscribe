@@ -1,0 +1,638 @@
+{
+  "success": "Successfully saved edits",
+  "error": "Error saving edits",
+  "create": "Create",
+  "shared": {
+    "fields": {
+      "name": {
+        "maxLengthError": "Name must not exceed 250 characters"
+      },
+      "title": {
+        "maxLengthError": "Title must not exceed 250 characters"
+      },
+      "summary": {
+        "maxLengthError": "Summary must not exceed 2048 characters"
+      },
+      "purpose": {
+        "maxLengthError": "Purpose must not exceed 2048 characters"
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "sizeDescription": "Max size is 10mb. Recommended dimensions: 760 x 505 or larger",
+        "defaultThumbnailNotice": "Upload your own thumbnail to replace the default."
+      },
+      "location": {
+        "none": "No location",
+        "org": "Organization's extent",
+        "custom": "Custom location",
+        "customDescription": "Draw one or more locations",
+        "itemExtent": "Item's Current Extent"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Sharing"
+        },
+        "catalog": {
+          "myContent": "My content",
+          "favorites": "Favorites",
+          "organization": "Organization",
+          "world": "World (Public)"
+        },
+        "collection": {
+          "appsAndMaps": "Apps & Maps",
+          "dataset": "Data",
+          "documents": "Documents",
+          "feedback": "Feedback",
+          "sites": "Sites",
+          "projects": "Projects"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "location": {
+        "label": "Location",
+        "helperText": "Show the geographic area where this project will take place (to appear on the project layout)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Sharing"
+      },
+      "timeline": {
+        "label": "Timeline"
+      },
+      "searchDiscoverability": {
+        "label": "Search & discoverability"
+      },
+      "featuredContent": {
+        "label": "Featured content",
+        "helperText": "Highlight specific documents, apps, and data related to your project. You can feature up to 4 items."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Project name",
+        "requiredError": "Project name is a required field",
+        "maxLengthError": "Project name must not exceed 250 characters"
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "Specify how your project will achieve its objectives. Consider including relevant background information and the changes expected as a result of the project."
+      },
+      "summary": {
+        "label": "Purpose",
+        "helperText": "Briefly summarize the objectives of your project."
+      },
+      "access": {
+        "itemType": "Project"
+      },
+      "groups": {
+        "label": "Share with...",
+        "viewGroup": "(View group)",
+        "editGroup": "(Edit group)"
+      },
+      "_thumbnail": {
+        "helperText": "Set a thumbnail to represent this project in ArcGIS Online as well as search and galleries."
+      },
+      "featuredImage": {
+        "label": "Featured image",
+        "helperText": "Select an image to represent your work on the project layout.",
+        "sizeDescription": "Max file size is 10mb. Recommended dimensions: 718 x 478 or larger",
+        "altText": {
+          "label": "Alt text",
+          "helperText": "Provide a short description of your image for those using screen readers. Leave blank to indicate image is decorative."
+        }
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags are used in search catalogs to help others find this project. Add text and select enter to create new tags."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Categories are used in search catalogs to help others find this project. They are set by your ArcGIS Online organization."
+      },
+      "status": {
+        "label": "Project status",
+        "enum": {
+          "notStarted": {
+            "label": "Not started"
+          },
+          "inProgress": {
+            "label": "In progress"
+          },
+          "onHold": {
+            "label": "On hold"
+          },
+          "complete": {
+            "label": "Complete"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Sharing"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "location": {
+        "label": "Location",
+        "helperText": "Show the geographic area where this initiative will take place (to appear on the initiative layout)."
+      },
+      "sharing": {
+        "label": "Sharing"
+      },
+      "featuredContent": {
+        "label": "Featured content",
+        "helperText": "Highlight specific documents, apps, and data related to your project. You can feature up to 4 items."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Initiative name",
+        "requiredError": "Initiative name is a required field",
+        "maxLengthError": "Initiative name must not exceed 250 characters"
+      },
+      "summary": {
+        "label": "Purpose",
+        "helperText": "Briefly summarize the objectives of your initiative."
+      },
+      "access": {
+        "itemType": "Initiative"
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "Provide more context that might be helpful when searching for this initiative."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags are used in search catalogs to help others find this initiative. Add text and select enter to create new tags."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Categories are used in search catalogs to help others find this initiative. They are set by your ArcGIS Online organization."
+      },
+      "_thumbnail": {
+        "helperText": "Set a thumbnail to represent this Initiative in ArcGIS Online as well as search and galleries."
+      },
+      "groups": {
+        "label": "Share with...",
+        "viewGroup": "(View group)",
+        "editGroup": "(Edit group)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Sharing"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "location": {
+        "label": "Location"
+      },
+      "settings": {
+        "label": "Discussions"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Title",
+        "requiredError": "Discussion board name is required."
+      },
+      "prompt": {
+        "label": "Prompt",
+        "helperText": "Briefly describe what you want participants to submit on this discussion board.",
+        "requiredError": "Prompt is a required field"
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "Provide more context that might be helpful when searching for this board."
+      },
+      "_thumbnail": {
+        "helperText": "Select an image to represent your discussion."
+      },
+      "summary": {
+        "label": "Purpose",
+        "helperText": "Briefly describe the purpose of this Discussion Board which is helpful when sharing the link to others."
+      },
+      "featuredImage": {
+        "label": "Featured image",
+        "sizeDescription": "Max size is 10mb, JPEG, JPG, or PNG",
+        "altText": {
+          "label": "Alt text",
+          "helperText": "Provide a short description of your image for those using screen readers. Leave blank to indicate image is decorative."
+        },
+        "name": {
+          "label": "Image name"
+        }
+      },
+      "tags": {
+        "label": "Tags"
+      },
+      "categories": {
+        "label": "Categories"
+      },
+      "discussable": {
+        "label": "Discussion allowed?",
+        "enabled": {
+          "label": "Yes, discussion allowed",
+          "description": "Participants can add posts, replies, and reactions to this discussion board."
+        },
+        "disabled": {
+          "label": "No, discussion blocked",
+          "description": "Removes the ability for new posts, replies, and reactions to be added. Does not delete previous participation."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "location": {
+        "label": "Location",
+        "helperText": "Show the geographic area to which this site pertains."
+      },
+      "discussions": {
+        "label": "Discussions"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Site name",
+        "requiredError": "Site name is a required field",
+        "maxLengthError": "Site name must not exceed 250 characters"
+      },
+      "_thumbnail": {
+        "helperText": "Set a thumbnail to represent this Site in ArcGIS Online as well as search and galleries."
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "The description of the site."
+      },
+      "summary": {
+        "label": "Summary",
+        "helperText": "Briefly summarize the site."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags are used in search catalogs to help others find this site. Add text and select enter to create new tags."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Categories are used in search catalogs to help others find this site. They are set by your ArcGIS Online organization."
+      },
+      "discussable": {
+        "label": "Show discussions interface for signed-in users on live sites (on by default)",
+        "enabled": {
+          "label": "Yes, discussion allowed",
+          "description": "Show discussions interface"
+        },
+        "disabled": {
+          "label": "No, discussion blocked",
+          "description": "Hide discussions interface"
+        }
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Set visibility",
+          "helperText": "Control who can see follow buttons. This setting applies to both the flowing in-page action follow button and any follow button embedded directly on the layout.",
+          "private": {
+            "label": "Private",
+            "description": "The site owner and groups with access can see the follow buttons"
+          },
+          "org": {
+            "label": "Organization",
+            "description": "All members with an account to the site's org and groups with access can see the follow buttons"
+          },
+          "public": {
+            "label": "Public",
+            "description": "Everyone can see the follow buttons"
+          }
+        },
+        "showFollowAction": {
+          "label": "Follow action",
+          "helperText": "Add a follow button to the in-page actions menu, which remains visible as users scroll through the layout."
+        },
+        "discussable": {
+          "label": "Can this group participate in discussions?",
+          "enabled": {
+            "label": "Yes, discussion allowed",
+            "description": "Group members can view and participate in discussion channels to which the group has access."
+          },
+          "disabled": {
+            "label": "No, discussion blocked",
+            "description": "Group members cannot view or participate in discussion channels to which the group has access."
+          }
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "location": {
+        "label": "Location",
+        "helperText": "Show the geographic area to which this page pertains."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Page name",
+        "requiredError": "Page name is a required field",
+        "maxLengthError": "Page name must not exceed 250 characters"
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "The description of the page."
+      },
+      "summary": {
+        "label": "Summary",
+        "helperText": "Briefly summarize the page."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags are used in search catalogs to help others find this page. Add text and select enter to create new tags."
+      },
+      "_thumbnail": {
+        "helperText": "Set a thumbnail to represent this Page in ArcGIS Online as well as search and galleries."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Categories are used in search catalogs to help others find this page. They are set by your ArcGIS Online organization."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Title",
+        "hint": "Concise titles will increase discoverability across your content.",
+        "requiredError": "Title is a required field"
+      },
+      "summary": {
+        "label": "Summary",
+        "hint": "Briefly summarize your content. TIP: Improve SEO by using keywords that differ from your \"Title\" or \"Tags\"."
+      },
+      "description": {
+        "label": "Description",
+        "hint": "Add additional details explaining your content. Aim for a 7th-9th grade reading level to reach a broad audience. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Use a free readability analysis tool to test your text</a>."
+      },
+      "tags": {
+        "label": "Tags",
+        "hint": "Tags are used in search catalogs to help others find this content. Add text and select enter to create new tags."
+      },
+      "categories": {
+        "label": "Categories",
+        "agolHint": "Categories are used in search catalogs to help others find this content. They are set by your ArcGIS Online organization.",
+        "enterpriseHint": "Categories are used in search catalogs to help others find this content. They are set by your ArcGIS Enterprise organization.",
+        "agolNoCategoryHint": "Tip: Categories are only available if they are set by your organization in ArcGIS Online organization.",
+        "enterpriseNoCategoryHint": "Tip: Categories are only available if they are set by your organization in ArcGIS Enterprise organization."
+      },
+      "_thumbnail": {
+        "helperText": "Set a thumbnail to represent this item in ArcGIS Online as well as search and galleries."
+      },
+      "license": {
+        "label": "Terms of Use",
+        "helperText": "Fewer restrictions promotes more re-use."
+      },
+      "discussable": {
+        "label": "Discussion allowed?",
+        "enabled": {
+          "label": "Yes, discussion allowed",
+          "description": "Participants can add posts, replies, and reactions to this item."
+        },
+        "disabled": {
+          "label": "No, discussion blocked",
+          "description": "Removes the ability for new posts, replies, and reactions to be added. Does not delete previous participation."
+        }
+      },
+      "serverExtractCapability": {
+        "label": "Extract Capability (export data)",
+        "helperText": "Enables the \"extract\" capability on this item's service. Extract supports additional formats."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Hosted downloads",
+        "helperText": "Create download files directly from a hosted service. This improves performance when downloading content such as Feature Layers and Tables. To enable hosted downloads, Extract Capabilities must be enabled."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Basic Information",
+        "message": "This information is used to populate search results, gallery cards, and is displayed on the details view."
+      },
+      "about": {
+        "title": "About Content",
+        "message": "The first two lines of your description are what displays in search results, but the entire description will be shown on focused content views."
+      },
+      "image": {
+        "title": "Featured Image",
+        "message": "Having a good featured image or thumbnail is important when you are showcasing your content in our galleries, or on views that highlight images such as initiatives, events, and surveys. \r\n\r\nRecommended size is 760x505. If your image displays blurry on live routes, please consider replacing the thumbnail with a larger image."
+      },
+      "location": {
+        "label": "Location",
+        "helperText": "Show the geographic area where this content will take place (to appear on the content layout)."
+      },
+      "discussions": {
+        "label": "Discussions"
+      },
+      "downloads": {
+        "label": "Downloads",
+        "helperText": "Configure download formats, cached file update schedule, and more. For more details see <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">download documentation.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} characters remaining"
+    },
+    "imageThumbnail": {
+      "label": "Thumbnail Image",
+      "upload": "Upload Image",
+      "done": "Done",
+      "editThumbnail": "Edit Thumbnail",
+      "browse": "Browse for Image",
+      "remove": "Remove Image",
+      "edit": "Edit Image",
+      "defaultHeading": "Add Thumbnail Image",
+      "dropHeading": "Drop to Upload",
+      "errorHeading": "Try a Different Image",
+      "subheading": "Max Size is {size}, {types}",
+      "zoomOut": "zoom out",
+      "zoomIn": "zoom in",
+      "drag": "Drag to Reposition",
+      "urlPlaceholder": "Supported types: {types}",
+      "browseForImage": "Browse For Image",
+      "aria": {
+        "container": "Image area",
+        "crop": "Crop area",
+        "handle": {
+          "top": "Resize top",
+          "right": "Resize right",
+          "left": "Resize left",
+          "bottom": "Resize bottom"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basic Information"
+      },
+      "membershipAccess": {
+        "label": "Membership access"
+      },
+      "discussions": {
+        "label": "Discussions"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Group name",
+        "requiredError": "Group name is a required field",
+        "maxLengthError": "Group name must not exceed 250 characters"
+      },
+      "summary": {
+        "label": "Summary",
+        "maxLengthError": "Summary must not exceed 250 characters"
+      },
+      "access": {
+        "itemType": "Group"
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Select an image to represent your group on the group profile.",
+        "sizeDescription": "Max size is 10mb. Recommended size: 400 x 400 or larger"
+      },
+      "membershipAccess": {
+        "label": "Who can be in this group?",
+        "org": "My organization's members only",
+        "collab": "Partnered collaboration and my organization's members only",
+        "any": "Any organization's members"
+      },
+      "contributeContent": {
+        "label": "Who can contribute content?",
+        "all": "All group members",
+        "admins": "Group owner and managers"
+      },
+      "discussable": {
+        "label": "Can this group participate in discussions?",
+        "enabled": {
+          "label": "Yes, discussion allowed",
+          "description": "Group members can view and participate in discussion channels to which the group has access."
+        },
+        "disabled": {
+          "label": "No, discussion blocked",
+          "description": "Group members cannot view or participate in discussion channels to which the group has access."
+        }
+      }
+    }
+  },
+  "initiativeTemplate": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basic Information"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Name",
+        "requiredError": "Initiative template name is a required field"
+      },
+      "previewUrl": {
+        "label": "Preview link",
+        "helperText": "A preview link will be applied to the title and is helpful if you're planning to share the template publicly. Links should begin with \"https://\"",
+        "formatError": "URL formatting is incorrect"
+      },
+      "summary": {
+        "label": "Summary",
+        "helperText": "Write a short description of this template to appear in the template gallery (recommended to be 90 characters or less)."
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "Include information about how this template should be used. Consider including activation instructions for others."
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Set a thumbnail to represent this template in ArcGIS Online as well as search and galleries.",
+        "sizeDescription": "Max size is 10mb. Recommended size: 750 x 505 or larger"
+      },
+      "recommendedTemplates": {
+        "label": "Recommended templates",
+        "catalog": {
+          "myContent": "My content",
+          "favorites": "Favorites",
+          "organization": "My organization",
+          "world": "World (Public)"
+        },
+        "facets": {
+          "sharing": "Sharing"
+        },
+        "pickerTitle": "Select templates"
+      }
+    }
+  },
+  "template": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basic Information"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Template name",
+        "requiredError": "Template name is a required field",
+        "maxLengthError": "Template name name must not exceed 250 characters"
+      },
+      "previewUrl": {
+        "label": "Preview link",
+        "helperText": "A preview link will be applied to the title and is helpful if you're planning to share the template publicly. Links should begin with \"https://\"",
+        "formatError": "URL formatting is incorrect"
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "Include information about how this template should be used. Consider including activation instructions for others."
+      },
+      "summary": {
+        "label": "Summary",
+        "helperText": "Write a short description of this template to appear in the template gallery (recommended to be 90 characters or less)."
+      },
+      "_thumbnail": {
+        "helperText": "Select an image to represent your template in galleries."
+      }
+    }
+  }
+}

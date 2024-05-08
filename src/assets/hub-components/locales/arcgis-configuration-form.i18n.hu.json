@@ -1,0 +1,12 @@
+{
+  "save": "Mentés",
+  "cancel": "Mégse",
+  "undoChanges": "Módosítások visszavonása",
+  "next": "Tovább",
+  "back": "Vissza",
+  "formAlert": "Űrlap figyelmeztetés",
+  "invalidForm": "Kérjük, javítsa ki az összes hibát.",
+  "saveDisabled": "Mentés letiltva",
+  "success": "A módosítások mentése sikerült",
+  "error": "Nem sikerült a módosítások mentése"
+}

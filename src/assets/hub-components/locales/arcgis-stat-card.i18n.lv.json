@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Iestājās servera savienojuma taimauts un statistiku nevarēja parādīt.",
+    "title": "Iestājies servera taimauts"
+  },
+  "genericError": {
+    "message": "Statistiku nevar parādīt.",
+    "title": "Radās kāda problēma"
+  }
+}

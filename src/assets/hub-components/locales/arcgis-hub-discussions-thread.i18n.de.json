@@ -1,0 +1,10 @@
+{
+  "error": "Ein Fehler ist aufgetreten.",
+  "repliesFailure": "Antworten auf diesen Beitrag können nicht angezeigt werden.",
+  "thread.deleted.title": "Thread gelöscht",
+  "thread.deleted.message": "Der verknüpfte Beitrag und die Antwort wurden gelöscht und können nicht angezeigt werden.",
+  "thread.deleted.action": "Alle Beiträge anzeigen",
+  "reply.single.title": "Angezeigt wird eine einzelne Antwort",
+  "reply.single.link": "Alle Antworten anzeigen",
+  "loading": "Wird geladen"
+}

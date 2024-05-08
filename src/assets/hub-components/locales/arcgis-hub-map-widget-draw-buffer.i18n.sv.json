@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Platsfilter",
+  "panel.reset": "Återställ filter",
+  "distance.title": "Avstånd",
+  "distance.placeholder": "Ange ett tal...",
+  "distance.message": "Ange ett tal för att expandera filtrerat område.",
+  "system.imperial": "Imperial",
+  "system.metric": "Metrisk",
+  "units.title": "Enheter",
+  "units.feet": "Fot",
+  "units.miles": "Engelska mil",
+  "units.nauticalmiles": "Nautiska mil",
+  "units.meters": "Meter",
+  "units.kilometers": "Kilometer"
+}

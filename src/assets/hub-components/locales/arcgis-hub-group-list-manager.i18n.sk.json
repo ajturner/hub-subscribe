@@ -1,0 +1,28 @@
+{
+  "newTab": "otvoriť profil v novej karte",
+  "noGroups": "Žiadne skupiny",
+  "pickerToggle": "Pridať skupiny",
+  "pickerTitle": "Vybrať skupiny",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Žiadni členovia",
+      "oneMember": "1 člen",
+      "members": "{count} členov"
+    },
+    "dateCreated": "Dátum vytvorenia: {localizedDate}",
+    "sharing": "Zdieľanie: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Ja",
+      "shared": "Majiteľ a skupiny",
+      "org": "Organizácia",
+      "public": "Verejné"
+    },
+    "membership": "Členstvo: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Vlastník skupiny",
+      "admin": "Správca skupiny",
+      "member": "Člen skupiny",
+      "none": "Žiadne"
+    }
+  }
+}

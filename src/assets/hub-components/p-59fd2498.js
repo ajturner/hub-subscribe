@@ -1,0 +1,1 @@
+function a(a){return"{"===a[0]&&(a=a.substring(1,a.length-1)),/^(\{){0,1}[0-9a-fA-F]{8}[-]?[0-9a-fA-F]{4}[-]?[0-9a-fA-F]{4}[-]?[0-9a-fA-F]{4}[-]?[0-9a-fA-F]{12}(\}){0,1}$/gi.test(a)}export{a as i}

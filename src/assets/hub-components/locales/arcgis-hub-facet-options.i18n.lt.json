@@ -1,0 +1,7 @@
+{
+  "showMore": "Rodyti {num} daugiau",
+  "showLess": "Rodyti mažiau",
+  "inputPlaceholder": "Filtruoti parinktis",
+  "noMatchesNotice": "Atitinkančių parinkčių nerasta",
+  "inputAriaLabel": "Rasti parinktį pagal raktažodį"
+}

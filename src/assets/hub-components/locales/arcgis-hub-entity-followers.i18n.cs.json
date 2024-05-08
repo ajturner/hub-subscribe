@@ -1,0 +1,26 @@
+{
+  "followers": "Sledující",
+  "tabs": {
+    "followers": "Sledující",
+    "settings": "Nastavení"
+  },
+  "addFollowers": {
+    "label": "Přidat sledující"
+  },
+  "emptyState": {
+    "message": "V současnosti nemáte skupinu sledujících."
+  },
+  "restrictedAccessState": {
+    "message": "Nemáte přístup."
+  },
+  "stats": {
+    "total": {
+      "title": "Celkem",
+      "trailingText": "Sledující"
+    },
+    "new": {
+      "title": "Nový",
+      "trailingText": "Posledních 30 dní"
+    }
+  }
+}

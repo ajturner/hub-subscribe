@@ -1,0 +1,24 @@
+{
+  "title": "Членове",
+  "facets": {
+    "role": {
+      "label": "Роля",
+      "all": "Всички",
+      "manager": "Мениджър",
+      "member": "Член"
+    },
+    "dateJoined": {
+      "label": "Дата на присъединяване"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Общо",
+      "trailingText": "Членове на екип"
+    },
+    "new": {
+      "title": "Нови",
+      "trailingText": "Последните 30 дни"
+    }
+  }
+}

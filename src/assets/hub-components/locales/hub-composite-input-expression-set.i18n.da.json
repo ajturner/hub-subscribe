@@ -1,0 +1,15 @@
+{
+  "addFilter": "Tilføj filter",
+  "attributeFilter": "Filtrér",
+  "between": "Mellem",
+  "deleteFilter": "Slet filter",
+  "endingDate": "Slutdato",
+  "endingValue": "Slutværdi",
+  "expression": "Udtryk",
+  "filterType": "Filtertype",
+  "filterValue": "Filterværdi",
+  "isExactly": "Er nøjagtigt",
+  "startingDate": "Startdato",
+  "startingValue": "Startværdi",
+  "selectAttribute": "Vælg attribut"
+}

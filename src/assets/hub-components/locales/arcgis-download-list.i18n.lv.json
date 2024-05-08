@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite ģeodatubāze",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Faila ģeodatubāze",
+  "featureCollection": "Elementu kolekcija",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Lejupielāde"
+}

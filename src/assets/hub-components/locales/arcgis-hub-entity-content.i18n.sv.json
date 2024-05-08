@@ -1,0 +1,24 @@
+{
+  "content": "Innehåll",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Samlingar",
+    "catalogConfig": "Katalogkonfiguration"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurera din katalog",
+        "message": "Din katalog har börjat skapas och konfigureras! Din katalog består av grupper och fylls i av innehållet i dem.",
+        "link": "Läs mer om kataloger"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalogen är tom",
+        "message": "Du är klar för att komma igång med din katalog! Din katalog konfigureras genom att en eller flera grupper läggs till och fylls i av innehållet i dem.",
+        "link": "Kom igång"
+      }
+    }
+  }
+}

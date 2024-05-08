@@ -1,0 +1,24 @@
+{
+  "title": "メンバー",
+  "facets": {
+    "role": {
+      "label": "ロール",
+      "all": "すべて",
+      "manager": "マネージャー",
+      "member": "メンバー"
+    },
+    "dateJoined": {
+      "label": "加入日"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "合計",
+      "trailingText": "チーム メンバー"
+    },
+    "new": {
+      "title": "新規",
+      "trailingText": "過去 30 日間"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "showMore": "Mostrar {num} mais",
+  "showLess": "Mostrar menos",
+  "inputPlaceholder": "Opções de filtro",
+  "noMatchesNotice": "Nenhuma opção correspondente encontrada",
+  "inputAriaLabel": "Localizar opção por palavra-chave"
+}

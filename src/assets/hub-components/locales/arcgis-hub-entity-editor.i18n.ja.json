@@ -1,0 +1,494 @@
+{
+  "success": "編集内容が正常に保存されました",
+  "error": "編集内容の保存中にエラーが発生しました",
+  "create": "作成",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "位置がありません",
+        "org": "組織の範囲",
+        "custom": "カスタム位置",
+        "customDescription": "1 つ以上の位置を描画",
+        "itemExtent": "アイテムの現在の範囲"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "タイプ",
+          "sharing": "共有"
+        },
+        "catalog": {
+          "myContent": "マイ コンテンツ",
+          "favorites": "お気に入り",
+          "organization": "組織",
+          "world": "世界 (パブリック)"
+        },
+        "collection": {
+          "appsAndMaps": "アプリおよびマップ",
+          "dataset": "データ",
+          "documents": "ドキュメント",
+          "feedback": "フィードバック",
+          "sites": "サイト"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "詳細"
+      },
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "プロジェクトが実施される地理的エリアを表示します (プロジェクト レイアウトに表示)。"
+      },
+      "status": {
+        "label": "ステータス"
+      },
+      "sharing": {
+        "label": "共有"
+      },
+      "timeline": {
+        "label": "タイムライン"
+      },
+      "searchDiscoverability": {
+        "label": "検索と見つけやすさ"
+      },
+      "featuredContent": {
+        "label": "注目のコンテンツ",
+        "helperText": "プロジェクトに関連付けられた特定のドキュメント、アプリ、データをハイライト表示します。 最大で 4 個のアイテムを注目のコンテンツとして掲載できます。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "プロジェクト名",
+        "requiredError": "プロジェクト名は必須フィールドです"
+      },
+      "description": {
+        "label": "説明",
+        "helperText": "プロジェクトがその目的をどのように達成するかを指定します。 関連する背景情報とプロジェクトの結果として想定される変更を含めることを検討してください。"
+      },
+      "summary": {
+        "label": "目的",
+        "helperText": "プロジェクトの目的を簡潔にまとめます。"
+      },
+      "access": {
+        "itemType": "プロジェクト"
+      },
+      "groups": {
+        "label": "共有先...",
+        "viewGroup": "(グループの表示)",
+        "editGroup": "(グループの編集)"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ArcGIS Online および検索とギャラリーでこのプロジェクトを表すサムネイルを設定します。",
+        "sizeDescription": "推奨寸法: 760 x 505 以上"
+      },
+      "featuredImage": {
+        "label": "注目の画像",
+        "helperText": "プロジェクト レイアウトで作業を表す画像を選択します。",
+        "sizeDescription": "最大ファイル サイズは 10 MB です。 推奨寸法: 718 x 478 以上",
+        "altText": {
+          "label": "代替テキスト",
+          "helperText": "スクリーン リーダーを使用しているユーザー向けに、画像の簡単な説明を入力します。 空白のままにして、画像が装飾であることを示します。"
+        }
+      },
+      "tags": {
+        "label": "タグ",
+        "helperText": "他のユーザーがこのプロジェクトを検索しやすくなるよう、検索カタログでタグが使用されます。 テキストを追加し、Enter キーを選択して新しいタグを作成します。"
+      },
+      "categories": {
+        "label": "カテゴリ",
+        "helperText": "他のユーザーがこのプロジェクトを検索しやすくなるよう、検索カタログでカテゴリが使用されます。 これらは ArcGIS Online 組織によって設定されます。"
+      },
+      "status": {
+        "label": "プロジェクト ステータス",
+        "enum": {
+          "notStarted": {
+            "label": "開始していません"
+          },
+          "inProgress": {
+            "label": "進行中"
+          },
+          "onHold": {
+            "label": "保留中"
+          },
+          "complete": {
+            "label": "完了"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "タイプ",
+          "sharing": "共有"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "詳細"
+      },
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "このイニシアティブが実施される地理的エリアを表示します (イニシアティブ レイアウトに表示)。"
+      },
+      "sharing": {
+        "label": "共有"
+      },
+      "featuredContent": {
+        "label": "注目のコンテンツ",
+        "helperText": "プロジェクトに関連付けられた特定のドキュメント、アプリ、データをハイライト表示します。 最大で 4 個のアイテムを注目のコンテンツとして掲載できます。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "イニシアティブ名",
+        "requiredError": "イニシアティブ名は必須フィールドです"
+      },
+      "summary": {
+        "label": "目的",
+        "helperText": "イニシアティブの目的を簡潔にまとめます。"
+      },
+      "access": {
+        "itemType": "イニシアティブ"
+      },
+      "description": {
+        "label": "説明",
+        "helperText": "このイニシアティブを検索するときに役立つ詳細なコンテキスト情報を入力します。"
+      },
+      "tags": {
+        "label": "タグ",
+        "helperText": "他のユーザーがこのイニシアティブを検索しやすくなるよう、検索カタログでタグが使用されます。 テキストを追加し、Enter キーを選択して新しいタグを作成します。"
+      },
+      "categories": {
+        "label": "カテゴリ",
+        "helperText": "他のユーザーがこのイニシアティブを検索しやすくなるよう、検索カタログでカテゴリが使用されます。 これらは ArcGIS Online 組織によって設定されます。"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ArcGIS Online および検索とギャラリーでこのイニシアティブを表すサムネイルを設定します。"
+      },
+      "groups": {
+        "label": "共有先...",
+        "viewGroup": "(グループの表示)",
+        "editGroup": "(グループの編集)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "タイプ",
+          "sharing": "共有"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "詳細"
+      },
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "location": {
+        "label": "位置"
+      },
+      "settings": {
+        "label": "ディスカッション設定"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "タイトル",
+        "requiredError": "ディスカッション ボード名は必須です。"
+      },
+      "prompt": {
+        "label": "プロンプト",
+        "helperText": "このディスカッション ボードで参加者に送信してほしい内容について簡単に説明します。",
+        "requiredError": "プロンプトは必須フィールドです"
+      },
+      "description": {
+        "label": "説明",
+        "helperText": "このボードを検索するときに役立つ詳細なコンテキスト情報を入力します。"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ディスカッションを表す画像を選択します。"
+      },
+      "summary": {
+        "label": "目的",
+        "helperText": "このリンクを他のユーザーと共有するときに役立つこのディスカッション ボードの目的について簡単に説明します。"
+      },
+      "featuredImage": {
+        "label": "注目の画像",
+        "sizeDescription": "最大サイズは 10 MB です。JPEG、JPG、PNG",
+        "altText": {
+          "label": "代替テキスト",
+          "helperText": "スクリーン リーダーを使用しているユーザー向けに、画像の簡単な説明を入力します。 空白のままにして、画像が装飾であることを示します。"
+        },
+        "name": {
+          "label": "画像名"
+        }
+      },
+      "tags": {
+        "label": "タグ"
+      },
+      "categories": {
+        "label": "カテゴリ"
+      },
+      "discussable": {
+        "label": "ディスカッションは許可されていますか？",
+        "enabled": {
+          "label": "はい、ディスカッションは許可されます",
+          "description": "参加者は、このディスカッション ボードに投稿、返信、反応を追加できます。"
+        },
+        "disabled": {
+          "label": "いいえ、ディスカッションはブロックされます",
+          "description": "新規投稿、返信、反応を追加できなくなります。 以前の参加は削除されません。"
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "このサイトに関連する地理的なエリアを表示します。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "サイト名",
+        "requiredError": "サイト名は必須フィールドです"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ArcGIS Online および検索とギャラリーでこのサイトを表すサムネイルを設定します。"
+      },
+      "description": {
+        "label": "説明",
+        "helperText": "サイト説明。"
+      },
+      "summary": {
+        "label": "サマリー",
+        "helperText": "サイトを簡潔にまとめます。"
+      },
+      "tags": {
+        "label": "タグ",
+        "helperText": "他のユーザーがこのサイトを検索しやすくなるよう、検索カタログでタグが使用されます。 テキストを追加し、Enter キーを選択して新しいタグを作成します。"
+      },
+      "categories": {
+        "label": "カテゴリ",
+        "helperText": "他のユーザーがこのサイトを検索しやすくなるよう、検索カタログでカテゴリが使用されます。 これらは ArcGIS Online 組織によって設定されます。"
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "表示設定",
+          "helperText": "フォロー ボタンを表示できるユーザーを制御します。 この設定は、ページ内にフローティング表示されているフォロー ボタンと、レイアウトに直接埋め込まれたフォロー ボタンの両方に適用されます。",
+          "private": {
+            "label": "非公開",
+            "description": "サイトの所有者とアクセス権のあるグループにフォロー ボタンが表示されます"
+          },
+          "org": {
+            "label": "組織",
+            "description": "サイトの組織のアカウントを持つすべてのメンバーとアクセス権のあるグループにフォロー ボタンが表示されます"
+          },
+          "public": {
+            "label": "パブリック",
+            "description": "すべての人にフォロー ボタンが表示されます"
+          }
+        },
+        "showFollowAction": {
+          "label": "フォロー アクション",
+          "helperText": "ページ内アクション メニューにフォロー ボタンを追加すると、ユーザーがレイアウトをスクロールする間、ボタンが表示されたままになります。"
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "このページに関連する地理的なエリアを表示します。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "ページ名",
+        "requiredError": "ページ名は必須フィールドです"
+      },
+      "description": {
+        "label": "説明",
+        "helperText": "このページの説明。"
+      },
+      "summary": {
+        "label": "サマリー",
+        "helperText": "ページを簡潔にまとめます。"
+      },
+      "tags": {
+        "label": "タグ",
+        "helperText": "他のユーザーがこのページを検索しやすくなるよう、検索カタログでタグが使用されます。 テキストを追加し、Enter キーを選択して新しいタグを作成します。"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ArcGIS Online および検索とギャラリーでこのページを表すサムネイルを設定します。"
+      },
+      "categories": {
+        "label": "カテゴリ",
+        "helperText": "他のユーザーがこのページを検索しやすくなるよう、検索カタログでカテゴリが使用されます。 これらは ArcGIS Online 組織によって設定されます。"
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "タイトル",
+        "hint": "簡潔なタイトルは、コンテンツ全体を検索しやすくします。",
+        "requiredError": "タイトルは必須フィールドです"
+      },
+      "summary": {
+        "label": "サマリー",
+        "hint": "コンテンツを簡潔にまとめます。 ヒント: SEO を改善するには、「タイトル」や「タグ」とは異なるキーワードを使用します。"
+      },
+      "description": {
+        "label": "説明",
+        "hint": "コンテンツについて説明しているその他の詳細を追加します。 幅広い利用者に向けてグレード 7 ～ 9 の読解レベルを目指します。 <a href='https://www.webfx.com/tools/read-able/' target='_blank'>無料のリーダビリティ解析ツールを使用してテキストをテストします</a>。"
+      },
+      "tags": {
+        "label": "タグ",
+        "hint": "他のユーザーがこのコンテンツを検索しやすくなるように、検索カタログでタグが使用されます。 テキストを追加し、Enter キーを選択して新しいタグを作成します。"
+      },
+      "categories": {
+        "label": "カテゴリ",
+        "agolHint": "他のユーザーがこのコンテンツを検索しやすくなるように、検索カタログでカテゴリが使用されます。 これらは ArcGIS Online 組織によって設定されます。",
+        "enterpriseHint": "他のユーザーがこのコンテンツを検索しやすくなるように、検索カタログでカテゴリが使用されます。 これらは ArcGIS Enterprise 組織によって設定されます。",
+        "agolNoCategoryHint": "ヒント: カテゴリは、ArcGIS Online の組織によって設定されている場合のみ使用可能です。",
+        "enterpriseNoCategoryHint": "ヒント: カテゴリは、ArcGIS Enterprise の組織によって設定されている場合のみ使用可能です。"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "ArcGIS Online および検索とギャラリーでこのアイテムを表すサムネイルを設定します。"
+      },
+      "license": {
+        "label": "利用規約",
+        "helperText": "制限が少ないほど、再利用が促進されます。"
+      },
+      "serverExtractCapability": {
+        "label": "抽出機能 (データのエクスポート)",
+        "helperText": "このアイテムのサービスで抽出機能を有効化します。 抽出機能はその他の形式をサポートしています。"
+      },
+      "hostedDownloads": {
+        "label": "(ベータ版) ホスト ダウンロード",
+        "helperText": "ホスト サービスから直接ダウンロード ファイルを作成します。 これにより、フィーチャ レイヤーやテーブルなどのコンテンツをダウンロードする際のパフォーマンスが向上します。 ホストされているダウンロードを有効化するには、抽出機能を有効化する必要があります。"
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "基本情報",
+        "message": "この情報は、検索結果やギャラリー カードの設定に使用され、詳細ビューに表示されます。"
+      },
+      "about": {
+        "title": "コンテンツについて",
+        "message": "検索結果には説明の最初の 2 行が表示されますが、コンテンツのフォーカス表示で説明全体が表示されます。"
+      },
+      "image": {
+        "title": "注目の画像",
+        "message": "ギャラリー内や、イニシアティブ、イベント、調査などの画像を強調表示するビューでコンテンツを表示するとき、適切な注目の画像またはサムネイルを用意することは重要です。 推奨サイズは 760 x 505 です。 画像がライブ ルートで不鮮明に表示される場合は、サムネイルを大きな画像に置き換えることを検討してください。"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "このコンテンツが実行 (コンテンツ レイアウトに表示) される地理的エリアを表示します。"
+      },
+      "downloads": {
+        "label": "ダウンロード",
+        "helperText": "ダウンロード形式、キャッシュされたファイルの更新スケジュールなどを構成します。 詳細については、<calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">ダウンロードのドキュメント</calcite-link>をご参照ください。"
+      }
+    },
+    "stringField": {
+      "charCounter": "残り {count} 文字"
+    },
+    "imageThumbnail": {
+      "label": "サムネイル画像",
+      "upload": "画像のアップロード",
+      "done": "終了",
+      "editThumbnail": "サムネイルの編集",
+      "browse": "イメージの参照",
+      "remove": "画像の削除",
+      "edit": "画像の編集",
+      "defaultHeading": "サムネイル画像の追加",
+      "dropHeading": "ドロップしてアップロード",
+      "errorHeading": "別の画像をお試しください",
+      "subheading": "最大サイズは {size}、{types}",
+      "zoomOut": "縮小",
+      "zoomIn": "拡大",
+      "drag": "ドラッグして再配置",
+      "urlPlaceholder": "サポートされているタイプ: {types}",
+      "browseForImage": "画像の参照",
+      "aria": {
+        "container": "画像領域",
+        "crop": "トリミング領域",
+        "handle": {
+          "top": "上側のサイズ変更",
+          "right": "右側のサイズ変更",
+          "left": "左側のサイズ変更",
+          "bottom": "下側のサイズ変更"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "詳細"
+      },
+      "basicInfo": {
+        "label": "基本情報"
+      },
+      "membershipAccess": {
+        "label": "メンバーシップ アクセス"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "グループ名",
+        "requiredError": "グループ名は必須フィールドです"
+      },
+      "summary": {
+        "label": "サマリー"
+      },
+      "access": {
+        "itemType": "グループ"
+      },
+      "_thumbnail": {
+        "label": "サムネイル",
+        "helperText": "グループ プロファイルでグループを表す画像を選択します。",
+        "sizeDescription": "最大サイズは 10 MB です。 推奨サイズ: 400 x 400 以上"
+      },
+      "membershipAccess": {
+        "label": "グループに参加できる人",
+        "org": "自組織のメンバーのみ",
+        "collab": "パートナー コラボレーションおよび自組織のメンバーのみ",
+        "any": "任意の組織のメンバー"
+      },
+      "contributeContent": {
+        "label": "コンテンツを提供できるユーザー",
+        "all": "すべてのグループ メンバー",
+        "admins": "グループの所有者とマネージャー"
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Шейп файл",
+  "sqlite": "SQLite геобаза данни",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Файлова геобаза данни",
+  "featureCollection": "Колекция от обекти",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Изтегляне на CSV",
+  "downloadshapefile": "Изтегляне на шейп файл",
+  "downloadsqlite": "Изтегляне на SQLite геобаза данни",
+  "downloadgeoPackage": "Изтегляне на GeoPackage",
+  "downloadfilegdb": "Изтегляне на файлова геобаза данни",
+  "downloadfeatureCollection": "Изтегляне на колекция от обекти",
+  "downloadgeojson": "Изтегляне на GeoJSON",
+  "downloadexcel": "Изтегляне на Excel",
+  "rateLimitMessage": "За съжаление лимитът за изтегляне е достигнат. Моля, опитайте отново след час или се свържете с мениджъра на съдържанието.",
+  "createReplicaErrorMessage": "Вътрешна грешка при създаване на реплика. Моля, опитайте отново след час или се свържете с мениджъра на съдържанието."
+}

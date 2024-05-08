@@ -1,0 +1,19 @@
+{
+  "anonymous": "Ανώνυμος",
+  "noUser": "Δεν υπάρχει Όνομα Χρήστη",
+  "privateUser": "Ιδιωτικό μέλος",
+  "privateOrg": "Ιδιωτικός οργανισμός",
+  "org": "Ο οργανισμός μου",
+  "orgLabel": "Οργανισμός",
+  "profile": "Μετάβαση στο προφίλ",
+  "location": "Τοποθεσία",
+  "information": "Πληροφορίες σχετικά με τη δημοσίευση",
+  "postedIn": "Δημοσιεύτηκε στις {groupName}",
+  "replyingTo": "Απάντηση σε @{username}",
+  "visiblePrivate": "Ορατό μόνο σε μέλη",
+  "visibleOrg": "Ορατό στον οργανισμό",
+  "visibleAll": "Ορατό σε όλους",
+  "manageChannel": "Διαχείριση καναλιού",
+  "group.deleted": "Διαγραμμένη ομάδα",
+  "unnamedChannel": "Ανώνυμο κανάλι"
+}

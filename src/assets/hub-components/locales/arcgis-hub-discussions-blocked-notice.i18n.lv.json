@@ -1,0 +1,16 @@
+{
+  "post.title": "Ziņas rediģēšana ir bloķēta",
+  "post.message": "Kamēr diskusijas ir bloķētas, rediģēšana nav pieejama.",
+  "post.message.item": "Kamēr diskusijas ir bloķētas šajā vienībā, rediģēšana nav pieejama.",
+  "post.message.group": "Kamēr diskusijas ir bloķētas šajā grupā, rediģēšana nav pieejama.",
+  "reply.title": "Atbildes rediģēšana ir bloķēta",
+  "reply.title.generic": "Diskusija bloķēta",
+  "reply.message": "Kamēr diskusijas ir bloķētas, rediģēšana nav pieejama.",
+  "reply.message.generic": "Pašlaik nevar izveidot atbildes.",
+  "reply.message.item": "Kamēr diskusijas ir bloķētas šajā vienībā, rediģēšana nav pieejama.",
+  "reply.message.group": "Kamēr diskusijas ir bloķētas šajā grupā, rediģēšana nav pieejama.",
+  "item.title": "Vienības diskusija bloķēta",
+  "item.message": "Šī vienība nav apstiprināta diskusijai.",
+  "group.title": "Grupas diskusija bloķēta",
+  "group.message": "Šī grupa nav apstiprināta diskusijai."
+}

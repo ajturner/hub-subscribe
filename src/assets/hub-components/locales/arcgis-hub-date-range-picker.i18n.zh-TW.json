@@ -1,0 +1,15 @@
+{
+  "default": "選擇日期範圍",
+  "today": "今天",
+  "yesterday": "昨天",
+  "last7Days": "最近 7 天",
+  "last30Days": "最近 30 天",
+  "thisMonth": "本月",
+  "lastMonth": "上個月",
+  "pastYear": "去年",
+  "custom": "自訂",
+  "nextMonth": "下個月",
+  "previousMonth": "上個月",
+  "year": "年",
+  "title": "選擇時段"
+}

@@ -1,0 +1,10 @@
+{
+  "error": "Đã xảy ra sự cố",
+  "repliesFailure": "Không thể hiển thị phản hồi cho bài đăng này.",
+  "thread.deleted.title": "Chủ đề Đã bị xóa",
+  "thread.deleted.message": "Câu trả lời và bài đăng được liên kết đã bị xóa và không thể hiển thị.",
+  "thread.deleted.action": "Xem tất cả các bài đăng",
+  "reply.single.title": "Bạn đang xem một câu trả lời",
+  "reply.single.link": "Xem tất cả các câu trả lời",
+  "loading": "Đang tải"
+}

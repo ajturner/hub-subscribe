@@ -1,0 +1,10 @@
+{
+  "error": "Det uppstod ett fel",
+  "repliesFailure": "Svar på det här inlägget kan inte visas.",
+  "thread.deleted.title": "Tråd har tagits bort",
+  "thread.deleted.message": "Det länkade inlägget och svaret har tagits bort och kan inte visas.",
+  "thread.deleted.action": "Visa alla inlägg",
+  "reply.single.title": "Du visar ett enstaka svar",
+  "reply.single.link": "Visa alla svar",
+  "loading": "Läser in"
+}

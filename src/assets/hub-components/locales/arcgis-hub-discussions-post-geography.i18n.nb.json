@@ -1,0 +1,14 @@
+{
+  "description": "Velg for å zoome til posisjon",
+  "displayField.existing": "Eksisterende posisjon",
+  "displayField.added": "Tillagt posisjon",
+  "displayField.existing.area": "Eksisterende område",
+  "displayField.added.area": "Tillagt område",
+  "point": "Punkt",
+  "line": "Linje",
+  "area": "Område",
+  "viewAll": "Vis alle posisjoner",
+  "viewLess": "Vis færre posisjoner",
+  "action.update": "Oppdater lokasjon",
+  "action.remove": "Fjern lokasjon"
+}

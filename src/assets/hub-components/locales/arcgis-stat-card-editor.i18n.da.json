@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Avanceret konfiguration",
+    "serverTimeout": {
+      "label": "Udløb for server (sekunder)",
+      "helperText": "Nyttig til større tjenester, der kan være længere tid om at respondere."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Hjørner",
+      "enum": {
+        "round": {
+          "label": "Rund"
+        },
+        "square": {
+          "label": "Kvadrat"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Skyggeeffekt",
+      "enum": {
+        "heavy": {
+          "label": "Tung"
+        },
+        "low": {
+          "label": "Lav"
+        },
+        "medium": {
+          "label": "Mellem"
+        },
+        "none": {
+          "label": "Ikke startet"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistisk layout",
+      "enum": {
+        "dataViz": {
+          "label": "Datavisualisering"
+        },
+        "moreInfo": {
+          "label": "Flere oplysninger"
+        },
+        "simple": {
+          "label": "Enkel"
+        }
+      }
+    },
+    "popoverTitle": "Popover-titel",
+    "popoverDescription": "Popover-beskrivelse",
+    "sectionTitle": "Udseende",
+    "textAlign": "Justering",
+    "visualInterest": {
+      "label": "Visuel interesse",
+      "enum": {
+        "icon": {
+          "label": "Ikon"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Ingen"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Farve (statistik)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "Link-URL",
+      "sourceTitle": "Link-tekst"
+    },
+    "sectionTitle": "Oplysninger",
+    "subtitle": "Undertitel",
+    "title": "Titel",
+    "trailingText": "Følgetekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Link, der kræves til visningskilde."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatering",
+    "unit": {
+      "label": "Visningsenheder",
+      "helperText": "Indtast måleenhed for din værdi."
+    },
+    "unitPosition": {
+      "label": "Placering",
+      "enum": {
+        "after": {
+          "label": "Efter"
+        },
+        "before": {
+          "label": "Før"
+        },
+        "below": {
+          "label": "Under"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Deling",
+    "showShareIcon": "Aktivér",
+    "shareableByValue": "Aktiver indlejringer",
+    "shareableOnHover": {
+      "label": "Visning",
+      "enum": {
+        "always": {
+          "label": "Altid"
+        },
+        "hover": {
+          "label": "Hold kun musen over"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Datakilde",
+    "displayValue": "Vis værdi",
+    "sectionTitle": "Statistik",
+    "type": {
+      "label": "Type",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamisk",
+          "description": "Vælg et eksisterende datasæt (featuretjeneste) for at opsummere."
+        },
+        "static": {
+          "label": "Statisk",
+          "description": "Indtast en værdi manuelt for at fremhæve i dit layout."
+        }
+      }
+    }
+  }
+}

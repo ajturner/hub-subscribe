@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "إظهار",
+    "hide": "إخفاء",
+    "rename": "إعادة تسمية"
+  },
+  "formAlert": "رسائل تنبيه النموذج",
+  "alertMessages": {
+    "success": "تم حفظ التحريرات بنجاح",
+    "error": "حدث خطأ أثناء حفظ التحريرات"
+  },
+  "collectionRenameModal": {
+    "title": "إعادة تسمية المجموعة",
+    "fieldLabel": "تسمية المجموعة",
+    "requiredMessage": "تسمية المجموعة مطلوبة",
+    "apply": "تطبيق"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "بيانات",
+      "hidden": "البيانات (المخفية)"
+    },
+    "site": {
+      "visible": "المواقع",
+      "hidden": "المواقع (المخفية)"
+    },
+    "document": {
+      "visible": "المستندات",
+      "hidden": "المستندات (المخفية)"
+    },
+    "appAndMap": {
+      "visible": "التطبيقات والخرائط",
+      "hidden": "التطبيقات والخرائط (المخفية)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (المخفي)"
+    }
+  },
+  "saveButton": "حفظ"
+}

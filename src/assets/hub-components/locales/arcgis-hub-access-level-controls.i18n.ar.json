@@ -1,0 +1,9 @@
+{
+  "heading": "مستوى المشاركة",
+  "public": "عام",
+  "publicInfo": "يمكن للجميع رؤية هذا {itemType}",
+  "organization": "المؤسسة",
+  "organizationInfo": "يمكن لجميع الأعضاء الذين لديهم حساب في {orgName} والمجموعات رؤية هذا{itemType}",
+  "owner": "المالك",
+  "ownerInfo": "يمكن للمالك والمجموعات التي لديهم حق الوصول رؤية هذا{itemType}"
+}

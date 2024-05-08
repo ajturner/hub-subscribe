@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Download færdig",
+  "titleFileGeneration": "Generering af filer i gang",
+  "titleFileGenerationFailed": "Generering af filer mislykkedes",
+  "titleDatasetNotFound": "Datasæt blev ikke fundet",
+  "titleApiError": "API-fejl",
+  "titleFormatDisabled": "Download deaktiveret",
+  "messageFailedStaleAvailable": "Du kan downloade en ældre version nedenfor.",
+  "messageUpdatingFile": "Vi opdaterer filen. Det kan tage lidt tid.",
+  "messageCreatingFile": "Vi opretter filen. Det kan tage lidt tid.",
+  "messageFileNeedsGenerating": "Download af en opdateret fil kan tage et stykke tid.",
+  "messageFormatDisabled": "Ejeren har deaktiveret download for dette format."
+}

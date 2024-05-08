@@ -1,0 +1,14 @@
+{
+  "createdBy": "{creator} tarafından oluşturuldu",
+  "emptyMessage": "Versiyon bulunmadı",
+  "errorMessage": "Versiyonlar getirilirken hata oluştu",
+  "menuLabel": "eylemleri göster",
+  "publishedBadge": "Yayınlandı",
+  "viewingBadge": "Görüntüleme",
+  "popover.label": "Versiyon işlemleri",
+  "popover.actions.delete": "Sil",
+  "popover.actions.edit": "Ayrıntıları düzenle",
+  "popover.actions.share": "Paylaş",
+  "shareErrorMessage": "Paylaşım url'si panoya kopyalanırken hata oluştu.",
+  "shareSuccessMessage": "Paylaşım url'si panoya kopyalandı."
+}

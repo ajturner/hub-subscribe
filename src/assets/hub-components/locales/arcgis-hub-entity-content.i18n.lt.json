@@ -1,0 +1,24 @@
+{
+  "content": "Turinys",
+  "tabs": {
+    "catalog": "Katalogas",
+    "collections": "Rinkiniai",
+    "catalogConfig": "Katalogo konfigūracija"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Katalogo konfigūravimas",
+        "message": "Pradėkite kurti ir konfigūruoti savo katalogą! Jūsų katalogas sudarytas iš grupių ir užpildytas jų turiniu.",
+        "link": "Sužinokite daugiau apie katalogus"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalogas tuščias",
+        "message": "Esate pasirengę pradėti dirbti su katalogu! Jūsų katalogas konfigūruojamas pridedant vieną ar daugiau grupių ir užpildomas jų turiniu.",
+        "link": "Kaip pradėti"
+      }
+    }
+  }
+}

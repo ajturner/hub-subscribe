@@ -1,0 +1,19 @@
+{
+  "heading": "إضافة حسب عنوان URL",
+  "subText": "CSV و SHP و GeoJSON و ArcGIS Feature Service و XLS و PDF و PNG و JPG ورابط الويب",
+  "fileTypeSelector": "تعيين نوع الملف يدويًا",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "رابط موقع الويب",
+  "microsoftexcel": "Microsoft Excel (xls، xlsx)",
+  "image": "الصور (png، jpg، jpeg)",
+  "invalidFormat": "خطأ: تنسيق غير صالح",
+  "invalidUrl": "خطأ: عنوان URL غير صالح",
+  "recognizedType": "تعيين نوع الملف يدويًا"
+}

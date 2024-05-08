@@ -1,0 +1,27 @@
+{
+  "overview": "Visão Geral",
+  "telemetry": {
+    "pageViews": "Visualizações de página",
+    "last30days": "Últimos 30 dias",
+    "lastUpdated": "Última atualização há {hoursElapsed} horas"
+  },
+  "newNotice": {
+    "title": "Aqui está a área de trabalho do seu projeto",
+    "message": "Esta área de trabalho está personalizada para a edição de projetos. As áreas de trabalho permitem que os colaboradores se foquem em itens individuais e estão em constante desenvolvimento.",
+    "link": "Saiba mais"
+  },
+  "learnAbout": "Saiba mais sobre projetos Hub",
+  "feedbackNotice": {
+    "message": "O que acha dos projetos Hub? Como esta funcionalidade ainda está em fase beta, gostaríamos de saber como a poderá utilizar.",
+    "link": "Enviar feedback"
+  },
+  "status": {
+    "notStarted": "Não iniciado",
+    "inProgress": "Em curso",
+    "onHold": "Em espera",
+    "complete": "Concluído"
+  },
+  "editDetails": "Editar detalhes",
+  "noPurposeSet": "Sem objetivo definido",
+  "noLocationSet": "Sem localização definida"
+}

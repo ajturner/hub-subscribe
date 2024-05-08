@@ -1,0 +1,1 @@
+import{g as t}from"./p-3f64a9d9.js";function a(a){return`${t(a)}/sharing/rest`}function s(t){return t&&t.hubApiUrl||function(t){let a;return t.match(/(qaext|\.mapsqa)\.arcgis.com/)?a="https://hubqa.arcgis.com":t.match(/(devext|\.mapsdevext)\.arcgis.com/)?a="https://hubdev.arcgis.com":t.match(/(www|\.maps)\.arcgis.com/)&&(a="https://hub.arcgis.com"),a}(a(t))}export{a,s as g}

@@ -1,0 +1,15 @@
+{
+  "default": "Velg et datoområde",
+  "today": "I dag",
+  "yesterday": "I går",
+  "last7Days": "Siste 7 dager",
+  "last30Days": "Siste 30 dager",
+  "thisMonth": "Denne måneden",
+  "lastMonth": "Siste måned",
+  "pastYear": "Foregående år",
+  "custom": "Egendefinert",
+  "nextMonth": "Neste måned",
+  "previousMonth": "Forrige måned",
+  "year": "År",
+  "title": "Velg en tidsperiode"
+}

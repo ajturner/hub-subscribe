@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Pobierz",
+  "buttonOptions": "Opcje pobierania",
+  "menuRequest": "Wygeneruj nowy plik do pobrania, który zawiera najnowsze dane",
+  "menuDownload": "Pobierz plik wygenerowany dnia {createdDate}",
+  "fileCreated": "Utworzono plik",
+  "fileSize": "Rozmiar pliku",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Nie dotyczy"
+}

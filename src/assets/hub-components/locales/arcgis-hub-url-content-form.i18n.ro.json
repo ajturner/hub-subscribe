@@ -1,0 +1,19 @@
+{
+  "heading": "Adăugare după URL",
+  "subText": "CSV, SHP, GeoJSON, Serviciu de obiecte spațiale ArcGIS, XLS, PDF, PNG, JPG, link web",
+  "fileTypeSelector": "Tip de fișier setat manual",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Serviciu de obiecte spațiale ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Link web",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Imagine (png, jpg, jpeg)",
+  "invalidFormat": "Eroare: format nevalid",
+  "invalidUrl": "Eroare: URL nevalid",
+  "recognizedType": "Tip de fișier setat manual"
+}

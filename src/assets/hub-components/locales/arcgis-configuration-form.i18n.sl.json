@@ -1,0 +1,12 @@
+{
+  "save": "Shrani",
+  "cancel": "Prekliči",
+  "undoChanges": "Razveljavi spremembe",
+  "next": "Naprej",
+  "back": "Nazaj",
+  "formAlert": "Opozorilo obrazca",
+  "invalidForm": "Popravite vse napake.",
+  "saveDisabled": "Shranjevanje onemogočeno",
+  "success": "Uspešno shranjena urejanja",
+  "error": "Napaka pri shranjevanju urejanj"
+}

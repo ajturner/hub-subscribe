@@ -1,0 +1,15 @@
+{
+  "addFilter": "フィルターの追加",
+  "attributeFilter": "フィルター",
+  "between": "次の範囲内",
+  "deleteFilter": "フィルターの削除",
+  "endingDate": "終了日",
+  "endingValue": "終了値",
+  "expression": "式",
+  "filterType": "フィルター タイプ",
+  "filterValue": "フィルター値",
+  "isExactly": "次の値と完全に一致",
+  "startingDate": "開始日",
+  "startingValue": "開始値",
+  "selectAttribute": "属性の選択"
+}

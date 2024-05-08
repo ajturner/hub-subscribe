@@ -1,0 +1,10 @@
+{
+  "true.heading": "Sí, se permite el debate",
+  "false.heading": "No, el debate está bloqueado",
+  "content.label": "¿Permitir que se debata este elemento?",
+  "content.true.description": "Los usuarios pueden crear mensajes sobre este elemento.",
+  "content.false.description": "Los usuarios no pueden crear mensajes sobre este elemento.",
+  "group.label": "¿Puede este grupo participar en debates?",
+  "group.true.description": "Los miembros del grupo pueden ver y participar en los canales de debate a los que el grupo tiene acceso.",
+  "group.false.description": "Los miembros del grupo no pueden ver o participar en los canales de debate a los que el grupo tiene acceso."
+}

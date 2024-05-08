@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Trageți și plasați fișierul pentru încărcare",
+  "imageHeading": "Încărcare imagine",
+  "selectedHeading": "Fișier selectat",
+  "maxSizeAndSupportedTypes": "Dimensiunea maximă este {maxSize}MB, {fileTypes}",
+  "maxSize": "Dimensiunea maximă este {maxSize}MB",
+  "recommendedDimensions": "Dimensiuni recomandate {recommendedDimensions}",
+  "linkText": "Vizualizați lista fișierelor suportate",
+  "contentButton": "Răsfoire fişier",
+  "imageButton": "Parcurgere după imagine",
+  "clearButton": "Ștergere obiecte selectate",
+  "errorHeading": "Eroare",
+  "fileTooLargeError": "Fişier prea mare",
+  "multipleFilesError": "Nu se pot încărca mai multe fișiere simultan",
+  "unsupportedFileTypeError": "Acest tip de fişier nu este suportat"
+}

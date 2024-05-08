@@ -1,0 +1,26 @@
+{
+  "followers": "עוקבים",
+  "tabs": {
+    "followers": "עוקבים",
+    "settings": "הגדרות"
+  },
+  "addFollowers": {
+    "label": "הוסף עוקבים"
+  },
+  "emptyState": {
+    "message": "אין לך כרגע קבוצת עוקבים."
+  },
+  "restrictedAccessState": {
+    "message": "אין לך גישה."
+  },
+  "stats": {
+    "total": {
+      "title": "סה\"כ",
+      "trailingText": "עוקבים"
+    },
+    "new": {
+      "title": "חדש",
+      "trailingText": "30 הימים האחרונים"
+    }
+  }
+}

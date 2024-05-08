@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Feature Collection",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Λήψη CSV",
+  "downloadshapefile": "Λήψη Shapefile",
+  "downloadsqlite": "Λήψη SQLite Geodatabase",
+  "downloadgeoPackage": "Λήψη GeoPackage",
+  "downloadfilegdb": "Λήψη File Geodatabase",
+  "downloadfeatureCollection": "Λήψη Feature Collection",
+  "downloadgeojson": "Λήψη GeoJSON",
+  "downloadexcel": "Λήψη Excel",
+  "rateLimitMessage": "Συγγνώμη, το όριο λήψης εξαντλήθηκε. Προσπαθήστε ξανά σε μία ώρα ή απευθυνθείτε στο διαχειριστή περιεχομένου.",
+  "createReplicaErrorMessage": "Δημιουργία αντιγράφου εσωτερικού σφάλματος. Προσπαθήστε ξανά σε μία ώρα ή απευθυνθείτε στο διαχειριστή περιεχομένου."
+}

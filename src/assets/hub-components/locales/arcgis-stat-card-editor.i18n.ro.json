@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configurație avansată",
+    "serverTimeout": {
+      "label": "Expirare server (secunde)",
+      "helperText": "Util pentru servicii mai mari, care pot necesita mai mult timp pentru a răspunde."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Colțuri",
+      "enum": {
+        "round": {
+          "label": "Rotund"
+        },
+        "square": {
+          "label": "Pătrat"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Plasare umbră",
+      "enum": {
+        "heavy": {
+          "label": "Mare"
+        },
+        "low": {
+          "label": "Redus"
+        },
+        "medium": {
+          "label": "Mediu"
+        },
+        "none": {
+          "label": "Neînceput"
+        }
+      }
+    },
+    "layout": {
+      "label": "Prezentare statistică",
+      "enum": {
+        "dataViz": {
+          "label": "Vizualizare date"
+        },
+        "moreInfo": {
+          "label": "Mai multe informaţii"
+        },
+        "simple": {
+          "label": "Simplu"
+        }
+      }
+    },
+    "popoverTitle": "Titlu semn de carte",
+    "popoverDescription": "Descriere semn de carte",
+    "sectionTitle": "Aspect",
+    "textAlign": "Aliniere",
+    "visualInterest": {
+      "label": "Interes vizual",
+      "enum": {
+        "icon": {
+          "label": "Pictogramă"
+        },
+        "logo": {
+          "label": "Siglă"
+        },
+        "none": {
+          "label": "Niciunul"
+        },
+        "sparkline": {
+          "label": "Diagramă miniaturală"
+        }
+      }
+    },
+    "valueColor": "Culoare (statistică)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "URL link",
+      "sourceTitle": "Text link"
+    },
+    "sectionTitle": "Detalii",
+    "subtitle": "Subtitlu",
+    "title": "Titlu",
+    "trailingText": "Text sfârșit"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Link necesar pentru a afișa sursa."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatare",
+    "unit": {
+      "label": "Afișare unități",
+      "helperText": "Introduceți unitatea de măsură pentru valoarea dvs."
+    },
+    "unitPosition": {
+      "label": "Amplasare",
+      "enum": {
+        "after": {
+          "label": "După"
+        },
+        "before": {
+          "label": "Înainte"
+        },
+        "below": {
+          "label": "Dedesubt"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Partajare",
+    "showShareIcon": "Activare",
+    "shareableByValue": "Activați încorporările",
+    "shareableOnHover": {
+      "label": "Afişare",
+      "enum": {
+        "always": {
+          "label": "Întotdeauna"
+        },
+        "hover": {
+          "label": "Numai glisare cu mouse-ul"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Sursă de date",
+    "displayValue": "Afișare valoare",
+    "sectionTitle": "Statistică",
+    "type": {
+      "label": "Tip",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamic",
+          "description": "Selectați un set de date existent (serviciu de obiect spațial) pentru rezumare."
+        },
+        "static": {
+          "label": "Static",
+          "description": "Introduceți manual o valoare pentru a o evidenția în structura dvs."
+        }
+      }
+    }
+  }
+}

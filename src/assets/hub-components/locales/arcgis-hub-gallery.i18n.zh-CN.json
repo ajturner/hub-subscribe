@@ -1,0 +1,25 @@
+{
+  "moreResults": "更多结果",
+  "search": "搜索",
+  "filter": "过滤器",
+  "viewResults": "查看结果({numResults})",
+  "resultsCount": "1 - {pageTotal} 页，共 {searchTotal} 页",
+  "backToTop": "返回顶部",
+  "facets": {
+    "access": {
+      "private": "我自己",
+      "shared": "所有者和群组",
+      "org": "组织",
+      "public": "公共"
+    },
+    "license": {
+      "custom": "自定义",
+      "none": "无"
+    }
+  },
+  "layoutOptions": {
+    "list": "显示列表",
+    "grid": "显示格网"
+  },
+  "galleryActionsLabel": "其他操作"
+}

@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Asukohafilter",
+  "panel.reset": "Lähtesta filter",
+  "distance.title": "Vahemaa",
+  "distance.placeholder": "Sisestage arv...",
+  "distance.message": "Filtreeritava ala laiendamiseks sisestage number.",
+  "system.imperial": "Inglise mõõdustik",
+  "system.metric": "Meetermõõdustik",
+  "units.title": "Ühikud",
+  "units.feet": "ft",
+  "units.miles": "mi",
+  "units.nauticalmiles": "Meremiilid",
+  "units.meters": "m",
+  "units.kilometers": "km"
+}

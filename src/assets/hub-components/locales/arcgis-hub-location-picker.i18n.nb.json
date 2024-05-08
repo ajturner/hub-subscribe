@@ -1,0 +1,36 @@
+{
+  "edit": "Rediger",
+  "delete": "Slett",
+  "noneMessage": "Ingen lokasjon er angitt",
+  "entityTypes": {
+    "project": "Prosjekt",
+    "site": "Område",
+    "initiative": "Initiativ",
+    "discussion": "Diskusjon",
+    "content": "Innhold"
+  },
+  "emptyLocation": {
+    "title": "Ingen lokasjon tegnet",
+    "message": "{entityType} vises ikke på kart før en posisjon er lagt til"
+  },
+  "populatedLocation": {
+    "title": "Legg til en annen lokasjon?",
+    "message": "Velg tegneverktøyet igjen for å legge til flere lokasjoner (opptil {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Maksimalt antall punkter er nådd ({currentCount}/{maxLocations})",
+    "message": "Hvis du vil legge til flere lokasjoner: slett punkter eller rediger linjer og arealer for slette punktene for dem (høyreklikk)."
+  },
+  "maximumLocations": {
+    "title": "Maksimumsgrensen for lokasjoner er nådd",
+    "message": "Hvis du vil legge til flere lokasjoner, fjerner du en eller flere, eller du kan fjerne alle lokasjoner og bruke et mer generelt område."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Legg til lokasjon",
+    "clear": "Fjern alle",
+    "extent": "Tegn et rektangel",
+    "point": "Slipp et punkt",
+    "polyline": "Tegn en linje",
+    "polygon": "Tegn et område"
+  }
+}

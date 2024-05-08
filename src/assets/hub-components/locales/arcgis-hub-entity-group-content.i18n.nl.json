@@ -1,0 +1,50 @@
+{
+  "title": "Content",
+  "facets": {
+    "type": "Type",
+    "tags": "Tag",
+    "categories": "Categorie",
+    "sharing": "Delen",
+    "dateUpdated": "Datum bijgewerkt",
+    "map": {
+      "label": "Locatie",
+      "tooltip": "Pas de kaartextent toe als een locatiefilter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Content toevoegen",
+    "catalog": {
+      "myContent": "Mijn content",
+      "favorites": "Favorieten",
+      "organization": "Mijn organisatie",
+      "world": "Wereld (openbaar)"
+    },
+    "facets": {
+      "type": "Type",
+      "sharing": "Delen"
+    },
+    "collection": {
+      "appsAndMaps": "Apps en kaarten",
+      "dataset": "Gegevens",
+      "documents": "Documenten",
+      "feedback": "Feedback",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Content toevoegen"
+    },
+    "unsharedModal": {
+      "title": "Items zijn niet toegevoegd",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "gevaar",
+        "title": "Actie is onvolledig",
+        "message": "Kan sommige items niet toevoegen Dit kan het gevolg zijn van niet-overeenkomende deelniveaus binnen de content of omdat de eigenaar van het item geen lid is van de groep.",
+        "linkText": "Meer informatie over delen"
+      }
+    },
+    "itemSharedSuccessAlert": "Item(s) is/zijn gedeeld"
+  },
+  "close": "Sluiten",
+  "newTab": "wordt in nieuw tabblad geopend"
+}

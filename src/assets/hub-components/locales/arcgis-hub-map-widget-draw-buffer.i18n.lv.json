@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Novietojuma filtrs",
+  "panel.reset": "Atiestatīt filtru",
+  "distance.title": "Distance",
+  "distance.placeholder": "Ievadīt skaitli",
+  "distance.message": "Ievadīt skaitli, lai paplašinātu filtrēto teritoriju.",
+  "system.imperial": "Imperiāls",
+  "system.metric": "Metrisks",
+  "units.title": "Vienības",
+  "units.feet": "Pēdas",
+  "units.miles": "Jūdzes",
+  "units.nauticalmiles": "Jūras jūdzes",
+  "units.meters": "Metri",
+  "units.kilometers": "Kilometri"
+}

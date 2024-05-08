@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Jakaminen",
+      "myself": "Itse",
+      "myOrganization": "Organisaationi",
+      "public": "Kaikille (julkinen)"
+    },
+    "catalog": {
+      "myContent": "Oma sisältö",
+      "favorites": "Suosikit",
+      "organization": "Organisaationi",
+      "world": "Kaikille (julkinen)"
+    }
+  },
+  "expression": {
+    "label": "Ominaisuustietojen suodattimet"
+  },
+  "field": {
+    "label": "Ominaisuustieto"
+  },
+  "layer": "Karttataso/taulu",
+  "statistic": {
+    "label": "Koostaminen"
+  }
+}

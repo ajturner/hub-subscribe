@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Švieslentė",
+    "details": "Išsamiau",
+    "overview": "Apžvalga",
+    "metrics": "Metrika",
+    "settings": "Nuostatos",
+    "collaborators": "Bendradarbiai",
+    "discussion": "Diskusija",
+    "content": "Turinys",
+    "members": "Nariai",
+    "participation": "Dalyvavimas",
+    "followers": "Sekėjai"
+  }
+}

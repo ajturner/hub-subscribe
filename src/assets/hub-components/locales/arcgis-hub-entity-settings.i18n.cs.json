@@ -1,0 +1,34 @@
+{
+  "settings": "Nastavení",
+  "delete": {
+    "project": "Smazat projekt",
+    "initiative": "Odstranit iniciativu",
+    "site": "Odstranit web",
+    "discussion": "Odstranit diskuzi",
+    "content": "Odstranit obsah",
+    "page": "Smazat stránku",
+    "group": "Smazat skupinu"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Smazat projekt",
+      "initiative": "Odstranit iniciativu",
+      "site": "Odstranit web",
+      "discussion": "Odstranit diskuzi",
+      "content": "Odstranit obsah",
+      "page": "Smazat stránku",
+      "group": "Smazat skupinu"
+    },
+    "content": "Určitě chcete odstranit:",
+    "delete": "Odstranit",
+    "cancel": "Storno"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Funkce „extrahovat“ mění nastavení služby.",
+        "message": "Ostatní položky, které odkazují na tuto službu, tím budou ovlivněny. Další podrobnosti naleznete v tématu <docLink>Export dat z hostovaných vrstev prvků</docLink>."
+      }
+    }
+  }
+}

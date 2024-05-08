@@ -1,0 +1,27 @@
+{
+  "overview": "概述",
+  "telemetry": {
+    "pageViews": "頁面視圖",
+    "last30days": "最近 30 天",
+    "lastUpdated": "前次更新為 {hoursElapsed} 小時前"
+  },
+  "newNotice": {
+    "title": "這裡是您的專案工作空間",
+    "message": "此工作空間是專為編輯專案所自訂。 工作空間允許協作者專注於個別項目，並且正在持續開發中。",
+    "link": "瞭解詳細資訊"
+  },
+  "learnAbout": "瞭解有關 Hub 專案的詳細資訊",
+  "feedbackNotice": {
+    "message": "您對 Hub 專案的滿意度為何? 由於此功能仍在 beta 階段，我們想聽聽您如何使用它。",
+    "link": "提交回饋意見"
+  },
+  "status": {
+    "notStarted": "未啟動",
+    "inProgress": "進行中",
+    "onHold": "保留中",
+    "complete": "完成"
+  },
+  "editDetails": "編輯詳細資訊",
+  "noPurposeSet": "未設定用途",
+  "noLocationSet": "未設定位置"
+}

@@ -1,0 +1,19 @@
+{
+  "select": "בחר",
+  "cancel": "בטל",
+  "iconModalTitle": "בחר צלמית",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "בחר מספרייה"
+      },
+      "url": {
+        "description": "ספק URL משלך"
+      }
+    }
+  },
+  "altText": {
+    "label": "טקסט חלופי",
+    "helperText": "אם לא נוסף, הסמל יסומן כעיטורי."
+  }
+}

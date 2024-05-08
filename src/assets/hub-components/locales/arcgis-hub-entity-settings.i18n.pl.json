@@ -1,0 +1,34 @@
+{
+  "settings": "Ustawienia",
+  "delete": {
+    "project": "Usuń projekt",
+    "initiative": "Usuń inicjatywę",
+    "site": "Usuń witrynę",
+    "discussion": "Usuń dyskusję",
+    "content": "Usuń zasoby",
+    "page": "Usuń stronę",
+    "group": "Usuń grupę"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Usuń projekt",
+      "initiative": "Usuń inicjatywę",
+      "site": "Usuń witrynę",
+      "discussion": "Usuń dyskusję",
+      "content": "Usuń zasoby",
+      "page": "Usuń stronę",
+      "group": "Usuń grupę"
+    },
+    "content": "Czy na pewno chcesz usunąć:",
+    "delete": "Usuń",
+    "cancel": "Anuluj"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Funkcja \"wyodrębniania\" zmienia ustawienia usługi.",
+        "message": "Wpłynie to na inne elementy, które odwołują się do tej usługi. Więcej szczegółowych informacji można znaleźć w sekcji <docLink>Eksportowanie danych z hostowanych warstw obiektowych</docLink>."
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "location.add": "Přidat umístění",
+  "location.remove": "Odebrat umístění",
+  "draw.tip": "Přidat další lokalitu?",
+  "prompt.add.post": "Přidat k příspěvku",
+  "prompt.add.reply": "Přidat k odpovědi",
+  "prompt.edit.point": "Přesunout bod",
+  "prompt.edit.polyline": "Upravit linii",
+  "prompt.edit.polygon": "Upravit plochu",
+  "prompt.remove.point": "Smazat bod",
+  "prompt.remove.polyline": "Smazat linii",
+  "prompt.remove.polygon": "Smazat plochu",
+  "prompt.remove.existing": "Zrušit výběr",
+  "prompt.location.edit": "Aktualizovat kresbu",
+  "prompt.location.delete": "Odstranit kresbu"
+}

@@ -1,0 +1,16 @@
+{
+  "location.add": "Add location",
+  "location.remove": "Remove location",
+  "draw.tip": "Add another location?",
+  "prompt.add.post": "Add to post",
+  "prompt.add.reply": "Add to reply",
+  "prompt.edit.point": "Move point",
+  "prompt.edit.polyline": "Edit line",
+  "prompt.edit.polygon": "Edit area",
+  "prompt.remove.point": "Delete point",
+  "prompt.remove.polyline": "Delete line",
+  "prompt.remove.polygon": "Delete area",
+  "prompt.remove.existing": "Cancel selection",
+  "prompt.location.edit": "Update drawing",
+  "prompt.location.delete": "Delete drawing"
+}

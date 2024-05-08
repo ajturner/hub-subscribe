@@ -1,0 +1,14 @@
+{
+  "addPost": "Pievienot ziņu",
+  "createPost": "Izveidot ziņu",
+  "emptyHeading": "Sākt diskusiju",
+  "emptyMessage": "Esiet pirmais, kas ierosina tēmu. Ir viegli uzdot jautājumu vai dalīties informācijā par saturu ar citiem.",
+  "searchIdeas": "Meklēt ziņas",
+  "searchCount": "{start} - {end} no {total}",
+  "orderAsc": "Augošā secībā",
+  "orderDesc": "Dilstošā secībā",
+  "sortRecent": "Jaunākais",
+  "sortCreator": "Izveidotājs",
+  "layoutGrid": "Režģis",
+  "layoutList": "Saraksts"
+}

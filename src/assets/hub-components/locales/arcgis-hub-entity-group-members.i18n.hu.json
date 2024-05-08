@@ -1,0 +1,24 @@
+{
+  "title": "Tagok",
+  "facets": {
+    "role": {
+      "label": "Szerepkör",
+      "all": "Összes",
+      "manager": "Felelős",
+      "member": "Tag"
+    },
+    "dateJoined": {
+      "label": "Csatlakozás dátuma"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Végösszeg",
+      "trailingText": "Csapattagok"
+    },
+    "new": {
+      "title": "Új",
+      "trailingText": "Az elmúlt 30 nap"
+    }
+  }
+}

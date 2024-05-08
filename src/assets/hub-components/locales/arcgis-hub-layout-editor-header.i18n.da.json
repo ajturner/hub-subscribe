@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Delt med organisation",
+      "private": "Delt med ejer",
+      "public": "Delt offentligt",
+      "shared": "Delt med ejer og grupper"
+    },
+    "editLayout": "Rediger layout",
+    "lastUpdated": "Seneste opdateret {updated}",
+    "viewSite": "Vis websted"
+  },
+  "cloneLayoutLabel": "Klon layout",
+  "deletePageLabel": "Slet side",
+  "deleteSiteLabel": "Slet websted",
+  "editInAgoLabel": "Rediger i ArcGIS Online",
+  "managePage": "Administrer side",
+  "manageSite": "Administrer websted",
+  "moreOptionsLabel": "Flere indstillinger",
+  "publishLabel": "Offentliggør",
+  "saveAsTemplateLabel": "Gem som skabelon",
+  "saveLabel": "Gem",
+  "sharingLabel": "Åbn deling af panel",
+  "viewLabel": "Vis",
+  "viewPublishedLabel": "Vis publiceret udkast",
+  "viewUnpublishedLabel": "Forhåndsvisning af ikke-publiceret udkast"
+}

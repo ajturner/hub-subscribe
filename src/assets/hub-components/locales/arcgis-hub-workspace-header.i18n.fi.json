@@ -1,0 +1,32 @@
+{
+  "beta": "Beeta",
+  "editLayout": "Muokkaa asettelua",
+  "editContent": "Muokkaa sisältöä",
+  "view": {
+    "project": "Näytä projekti",
+    "site": "Näytä sivusto",
+    "initiative": "Näytä aloite",
+    "discussion": "Näytä keskustelu",
+    "content": "Näytä sisältö",
+    "page": "Näytä sivu",
+    "group": "Näytä ryhmä"
+  },
+  "label": {
+    "project": "Projektin työtila",
+    "site": "Sivuston työtila",
+    "initiative": "Aloitteen työtila",
+    "discussion": "Keskustelutyötila",
+    "content": "Sisällön työtila",
+    "page": "Sivun työtila",
+    "group": "Ryhmän työtila"
+  },
+  "access": {
+    "sharingLevel": "Jakamistaso",
+    "groupSharing": "Ryhmäjako",
+    "public": "Julkinen",
+    "org": "Organisaatio",
+    "private": "Omistaja",
+    "shared": "Jaettu yksityisesti",
+    "disabled": "Et voi muuttaa jakamista, koska et ole omistaja tai pääkäyttäjä."
+  }
+}

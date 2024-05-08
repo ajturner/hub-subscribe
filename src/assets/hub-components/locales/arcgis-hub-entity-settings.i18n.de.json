@@ -1,0 +1,34 @@
+{
+  "settings": "Einstellungen",
+  "delete": {
+    "project": "Projekt löschen",
+    "initiative": "Initiative löschen",
+    "site": "Site löschen",
+    "discussion": "Diskussion löschen",
+    "content": "Inhalt löschen",
+    "page": "Seite löschen",
+    "group": "Gruppe löschen"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Projekt löschen",
+      "initiative": "Initiative löschen",
+      "site": "Site löschen",
+      "discussion": "Diskussion löschen",
+      "content": "Inhalt löschen",
+      "page": "Seite löschen",
+      "group": "Gruppe löschen"
+    },
+    "content": "Möchten Sie Folgendes wirklich löschen?",
+    "delete": "Löschen",
+    "cancel": "Abbrechen"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Durch die Funktion \"Extrahieren\" werden die Service-Einstellungen geändert.",
+        "message": "Andere Elemente, die auf den Service verweisen, sind davon ebenfalls betroffen. Weitere Informationen finden Sie unter <docLink>Exportieren von Daten aus gehosteten Feature-Layern</docLink>."
+      }
+    }
+  }
+}

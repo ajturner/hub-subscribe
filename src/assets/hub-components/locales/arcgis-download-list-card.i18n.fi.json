@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile-tiedosto",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Kohdekokoelma",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Lataa CSV-tiedosto",
+  "downloadshapefile": "Lataa Shapefile-tiedosto",
+  "downloadsqlite": "Lataa SQLite Geodatabase",
+  "downloadgeoPackage": "Lataa GeoPackage",
+  "downloadfilegdb": "Lataa File Geodatabase",
+  "downloadfeatureCollection": "Lataa kohdekokoelma",
+  "downloadgeojson": "Lataa GeoJSON",
+  "downloadexcel": "Lataa Excel",
+  "rateLimitMessage": "Pahoittelut, latausraja on saavutettu. Yritä uudelleen tunnin kuluttua tai ota yhteyttä sisällön hallinnoijaan.",
+  "createReplicaErrorMessage": "Jäljennöksen luonnin sisäinen virhe. Yritä uudelleen tunnin kuluttua tai ota yhteyttä sisällön hallinnoijaan."
+}

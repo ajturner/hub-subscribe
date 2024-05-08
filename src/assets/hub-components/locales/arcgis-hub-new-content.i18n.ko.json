@@ -1,0 +1,15 @@
+{
+  "new": "신규",
+  "project": {
+    "title": "새 프로젝트",
+    "description": "목표와 기간이 명확한 작업을 강조하세요"
+  },
+  "initiative": {
+    "title": "새 이니셔티브",
+    "description": "목표와 기간이 명확한 작업을 강조하세요"
+  },
+  "discussion": {
+    "title": "새 토론 보드",
+    "description": "주제를 나타내는 제목을 입력하여 새 토론 보드를 생성합니다."
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "success": "Pomyślnie zapisano zmiany",
+  "error": "Błąd podczas zapisywania zmian",
+  "create": "Utwórz",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Brak lokalizacji",
+        "org": "Zasięg instytucji",
+        "custom": "Lokalizacja niestandardowa",
+        "customDescription": "Narysuj jedną lub większą liczbę lokalizacji",
+        "itemExtent": "Bieżący zasięg elementu"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Udostępnianie"
+        },
+        "catalog": {
+          "myContent": "Moje zasoby",
+          "favorites": "Ulubione",
+          "organization": "Instytucja",
+          "world": "Świat (publiczne)"
+        },
+        "collection": {
+          "appsAndMaps": "Aplikacje i mapy",
+          "dataset": "Dane",
+          "documents": "Dokumenty",
+          "feedback": "Opinia",
+          "sites": "Witryny"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Szczegóły"
+      },
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "helperText": "Wskaż obszar geograficzny, w którym ten projekt będzie realizowany (do wyświetlenia w kompozycji projektu)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Udostępnianie"
+      },
+      "timeline": {
+        "label": "Oś czasu"
+      },
+      "searchDiscoverability": {
+        "label": "Wyszukiwanie i wykrywalność"
+      },
+      "featuredContent": {
+        "label": "Polecane zasoby",
+        "helperText": "Wyróżnij dokumenty, aplikacje i dane związane z projektem. Możesz wyróżnić do 4 elementów."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nazwa projektu",
+        "requiredError": "Nazwa projektu jest polem wymaganym"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Określ, jak zostaną osiągnięte cele projektu. Rozważ uwzględnienie istotnych informacji ogólnych i zmian oczekiwanych w wyniku realizacji projektu."
+      },
+      "summary": {
+        "label": "Cel",
+        "helperText": "Krótko podsumuj cele projektu."
+      },
+      "access": {
+        "itemType": "Projekt"
+      },
+      "groups": {
+        "label": "Udostępnij...",
+        "viewGroup": "(Wyświetl grupę)",
+        "editGroup": "(Edytuj grupę)"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Ustaw miniaturę, która będzie reprezentować ten projekt w usłudze ArcGIS Online, a także w wyszukiwarce i galeriach.",
+        "sizeDescription": "Zalecane wymiary: 760 × 505 lub więcej"
+      },
+      "featuredImage": {
+        "label": "Polecany obraz",
+        "helperText": "Wybierz obraz reprezentujący Twoją pracę nad kompozycją projektu.",
+        "sizeDescription": "Maksymalny rozmiar pliku to 10 MB. Zalecane wymiary: 718 × 478 lub więcej",
+        "altText": {
+          "label": "Tekst alternatywny",
+          "helperText": "Podaj krótki opis obrazu dla osób korzystających z czytników ekranu. Pozostaw puste, aby wskazać, że obraz ma charakter dekoracyjny."
+        }
+      },
+      "tags": {
+        "label": "Znaczniki",
+        "helperText": "Tagów używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tego projektu. Dodaj tekst i naciśnij klawisz Enter, aby utworzyć nowe tagi."
+      },
+      "categories": {
+        "label": "Kategorie",
+        "helperText": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tego projektu. Ustawia je Twoja instytucja ArcGIS Online."
+      },
+      "status": {
+        "label": "Status projektu",
+        "enum": {
+          "notStarted": {
+            "label": "Nie rozpoczęto"
+          },
+          "inProgress": {
+            "label": "W toku"
+          },
+          "onHold": {
+            "label": "Wstrzymane"
+          },
+          "complete": {
+            "label": "Gotowe"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Udostępnianie"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Szczegóły"
+      },
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "helperText": "Wskaż obszar geograficzny, w którym ta inicjatywa będzie realizowana (do wyświetlenia w kompozycji inicjatywy)."
+      },
+      "sharing": {
+        "label": "Udostępnianie"
+      },
+      "featuredContent": {
+        "label": "Polecane zasoby",
+        "helperText": "Wyróżnij dokumenty, aplikacje i dane związane z Twoim projektem. Możesz wyróżnić do 4 elementów."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nazwa inicjatywy",
+        "requiredError": "Nazwa inicjatywy jest polem wymaganym"
+      },
+      "summary": {
+        "label": "Cel",
+        "helperText": "Krótko podsumuj cele inicjatywy."
+      },
+      "access": {
+        "itemType": "Inicjatywa"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Zapewnij dodatkowy kontekst, który może być pomocny podczas wyszukiwania tej inicjatywy."
+      },
+      "tags": {
+        "label": "Znaczniki",
+        "helperText": "Znaczników używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej inicjatywy. Dodaj tekst i naciśnij klawisz Enter, aby utworzyć nowe tagi."
+      },
+      "categories": {
+        "label": "Kategorie",
+        "helperText": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej inicjatywy. Ustawia je Twoja instytucja ArcGIS Online."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Ustaw miniaturę, która będzie reprezentować tę inicjatywę w usłudze ArcGIS Online, a także w wyszukiwarce i galeriach."
+      },
+      "groups": {
+        "label": "Udostępnij...",
+        "viewGroup": "(Wyświetl grupę)",
+        "editGroup": "(Edytuj grupę)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Udostępnianie"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Szczegóły"
+      },
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "location": {
+        "label": "Lokalizacja"
+      },
+      "settings": {
+        "label": "Ustawienia dyskusji"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tytuł",
+        "requiredError": "Nazwa panelu dyskusyjnego jest wymagana."
+      },
+      "prompt": {
+        "label": "Monit",
+        "helperText": "Krótko opisz, co uczestnicy mają publikować na tym panelu dyskusyjnym.",
+        "requiredError": "Monit jest polem wymaganym"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Zapewnij dodatkowy kontekst, który może być pomocny podczas wyszukiwania tego panelu."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Wybierz obraz reprezentujący Twoją dyskusję."
+      },
+      "summary": {
+        "label": "Cel",
+        "helperText": "Krótko opisz cel tego panelu dyskusyjnego, co jest pomocne przy udostępnianiu tego łącza innym osobom."
+      },
+      "featuredImage": {
+        "label": "Polecany obraz",
+        "sizeDescription": "Maksymalny rozmiar pliku JPEG, JPG lub PNG to 10 MB",
+        "altText": {
+          "label": "Tekst alternatywny",
+          "helperText": "Podaj krótki opis obrazu dla osób korzystających z czytników ekranu. Pozostaw puste, aby wskazać, że obraz ma charakter dekoracyjny."
+        },
+        "name": {
+          "label": "Nazwa obrazu"
+        }
+      },
+      "tags": {
+        "label": "Znaczniki"
+      },
+      "categories": {
+        "label": "Kategorie"
+      },
+      "discussable": {
+        "label": "Czy dyskusja jest dozwolona?",
+        "enabled": {
+          "label": "Tak, dyskusja jest dozwolona",
+          "description": "Uczestnicy mogą dodawać posty, odpowiedzi i reakcje na tym forum dyskusyjnym."
+        },
+        "disabled": {
+          "label": "Nie, dyskusja jest zablokowana",
+          "description": "Usuwa możliwość dodawania nowych postów, odpowiedzi i reakcji. Nie usuwa wprowadzonych wcześniej elementów."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "helperText": "Pokaż obszar geograficzny, którego dotyczy ta witryna."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nazwa witryny",
+        "requiredError": "Nazwa witryny jest polem wymaganym"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Ustaw miniaturę, która będzie reprezentować tę witrynę w usłudze ArcGIS Online, a także w wyszukiwarce i galeriach."
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Opis witryny."
+      },
+      "summary": {
+        "label": "Podsumowanie",
+        "helperText": "Krótkie podsumowanie witryny."
+      },
+      "tags": {
+        "label": "Znaczniki",
+        "helperText": "Tagów używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej witryny. Dodaj tekst i naciśnij klawisz Enter, aby utworzyć nowe tagi."
+      },
+      "categories": {
+        "label": "Kategorie",
+        "helperText": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej witryny. Ustawia je Twoja instytucja ArcGIS Online."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Skonfiguruj widoczność",
+          "helperText": "Zdecyduj, kto może zobaczyć przyciski obserwowania. To ustawienie dotyczy zarówno przycisku obserwowania działania na stronie, jak i każdego przycisku obserwowania osadzonego bezpośrednio w kompozycji.",
+          "private": {
+            "label": "Prywatne",
+            "description": "Przyciski obserwowania są widoczne dla właściciela witryny i grup z odpowiednimi uprawnieniami dostępu"
+          },
+          "org": {
+            "label": "Instytucja",
+            "description": "Przyciski obserwowania są widoczne dla wszystkich członków posiadających konto w instytucji tej witryny oraz grup z odpowiednimi uprawnieniami dostępu"
+          },
+          "public": {
+            "label": "Publiczne",
+            "description": "Przyciski obserwowania są widoczne dla wszystkich"
+          }
+        },
+        "showFollowAction": {
+          "label": "Działanie obserwowania",
+          "helperText": "Dodaj przycisk obserwowania do menu działań na stronie, który pozostaje widoczny, gdy użytkownicy przewijają kompozycję."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "helperText": "Pokaż obszar geograficzny, którego dotyczy ta strona."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nazwa strony",
+        "requiredError": "Nazwa strony jest polem wymaganym"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Opis strony."
+      },
+      "summary": {
+        "label": "Podsumowanie",
+        "helperText": "Krótkie podsumowanie strony."
+      },
+      "tags": {
+        "label": "Znaczniki",
+        "helperText": "Tagów używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej strony. Dodaj tekst i naciśnij klawisz Enter, aby utworzyć nowe tagi."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Ustaw miniaturę, która będzie reprezentować tę stronę w usłudze ArcGIS Online, a także w wyszukiwarce i galeriach."
+      },
+      "categories": {
+        "label": "Kategorie",
+        "helperText": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tej strony. Ustawia je Twoja instytucja ArcGIS Online."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Tytuł",
+        "hint": "Zwięzłe tytuły zwiększą wykrywalność całego zasobu.",
+        "requiredError": "Tytuł jest polem wymaganym"
+      },
+      "summary": {
+        "label": "Podsumowanie",
+        "hint": "Krótko podsumuj zasoby. WSKAZÓWKA: Optymalizację SEO można ulepszyć, używając słów kluczowych, które różnią się od tych używanych w tytule i tagach."
+      },
+      "description": {
+        "label": "Opis",
+        "hint": "Wprowadź dodatkowe szczegóły opisujące zasoby. Aby zdobyć szerokie grono odbiorców, spróbuj osiągnąć czytelność na poziomie 7-9. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Przetestuj swój tekst przy użyciu bezpłatnych narzędzi do analizowania czytelności</a>."
+      },
+      "tags": {
+        "label": "Znaczniki",
+        "hint": "Tagów używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tego zasobu. Dodaj tekst i naciśnij klawisz Enter, aby utworzyć nowe tagi."
+      },
+      "categories": {
+        "label": "Kategorie",
+        "agolHint": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tego zasobu. Ustawia je Twoja instytucja ArcGIS Online.",
+        "enterpriseHint": "Kategorii używa się w katalogach wyszukiwania, aby pomóc innym osobom w odnalezieniu tego zasobu. Są one ustawiane przez Twoją instytucję ArcGIS Enterprise.",
+        "agolNoCategoryHint": "Wskazówka: Kategorie są dostępne tylko wtedy, gdy są ustawione przez instytucję ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Wskazówka: Kategorie są dostępne tylko wtedy, gdy są ustawione przez instytucję ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Ustaw miniaturę, która będzie reprezentować ten element w usłudze ArcGIS Online, a także w wyszukiwarce i galeriach."
+      },
+      "license": {
+        "label": "Warunki użytkowania",
+        "helperText": "Mniej ograniczeń sprzyja ponownemu wykorzystaniu."
+      },
+      "serverExtractCapability": {
+        "label": "Zdolność wyodrębniania (eksport danych)",
+        "helperText": "Włącza funkcję \"wyodrębniania\" w usłudze tego elementu. Funkcja wyodrębniania obsługuje dodatkowe formaty."
+      },
+      "hostedDownloads": {
+        "label": "Hostowane pliki do pobrania (beta)",
+        "helperText": "Utwórz pliki do pobrania bezpośrednio w usłudze hostowanej. Zwiększy to wydajność podczas pobierania zasobów, takich jak warstwy obiektowe i tabele. Aby włączyć hostowane pliki do pobrania, należy aktywować funkcje wyodrębniania."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Informacje podstawowe",
+        "message": "Te informacje są używane do wypełniania wyników wyszukiwania, na kartach galerii i są wyświetlane w widoku szczegółów."
+      },
+      "about": {
+        "title": "Informacje o zasobach",
+        "message": "Dwa pierwsze wiersze opisu są wyświetlane w wynikach wyszukiwania. Cały opis będzie widoczny w aktywnych widokach zasobów."
+      },
+      "image": {
+        "title": "Polecany obraz",
+        "message": "Dobry polecany obraz lub miniatura są ważne w przypadku prezentowania zasobów w naszych galeriach lub w widokach, w których wyróżniane są obrazy inicjatyw, zdarzeń, ankiet itp. Zalecany rozmiar to 760x505. Jeżeli obraz jest rozmazany na aktywnych trasach, spróbuj zastąpić go większą miniaturą."
+      },
+      "location": {
+        "label": "Lokalizacja",
+        "helperText": "Wskaż obszar geograficzny, w którym ten zasób będzie realizowany (do wyświetlenia w kompozycji zasobu)."
+      },
+      "downloads": {
+        "label": "Do pobrania",
+        "helperText": "Skonfiguruj formaty pobierania, harmonogram aktualizacji buforowanych plików i nie tylko. Szczegółowe informacje można znaleźć w <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">dokumentacji pobierania.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "Liczba dostępnych znaków: {count}"
+    },
+    "imageThumbnail": {
+      "label": "Obraz miniatury",
+      "upload": "Wczytaj obraz",
+      "done": "Wykonano",
+      "editThumbnail": "Edytuj miniaturę",
+      "browse": "Znajdź obraz",
+      "remove": "Usuń obraz",
+      "edit": "Edytuj obraz",
+      "defaultHeading": "Dodaj obraz miniatury",
+      "dropHeading": "Upuść, aby przesłać",
+      "errorHeading": "Spróbuj użyć innego obrazu",
+      "subheading": "Rozmiar maksymalny: {size}, {types}",
+      "zoomOut": "pomniejsz",
+      "zoomIn": "powiększ",
+      "drag": "Przeciągnij, aby zmienić położenie",
+      "urlPlaceholder": "Obsługiwane typy: {types}",
+      "browseForImage": "Znajdź obraz",
+      "aria": {
+        "container": "Obszar obrazu",
+        "crop": "Obszar przycinania",
+        "handle": {
+          "top": "Zmień wielkość u góry",
+          "right": "Zmień wielkość z prawej",
+          "left": "Zmień wielkość z lewej",
+          "bottom": "Zmień wielkość u dołu"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Szczegóły"
+      },
+      "basicInfo": {
+        "label": "Informacje podstawowe"
+      },
+      "membershipAccess": {
+        "label": "Dostęp członkowski"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nazwa grupy",
+        "requiredError": "Nazwa grupy jest polem wymaganym"
+      },
+      "summary": {
+        "label": "Podsumowanie"
+      },
+      "access": {
+        "itemType": "Grupuj"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Wybierz obraz reprezentujący Twoją grupę w profilu grupy.",
+        "sizeDescription": "Maksymalny rozmiar to 10 MB. Zalecany rozmiar: 400 x 400 lub większy"
+      },
+      "membershipAccess": {
+        "label": "Kto może należeć do tej grupy?",
+        "org": "Tylko członkowie mojej instytucji",
+        "collab": "Tylko członkowie kooperacji partnerskiej i mojej instytucji",
+        "any": "Członkowie dowolnej instytucji"
+      },
+      "contributeContent": {
+        "label": "Kto może dodawać zasoby?",
+        "all": "Wszyscy członkowie grupy",
+        "admins": "Menedżerowie i właściciel grupy"
+      }
+    }
+  }
+}

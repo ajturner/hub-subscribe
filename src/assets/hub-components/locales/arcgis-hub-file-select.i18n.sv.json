@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Dra och släpp en fil för att överföra den",
+  "imageHeading": "Ladda upp en bild",
+  "selectedHeading": "Fil har valts",
+  "maxSizeAndSupportedTypes": "Maximal storlek är {maxSize}MB, {fileTypes}",
+  "maxSize": "Maximal storlek är {maxSize}MB",
+  "recommendedDimensions": "Rekommenderat format {recommendedDimensions}",
+  "linkText": "Vista lista över filer som stöds",
+  "contentButton": "Bläddra efter fil",
+  "imageButton": "Bläddra efter bild",
+  "clearButton": "Ta bort valda",
+  "errorHeading": "Fel",
+  "fileTooLargeError": "Filen är för stor",
+  "multipleFilesError": "Det går inte att ladda upp flera filer på en gång",
+  "unsupportedFileTypeError": "Den här filtypen stöds inte"
+}

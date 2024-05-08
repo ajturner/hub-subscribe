@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "ฐานข้อมูลทางภูมิศาสตร์ SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "ไฟล์ฐานข้อมูลภูมิศาสตร์",
+  "featureCollection": "ฟีเจอร์ที่เก็บ",
+  "geojson": "GeoJSON",
+  "excel": "เอกซ์เซล",
+  "download": "ดาวน์โหลด"
+}

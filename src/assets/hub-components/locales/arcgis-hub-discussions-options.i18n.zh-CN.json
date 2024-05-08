@@ -1,0 +1,10 @@
+{
+  "true.heading": "是，允许讨论",
+  "false.heading": "否，讨论将被阻止",
+  "content.label": "是否允许讨论此项目?",
+  "content.true.description": "用户可以在此项目上创建帖子。",
+  "content.false.description": "用户不可以在此项目上创建帖子。",
+  "group.label": "此群组是否可以参与讨论?",
+  "group.true.description": "群组成员可以查看和参与群组有权访问的讨论频道。",
+  "group.false.description": "群组成员不可以查看或参与群组有权访问的讨论频道。"
+}

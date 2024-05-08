@@ -1,0 +1,15 @@
+{
+  "done": "Hoàn tất",
+  "cancel": "Hủy",
+  "dragDrop": "Kéo và thả một tệp JPG, PNG hoặc GIF.",
+  "browse": "Duyệt...",
+  "chooseDiff": "Chọn hình ảnh khác",
+  "zoom": "Thu phóng:",
+  "bestSize": "Để có được kết quả tốt nhất, hình ảnh nên có kích thước là 300 x 300 pixel.",
+  "close": "Đóng",
+  "or": "hoặc",
+  "fromMap": "Tạo hình thu nhỏ từ bản đồ",
+  "fromMapDesc": "Tạo hình thu nhỏ tùy chỉnh bằng cách thiết lập phạm vi và mức độ thu phóng",
+  "changeBasemap": "Thay đổi bản đồ nền",
+  "loading": "Đang tải"
+}

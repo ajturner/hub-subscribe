@@ -1,0 +1,18 @@
+{
+  "purpose": "用途",
+  "description": "我们将如何实现",
+  "details": "详细信息",
+  "featuredImageAlt": "工程精选图像",
+  "trackProgress": "追踪我们的进度",
+  "participatingGroups": "参与群组",
+  "whosInvolved": "参与人员",
+  "tags": "标签",
+  "status": {
+    "label": "工程状态",
+    "notStarted": "未开始",
+    "inProgress": "进行中",
+    "onHold": "保持",
+    "complete": "完全安装"
+  },
+  "featuredContent": "专题内容"
+}

@@ -1,0 +1,6 @@
+{
+  "pageCounter": "{currentPage}/{numPages}",
+  "acceptButton": "확인",
+  "nextButton": "다음",
+  "previousButton": "이전"
+}

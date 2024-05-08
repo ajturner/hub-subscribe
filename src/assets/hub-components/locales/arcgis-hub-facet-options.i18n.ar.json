@@ -1,0 +1,7 @@
+{
+  "showMore": "إظهار {num} إضافية",
+  "showLess": "إظهار أقل",
+  "inputPlaceholder": "خيارات التصفية",
+  "noMatchesNotice": "لم يتم العثور على خيارات مطابقة",
+  "inputAriaLabel": "البحث عن خيار باستخدام الكلمات الأساسية"
+}

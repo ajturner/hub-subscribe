@@ -1,0 +1,12 @@
+{
+  "save": "儲存",
+  "cancel": "取消",
+  "undoChanges": "取消變更",
+  "next": "下一頁",
+  "back": "上一步",
+  "formAlert": "表格警示",
+  "invalidForm": "請修正所有錯誤。",
+  "saveDisabled": "已停用儲存",
+  "success": "已成功儲存編輯內容",
+  "error": "儲存編輯內容時發生錯誤"
+}

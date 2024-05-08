@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Isteklo je vrijeme veze s poslužiteljem i nije se mogla prikazati statistika.",
+    "title": "Poslužitelju je isteklo vrijeme"
+  },
+  "genericError": {
+    "message": "Statistika se ne može prikazati.",
+    "title": "Nešto je pošlo po zlu"
+  }
+}

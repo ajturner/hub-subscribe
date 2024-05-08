@@ -1,0 +1,494 @@
+{
+  "success": "Uspešno sačuvana uređivanja",
+  "error": "Greška u čuvanju uređivanja",
+  "create": "Kreiraj",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nema lokacije",
+        "org": "Obuhvat organizacije",
+        "custom": "Prilagodite lokaciju",
+        "customDescription": "Nacrtaj jednu ili više lokacija",
+        "itemExtent": "Trenutni obuhvat stavke"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Deljenje"
+        },
+        "catalog": {
+          "myContent": "Moj sadržaj",
+          "favorites": "Omiljeni sadržaj",
+          "organization": "Organizacija",
+          "world": "Svet (javno)"
+        },
+        "collection": {
+          "appsAndMaps": "Aplikacije i mape",
+          "dataset": "Podaci",
+          "documents": "Dokumenti",
+          "feedback": "Povratne informacije",
+          "sites": "Sajtovi"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Detalji"
+      },
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "location": {
+        "label": "Lokacija",
+        "helperText": "Prikaz geografske oblasti u kojoj će se ovaj projekat obaviti (kao prikaz na rasporedu projekta)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Deljenje"
+      },
+      "timeline": {
+        "label": "Vremenska linija"
+      },
+      "searchDiscoverability": {
+        "label": "Pretraga i pronalaženje"
+      },
+      "featuredContent": {
+        "label": "Istaknuti sadržaj",
+        "helperText": "Istaknite određenu dokumentaciju, aplikacije i podatke povezane sa vašim projektom. Možete da istaknete do 4 stavke."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naziv projekta",
+        "requiredError": "Ime projekta je obavezno polje"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Navedite kako će vaš projekat ostvariti svoje ciljeve. Razmotrite da uključite relevantne pozadinske informacije i promene koje se očekuju kao rezultat projekta."
+      },
+      "summary": {
+        "label": "Svrha",
+        "helperText": "Ukratko rezimirajte ciljeve vašeg projekta."
+      },
+      "access": {
+        "itemType": "Projekat"
+      },
+      "groups": {
+        "label": "Deli sa...",
+        "viewGroup": "(Prikaz grupe)",
+        "editGroup": "(Izmeni grupu)"
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Podesite sličicu da predstavlja ovaj projekta u ArcGIS Online kao i u pretrazi i galerijama.",
+        "sizeDescription": "Preporučene dimenzije: 760 x 505 ili veće"
+      },
+      "featuredImage": {
+        "label": "Istaknuta slika",
+        "helperText": "Izaberite sliku za prikaz vašeg rada na rasporedu projekta.",
+        "sizeDescription": "Veličina datoteke ne može da prekorači 10 MB. Preporučene dimenzije: 718 x 478 ili veće",
+        "altText": {
+          "label": "Alternativni tekst",
+          "helperText": "Obezbedite kratki opsi vaše slike za osobe koje koriste čitače ekrana. Ostavite prazno da naznačite da je slika dekorativna."
+        }
+      },
+      "tags": {
+        "label": "Oznake",
+        "helperText": "Oznake se koriste u katalozima za pretragu kao pomoć ostalima da pronađu ovaj projekat. Dodajte tekst i izaberite unos za kreirnaje novih oznaka."
+      },
+      "categories": {
+        "label": "Kategorije",
+        "helperText": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ovog projekta. One se postavljaju od strane vaše ArcGIS Online organizacije."
+      },
+      "status": {
+        "label": "Status projekta",
+        "enum": {
+          "notStarted": {
+            "label": "Nije započeto"
+          },
+          "inProgress": {
+            "label": "U toku"
+          },
+          "onHold": {
+            "label": "Na čekanju"
+          },
+          "complete": {
+            "label": "Završi"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Deljenje"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Detalji"
+      },
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "location": {
+        "label": "Lokacija",
+        "helperText": "Prikaz geografske oblasti u kojoj će se ova inicijativa obaviti (kao prikaz na rasporedu inicijativa)."
+      },
+      "sharing": {
+        "label": "Deljenje"
+      },
+      "featuredContent": {
+        "label": "Istaknuti sadržaj",
+        "helperText": "Istaknite određenu dokumentaciju, aplikacije i podatke povezane sa vašim projektom. Možete da istaknete do 4 stavke."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naziv inicijative",
+        "requiredError": "Naziv inicijative je obavezan."
+      },
+      "summary": {
+        "label": "Svrha",
+        "helperText": "Ukratko rezimirajte ciljeve vaše inicijative."
+      },
+      "access": {
+        "itemType": "Inicijativa"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Navedite više konteksta koji bi mogao biti od pomoći kada tražite ovu inicijativu."
+      },
+      "tags": {
+        "label": "Oznake",
+        "helperText": "Oznake se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ove inicijative. Dodajte tekst i izaberite unos za kreirnaje novih oznaka."
+      },
+      "categories": {
+        "label": "Kategorije",
+        "helperText": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ove inicijative. One se postavljaju od strane vaše ArcGIS Online organizacije."
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Podesite sličicu da predstavlja ovu inicijativu u ArcGIS Online kao i u pretrazi i galerijama."
+      },
+      "groups": {
+        "label": "Deli sa...",
+        "viewGroup": "(Prikaz grupe)",
+        "editGroup": "(Izmeni grupu)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Deljenje"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Detalji"
+      },
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "location": {
+        "label": "Lokacija"
+      },
+      "settings": {
+        "label": "Podešavanje diskusije"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naslov",
+        "requiredError": "Ime table za diskusiju je obavezno."
+      },
+      "prompt": {
+        "label": "Odziv",
+        "helperText": "Ukratko opišite šta želite da učesnici podnesu na ovoj diskusionoj tabli.",
+        "requiredError": "Odziv je obavezno polje"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Navedite više konteksta koji bi mogao biti od pomoći kada tražite ovu ploču."
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Odaberite sliku da predstavite Vašu diskusiju."
+      },
+      "summary": {
+        "label": "Svrha",
+        "helperText": "Ukratko opišite svrhu ove diskusione table koja je od pomoći kada delite vezu sa drugima."
+      },
+      "featuredImage": {
+        "label": "Istaknuta slika",
+        "sizeDescription": "Maksimalna veličina je 10mb, JPEG, JPG ili PNG",
+        "altText": {
+          "label": "Alternativni tekst",
+          "helperText": "Obezbedite kratki opsi vaše slike za osobe koje koriste čitače ekrana. Ostavite prazno da naznačite da je slika dekorativna."
+        },
+        "name": {
+          "label": "Ime snimka"
+        }
+      },
+      "tags": {
+        "label": "Oznake"
+      },
+      "categories": {
+        "label": "Kategorije"
+      },
+      "discussable": {
+        "label": "Da li je diskusija dozvoljena?",
+        "enabled": {
+          "label": "Da, diskusija je dozvoljena",
+          "description": "Da, diskusija je dozvoljena"
+        },
+        "disabled": {
+          "label": "Ne, diskusija je blokirana",
+          "description": "Uklonite ovu mogućnost za nove objave, odgovore, i reakcije koji se dodaju. Ne briše prethodno učešće."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "location": {
+        "label": "Lokacija",
+        "helperText": "Prikažite geografsko područje na koje se odnosi ovaj sajt."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Ime sajta",
+        "requiredError": "Ime sajta je obavezno polje"
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Podesite sličicu da predstavlja ovaj sajt u ArcGIS Online kao i u pretrazi i galerijama."
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Opis sajta."
+      },
+      "summary": {
+        "label": "Rezime",
+        "helperText": "Ukratko rezimirajte sajt."
+      },
+      "tags": {
+        "label": "Oznake",
+        "helperText": "Oznake se koriste u katalozima za pretragu kao pomoć ostalima da pronađu ovaj sajt. Dodajte tekst i izaberite unos za kreirnaje novih oznaka."
+      },
+      "categories": {
+        "label": "Kategorije",
+        "helperText": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ovog sajta. One se postavljaju od strane vaše ArcGIS Online organizacije."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Podesite vidljivost",
+          "helperText": "Kontrolišite ko može da vidi dugmad za praćenje. Ovo podešavanje se primenjuje i na dugme za praćenje radnje koja se odvija na datoj stranici i na bilo koje dugme za praćenje koje je ugrađeno direktno u raspored.",
+          "private": {
+            "label": "Privatno",
+            "description": "Vlasnik i grupe sa pristupom na sajtu mogu da vide dugmad za praćenje"
+          },
+          "org": {
+            "label": "Organizacija",
+            "description": "Svi članovi sa nalogom za organizaciju i grupe sa pristupom na sajtu mogu da vide dugmad za praćenje"
+          },
+          "public": {
+            "label": "Javno",
+            "description": "Svi mogu da vide dugmad za praćenje"
+          }
+        },
+        "showFollowAction": {
+          "label": "Pratite radnju",
+          "helperText": "Dodajte dugme za praćenje u meni radnji na stranici, koje ostaje vidljivo dok korisnici listaju kroz raspored."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "location": {
+        "label": "Lokacija",
+        "helperText": "Prikažite geografsko područje na koje se odnosi ova stranica."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naziv stranice",
+        "requiredError": "Ime projekta je obavezno polje"
+      },
+      "description": {
+        "label": "Opis",
+        "helperText": "Opis ove stranice."
+      },
+      "summary": {
+        "label": "Rezime",
+        "helperText": "Ukratko rezimirajte stranicu."
+      },
+      "tags": {
+        "label": "Oznake",
+        "helperText": "Oznake se koriste u katalozima za pretragu kao pomoć ostalima da pronađu ovu stranicu. Dodajte tekst i izaberite unos za kreirnaje novih oznaka."
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Podesite sličicu da predstavlja ovu stranicu u ArcGIS Online kao i u pretrazi i galerijama."
+      },
+      "categories": {
+        "label": "Kategorije",
+        "helperText": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ove stranice. One se postavljaju od strane vaše ArcGIS Online organizacije."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Naslov",
+        "hint": "Precizni naslovi povećaće otkrivanje na vašem sadržaju.",
+        "requiredError": "Naslov je obavezno polje"
+      },
+      "summary": {
+        "label": "Rezime",
+        "hint": "Ukratko rezimirajte Vaš sadržaj. Savet: Poboljšajte SEO korišćenjem reči koje se razlikuju od \"Naslova\" ili \"Oznaka\"."
+      },
+      "description": {
+        "label": "Opis",
+        "hint": "Dodajte dodatne detlje koji objašnjavaju Vaš sadržaj. Ciljajte na 7.-9. nivo čitanja da biste dosegli do široke publike. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Upotrebite besplatan alat za analizu čitanja da biste testirali svoj tekst</a>."
+      },
+      "tags": {
+        "label": "Oznake",
+        "hint": "Oznake se koriste u katalozima za pretragu kao pomoć ostalima da pronađu ovaj sadržaj. Dodajte tekst i izaberite unos za kreirnaje novih oznaka."
+      },
+      "categories": {
+        "label": "Kategorije",
+        "agolHint": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ovog sadržaja. One se postavljaju od strane vaše ArcGIS Online organizacije.",
+        "enterpriseHint": "Kategorije se koriste u katalozima za pretragu kao pomoć ostalima za pronalaženje ovog sadržaja. Postavljeni su od strane Vaše ArcGIS Enterprise organizacije.",
+        "agolNoCategoryHint": "Savet: Kategorije su dostupne samo ako su postavljene od strane Vaše organizacije u ArcGIS Oonline organizaciji.",
+        "enterpriseNoCategoryHint": "Savet: Kategorije su dostupne samo ako ih vaša organizacija postavi u ArcGIS Enterprise organizaciji."
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Podesite sličicu da predstavlja ovu stavku u ArcGIS Online kao i u pretrazi i galerijama."
+      },
+      "license": {
+        "label": "Uslovi korišćenja",
+        "helperText": "Manje ograničenja promoviše više ponovne upotrebe."
+      },
+      "serverExtractCapability": {
+        "label": "Funkcija izvlačenja (izvoz podataka)",
+        "helperText": "Omogućuje \"izvlačenje\" usluge na ovoj stavci. Isečak podržava dodatne formate."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Hostovana preuzimanja",
+        "helperText": "Kreira datoteke za preuzimanje direktno sa hostovanog servisa. Time se poboljšavaju performanse prilikom preuzimanja sadržaja, kao što su slojevi geoobjekata i tabele. Da biste omogućili hostovana preuzimanja, morate da omogućite mogućnosti izdvajanja."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Osnovne informacije",
+        "message": "Ove informacije se koriste za popunjavanje rezultata pretraživanja, kartica galerije i prikazuju se u prikazu detalja."
+      },
+      "about": {
+        "title": "Informacije o sadržaju",
+        "message": "Prva dva reda opisa su ono što se prikazuje u rezultatima pretrage, ali ceo opis će biti prikazan u fokusiranim prikazima sadržaja."
+      },
+      "image": {
+        "title": "Istaknuta slika",
+        "message": "Imati dobro istaknutu sliku ili sličicu važno je kada prikazujete svoj sadržaj u našim galerijama ili na pogledima koji ističu slike kao što su inicijative, događaji i ankete. Preporučena veličina je 760x505. Ako se vaša slika prikazuje mutno na rutama uživo, razmislite o zameni sličice većom."
+      },
+      "location": {
+        "label": "Lokacija",
+        "helperText": "Prikaz geografske oblasti u kojoj će se ovaj sadržaj objaviti (kao prikaz na izgledu sadržaja)."
+      },
+      "downloads": {
+        "label": "Preuzimanja",
+        "helperText": "Konfigurišite formate preuzimanja, raspored ažuriranja keširanih datoteka i još mnogo toga. Za više detalja pogledajte <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">preuzmite dokumentaciju.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} preostalo karaktera"
+    },
+    "imageThumbnail": {
+      "label": "Sličica",
+      "upload": "Otpremi snimak",
+      "done": "Završeno",
+      "editThumbnail": "Izmeni sličicu",
+      "browse": "Potraži sliku",
+      "remove": "Ukloni sliku",
+      "edit": "Izmeni snimak",
+      "defaultHeading": "Dodajte sličicu",
+      "dropHeading": "Otpustite da biste otpremili",
+      "errorHeading": "Pokušajte sa drugom slikom",
+      "subheading": "Maks. veličina je {size}, {types}",
+      "zoomOut": "umanji",
+      "zoomIn": "uvećaj",
+      "drag": "Prevucite da biste promenili mesto",
+      "urlPlaceholder": "Podržani tipovi: {types}",
+      "browseForImage": "Potražite sliku",
+      "aria": {
+        "container": "Oblast slike",
+        "crop": "Oblast za isecanje",
+        "handle": {
+          "top": "Promeni veličinu gore",
+          "right": "Promeni veličinu desno",
+          "left": "Promeni veličinu levo",
+          "bottom": "Promeni veličinu dole"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Detalji"
+      },
+      "basicInfo": {
+        "label": "Osnovne informacije"
+      },
+      "membershipAccess": {
+        "label": "Pristup članstvu"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naziv grupe",
+        "requiredError": "Naziv grupe je obavezno polje"
+      },
+      "summary": {
+        "label": "Rezime"
+      },
+      "access": {
+        "itemType": "Grupiši"
+      },
+      "_thumbnail": {
+        "label": "Sličica",
+        "helperText": "Odaberite sliku da predstavite Vašu grupu na grupnom profilu.",
+        "sizeDescription": "Veličina ne može da prekorači 10 MB. Preporučena dimenzija: 400 x 400 ili više"
+      },
+      "membershipAccess": {
+        "label": "Ko može da bude u ovoj grupi?",
+        "org": "Samo članovi moje organizacije",
+        "collab": "Samo članovi iz partnerske saradnje i moje organizacije",
+        "any": "Članovi bilo koje organizacije"
+      },
+      "contributeContent": {
+        "label": "Ko može da dodaje sadržaj?",
+        "all": "Svi članovi grupe",
+        "admins": "Vlasnik i upravljači grupom"
+      }
+    }
+  }
+}

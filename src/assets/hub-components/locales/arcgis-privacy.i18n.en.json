@@ -1,0 +1,26 @@
+{
+  "managePrivacyButton": "Manage Privacy",
+  "privacyPolicy": "This site was built with ArcGIS Hub and uses anonymous tracking to improve performance and analyze site usage in accordance with Esri's Privacy Statement.",
+  "notice": {
+    "heading": "Privacy settings",
+    "acceptAllButton": "Accept all cookies",
+    "acceptNecessaryButton": "Accept only necessary cookies",
+    "reviewSettingsButton": "Review settings"
+  },
+  "settings": {
+    "heading": "Privacy preference center",
+    "confirmButton": "Confirm"
+  },
+  "anonymous": {
+    "heading": "Anonymous usage statistics",
+    "helpText": "Need verbiage here for anonymous usage statistics."
+  },
+  "necessary": {
+    "heading": "Strictly necessary cookies",
+    "helpText": "Need verbiage here for strictly necessary cookies."
+  },
+  "thirdParty": {
+    "heading": "Third-party tracking",
+    "helpText": "Need verbiage here for third-party tracking."
+  }
+}

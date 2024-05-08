@@ -1,0 +1,14 @@
+{
+  "description": "Vyberte na priblíženie k lokalite",
+  "displayField.existing": "Existujúca lokalita",
+  "displayField.added": "Pridaná lokalita",
+  "displayField.existing.area": "Existujúca oblasť",
+  "displayField.added.area": "Pridaná oblasť",
+  "point": "Bod",
+  "line": "Čiara",
+  "area": "Oblasť",
+  "viewAll": "Zobraziť všetky lokality",
+  "viewLess": "Zobraziť menej lokalít",
+  "action.update": "Aktualizovať lokalitu",
+  "action.remove": "Odstrániť lokalitu"
+}

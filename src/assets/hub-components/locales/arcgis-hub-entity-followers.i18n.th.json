@@ -1,0 +1,26 @@
+{
+  "followers": "ผู้ติดตาม",
+  "tabs": {
+    "followers": "ผู้ติดตาม",
+    "settings": "การตั้งค่า"
+  },
+  "addFollowers": {
+    "label": "เพิ่มผู้ติดตาม"
+  },
+  "emptyState": {
+    "message": "ขณะนี้คุณไม่มีกลุ่มผู้ติดตาม"
+  },
+  "restrictedAccessState": {
+    "message": "คุณไม่สามารถเข้าถึงได้"
+  },
+  "stats": {
+    "total": {
+      "title": "รวม",
+      "trailingText": "ผู้ติดตาม"
+    },
+    "new": {
+      "title": "ใหม่",
+      "trailingText": "30 วันที่แล้ว"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Soubor nahrajte jeho přetažením",
+  "imageHeading": "Nahrát obrázek",
+  "selectedHeading": "Vybraný soubor",
+  "maxSizeAndSupportedTypes": "Max. velikost je {maxSize} MB, {fileTypes}",
+  "maxSize": "Max. velikost je {maxSize} MB",
+  "recommendedDimensions": "Doporučené rozměry {recommendedDimensions}",
+  "linkText": "Zobrazit seznam podporovaných souborů",
+  "contentButton": "Vyhledat soubor",
+  "imageButton": "Vyhledat obrázek",
+  "clearButton": "Vymazat vybrané",
+  "errorHeading": "Chyba",
+  "fileTooLargeError": "Soubor příliš velký",
+  "multipleFilesError": "Nelze nahrát více souborů najednou",
+  "unsupportedFileTypeError": "Tento typ souboru není podporován"
+}

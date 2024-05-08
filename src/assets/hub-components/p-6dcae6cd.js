@@ -1,0 +1,1 @@
+import{c as r}from"./p-637ea136.js";var e=new RegExp(/.+(?:map|feature|image)server/i);function a(a){var n=a.match(e);return n?n[0]:function(e){var a=e.split("?")[0];return r(a)}(a)}export{a as p}

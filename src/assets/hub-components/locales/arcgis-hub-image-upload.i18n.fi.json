@@ -1,0 +1,15 @@
+{
+  "done": "Valmis",
+  "cancel": "Peruuta",
+  "dragDrop": "Vedä ja pudota JPG-, PNG- tai GIF-tiedosto.",
+  "browse": "Selaa...",
+  "chooseDiff": "Valitse eri kuva",
+  "zoom": "Tarkenna:",
+  "bestSize": "Parhaan tuloksen saavuttamiseksi kuvan on oltava kooltaan 300 x 300 pikseliä.",
+  "close": "Sulje",
+  "or": "tai",
+  "fromMap": "Luo pikkukuva kartasta",
+  "fromMapDesc": "Luo mukautettu pikkukuva määrittämällä laajuus ja zoomaustaso",
+  "changeBasemap": "Muuta taustakarttaa",
+  "loading": "Ladataan"
+}

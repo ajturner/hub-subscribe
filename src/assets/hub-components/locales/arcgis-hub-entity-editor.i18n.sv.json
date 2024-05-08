@@ -1,0 +1,494 @@
+{
+  "success": "Ändringarna har sparats",
+  "error": "Fel när ändringarna sparades",
+  "create": "Skapa",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Ingen plats",
+        "org": "Organisationens utbredning",
+        "custom": "Anpassad plats",
+        "customDescription": "Rita en eller flera platser",
+        "itemExtent": "Objektets aktuella utbredning"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Delning"
+        },
+        "catalog": {
+          "myContent": "Mitt innehåll",
+          "favorites": "Favoriter",
+          "organization": "Organisation",
+          "world": "Världen (Offentlig)"
+        },
+        "collection": {
+          "appsAndMaps": "Appar och kartor",
+          "dataset": "Data",
+          "documents": "Dokument",
+          "feedback": "Synpunkter",
+          "sites": "Webbplatser"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Information"
+      },
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "location": {
+        "label": "Plats",
+        "helperText": "Visa det geografiska område där det här projektet kommer att äga rum (ska visas på projektlayouten)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Delning"
+      },
+      "timeline": {
+        "label": "Tidslinje"
+      },
+      "searchDiscoverability": {
+        "label": "Sökning och upptäckbarhet"
+      },
+      "featuredContent": {
+        "label": "Innehåll som visas",
+        "helperText": "Markera specifika dokument, appar och data relaterat till ditt projekt. Du kan ha med upp till fyra objekt."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projektnamn",
+        "requiredError": "Projektnamn är ett obligatoriskt fält"
+      },
+      "description": {
+        "label": "Beskrivning",
+        "helperText": "Ange hur ditt projekt ska nå målen. Överväg att inkludera relevant bakgrundsinformation och förväntade förändringar till följd av projektet."
+      },
+      "summary": {
+        "label": "Syfte",
+        "helperText": "Summera kort målen för ditt projekt."
+      },
+      "access": {
+        "itemType": "Projekt"
+      },
+      "groups": {
+        "label": "Dela med...",
+        "viewGroup": "(Visa grupp)",
+        "editGroup": "(Redigera grupp)"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Ange en miniatyrbild som ska representera det här projektet i ArcGIS Online samt i sökningar och gallerier.",
+        "sizeDescription": "Rekommenderat format: 760 x 505 eller större"
+      },
+      "featuredImage": {
+        "label": "Bild i fokus",
+        "helperText": "Välj en bild som ska representera ditt arbete på projektlayouten.",
+        "sizeDescription": "Maximal filstorlek är 10 MB. Rekommenderat format: 718 x 478 eller större",
+        "altText": {
+          "label": "Alt. text",
+          "helperText": "Ge en kort beskrivning av din bild för dem som använder skärmläsare. Lämna tomt för att ange att bilden är dekorativ."
+        }
+      },
+      "tags": {
+        "label": "Taggar",
+        "helperText": "Taggar används i sökkataloger för att göra det lättare för andra att hitta det här projektet. Lägg till text och tryck på Enter för att skapa nya taggar."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta det här projektet. De ställs in av din ArcGIS Online-organisation."
+      },
+      "status": {
+        "label": "Projektstatus",
+        "enum": {
+          "notStarted": {
+            "label": "Inte startad"
+          },
+          "inProgress": {
+            "label": "Pågår"
+          },
+          "onHold": {
+            "label": "Väntande"
+          },
+          "complete": {
+            "label": "Fullständig"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Delning"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Information"
+      },
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "location": {
+        "label": "Plats",
+        "helperText": "Visa det geografiska område där det här initiativet kommer att äga rum (ska visas på initiativlayouten)."
+      },
+      "sharing": {
+        "label": "Delning"
+      },
+      "featuredContent": {
+        "label": "Aktuellt innehåll",
+        "helperText": "Markera specifika dokument, appar och data relaterat till ditt projekt. Du kan ha med upp till fyra objekt."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Initiativets namn",
+        "requiredError": "Initiativnamn är ett obligatoriskt fält"
+      },
+      "summary": {
+        "label": "Syfte",
+        "helperText": "Summera kort målen för ditt initiativ."
+      },
+      "access": {
+        "itemType": "Initiativ"
+      },
+      "description": {
+        "label": "Beskrivning",
+        "helperText": "Ange mer kontext som kan vara användbar vid sökning efter det här initiativet."
+      },
+      "tags": {
+        "label": "Taggar",
+        "helperText": "Taggar används i sökkataloger för att göra det lättare för andra att hitta det här initiativet. Lägg till text och tryck på Enter för att skapa nya taggar."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta det här initiativet. De ställs in av din ArcGIS Online-organisation."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Ange en miniatyrbild som ska representera det här initiativet i ArcGIS Online samt i sökningar och gallerier."
+      },
+      "groups": {
+        "label": "Dela med...",
+        "viewGroup": "(Visa grupp)",
+        "editGroup": "(Redigera grupp)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Typ",
+          "sharing": "Delning"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Information"
+      },
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "location": {
+        "label": "Plats"
+      },
+      "settings": {
+        "label": "Diskussionsinställningar"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Titel",
+        "requiredError": "Namn på diskussionstavlan är obligatoriskt."
+      },
+      "prompt": {
+        "label": "Prompt",
+        "helperText": "Beskriv kort vad du vill att deltagarna ska skicka in till den här diskussionstavlan.",
+        "requiredError": "Prompt är ett obligatoriskt fält"
+      },
+      "description": {
+        "label": "Beskrivning",
+        "helperText": "Ange mer kontext som kan vara användbar vid sökning efter den här panelen."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Välj en bild som ska representera din diskussion."
+      },
+      "summary": {
+        "label": "Syfte",
+        "helperText": "Beskriv kort syftet med den här diskussionstavlan, vilket är användbart när länken delas med andra."
+      },
+      "featuredImage": {
+        "label": "Bild i fokus",
+        "sizeDescription": "Maximal storlek är 10 MB, JPEG, JPG eller PNG",
+        "altText": {
+          "label": "Alt. text",
+          "helperText": "Ge en kort beskrivning av din bild för dem som använder skärmläsare. Lämna tomt för att ange att bilden är dekorativ."
+        },
+        "name": {
+          "label": "Bildnamn"
+        }
+      },
+      "tags": {
+        "label": "Taggar"
+      },
+      "categories": {
+        "label": "Kategorier"
+      },
+      "discussable": {
+        "label": "Diskussion tillåtet?",
+        "enabled": {
+          "label": "Ja, diskussion är tillåtet",
+          "description": "Deltagarna kan lägga till poster, svar och reaktioner i den här diskussionstavlan."
+        },
+        "disabled": {
+          "label": "Nej, diskussion är blockerat",
+          "description": "Tar bort möjligheten att lägga till nya poster, svar och reaktioner. Det tar inte bort tidigare deltagande."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "location": {
+        "label": "Plats",
+        "helperText": "Visa det geografiska område som webbplatsen gäller."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Webbplatsnamn",
+        "requiredError": "Webbplatsnamn är ett obligatoriskt fält"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Ange en miniatyrbild som ska representera den här webbplatsen i ArcGIS Online samt i sökningar och gallerier."
+      },
+      "description": {
+        "label": "Beskrivning",
+        "helperText": "Webbplatsens beskrivning."
+      },
+      "summary": {
+        "label": "Sammanfattning",
+        "helperText": "Summera kort webbplatsen."
+      },
+      "tags": {
+        "label": "Taggar",
+        "helperText": "Taggar används i sökkataloger för att göra det lättare för andra att hitta den här webbplatsen. Lägg till text och tryck på Enter för att skapa nya taggar."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta den här webbplatsen. De ställs in av din ArcGIS Online-organisation."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Ange synlighet",
+          "helperText": "Styr vem som kan se följknappar. Den här inställningen gäller för både den flytande följknappen för åtgärd på sidan och eventuella följknappar som är inbäddade direkt i layouten.",
+          "private": {
+            "label": "Privat",
+            "description": "Webbplatsägaren och grupper med åtkomst kan se följknapparna"
+          },
+          "org": {
+            "label": "Organisation",
+            "description": "Alla medlemmar med ett konto för webbplatsens organisation och grupper med åtkomst kan se följknapparna"
+          },
+          "public": {
+            "label": "Offentlig",
+            "description": "Alla kan se följknapparna"
+          }
+        },
+        "showFollowAction": {
+          "label": "Följ-åtgärd",
+          "helperText": "Lägg till en följknapp i menyn för åtgärder på sidan, som förblir synlig när användare bläddrar igenom layouten."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "location": {
+        "label": "Plats",
+        "helperText": "Visa det geografiska område som sidan gäller."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Sidnamn",
+        "requiredError": "Sidnamn är ett obligatoriskt fält"
+      },
+      "description": {
+        "label": "Beskrivning",
+        "helperText": "Beskrivning av sidan"
+      },
+      "summary": {
+        "label": "Sammanfattning",
+        "helperText": "Summera kort sidan."
+      },
+      "tags": {
+        "label": "Taggar",
+        "helperText": "Taggar används i sökkataloger för att göra det lättare för andra att hitta den här sidan. Lägg till text och tryck på Enter för att skapa nya taggar."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Ange en miniatyrbild som ska representera den här sidan i ArcGIS Online samt i sökningar och gallerier."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta den här sidan. De ställs in av din ArcGIS Online-organisation."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Titel",
+        "hint": "Konkreta titlar gör att saker upptäcks lättare i ditt innehåll.",
+        "requiredError": "Titel är ett obligatoriskt fält"
+      },
+      "summary": {
+        "label": "Sammanfattning",
+        "hint": "Summera kort ditt innehåll. Tips! Förbättra SEO genom att använda nyckelord som avviker från \"titel\" eller \"taggar\"."
+      },
+      "description": {
+        "label": "Beskrivning",
+        "hint": "Lägg till ytterligare information som förklarar ditt innehåll. Sikta på en läsbarhet för 7:e-9:e klass om du vill nå en bredare publik. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Använd ett kostnadsfritt analysverktyg för att testa din text</a>."
+      },
+      "tags": {
+        "label": "Taggar",
+        "hint": "Taggar används i sökkataloger för att göra det lättare för andra att hitta det här innehållet. Lägg till text och tryck på Enter för att skapa nya taggar."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "agolHint": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta det här innehållet. De ställs in av din ArcGIS Online-organisation.",
+        "enterpriseHint": "Kategorierna används i sökkataloger för att göra det lättare för andra att hitta det här innehållet. De anges av din ArcGIS Enterprise-organisation.",
+        "agolNoCategoryHint": "Tips! Kategorier är endast tillgängliga om de ställts in av din organisation i ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Tips! Kategorier är endast tillgängliga om de ställts in av din organisation i ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Ange en miniatyrbild som ska representera det här objektet i ArcGIS Online samt i sökningar och gallerier."
+      },
+      "license": {
+        "label": "Användarvillkor",
+        "helperText": "Färre restriktioner leder till mer återanvändning."
+      },
+      "serverExtractCapability": {
+        "label": "Funktionen Extrahera (exportera data)",
+        "helperText": "Aktiverar funktionen \"extrahera\" för den här objekttjänsten. Extrahera stöder ytterligare format."
+      },
+      "hostedDownloads": {
+        "label": "(Betaversion) Driftade hämtningar",
+        "helperText": "Skapa hämtningsfiler direkt från en driftad tjänst. Detta förbättrar prestandan när du hämtar innehåll som geoobjektslager och tabeller. För att aktivera driftade hämtningar måste Extrahera funktioner vara aktiverat."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Grundinformation",
+        "message": "Den här informationen används för att fylla i sökresultat och gallerikort. Dessutom visas den i informationsvyn."
+      },
+      "about": {
+        "title": "Om innehåll",
+        "message": "De två första raderna i din beskrivning visas i sökresultat, men hela beskrivningen visas i fokuserade innehållsvyer."
+      },
+      "image": {
+        "title": "Bild i fokus",
+        "message": "Det är viktigt att ha en bra bild eller miniatyrbild i fokus när du visar upp ditt innehåll i våra gallerier eller i vyer som initiativ, evenemang och undersökningar där bilder lyfts fram. Rekommenderad storlek är 760 x 505. Överväg att ersätta miniatyrbilden med en större bild om den ser suddig ut när den visas live."
+      },
+      "location": {
+        "label": "Plats",
+        "helperText": "Visa det geografiska område där det här innehållet kommer att äga rum (ska visas på innehållslayouten)."
+      },
+      "downloads": {
+        "label": "Hämtningsbara filer",
+        "helperText": "Konfigurera hämtningsformat, schema för uppdatering av cachelagrade filer och mer. Se <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">hämtningsdokumentation</calcite-link> för mer information."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} tecken kvar"
+    },
+    "imageThumbnail": {
+      "label": "Miniatyrbild",
+      "upload": "Överför bild",
+      "done": "Klart",
+      "editThumbnail": "Redigera miniatyrbild",
+      "browse": "Bläddra efter bild",
+      "remove": "Ta bort bild",
+      "edit": "Redigera bild",
+      "defaultHeading": "Lägg till miniatyrbild",
+      "dropHeading": "Släpp för att överföra",
+      "errorHeading": "Försök med en annan bild",
+      "subheading": "Maximal storlek är {size}, {types}",
+      "zoomOut": "zooma ut",
+      "zoomIn": "zooma in",
+      "drag": "Dra för att ändra position",
+      "urlPlaceholder": "Typer som stöds: {types}",
+      "browseForImage": "Bläddra efter bild",
+      "aria": {
+        "container": "Bildområde",
+        "crop": "Beskärningsområde",
+        "handle": {
+          "top": "Ändra storlek överkant",
+          "right": "Ändra storlek höger",
+          "left": "Ändra storlek vänster",
+          "bottom": "Ändra storlek nederkant"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Information"
+      },
+      "basicInfo": {
+        "label": "Grundinformation"
+      },
+      "membershipAccess": {
+        "label": "Medlemskapsåtkomst"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Gruppnamn",
+        "requiredError": "Gruppnamn är ett obligatoriskt fält"
+      },
+      "summary": {
+        "label": "Sammanfattning"
+      },
+      "access": {
+        "itemType": "Grupp"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbild",
+        "helperText": "Välj en bild som ska representera din grupp i grupprofilen.",
+        "sizeDescription": "Maximal storlek är 10 MB. Rekommenderad storlek: 400 x 400 eller större"
+      },
+      "membershipAccess": {
+        "label": "Vem kan vara med i denna grupp?",
+        "org": "Endast medlemmar i min organisation",
+        "collab": "Endast medlemmar i partnersamarbete och min organisation",
+        "any": "Medlemmar i alla organisationer"
+      },
+      "contributeContent": {
+        "label": "Vem kan bidra med innehåll?",
+        "all": "Alla gruppmedlemmar",
+        "admins": "Gruppens ägare och ledare"
+      }
+    }
+  }
+}

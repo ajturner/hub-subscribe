@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "未指定的通道",
+  "name": {
+    "label": "名稱",
+    "placeholder": "{prefix} 通道"
+  },
+  "save": "儲存",
+  "access": {
+    "private": {
+      "label": "私有",
+      "description": "選定群組可參與"
+    },
+    "organization": {
+      "label": "我的組織",
+      "description": "擁有 {orgName} 帳號的所有成員都可以參與",
+      "disabledTooltip": "只有組織管理員可以建立組織通道。"
+    },
+    "public": {
+      "label": "公共",
+      "description": "擁有帳號的任何人都可以參與",
+      "disabledTooltip": "只有組織管理員可以建立公開通道。"
+    },
+    "allowAnonymous": "允許匿名",
+    "confirmation": {
+      "header": "是否確定？",
+      "message": "儲存這些變更將移除您對此通道的編輯存取權。 只有組織管理員可以編輯公用或組織通道。",
+      "secondary": "取消",
+      "primary": "確認"
+    }
+  },
+  "participants": {
+    "label": "參與者",
+    "helperText": "可以檢視並參與討論的人員。",
+    "none": "未設定參與者",
+    "add": "新增參與者群組"
+  },
+  "groupPicker": {
+    "title": "選擇群組",
+    "facet": {
+      "label": "從",
+      "myGroup": "我的群組",
+      "myOrganization": "我的組織",
+      "myCommunity": "我的社群"
+    }
+  },
+  "blockWords": {
+    "label": "已封鎖單字",
+    "helperText": "逗號分隔清單。 將自動隱藏包含它們的貼文和回覆。"
+  },
+  "manage": {
+    "label": "管理和中度",
+    "helperText": "根據上面的參與選擇以自動指派這些人可以參與、隱藏或顯示貼文，以及管理通道設定。"
+  },
+  "manager": "管理員",
+  "admin": "管理員",
+  "viewProfile": "檢視設定檔",
+  "alerts": {
+    "error": "儲存通道時出錯",
+    "success": "已成功儲存通道",
+    "label": "表格警示"
+  },
+  "validations": {
+    "minChannelGroups": "私人通道需要至少一個參與者群組。"
+  },
+  "notices": {
+    "edit": "編輯內容將影響使用此通道的所有地方",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "未建立通道",
+          "message": "已存在具有這些存取選擇的通道。 使用現有通道或修改選擇。"
+        }
+      },
+      "update": {
+        "error": {
+          "title": "通道未更新",
+          "message": "已存在具有這些存取選擇的通道，因此我們無法儲存這些更新。"
+        }
+      },
+      "action": "使用現有通道"
+    },
+    "inaccessibleGroups": {
+      "title": "不可用的群組: {count}",
+      "message": "除非您是成員，否則您無法檢視或管理不可用的群組。"
+    }
+  }
+}

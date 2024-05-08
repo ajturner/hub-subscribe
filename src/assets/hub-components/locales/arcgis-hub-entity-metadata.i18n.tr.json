@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Sahip"
+  },
+  "updatedDate": {
+    "description": "Güncellenme tarihi"
+  },
+  "createdDate": {
+    "description": "Yayınlandı"
+  },
+  "access": {
+    "label": {
+      "public": "Genel",
+      "org": "Kuruluş",
+      "private": "Sahip",
+      "shared": "Özel olarak paylaşılmış"
+    },
+    "description": {
+      "public": {
+        "site": "Bu siteyi herkes görebilir",
+        "project": "Bu projeyi herkes görebilir",
+        "initiative": "Bu inisiyatifi herkes görebilir",
+        "discussion": "Bu tartışmayı herkes görebilir",
+        "default": "Bu içeriği herkes görebilir"
+      },
+      "org": {
+        "site": "Bu siteyi kuruluşunuzdaki herkes görebilir",
+        "project": "Bu projeyi kuruluşunuzdaki herkes görebilir",
+        "initiative": "Bu inisiyatifi kuruluşunuzdaki herkes görebilir",
+        "discussion": "Bu tartışmayı kuruluşunuzdaki herkes görebilir",
+        "default": "Bu içeriği kuruluşunuzdaki herkes görebilir"
+      },
+      "private": {
+        "site": "Bu siteyi yalnızca siz görebilirsiniz",
+        "project": "Bu projeyi sadece siz görebilirsiniz",
+        "initiative": "Bu inisiyatifi sadece siz görebilirsiniz",
+        "discussion": "Bu tartışmayı yalnızca siz görebilirsiniz",
+        "default": "Bu içeriği sadece siz görebilirsiniz"
+      },
+      "shared": {
+        "site": "Bu siteyi seçili gruplar görebilir",
+        "project": "Bu projeyi seçili gruplar görebilir",
+        "initiative": "Bu inisiyatifi seçili gruplar görebilir",
+        "discussion": "Bu tartışmayı seçili gruplar görebilir",
+        "default": "Bu içeriği seçili gruplar görebilir"
+      }
+    }
+  }
+}

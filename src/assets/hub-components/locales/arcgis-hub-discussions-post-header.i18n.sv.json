@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Endast synligt för medlemmar",
+  "visibleOrg": "Synligt för organisationen",
+  "visibleAll": "Synligt för alla",
+  "anonymous": "Anonymt",
+  "privateUser": "Privat medlem",
+  "noUser": "Inget användarnamn",
+  "orgLabel": "Organisation",
+  "privateOrg": "Privat organisation",
+  "location": "Plats",
+  "profile": "Gå till profilen",
+  "postedIn": "Publicerat i {groupName}",
+  "manageChannel": "Hantera kanal",
+  "information": "Information om inlägg",
+  "group.deleted": "Borttagen grupp",
+  "unnamedChannel": "Namnlös kanal",
+  "replyingTo": "Svarar till {fullName}",
+  "viewPost": "Visa inlägg"
+}

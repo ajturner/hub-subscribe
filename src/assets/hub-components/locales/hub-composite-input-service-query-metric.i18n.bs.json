@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Dijeljenje",
+      "myself": "Ja",
+      "myOrganization": "Moja organizacija",
+      "public": "Svijet (javno)"
+    },
+    "catalog": {
+      "myContent": "Moj sadržaj",
+      "favorites": "Favoriti",
+      "organization": "Moja organizacija",
+      "world": "Svijet (javno)"
+    }
+  },
+  "expression": {
+    "label": "Filtri atributa"
+  },
+  "field": {
+    "label": "Atribut"
+  },
+  "layer": "Sloj / tablica",
+  "statistic": {
+    "label": "Agregacija"
+  }
+}

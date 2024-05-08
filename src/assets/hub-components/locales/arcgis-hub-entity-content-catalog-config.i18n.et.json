@@ -1,0 +1,30 @@
+{
+  "helperText": "Määrake ja konfigureerige kataloog",
+  "sections": {
+    "groups": {
+      "title": "Grupid",
+      "helperText": "Allpool nimetatud grupid sisaldavad teie otsingukataloogi sisu. Grupi sätete, sisu jms vaatamiseks valige grupp.",
+      "createGroup": "Loo uus grupp"
+    },
+    "feeds": {
+      "title": "Voo konfiguratsioon",
+      "helperText": "Muutke oma avalikud avatud andmed Hubi voogude abil hõlpsasti juurdepääsetavaks ja korduskasutatavaks.",
+      "learn": "Teave Hubi voogude kohta",
+      "toggle": "Luba vood ",
+      "configure": "Voogude konfigureerimine",
+      "notice": "Voogude lubamiseks peate esmalt seadma oma Hubi saidi jaotises Seaded olekusse „Avalik“"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Lähtekoht",
+    "editGroups": "Muutke gruppe",
+    "viewGroups": "Kuva grupp",
+    "myGroup": "Minu grupp",
+    "myOrganization": "Minu organisatsioon",
+    "myCommunity": "Minu kogukond"
+  },
+  "formAlert": "Vormi hoiatus",
+  "alertMessages": {
+    "error": "Tõrge muudatuste salvestamisel"
+  }
+}

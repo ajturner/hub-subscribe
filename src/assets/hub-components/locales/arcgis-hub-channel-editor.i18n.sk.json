@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Nepomenovaný kanál",
+  "name": {
+    "label": "Názov",
+    "placeholder": "{prefix} kanál"
+  },
+  "save": "Uložiť",
+  "access": {
+    "private": {
+      "label": "Súkromné",
+      "description": "Zúčastniť sa môžu vybrané skupiny"
+    },
+    "organization": {
+      "label": "Moja organizácia",
+      "description": "Zúčastniť sa môžu všetci členovia s účtom {orgName}",
+      "disabledTooltip": "Kanály organizácie môžu vytvárať iba správcovia organizácie."
+    },
+    "public": {
+      "label": "Verejné",
+      "description": "Zúčastniť sa môže každý, kto má účet",
+      "disabledTooltip": "Verejné kanály môžu vytvárať iba správcovia organizácie."
+    },
+    "allowAnonymous": "Povoliť anonymné",
+    "confirmation": {
+      "header": "Ste si istí?",
+      "message": "Uložením týchto zmien sa zruší váš prístup k editácii tohto kanála. Verejné kanály alebo kanály organizácie môžu editovať iba správcovia organizácie.",
+      "secondary": "Zrušiť",
+      "primary": "Potvrdiť"
+    }
+  },
+  "participants": {
+    "label": "Účastníci",
+    "helperText": "Ľudia, ktorí si môžu diskusiu zobraziť a prispievať do nej.",
+    "none": "Žiadny súbor účastníkov",
+    "add": "Pridať skupinu účastníkov"
+  },
+  "groupPicker": {
+    "title": "Vybrať skupiny",
+    "facet": {
+      "label": "Od",
+      "myGroup": "Moja skupina",
+      "myOrganization": "Moja organizácia",
+      "myCommunity": "Moja komunita"
+    }
+  },
+  "blockWords": {
+    "label": "Zablokované slová",
+    "helperText": "Zoznam oddeľovaný čiarkami. Príspevky a odpovede, ktoré ich obsahujú, budú automaticky skryté."
+  },
+  "manage": {
+    "label": "Spravovať a moderovať",
+    "helperText": "Automaticky priradení na základe výberu účasti vyššie, títo ľudia sa môžu zúčastniť, skrývať alebo zobrazovať príspevky a spravovať nastavenia kanála."
+  },
+  "manager": "Správca",
+  "admin": "Admin",
+  "viewProfile": "Zobraziť profil",
+  "alerts": {
+    "error": "Chyba pri ukladaní kanálu",
+    "success": "Úspešne uložený kanál",
+    "label": "Upozornenie na formulár"
+  },
+  "validations": {
+    "minChannelGroups": "Súkromné kanály vyžadujú aspoň jednu skupinu účastníkov."
+  },
+  "notices": {
+    "edit": "Úpravy sa prejavia všade, kde sa tento kanál používa",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanál nebol vytvorený",
+          "message": "Kanál s týmito možnosťami prístupu už existuje. Použiť existujúci kanál alebo upraviť výber."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanál nebol aktualizovaný",
+          "message": "Kanál s týmito možnosťami prístupu už existuje, takže tieto aktualizácie nemôžeme uložiť."
+        }
+      },
+      "action": "Použiť existujúci kanál"
+    },
+    "inaccessibleGroups": {
+      "title": "Nedostupné skupiny: {count}",
+      "message": "Nedostupné skupiny nemôžete zobraziť ani spravovať, ak nie ste ich členom."
+    }
+  }
+}

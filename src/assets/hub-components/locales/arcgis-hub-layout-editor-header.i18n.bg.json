@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Споделено с организация",
+      "private": "Споделено със собственика",
+      "public": "Споделено публично",
+      "shared": "Споделено със собственик и групи"
+    },
+    "editLayout": "Редактиране на оформление",
+    "lastUpdated": "Последно обновено {updated}",
+    "viewSite": "Преглед на сайт"
+  },
+  "cloneLayoutLabel": "Клониране на оформление",
+  "deletePageLabel": "Изтриване на страница",
+  "deleteSiteLabel": "Изтриване на сайт",
+  "editInAgoLabel": "Редактиране в ArcGIS Online",
+  "managePage": "Управление на страница",
+  "manageSite": "Управление на сайт",
+  "moreOptionsLabel": "Още опции",
+  "publishLabel": "Публикуване",
+  "saveAsTemplateLabel": "Запазване като шаблон",
+  "saveLabel": "Запазване",
+  "sharingLabel": "Отваряне на панел за споделяне",
+  "viewLabel": "Изглед",
+  "viewPublishedLabel": "Преглед на публикуваната чернова",
+  "viewUnpublishedLabel": "Предварителен преглед на публикуваната чернова"
+}

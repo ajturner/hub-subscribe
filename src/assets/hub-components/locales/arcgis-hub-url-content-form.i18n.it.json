@@ -1,0 +1,19 @@
+{
+  "heading": "Aggiungi in base all'URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Imposta manualmente il tipo di file",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Collegamento Web",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Immagine (png, jpg, jpeg)",
+  "invalidFormat": "Erroe: formato non valido",
+  "invalidUrl": "Errore: URL non valido",
+  "recognizedType": "Imposta manualmente il tipo di file"
+}

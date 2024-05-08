@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonimowe",
+  "noUser": "Brak nazwy użytkownika",
+  "privateUser": "Członek prywatny",
+  "privateOrg": "Instytucja prywatna",
+  "org": "Moja instytucja",
+  "orgLabel": "Instytucja",
+  "profile": "Przejdź do profilu",
+  "location": "Lokalizacja",
+  "information": "Informacje o wpisie",
+  "postedIn": "Opublikowany w grupie {groupName}",
+  "replyingTo": "Odpowiadam użytkownikowi: @{username}",
+  "visiblePrivate": "Widoczny tylko dla członków",
+  "visibleOrg": "Widoczny dla instytucji",
+  "visibleAll": "Widoczny dla wszystkich",
+  "manageChannel": "Zarządzaj kanałem",
+  "group.deleted": "Grupa usunięta",
+  "unnamedChannel": "Kanał bez nazwy"
+}

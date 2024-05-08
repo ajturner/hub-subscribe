@@ -1,0 +1,17 @@
+{
+  "summary": "Sammendrag",
+  "description": "Beskrivelse",
+  "details": "Detaljer",
+  "metrics": "Tallmateriale",
+  "metricsDisclaimer": "Viser bare siste 30 dager",
+  "titleOpen": "Åpen diskusjon",
+  "statusOpen": "Åpen for deltakelse",
+  "titleClosed": "Lukket diskusjon",
+  "statusClosed": "Lukket for deltakelse",
+  "tags": "Merker",
+  "categories": "Kategorier",
+  "metric.pageViews": "Sidevisninger",
+  "metric.postCount": "Antall innlegg",
+  "discussion": "Diskusjon",
+  "discussionBoard": "Diskusjonstavle"
+}

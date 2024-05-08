@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Näytä",
+    "hide": "Piilota",
+    "rename": "Nimeä uudelleen"
+  },
+  "formAlert": "Lomakevaroitus",
+  "alertMessages": {
+    "success": "Muokkaukset on tallennettu",
+    "error": "Virhe muokkausten tallennuksessa"
+  },
+  "collectionRenameModal": {
+    "title": "Nimeä kokoelma uudelleen",
+    "fieldLabel": "Kokoelman tunnusteksti",
+    "requiredMessage": "Kokoelman tunnusteksti on pakollinen",
+    "apply": "Käytä"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Aineisto",
+      "hidden": "Aineisto (piilotettu)"
+    },
+    "site": {
+      "visible": "Sivustot",
+      "hidden": "Sivustot (piilotettu)"
+    },
+    "document": {
+      "visible": "Dokumentit",
+      "hidden": "Dokumentit (piilotettu)"
+    },
+    "appAndMap": {
+      "visible": "Sovellukset ja kartat",
+      "hidden": "Sovellukset ja kartat (piilotettu)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (piilotettu)"
+    }
+  },
+  "saveButton": "Tallenna"
+}

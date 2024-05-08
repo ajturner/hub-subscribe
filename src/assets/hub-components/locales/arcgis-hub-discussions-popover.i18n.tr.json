@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonim",
+  "noUser": "Kullanıcı Adı Yok",
+  "privateUser": "Özel Üye",
+  "privateOrg": "Özel Kuruluş",
+  "org": "Kuruluşum",
+  "orgLabel": "Kuruluş",
+  "profile": "Profile git",
+  "location": "Konum",
+  "information": "Gönderi hakkında bilgiler",
+  "postedIn": "{groupName}'da yayımlanmış",
+  "replyingTo": "@{username}'a yanıt veriyor",
+  "visiblePrivate": "Sadece üyeler tarafından görülebilir",
+  "visibleOrg": "Kuruluş tarafından görülebilir",
+  "visibleAll": "Herkes tarafından görülebilir",
+  "manageChannel": "Kanalı Yönet",
+  "group.deleted": "Silinen Grup",
+  "unnamedChannel": "Adlandırılmamış kanal"
+}

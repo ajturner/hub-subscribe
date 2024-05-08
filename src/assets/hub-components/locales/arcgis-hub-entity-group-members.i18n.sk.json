@@ -1,0 +1,24 @@
+{
+  "title": "Členovia",
+  "facets": {
+    "role": {
+      "label": "Rola",
+      "all": "Všetko",
+      "manager": "Správca",
+      "member": "Člen"
+    },
+    "dateJoined": {
+      "label": "Dátum pripojenia"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Celkový počet",
+      "trailingText": "Členovia tímu"
+    },
+    "new": {
+      "title": "Nové",
+      "trailingText": "Posledných 30 dní"
+    }
+  }
+}

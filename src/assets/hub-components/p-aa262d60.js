@@ -1,0 +1,1 @@
+import{g as r}from"./p-796574a4.js";import{d as o}from"./p-af59e67b.js";function a(a,m,p){return Array.isArray(p)&&p.length?(p.forEach((p=>{void 0!==r(a,p)&&o(m,p,r(a,p))})),m):a}export{a as m}

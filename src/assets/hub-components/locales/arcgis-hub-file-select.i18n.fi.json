@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Vedä ja pudota ladattava tiedosto",
+  "imageHeading": "Lataa kuva palveluun",
+  "selectedHeading": "Tiedosto valittu",
+  "maxSizeAndSupportedTypes": "Suurin koko on {maxSize}Mt, {fileTypes}",
+  "maxSize": "Suurin koko on {maxSize}Mt",
+  "recommendedDimensions": "Suositellut ulottuvuudet {recommendedDimensions}",
+  "linkText": "Näytä luettelo tuetuista tiedostoista",
+  "contentButton": "Etsi tiedostoa",
+  "imageButton": "Etsi kuvaa",
+  "clearButton": "Tyhjennä valitut",
+  "errorHeading": "Virhe",
+  "fileTooLargeError": "Tiedosto on liian suuri",
+  "multipleFilesError": "Samalla kertaa ei voi ladata useita tiedostoja",
+  "unsupportedFileTypeError": "Tiedostotyyppiä ei tueta"
+}

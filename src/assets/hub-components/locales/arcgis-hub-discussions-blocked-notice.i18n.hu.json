@@ -1,0 +1,16 @@
+{
+  "post.title": "Utólagos szerkesztés blokkolva",
+  "post.message": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak.",
+  "post.message.item": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak ebben az elemben.",
+  "post.message.group": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak ebben a csoportban.",
+  "reply.title": "Válasz szerkesztése blokkolva",
+  "reply.title.generic": "A beszélgetés blokkolva",
+  "reply.message": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak.",
+  "reply.message.generic": "Jelenleg nem tud válaszokat létrehozni.",
+  "reply.message.item": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak ebben az elemben.",
+  "reply.message.group": "A szerkesztés nem érhető el, amíg a megbeszélések blokkolva vannak ebben a csoportban.",
+  "item.title": "Elem megbeszélése blokkolva",
+  "item.message": "Ez az elem nincs megbeszélésre jóváhagyva.",
+  "group.title": "Csoport megbeszélése blokkolva",
+  "group.message": "Ez a csoport nincs megbeszélésre jóváhagyva."
+}

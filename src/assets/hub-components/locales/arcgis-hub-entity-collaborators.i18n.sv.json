@@ -1,0 +1,52 @@
+{
+  "collaborators": "Samarbetspartner",
+  "editGroupButtonText": "Lägg till redigeringsgrupper",
+  "viewGroupButtonText": "Lägg till visningsgrupper",
+  "groupPicker": {
+    "title": "Välj grupper",
+    "facet": {
+      "label": "Från",
+      "editGroups": "Redigera grupper",
+      "viewGroups": "Visa grupp",
+      "myGroup": "Min grupp",
+      "myOrganization": "Min organisation",
+      "myCommunity": "Min community"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Lägg till nya personer",
+    "message": "Om du behöver lägga till personer kan du bjuda in dem till communityn eller så kan du <orgOverviewLink>kontakta din administratör</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupper som kan redigera",
+  "viewGroupsTitle": "Grupper som kan visa",
+  "project": {
+    "description": "Välj vilka grupper av användare som kan visa och redigera det här projektet.",
+    "editGroupsDescription": "Personerna i dessa grupper kommer att kunna redigera projektinformation.",
+    "viewGroupsDescription": "Personerna i dessa grupper kommer att kunna söka efter och visa projektet, om det inte delas offentligt.",
+    "errorMessage": "Ett fel uppstod vid uppdateringen av samarbetspartnerna för ditt projekt."
+  },
+  "content": {
+    "description": "Välj vilka grupper av användare som kan visa och redigera det här innehållet.",
+    "editGroupsDescription": "Personerna i dessa grupper kommer att kunna redigera innehållsinformation.",
+    "viewGroupsDescription": "Personerna i dessa grupper kommer att kunna söka efter och visa innehållet, om det inte delas offentligt.",
+    "errorMessage": "Ett fel uppstod vid uppdateringen av samarbetspartnerna för ditt innehåll."
+  },
+  "discussion": {
+    "description": "Välj vilka grupper av användare som kan visa och redigera den här diskussionen.",
+    "editGroupsDescription": "Personerna i dessa grupper kommer att kunna redigera diskussionsinformation.",
+    "viewGroupsDescription": "Personerna i dessa grupper kommer att kunna söka efter och visa diskussionen, om den inte delas offentligt.",
+    "errorMessage": "Ett fel uppstod vid uppdateringen av samarbetspartnerna för din diskussion."
+  },
+  "site": {
+    "description": "Välj vilka grupper av användare som kan visa och redigera den här webbplatsen.",
+    "editGroupsDescription": "Personerna i dessa grupper kommer att kunna redigera webbplatsinformation.",
+    "viewGroupsDescription": "Personerna i dessa grupper kommer att kunna söka efter och visa webbplatsen, om den inte delas offentligt.",
+    "errorMessage": "Ett fel uppstod vid uppdateringen av samarbetspartnerna för din webbplats."
+  },
+  "newTab": "öppna profilen i ny flik",
+  "supportingTeams": "Supportteam",
+  "supportingTeamsDesc": "Dessa supportteam var tidigare länkade till din webbplats. Du kan fortsätta att använda dem för att dela innehåll med samarbetspartner.",
+  "supportTeamsRemove": "Ta bort team",
+  "supportingTeamsRemoveError": "Fel vid borttagning av länk till team. Kontakta en administratör.",
+  "supportingTeamsRemoveSuccess": "Länken till teamet har tagits bort."
+}

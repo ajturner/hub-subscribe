@@ -1,0 +1,1 @@
+const e=async e=>({type:"Layout",elements:[{labelKey:`${e}.fields.name.label`,scope:"/properties/name",type:"Control",options:{messages:[{type:"ERROR",keyword:"required",icon:!0,labelKey:`${e}.fields.name.requiredError`},{type:"ERROR",keyword:"maxLength",icon:!0,labelKey:"shared.fields.title.maxLengthError"}]}}]});export{e as buildUiSchema}

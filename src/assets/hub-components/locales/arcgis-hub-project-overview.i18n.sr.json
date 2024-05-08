@@ -1,0 +1,27 @@
+{
+  "overview": "Pregled",
+  "telemetry": {
+    "pageViews": "Pregledi stranica",
+    "last30days": "Proteklih 30 dana",
+    "lastUpdated": "Poslednje ažuriranje {hoursElapsed} sati ranije"
+  },
+  "newNotice": {
+    "title": "Evo radnog prostora za vaš projekat",
+    "message": "Ovaj radni prosotr je prilagođen za uređivanje projekata. Radni prosotri omogućavaju saradnicima da se fokusiraju na individualne stavke i stalno se razvijaju.",
+    "link": "Saznajte više"
+  },
+  "learnAbout": "Saznajte o Hub Projects",
+  "feedbackNotice": {
+    "message": "Kako am se dopadaju Hub projekti? Pošto je ovaj geoobjekat i dalje beta verzija, želimo da čujemo kako vi možete da ga iskoristite.",
+    "link": "Pošalji povratne informacije"
+  },
+  "status": {
+    "notStarted": "Nije započeto",
+    "inProgress": "U toku",
+    "onHold": "Na čekanju",
+    "complete": "Završi"
+  },
+  "editDetails": "Izmeni detalje",
+  "noPurposeSet": "Nema postavljene svrhe",
+  "noLocationSet": "Nema podešene lokacije"
+}

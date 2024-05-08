@@ -1,0 +1,25 @@
+{
+  "moreResults": "Hasil lainnya",
+  "search": "Cari",
+  "filter": "Filter",
+  "viewResults": "Lihat hasil ({numResults})",
+  "resultsCount": "1 - {pageTotal} dari {searchTotal}",
+  "backToTop": "Kembali ke atas",
+  "facets": {
+    "access": {
+      "private": "Diri Sendiri",
+      "shared": "Pemilik & grup",
+      "org": "Organisasi",
+      "public": "Publik"
+    },
+    "license": {
+      "custom": "Khusus",
+      "none": "Tidak Ada"
+    }
+  },
+  "layoutOptions": {
+    "list": "Tampilkan daftar",
+    "grid": "Tampilkan kisi"
+  },
+  "galleryActionsLabel": "Tindakan tambahan"
+}

@@ -1,0 +1,36 @@
+{
+  "edit": "Upravit",
+  "delete": "Odstranit",
+  "noneMessage": "Nebyla nastavena žádná lokalita",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Web",
+    "initiative": "Iniciativa",
+    "discussion": "Diskuze",
+    "content": "Obsah"
+  },
+  "emptyLocation": {
+    "title": "Nebyla zakreslena žádná lokalita",
+    "message": "{entityType} se na mapách nezobrazí, dokud není přidána lokalita"
+  },
+  "populatedLocation": {
+    "title": "Přidat další lokalitu?",
+    "message": "Chcete-li přidat další lokality (až {maxLocations}), vyberte znovu nástroj pro kreslení."
+  },
+  "maximumPoints": {
+    "title": "Byl dosažen maximální počet bodů ({currentCount}/{maxLocations})",
+    "message": "Chcete-li přidat více lokalit: odstraňte body, nebo upravte linie a plochy a odstraňte jejich body (kliknutím pravým tlačítkem myši)."
+  },
+  "maximumLocations": {
+    "title": "Dosažen maximální počet lokalit",
+    "message": "Chcete-li přidat více lokalit, jednu nebo více jich odeberte, anebo odeberte všechny a zadejte obecnější oblast."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Přidat umístění",
+    "clear": "Vymazat vše",
+    "extent": "Nakreslit obdélník",
+    "point": "Umístit bod",
+    "polyline": "Nakreslit linii",
+    "polygon": "Nakreslit plochu"
+  }
+}

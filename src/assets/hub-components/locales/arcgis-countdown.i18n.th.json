@@ -1,0 +1,7 @@
+{
+  "days": "วัน",
+  "hours": "ชั่วโมง",
+  "minutes": "นาที",
+  "seconds": "วินาที",
+  "countdownDateMissingError": "คุณต้องกำหนดวันที่นับถอยหลัง"
+}

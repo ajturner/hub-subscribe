@@ -1,0 +1,30 @@
+{
+  "helperText": "Nustatykite ir konfigūruokite katalogą",
+  "sections": {
+    "groups": {
+      "title": "Grupės",
+      "helperText": "Toliau esančiose grupėse yra jūsų ieškos katalogo turinys. Pasirinkite grupę, norėdami peržiūrėti jos nustatymus, turinį ir kt.",
+      "createGroup": "Kurti naują grupę"
+    },
+    "feeds": {
+      "title": "Srauto konfigūracija",
+      "helperText": "Su Hub informacijos santraukomis jūsų vieši atviri duomenys bus lengvai prieinami ir panaudojami.",
+      "learn": "Sužinokite daugiau apie Hub informacijos santraukas",
+      "toggle": "Įjungti informacijos santraukas ",
+      "configure": "Konfigūruoti informacijos santraukas",
+      "notice": "Norėdami įjungti informacijos santraukas, pirmiausia savo parametruose turite nustatyti Hub svetaines kaip „viešas“"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Nuo",
+    "editGroups": "Redaguoti grupes",
+    "viewGroups": "Peržiūrėti grupę",
+    "myGroup": "Mano grupė",
+    "myOrganization": "Mano organizacija",
+    "myCommunity": "Mano bendruomenė"
+  },
+  "formAlert": "Formos pavojus",
+  "alertMessages": {
+    "error": "Klaida išsaugant pakeitimus"
+  }
+}

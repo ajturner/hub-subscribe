@@ -1,0 +1,16 @@
+{
+  "location.add": "Ajouter une localisation",
+  "location.remove": "Supprimer la localisation",
+  "draw.tip": "Ajouter une autre localisation ?",
+  "prompt.add.post": "Ajouter à la publication",
+  "prompt.add.reply": "Ajouter à la réponse",
+  "prompt.edit.point": "Déplacer le point",
+  "prompt.edit.polyline": "Modifier la ligne",
+  "prompt.edit.polygon": "Modifier la surface",
+  "prompt.remove.point": "Supprimer le point",
+  "prompt.remove.polyline": "Supprimer la ligne",
+  "prompt.remove.polygon": "Supprimer la surface",
+  "prompt.remove.existing": "Annuler la sélection",
+  "prompt.location.edit": "Mettre à jour le dessin",
+  "prompt.location.delete": "Supprimer le dessin"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Добавяне по URL адрес",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS услуга с обекти, XLS, PDF, PNG, JPG, връзка към уеб",
+  "fileTypeSelector": "Ръчно задаване на типа на файла",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS услуга с обекти",
+  "xls": "Услуга на базата на местоположение (XLS)",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Уеб връзка",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Изображение (png, jpg, jpeg)",
+  "invalidFormat": "Грешка: невалиден формат",
+  "invalidUrl": "Грешка: невалиден URL адрес",
+  "recognizedType": "Ръчно задаване на типа на файла"
+}

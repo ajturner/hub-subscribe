@@ -1,0 +1,15 @@
+{
+  "default": "Vybrat rozsah dat",
+  "today": "Dnes",
+  "yesterday": "Včera",
+  "last7Days": "Posledních 7 dní",
+  "last30Days": "Posledních 30 dní",
+  "thisMonth": "Tento měsíc",
+  "lastMonth": "Poslední měsíc",
+  "pastYear": "Minulý rok",
+  "custom": "Vlastní",
+  "nextMonth": "Další měsíc",
+  "previousMonth": "Předchozí měsíc",
+  "year": "Rok",
+  "title": "Vyberte časové období"
+}

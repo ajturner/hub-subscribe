@@ -1,0 +1,17 @@
+{
+  "summary": "Özet",
+  "description": "Açıklama",
+  "details": "Ayrıntılar",
+  "metrics": "Metrikler",
+  "metricsDisclaimer": "Sadece son 30 gün gösteriliyor",
+  "titleOpen": "Tartışma Aç",
+  "statusOpen": "Katılım için açık",
+  "titleClosed": "Kapatılan Tartışma",
+  "statusClosed": "Katılım için kapalı",
+  "tags": "Etiketler",
+  "categories": "Kategoriler",
+  "metric.pageViews": "Sayfa Görüntüleme Sayısı",
+  "metric.postCount": "Gönderi Sayımı",
+  "discussion": "Tartışma",
+  "discussionBoard": "Tartışma Panosu"
+}

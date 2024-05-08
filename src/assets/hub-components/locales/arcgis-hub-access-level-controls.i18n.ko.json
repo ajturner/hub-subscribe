@@ -1,0 +1,9 @@
+{
+  "heading": "공유 레벨",
+  "public": "공용",
+  "publicInfo": "모든 사람이 해당 {itemType}을(를) 볼 수 있습니다.",
+  "organization": "기관",
+  "organizationInfo": "{orgName} 계정이 있는 모든 구성원과 그룹이 해당 {itemType}을(를) 볼 수 있습니다.",
+  "owner": "소유자",
+  "ownerInfo": "소유자와 접근 권한이 있는 그룹이 해당 {itemType}을(를) 볼 수 있습니다."
+}

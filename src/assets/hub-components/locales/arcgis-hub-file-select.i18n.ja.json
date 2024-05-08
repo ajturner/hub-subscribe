@@ -1,0 +1,16 @@
+{
+  "contentHeading": "アップロードするファイルをドラッグ アンド ドロップ",
+  "imageHeading": "画像のアップロード",
+  "selectedHeading": "選択されたファイル",
+  "maxSizeAndSupportedTypes": "最大サイズは {maxSize}MB、{fileTypes}",
+  "maxSize": "最大サイズは {maxSize}MB",
+  "recommendedDimensions": "推奨寸法 {recommendedDimensions}",
+  "linkText": "サポートされているファイルの一覧を表示",
+  "contentButton": "ファイルの参照",
+  "imageButton": "イメージの参照",
+  "clearButton": "選択解除",
+  "errorHeading": "エラー",
+  "fileTooLargeError": "ファイルが大きすぎます",
+  "multipleFilesError": "一度に複数のファイルをアップロードすることはできません",
+  "unsupportedFileTypeError": "このファイル タイプはサポートされていません"
+}

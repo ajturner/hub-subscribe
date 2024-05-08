@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Филтър за местоположение",
+  "panel.reset": "Нулиране на филтър",
+  "distance.title": "Разстояние",
+  "distance.placeholder": "Въведете число...",
+  "distance.message": "Въведете число, за да разширите филтрираната област.",
+  "system.imperial": "Имперски",
+  "system.metric": "Метрични",
+  "units.title": "Мерни единици",
+  "units.feet": "Фут",
+  "units.miles": "Мили",
+  "units.nauticalmiles": "Морски мили",
+  "units.meters": "Метри",
+  "units.kilometers": "Километри"
+}

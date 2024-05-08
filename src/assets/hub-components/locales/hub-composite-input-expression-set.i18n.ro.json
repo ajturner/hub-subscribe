@@ -1,0 +1,15 @@
+{
+  "addFilter": "Adăugare filtru",
+  "attributeFilter": "Filtrare",
+  "between": "Între",
+  "deleteFilter": "Ștergere filtru",
+  "endingDate": "Data de final",
+  "endingValue": "Valoare de final",
+  "expression": "Expresie",
+  "filterType": "Tip de filtru",
+  "filterValue": "Valoare filtru",
+  "isExactly": "Este exact",
+  "startingDate": "Dacă de început",
+  "startingValue": "Valoare de început",
+  "selectAttribute": "Selectare atribut"
+}

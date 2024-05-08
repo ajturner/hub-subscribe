@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tipus",
+    "tags": "Etiqueta",
+    "categories": "Categoria",
+    "sharing": "Ús compartit",
+    "dateUpdated": "Data d'actualització",
+    "map": {
+      "label": "Ubicació",
+      "tooltip": "Apliqueu l'extensió de mapa com a filtre d'ubicació"
+    }
+  },
+  "collections": {
+    "all": "Tots",
+    "dataset": "Dades",
+    "site": "Llocs",
+    "document": "Documents",
+    "appAndMap": "Aplicacions i mapes"
+  },
+  "noCollections": {
+    "title": "Catàleg",
+    "message": "El vostre catàleg actualment és buit.",
+    "button": "Configura el catàleg"
+  }
+}

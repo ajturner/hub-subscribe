@@ -1,0 +1,17 @@
+{
+  "summary": "Santrauka",
+  "description": "Aprašas",
+  "details": "Išsamiau",
+  "metrics": "Metrika",
+  "metricsDisclaimer": "Rodomos tik pastarosios 30 dienų",
+  "titleOpen": "Atidaryti diskusiją",
+  "statusOpen": "Dalyvavimas atviras",
+  "titleClosed": "Uždara diskusija",
+  "statusClosed": "Dalyvavimas uždarytas",
+  "tags": "Raktažodžiai",
+  "categories": "Kategorijos",
+  "metric.pageViews": "Puslapio peržiūros",
+  "metric.postCount": "Publikacijų suma",
+  "discussion": "Diskusija",
+  "discussionBoard": "Diskusijų lenta"
+}

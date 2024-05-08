@@ -1,0 +1,494 @@
+{
+  "success": "Muokkaukset on tallennettu",
+  "error": "Virhe muokkausten tallennuksessa",
+  "create": "Luo",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Ei sijaintia",
+        "org": "Organisaation laajuus",
+        "custom": "Mukautettu sijainti",
+        "customDescription": "Piirrä vähintään yksi sijainti",
+        "itemExtent": "Kohteen nykyinen laajuus"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tyyppi",
+          "sharing": "Jakaminen"
+        },
+        "catalog": {
+          "myContent": "Oma sisältö",
+          "favorites": "Suosikit",
+          "organization": "Organisaatio",
+          "world": "Kaikille (julkinen)"
+        },
+        "collection": {
+          "appsAndMaps": "Sovellukset ja kartat",
+          "dataset": "Aineisto",
+          "documents": "Dokumentit",
+          "feedback": "Palaute",
+          "sites": "Sivustot"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Yksityiskohdat"
+      },
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "location": {
+        "label": "Sijainti",
+        "helperText": "Näytä maantieteellinen alue, jossa projekti toteutetaan (näkyy projektin asettelussa)."
+      },
+      "status": {
+        "label": "Tila"
+      },
+      "sharing": {
+        "label": "Jakaminen"
+      },
+      "timeline": {
+        "label": "Aikajana"
+      },
+      "searchDiscoverability": {
+        "label": "Haku ja löydettävyys"
+      },
+      "featuredContent": {
+        "label": "Esittelyssä oleva sisältö",
+        "helperText": "Korosta projektiisi liittyviä tiettyjä dokumentteja, sovelluksia ja aineistoa. Voit esitellä enintään neljä kohdetta."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projektin nimi",
+        "requiredError": "Projektin nimi on pakollinen kenttä"
+      },
+      "description": {
+        "label": "Kuvaus",
+        "helperText": "Määritä, miten projektisi saavuttaa tavoitteensa. Voit sisällyttää oleelliset taustatiedot ja projektin tuloksena odotettavat muutokset."
+      },
+      "summary": {
+        "label": "Tarkoitus",
+        "helperText": "Tee lyhyt yhteenveto projektisi tavoitteista."
+      },
+      "access": {
+        "itemType": "Projekti"
+      },
+      "groups": {
+        "label": "Jaa kohteelle...",
+        "viewGroup": "(Näytä ryhmä)",
+        "editGroup": "(Muokkaa ryhmää)"
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Määritä pikkukuva, joka edustaa tätä projektia ArcGIS Onlinessa, ja haku ja galleriat.",
+        "sizeDescription": "Suositellut ulottuvuudet: vähintään 760 x 505"
+      },
+      "featuredImage": {
+        "label": "Esitelty kuva",
+        "helperText": "Valitse kuva, joka edustaa työtäsi projektin asettelussa.",
+        "sizeDescription": "Suurin tiedostokoko on 10 Mt. Suositellut ulottuvuudet: vähintään 718 x 478",
+        "altText": {
+          "label": "Vaihtoehtoinen teksti",
+          "helperText": "Anna lyhyt kuvaus kuvastasi näytönlukuohjelmien käyttäjille. Jätä tyhjäksi, jos haluat ilmaista, että kuva on koristeellinen."
+        }
+      },
+      "tags": {
+        "label": "Tunnisteet",
+        "helperText": "Tunnisteita käytetään hakuluetteloissa, jotta muut löytävät tämän projektin. Lisää tekstiä ja luo uusia tunnisteita valitsemalla Enter."
+      },
+      "categories": {
+        "label": "Luokat",
+        "helperText": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän projektin. ArcGIS Online -organisaatiosi määrittää ne."
+      },
+      "status": {
+        "label": "Projektin tila",
+        "enum": {
+          "notStarted": {
+            "label": "Ei aloitettu"
+          },
+          "inProgress": {
+            "label": "Meneillään"
+          },
+          "onHold": {
+            "label": "Pidossa"
+          },
+          "complete": {
+            "label": "Valmis"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tyyppi",
+          "sharing": "Jakaminen"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Yksityiskohdat"
+      },
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "location": {
+        "label": "Sijainti",
+        "helperText": "Näytä maantieteellinen alue, jossa aloite toteutetaan (näkyy aloitteen asettelussa)."
+      },
+      "sharing": {
+        "label": "Jakaminen"
+      },
+      "featuredContent": {
+        "label": "Esittelyssä oleva sisältö",
+        "helperText": "Korosta projektiisi liittyviä tiettyjä dokumentteja, sovelluksia ja aineistoa. Voit esitellä enintään neljä kohdetta."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Aloitteen nimi",
+        "requiredError": "Aloitteen nimi on pakollinen kenttä"
+      },
+      "summary": {
+        "label": "Tarkoitus",
+        "helperText": "Tee lyhyt yhteenveto aloitteesi tavoitteista."
+      },
+      "access": {
+        "itemType": "Aloite"
+      },
+      "description": {
+        "label": "Kuvaus",
+        "helperText": "Anna lisäkontekstia, josta voi olla hyötyä tämän aloitteen hakemisessa."
+      },
+      "tags": {
+        "label": "Tunnisteet",
+        "helperText": "Tunnisteita käytetään hakuluetteloissa, jotta muut löytävät tämän aloitteen. Lisää tekstiä ja luo uusia tunnisteita valitsemalla Enter."
+      },
+      "categories": {
+        "label": "Luokat",
+        "helperText": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän aloitteen. ArcGIS Online -organisaatiosi määrittää ne."
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Määritä pikkukuva, joka edustaa tätä aloitetta ArcGIS Onlinessa, ja haku ja galleriat."
+      },
+      "groups": {
+        "label": "Jaa kohteelle...",
+        "viewGroup": "(Näytä ryhmä)",
+        "editGroup": "(Muokkaa ryhmää)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tyyppi",
+          "sharing": "Jakaminen"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Yksityiskohdat"
+      },
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "location": {
+        "label": "Sijainti"
+      },
+      "settings": {
+        "label": "Keskusteluasetukset"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Otsikko",
+        "requiredError": "Keskustelupalstan nimi on pakollinen."
+      },
+      "prompt": {
+        "label": "Kehote",
+        "helperText": "Kerro lyhyesti, mitä haluat osallistujien lähettävän tälle keskustelupalstalle.",
+        "requiredError": "Kehote on pakollinen kenttä"
+      },
+      "description": {
+        "label": "Kuvaus",
+        "helperText": "Anna lisäkontekstia, josta voi olla hyötyä tämän palstan hakemisessa."
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Valitse kuva, joka edustaa keskusteluasi."
+      },
+      "summary": {
+        "label": "Tarkoitus",
+        "helperText": "Kerro lyhyesti, mikä on tämän keskustelupalstan tarkoitus. Siitä on hyötyä, kun linkki jaetaan toisille."
+      },
+      "featuredImage": {
+        "label": "Esitelty kuva",
+        "sizeDescription": "Enimmäiskoko on 10 Mt, JPEG, JPG tai PNG",
+        "altText": {
+          "label": "Vaihtoehtoinen teksti",
+          "helperText": "Anna lyhyt kuvaus kuvastasi näytönlukuohjelmien käyttäjille. Jätä tyhjäksi, jos haluat ilmaista, että kuva on koristeellinen."
+        },
+        "name": {
+          "label": "Kuvan nimi"
+        }
+      },
+      "tags": {
+        "label": "Tunnisteet"
+      },
+      "categories": {
+        "label": "Luokat"
+      },
+      "discussable": {
+        "label": "Sallitaanko keskustelu?",
+        "enabled": {
+          "label": "Kyllä, keskustelu on sallittu",
+          "description": "Osallistujat voivat lisätä julkaisuja, vastauksia ja reaktioita keskustelupalstalle."
+        },
+        "disabled": {
+          "label": "Ei, keskustelu on estetty",
+          "description": "Estää uusien julkaisujen, vastausten ja reaktioiden lisäämisen. Ei poista edellistä osallistumista."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "location": {
+        "label": "Sijainti",
+        "helperText": "Näytä maantieteellinen alue, johon tämä sivusto liittyy."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Sivuston nimi",
+        "requiredError": "Sivuston nimi on pakollinen kenttä"
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Määritä pikkukuva, joka edustaa tätä sivustoa ArcGIS Onlinessa, ja haku ja galleriat."
+      },
+      "description": {
+        "label": "Kuvaus",
+        "helperText": "Sivuston kuvaus."
+      },
+      "summary": {
+        "label": "Yhteenveto",
+        "helperText": "Kerro lyhyesti sivustosta."
+      },
+      "tags": {
+        "label": "Tunnisteet",
+        "helperText": "Tunnisteita käytetään hakuluetteloissa, jotta muut löytävät tämän sivuston. Lisää tekstiä ja luo uusia tunnisteita valitsemalla Enter."
+      },
+      "categories": {
+        "label": "Luokat",
+        "helperText": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän sivuston. ArcGIS Online -organisaatiosi määrittää ne."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Määritä näkyvyys",
+          "helperText": "Hallitse sitä, ketkä voivat nähdä Seuraa-painikkeet. Tämä asetus koskee liikkuvaa sivun toiminnon Seuraa-painiketta ja kaikkia suoraan asetteluun upotettuja Seuraa-painikkeita.",
+          "private": {
+            "label": "Yksityinen",
+            "description": "Sivuston omistaja ja ryhmät, joilla on käyttöoikeudet, voivat nähdä Seuraa-painikkeet"
+          },
+          "org": {
+            "label": "Organisaatio",
+            "description": "Kaikki jäsenet, joilla on tili sivuston organisaatiossa, ja ryhmät, joilla on käyttöoikeudet, voivat nähdä Seuraa-painikkeet"
+          },
+          "public": {
+            "label": "Julkinen",
+            "description": "Kaikki voivat nähdä Seuraa-painikkeet"
+          }
+        },
+        "showFollowAction": {
+          "label": "Seuraa-toiminto",
+          "helperText": "Lisää sivun toimintojen valikkoon Seuraa-painike, joka pysyy näkyvissä, kun käyttäjät selaavat asettelua."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "location": {
+        "label": "Sijainti",
+        "helperText": "Näytä maantieteellinen alue, johon tämä sivu liittyy."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Sivun nimi",
+        "requiredError": "Sivun nimi on pakollinen kenttä"
+      },
+      "description": {
+        "label": "Kuvaus",
+        "helperText": "Sivun kuvaus."
+      },
+      "summary": {
+        "label": "Yhteenveto",
+        "helperText": "Kerro lyhyesti sivusta."
+      },
+      "tags": {
+        "label": "Tunnisteet",
+        "helperText": "Tunnisteita käytetään hakuluetteloissa, jotta muut löytävät tämän sivun. Lisää tekstiä ja luo uusia tunnisteita valitsemalla Enter."
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Määritä pikkukuva, joka edustaa tätä sivua ArcGIS Onlinessa, ja haku ja galleriat."
+      },
+      "categories": {
+        "label": "Luokat",
+        "helperText": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän sivun. ArcGIS Online -organisaatiosi määrittää ne."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Otsikko",
+        "hint": "Lyhyet otsikot parantavat löydettävyyttä koko sisällössä.",
+        "requiredError": "Otsikko on pakollinen kenttä"
+      },
+      "summary": {
+        "label": "Yhteenveto",
+        "hint": "Kerro lyhyesti sisällöstäsi. VIHJE: paranna hakukoneoptimointia käyttämällä muita avainsanoja kuin omat otsikkosi tai tunnisteesi."
+      },
+      "description": {
+        "label": "Kuvaus",
+        "hint": "Lisää lisätekstiä, jossa kuvaillaan sisältöäsi. Tähtää 7.–9. luokan lukutasoon, niin voit saavuttaa laajan yleisön. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Testaa tekstiä maksuttoman luettavuusanalyysityökalun avulla</a>."
+      },
+      "tags": {
+        "label": "Tunnisteet",
+        "hint": "Tunnisteita käytetään hakuluetteloissa, jotta muut löytävät tämän sisällön. Lisää tekstiä ja luo uusia tunnisteita valitsemalla Enter."
+      },
+      "categories": {
+        "label": "Luokat",
+        "agolHint": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän sisällön. ArcGIS Online -organisaatiosi määrittää ne.",
+        "enterpriseHint": "Luokkia käytetään hakuluetteloissa, jotta muut löytävät tämän sisällön. ArcGIS Enterprise -organisaatiosi määrittää ne.",
+        "agolNoCategoryHint": "Vihje: luokat ovat käytettävissä vain, jos organisaatiosi on määrittänyt ne ArcGIS Online -organisaatiossa.",
+        "enterpriseNoCategoryHint": "Vihje: luokat ovat käytettävissä vain, jos organisaatiosi on määrittänyt ne ArcGIS Enterprise -organisaatiossa."
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Määritä pikkukuva, joka edustaa tätä kohdetta ArcGIS Onlinessa, ja haku ja galleriat."
+      },
+      "license": {
+        "label": "Käyttöehdot",
+        "helperText": "Pienempi määrä rajoitteita edistää uudelleenkäyttöä."
+      },
+      "serverExtractCapability": {
+        "label": "Poimintaominaisuus (vie aineistoa)",
+        "helperText": "Ottaa käyttöön poimintaominaisuuden tämän kohteen palvelussa. Poiminta tukee muita tiedostomuotoja."
+      },
+      "hostedDownloads": {
+        "label": "(Beeta) Isännöidyt lataukset",
+        "helperText": "Luo lataustiedostot suoraan isännöidystä palvelusta. Tämä parantaa suorituskykyä, kun sisältöä (kuten kohdekarttatasoja ja tauluja) ladataan. Jos haluat ottaa isännöidyt lataukset käyttöön, ominaisuuksien purkamisen on oltava käytössä."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Perustiedot",
+        "message": "Näitä tietoja käytetään hakutulosten ja galleriakorttien täyttämiseen, ja ne näytetään Tiedot-näkymässä."
+      },
+      "about": {
+        "title": "Tietoja sisällöstä",
+        "message": "Kuvauksen kaksi ensimmäistä riviä näkyy hakutuloksissa, mutta koko kuvaus näkyy tarkennetun sisällön näkymissä."
+      },
+      "image": {
+        "title": "Esitelty kuva",
+        "message": "On tärkeää, että kuva on laadukas, kun esittelet sisältöä gallerioissa tai kuvia korostavissa näkymissä (kuten aloitteissa, tapahtumissa tai kyselyissä). Suositeltu koko on 760 x 505. Jos kuva näyttää epäselvältä reaaliaikaisilla reiteillä, pikkukuva kannattaa vaihtaa suurempaan kuvaan."
+      },
+      "location": {
+        "label": "Sijainti",
+        "helperText": "Näytä maantieteellinen alue, jossa tämä sisältö toteutetaan (näkyy sisällön asettelussa)."
+      },
+      "downloads": {
+        "label": "Lataukset",
+        "helperText": "Määritä latausmuotoja, välimuistissa olevan tiedoston päivitysaikataulu, ynnä muuta. Katso lisätietoja <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">latausdokumentaatiosta.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} merkkiä jäljellä"
+    },
+    "imageThumbnail": {
+      "label": "Pikkukuva",
+      "upload": "Lataa kuva",
+      "done": "Valmis",
+      "editThumbnail": "Muokkaa pikkukuvaa",
+      "browse": "Etsi kuvaa",
+      "remove": "Poista kuva",
+      "edit": "Muokkaa kuvaa",
+      "defaultHeading": "Lisää pikkukuva",
+      "dropHeading": "Lataa pudottamalla",
+      "errorHeading": "Kokeile toista kuvaa",
+      "subheading": "Enimmäiskoko on {size}, {types}",
+      "zoomOut": "loitonna",
+      "zoomIn": "tarkenna",
+      "drag": "Sijoita uudelleen vetämällä",
+      "urlPlaceholder": "Tuetut tyypit: {types}",
+      "browseForImage": "Etsi kuvaa",
+      "aria": {
+        "container": "Kuva-alue",
+        "crop": "Rajausalue",
+        "handle": {
+          "top": "Muuta yläreunan kokoa",
+          "right": "Muuta oikean reunan kokoa",
+          "left": "Muuta vasemman reunan kokoa",
+          "bottom": "Muuta alareunan kokoa"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Yksityiskohdat"
+      },
+      "basicInfo": {
+        "label": "Perustiedot"
+      },
+      "membershipAccess": {
+        "label": "Jäsenyyteen perustuva käyttö"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Ryhmän nimi",
+        "requiredError": "Ryhmän nimi on pakollinen kenttä"
+      },
+      "summary": {
+        "label": "Yhteenveto"
+      },
+      "access": {
+        "itemType": "Ryhmä"
+      },
+      "_thumbnail": {
+        "label": "Pikkukuva",
+        "helperText": "Valitse kuva, joka edustaa ryhmääsi ryhmäprofiilissa.",
+        "sizeDescription": "Suurin koko on 10 Mt. Suositeltu koko: vähintään 400 x 400"
+      },
+      "membershipAccess": {
+        "label": "Kuka voi olla tässä ryhmässä?",
+        "org": "Vain oman organisaation jäsenet",
+        "collab": "Vain kumppanikollaboraation ja oman organisaation jäsenet",
+        "any": "Minkä tahansa organisaation jäsenet"
+      },
+      "contributeContent": {
+        "label": "Kuka voi lisätä sisältöä?",
+        "all": "Kaikki ryhmän jäsenet",
+        "admins": "Ryhmän omistaja ja hallinnoijat"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "heading": "Jagamise tase",
+  "public": "Avalik",
+  "publicInfo": "Kõik saavad näha seda {itemType}",
+  "organization": "Organisatsioon",
+  "organizationInfo": "Kõik liikmed, kellel on organisatsiooni {orgName} konto, näevad seda {itemType}",
+  "owner": "Omanik",
+  "ownerInfo": "Omanik ja juurdepääsuõigusega grupid näevad seda {itemType}"
+}

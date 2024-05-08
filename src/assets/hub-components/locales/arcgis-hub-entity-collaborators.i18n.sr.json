@@ -1,0 +1,52 @@
+{
+  "collaborators": "Saradnici",
+  "editGroupButtonText": "Dodaj uređene grupe",
+  "viewGroupButtonText": "Dodaj grupe za prikaz",
+  "groupPicker": {
+    "title": "Izaberite grupe",
+    "facet": {
+      "label": "Od",
+      "editGroups": "Uredi grupe",
+      "viewGroups": "Prikaz grupe",
+      "myGroup": "Moja grupa",
+      "myOrganization": "Moja organizacija",
+      "myCommunity": "Moja zajednica"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Dodaj nove ljude",
+    "message": "Ako je potrebno da dodate ljude, možete da ih pozovete da se priključe zajednici ili možete da <orgOverviewLink>kontaktirate svog administratora</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupe koje mogu da urede",
+  "viewGroupsTitle": "Grupe koje mogu da pregledaju",
+  "project": {
+    "description": "Izaberite koje grupe korisnika mogu da pregledaju i urede ovaj projekat.",
+    "editGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da urede sadržaj projekta.",
+    "viewGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da pretražuju i pregledaju projekat, ako nije podeljen za javnost.",
+    "errorMessage": "Došlo je do greške prilikom ažuriranja saradnika za vaš projekat."
+  },
+  "content": {
+    "description": "Izaberite koje grupe korisnika mogu da pregledaju i urede ovaj sadržaj.",
+    "editGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da urede sadržaj informacija.",
+    "viewGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da pretražuju i pregledaju sadržaj, ako nije podeljen za javnost.",
+    "errorMessage": "Došlo je do greške prilikom ažuriranja saradnika za vaš sadržaj."
+  },
+  "discussion": {
+    "description": "Odaberite koje grupe korisnika mogu da gledaju i uređuju ovu diskusiju.",
+    "editGroupsDescription": "Ljudi u ovim grupama će biti u mogućnosti da uređuju informacije diskusija.",
+    "viewGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da pretražuju i pregledaju diskusiju, ako nije podeljen za javnost.",
+    "errorMessage": "Došlo je do greške prilikom ažuriranja saradnika za Vašu diskusiju."
+  },
+  "site": {
+    "description": "Izaberite koje grupe korisnika mogu da pregledaju i urede ovaj sajt.",
+    "editGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da urede informacije sajta.",
+    "viewGroupsDescription": "Ljudi u ovim grupama imaće mogućnost da pretražuju i pregledaju sajt, ako nije podeljen za javnost.",
+    "errorMessage": "Došlo je do greške prilikom ažuriranja saradnika za vaš sajt."
+  },
+  "newTab": "otvori profil u novoj kartici",
+  "supportingTeams": "Timovi za podršku",
+  "supportingTeamsDesc": "Ovi timovi za podršku su prethodno povezani sa vašim sajtom. Možete nastaviti da ih koristite za deljenje sadržaja sa saradnicima.",
+  "supportTeamsRemove": "Uklonite tim",
+  "supportingTeamsRemoveError": "Greška pri uklanjanju tima. Obratite se administratoru.",
+  "supportingTeamsRemoveSuccess": "Uspešno je uklonjen tim."
+}

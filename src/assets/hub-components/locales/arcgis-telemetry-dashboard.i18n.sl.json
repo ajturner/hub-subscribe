@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datumski razpon: {start} - {end}",
+  "pageViews": "Ogledi mesta",
+  "timeOnSite": "Povprečno število minut na mestu",
+  "users": "Seje",
+  "viewsOverTime": "Ogledi mesta skozi čas",
+  "disabledTracking": "Sledenje dejavnosti je onemogočeno.",
+  "enableTracking": "Omogočite sledenje dejavnosti vozlišča v nastavitvah mesta, da boste lahko spremljali uporabo vašega mesta.",
+  "learnMore": "Več o tem.",
+  "disabled": "Onemogočeno",
+  "notificationLabel": "Podatki posodobljeni",
+  "dataUpdated": "Podatki posodobljeni",
+  "subscribe": "Naročite se",
+  "subscribed": "Naročeni ste",
+  "weeklyReport": "Tedensko poročilo",
+  "timestampTitle": {
+    "hour": "Čas dneva",
+    "day": "Datum",
+    "week": "Teden"
+  },
+  "formAlert": "Opozorilo obrazca",
+  "success": "Uspešno posodobljena naročnina",
+  "subscriptionActivatedTitle": "Naročnina je aktivirana",
+  "subscriptionActivatedMessage": "Registrirali ste {email} za prejem tedenske metrike vključenosti.",
+  "unsubscribeCompleteTitle": "Odjava dokončana",
+  "unsubscribeCompleteMessage": "{email} je bil uspešno odjavljen iz metrike vključenosti.",
+  "problemSubscribingTitle": "Naročilo na poročanje o težavah",
+  "problemSubscribingMessage": "Prišlo je do težave pri naročilu. Napaka: ",
+  "problemUnsubscribingTitle": "Odjava od poročanja o težavah",
+  "problemUnsubscribingMessage": "Prišlo je do težave pri odjavi od poročanja o težavah. Napaka: "
+}

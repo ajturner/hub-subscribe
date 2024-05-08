@@ -1,0 +1,12 @@
+{
+  "save": "Salvesta",
+  "cancel": "Tühista",
+  "undoChanges": "Võta muudatused tagasi",
+  "next": "Edasi",
+  "back": "Tagasi",
+  "formAlert": "Vormi hoiatus",
+  "invalidForm": "Parandage kõik vead.",
+  "saveDisabled": "Salvestamine keelatud",
+  "success": "Muudatused on salvestatud",
+  "error": "Tõrge muudatuste salvestamisel"
+}

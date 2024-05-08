@@ -1,0 +1,11 @@
+{
+  "anonymous": "匿名",
+  "noUser": "無使用者名稱",
+  "privateUser": "私有成員",
+  "privateOrg": "私人組織",
+  "orgLabel": "組織",
+  "profile": "移至設定檔",
+  "location": "位置",
+  "information": "發佈的相關資訊",
+  "mentionedBy": "由 @{username} 提及"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Editar detalles de la versión",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "name.label": "Título",
+  "name.helpText": "Deje el título vacío si desea que identifiquemos la versión mediante una fecha-hora.",
+  "description.label": "Descripción",
+  "error": "Error al actualizar la versión."
+}

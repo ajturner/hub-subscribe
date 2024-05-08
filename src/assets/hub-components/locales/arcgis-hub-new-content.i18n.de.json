@@ -1,0 +1,15 @@
+{
+  "new": "Neu",
+  "project": {
+    "title": "Neues Projekt",
+    "description": "Arbeitsaufträge mit klaren Zielvorgaben und festem Zeitrahmen präsentieren"
+  },
+  "initiative": {
+    "title": "Neue Initiative",
+    "description": "Arbeitsaufträge mit klaren Zielvorgaben und festem Zeitrahmen präsentieren"
+  },
+  "discussion": {
+    "title": "Neue Diskussionsrunde",
+    "description": "Erstellen Sie eine neue Diskussionsrunde, indem Sie einen Titel eingeben, der das Thema angibt."
+  }
+}

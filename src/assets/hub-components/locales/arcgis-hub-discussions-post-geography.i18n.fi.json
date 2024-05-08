@@ -1,0 +1,14 @@
+{
+  "description": "Tarkenna sijaintiin valitsemalla",
+  "displayField.existing": "Nykyinen sijainti",
+  "displayField.added": "Lisätty sijainti",
+  "displayField.existing.area": "Nykyinen alue",
+  "displayField.added.area": "Lisätty alue",
+  "point": "Piste",
+  "line": "Viiva",
+  "area": "Alue",
+  "viewAll": "Näytä kaikki sijainnit",
+  "viewLess": "Näytä vähemmän sijainteja",
+  "action.update": "Päivitä sijainti",
+  "action.remove": "Poista sijainti"
+}

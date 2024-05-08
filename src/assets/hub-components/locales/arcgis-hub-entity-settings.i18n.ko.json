@@ -1,0 +1,34 @@
+{
+  "settings": "설정",
+  "delete": {
+    "project": "프로젝트 삭제",
+    "initiative": "이니셔티브 삭제",
+    "site": "사이트 삭제",
+    "discussion": "토론 삭제",
+    "content": "콘텐츠 삭제",
+    "page": "페이지 삭제",
+    "group": "그룹 삭제"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "프로젝트 삭제",
+      "initiative": "이니셔티브 삭제",
+      "site": "사이트 삭제",
+      "discussion": "토론 삭제",
+      "content": "콘텐츠 삭제",
+      "page": "페이지 삭제",
+      "group": "그룹 삭제"
+    },
+    "content": "삭제하시겠습니까?",
+    "delete": "삭제",
+    "cancel": "취소"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "\"추출\" 기능은 서비스 설정을 변경합니다.",
+        "message": "서비스를 참조하는 다른 항목이 영향을 받습니다. 자세한 내용은 <docLink>호스팅 피처 레이어에서 데이터 내보내기</docLink>를 참고하세요."
+      }
+    }
+  }
+}

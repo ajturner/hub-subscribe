@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Ejer"
+  },
+  "updatedDate": {
+    "description": "Dato for opdatering"
+  },
+  "createdDate": {
+    "description": "Udgivet"
+  },
+  "access": {
+    "label": {
+      "public": "Offentlig",
+      "org": "Organisation",
+      "private": "Ejer",
+      "shared": "Delt privat"
+    },
+    "description": {
+      "public": {
+        "site": "Alle kan se dette websted",
+        "project": "Alle kan se dette projekt",
+        "initiative": "Alle kan se dette initiativ",
+        "discussion": "Alle kan se denne diskussion",
+        "default": "Alle kan se dette indhold"
+      },
+      "org": {
+        "site": "Alle i din organisation kan se dette websted",
+        "project": "Alle i din organisation kan se dette projekt",
+        "initiative": "Alle i din organisation kan se dette initiativ",
+        "discussion": "Alle i din organisation kan se denne diskussion",
+        "default": "Alle i din organisation kan se dette indhold"
+      },
+      "private": {
+        "site": "Det er kun dig, der kan se dette websted",
+        "project": "Det er kun dig, der kan se dette projekt",
+        "initiative": "Det er kun dig, der kan se dette initiativ",
+        "discussion": "Det er kun dig, der kan se denne diskussion",
+        "default": "Det er kun dig, der kan se dette indhold"
+      },
+      "shared": {
+        "site": "Udvalgte grupper kan se dette websted",
+        "project": "Udvalgte grupper kan se dette projekt",
+        "initiative": "Udvalgte grupper kan se dette initiativ",
+        "discussion": "Udvalgte grupper kan se denne diskussion",
+        "default": "Udvalgte grupper kan se dette indhold"
+      }
+    }
+  }
+}

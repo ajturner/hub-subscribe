@@ -1,0 +1,7 @@
+{
+  "days": "일",
+  "hours": "시간",
+  "minutes": "분",
+  "seconds": "초",
+  "countdownDateMissingError": "카운트다운 날짜를 입력해야 합니다."
+}

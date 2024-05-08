@@ -1,0 +1,1 @@
+import{g as o}from"./p-796574a4.js";import{g as r}from"./p-783242bc.js";function t(t){let s=[];const a=o(t,"catalog.scopes.item"),p=a&&r(a);if(p){const{group:o}=p;s=Array.isArray(o)?o:[o]}return s}export{t as g}

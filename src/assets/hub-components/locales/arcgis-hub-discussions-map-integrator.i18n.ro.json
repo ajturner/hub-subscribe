@@ -1,0 +1,16 @@
+{
+  "location.add": "Adăugați locația",
+  "location.remove": "Eliminare locație",
+  "draw.tip": "Adăugați o altă locație?",
+  "prompt.add.post": "Adăugați pentru a posta",
+  "prompt.add.reply": "Adăugați pentru a răspunde",
+  "prompt.edit.point": "Deplasare punct",
+  "prompt.edit.polyline": "Editare linie",
+  "prompt.edit.polygon": "Editare zonă",
+  "prompt.remove.point": "Ștergere punct",
+  "prompt.remove.polyline": "Ștergere linie",
+  "prompt.remove.polygon": "Ștergere zonă",
+  "prompt.remove.existing": "Anulare selecție",
+  "prompt.location.edit": "Actualizare trasare",
+  "prompt.location.delete": "Ștergere trasare"
+}

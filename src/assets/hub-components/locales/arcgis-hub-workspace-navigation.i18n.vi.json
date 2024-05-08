@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Bảng điều khiển",
+    "details": "Thông tin chi tiết",
+    "overview": "Tổng quan",
+    "metrics": "Hệ mét",
+    "settings": "Thiết lập",
+    "collaborators": "Người hợp tác",
+    "discussion": "Thảo luận",
+    "content": "Nội dung",
+    "members": "Thành viên",
+    "participation": "Tham gia",
+    "followers": "Người theo dõi"
+  }
+}

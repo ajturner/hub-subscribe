@@ -1,0 +1,18 @@
+{
+  "noLocationSet": "No location set",
+  "ourProgress": "Our progress",
+  "exploreAllMetrics": "Explore all metrics",
+  "project": "Project",
+  "exploreAllProjects": "Explore all projects",
+  "whosInvolved": "Who's involved",
+  "keyDocuments": "Key documents",
+  "browseAllContent": "Browse all content",
+  "tabs": {
+    "overview": "Overview",
+    "projects": "Projects",
+    "metrics": "Metrics",
+    "content": "Content"
+  },
+  "about": "About",
+  "details": "Details"
+}

@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "대시보드",
+    "details": "세부정보",
+    "overview": "오버뷰",
+    "metrics": "지표",
+    "settings": "설정",
+    "collaborators": "협업 기관",
+    "discussion": "토론",
+    "content": "콘텐츠",
+    "members": "구성원",
+    "participation": "참여",
+    "followers": "팔로워"
+  }
+}

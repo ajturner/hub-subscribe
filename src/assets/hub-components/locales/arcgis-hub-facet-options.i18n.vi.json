@@ -1,0 +1,7 @@
+{
+  "showMore": "Hiện thêm {num}",
+  "showLess": "Hiện ít hơn",
+  "inputPlaceholder": "Tùy chọn lọc",
+  "noMatchesNotice": "Không tìm thấy tùy chọn nào trùng khớp",
+  "inputAriaLabel": "Tìm tùy chọn theo từ khóa"
+}

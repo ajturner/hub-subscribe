@@ -1,0 +1,17 @@
+{
+  "summary": "Souhrn",
+  "description": "Popis",
+  "details": "Podrobnosti",
+  "metrics": "Metriky",
+  "metricsDisclaimer": "Zobrazuje pouze posledních 30 dní",
+  "titleOpen": "Otevřená diskuze",
+  "statusOpen": "Otevřeno pro účast",
+  "titleClosed": "Uzavřená diskuze",
+  "statusClosed": "Uzavřeno pro účast",
+  "tags": "Klíčová slova",
+  "categories": "Kategorie",
+  "metric.pageViews": "Zobrazení stránek",
+  "metric.postCount": "Počet příspěvků",
+  "discussion": "Diskuze",
+  "discussionBoard": "Diskuzní fórum"
+}

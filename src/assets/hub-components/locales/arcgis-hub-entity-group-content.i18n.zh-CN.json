@@ -1,0 +1,50 @@
+{
+  "title": "内容",
+  "facets": {
+    "type": "类型",
+    "tags": "标签",
+    "categories": "类别",
+    "sharing": "共享",
+    "dateUpdated": "更新日期",
+    "map": {
+      "label": "位置",
+      "tooltip": "应用地图范围作为位置过滤器"
+    }
+  },
+  "shareContent": {
+    "buttonText": "添加内容",
+    "catalog": {
+      "myContent": "我的内容",
+      "favorites": "收藏夹",
+      "organization": "我的组织",
+      "world": "世界（公共）"
+    },
+    "facets": {
+      "type": "类型",
+      "sharing": "共享"
+    },
+    "collection": {
+      "appsAndMaps": "应用程序和地图",
+      "dataset": "数据",
+      "documents": "文档",
+      "feedback": "反馈",
+      "sites": "站点"
+    },
+    "modal": {
+      "title": "添加内容"
+    },
+    "unsharedModal": {
+      "title": "未添加项目",
+      "notice": {
+        "icon": "三角形内加感叹号",
+        "type": "危险",
+        "title": "操作未完成",
+        "message": "某些项目无法添加。 这可能是因为内容中的共享级别不匹配，或者由于项目所有者不是群组成员。",
+        "linkText": "阅读有关共享的详细信息"
+      }
+    },
+    "itemSharedSuccessAlert": "项目已成功共享"
+  },
+  "close": "关闭",
+  "newTab": "在新选项卡中打开"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Versiyon ayrıntılarını düzenle",
+  "save": "Kaydet",
+  "cancel": "İptal",
+  "name.label": "Başlık",
+  "name.helpText": "Versiyonu bir tarih-zaman damgasıyla tanımlamamızı istiyorsanız, başlığı boş bırakın.",
+  "description.label": "Açıklama",
+  "error": "Versiyon güncellenirken hata oluştu."
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Seleccioneu per aplicar el zoom a la ubicació",
+  "displayField.existing": "Ubicació existent",
+  "displayField.added": "Ubicació afegida",
+  "displayField.existing.area": "Àrea existent",
+  "displayField.added.area": "Àrea afegida",
+  "point": "Punt",
+  "line": "Línia",
+  "area": "Àrea",
+  "viewAll": "Mostra totes les ubicacions",
+  "viewLess": "Mostra menys ubicacions",
+  "action.update": "Actualitza la ubicació",
+  "action.remove": "Elimina la ubicació"
+}

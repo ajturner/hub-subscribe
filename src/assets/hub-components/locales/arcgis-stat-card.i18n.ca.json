@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "S'ha esgotat el temps d'espera de la connexió al servidor i no es pot mostrar l'estadística.",
+    "title": "S'ha esgotat el temps d'espera del servidor"
+  },
+  "genericError": {
+    "message": "No es pot mostrar l'estadística.",
+    "title": "Hi ha hagut algun problema"
+  }
+}

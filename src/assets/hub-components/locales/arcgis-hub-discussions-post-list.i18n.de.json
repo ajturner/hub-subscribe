@@ -1,0 +1,14 @@
+{
+  "addPost": "Beitrag hinzufügen",
+  "createPost": "Beitrag erstellen",
+  "emptyHeading": "Diskussion starten",
+  "emptyMessage": "Greifen Sie ein Thema erstmals auf. Es ist ganz einfach, eine Frage zu stellen oder Ihr Wissen zu bestimmten Inhalten mit anderen Benutzern zu teilen.",
+  "searchIdeas": "Beiträge suchen",
+  "searchCount": "{start} - {end} von {total}",
+  "orderAsc": "Aufsteigend",
+  "orderDesc": "Absteigend",
+  "sortRecent": "Zuletzt verwendet",
+  "sortCreator": "Ersteller",
+  "layoutGrid": "Tabelle",
+  "layoutList": "Liste"
+}

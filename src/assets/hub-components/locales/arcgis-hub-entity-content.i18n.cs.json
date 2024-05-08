@@ -1,0 +1,24 @@
+{
+  "content": "Obsah",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Sbírky",
+    "catalogConfig": "Konfigurace katalogu"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurace katalogu",
+        "message": "Začněte vytvářet a konfigurovat svůj katalog! Váš katalog se skládá ze skupin a je naplněn jejich obsahem.",
+        "link": "Více informací o katalozích"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalog je prázdný",
+        "message": "Jste připraveni začít pracovat na svém katalogu! Váš katalog je nakonfigurován přidáním jedné nebo více skupin a naplněn jejich obsahem.",
+        "link": "Začínáme"
+      }
+    }
+  }
+}

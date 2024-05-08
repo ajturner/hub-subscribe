@@ -1,0 +1,14 @@
+{
+  "addPost": "Een post toevoegen",
+  "createPost": "Een post maken",
+  "emptyHeading": "Een discussie starten",
+  "emptyMessage": "Breng als eerste een onderwerp ter sprake. U kunt makkelijk een vraag stellen over specifieke content of wat u erover weet delen met anderen.",
+  "searchIdeas": "Posts zoeken",
+  "searchCount": "{start} - {end} van {total}",
+  "orderAsc": "Oplopend",
+  "orderDesc": "Aflopend",
+  "sortRecent": "Recent",
+  "sortCreator": "Maker",
+  "layoutGrid": "Raster",
+  "layoutList": "Lijst"
+}

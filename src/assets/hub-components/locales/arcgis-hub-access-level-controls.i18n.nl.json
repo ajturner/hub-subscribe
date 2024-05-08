@@ -1,0 +1,9 @@
+{
+  "heading": "Deelniveau",
+  "public": "Openbaar",
+  "publicInfo": "Iedereen kan dit/deze {itemType} zien",
+  "organization": "Organisatie",
+  "organizationInfo": "Alle leden met een account bij {orgName} en alle groepen kunnen dit/deze {itemType} zien",
+  "owner": "Eigenaar",
+  "ownerInfo": "Eigenaar en groepen met toegang kunnen deze {itemType} zien"
+}

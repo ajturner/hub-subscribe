@@ -1,0 +1,10 @@
+{
+  "true.heading": "Sí, es permet el debat",
+  "false.heading": "No, el debat està bloquejat",
+  "content.label": "Voleu permetre que es debati aquest element?",
+  "content.true.description": "Els usuaris poden crear publicacions sobre aquest element.",
+  "content.false.description": "Els usuaris no poden crear publicacions sobre aquest element.",
+  "group.label": "Aquest grup pot participar en debats?",
+  "group.true.description": "Els membres del grup poden veure i participar en els canals de debat als quals el grup té accés.",
+  "group.false.description": "Els membres del grup no poden veure ni participar en els canals de debat als quals el grup té accés."
+}

@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anônimo",
+  "noUser": "Nenhum Nome de Usuário",
+  "privateUser": "Membro Privado",
+  "privateOrg": "Organização Privada",
+  "org": "Minha Organização",
+  "orgLabel": "Organização",
+  "profile": "Ir para perfil",
+  "location": "Local",
+  "information": "Informações sobre postagem",
+  "postedIn": "Postado em {groupName}",
+  "replyingTo": "Respondendo a @{username}",
+  "visiblePrivate": "Visível somente para membros",
+  "visibleOrg": "Visível para organização",
+  "visibleAll": "Visível para todos",
+  "manageChannel": "Gerenciar Canal",
+  "group.deleted": "Grupo Excluído",
+  "unnamedChannel": "Canal sem nome"
+}

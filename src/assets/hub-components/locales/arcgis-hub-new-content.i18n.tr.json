@@ -1,0 +1,15 @@
+{
+  "new": "Yeni",
+  "project": {
+    "title": "Yeni Proje",
+    "description": "Net hedefleri ve zaman dilimlerine sahip çalışmayı vurgulayın"
+  },
+  "initiative": {
+    "title": "Yeni İnisiyatif",
+    "description": "Net hedefleri ve zaman dilimlerine sahip çalışmayı vurgulayın"
+  },
+  "discussion": {
+    "title": "Yeni Tartışma Panosu",
+    "description": "Konuyu belirten bir başlık girerek yeni bir tartışma panosu oluşturun."
+  }
+}

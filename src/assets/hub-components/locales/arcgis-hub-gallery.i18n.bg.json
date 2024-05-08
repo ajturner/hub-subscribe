@@ -1,0 +1,25 @@
+{
+  "moreResults": "Повече резултати",
+  "search": "Търсене",
+  "filter": "Филтри",
+  "viewResults": "Преглед на резултати ({numResults})",
+  "resultsCount": "1 - {pageTotal} от {searchTotal}",
+  "backToTop": "Връщане в началото",
+  "facets": {
+    "access": {
+      "private": "Себе си",
+      "shared": "Собственик и групи",
+      "org": "Организация",
+      "public": "Публични"
+    },
+    "license": {
+      "custom": "Персонализиран",
+      "none": "Няма"
+    }
+  },
+  "layoutOptions": {
+    "list": "Показване на списък",
+    "grid": "Показване на мрежа"
+  },
+  "galleryActionsLabel": "Допълнителни действия"
+}

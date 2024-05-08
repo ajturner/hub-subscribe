@@ -1,0 +1,15 @@
+{
+  "default": "Select a Date Range",
+  "today": "Today",
+  "yesterday": "Yesterday",
+  "last7Days": "Last 7 Days",
+  "last30Days": "Last 30 Days",
+  "thisMonth": "This Month",
+  "lastMonth": "Last Month",
+  "pastYear": "Past Year",
+  "custom": "Custom",
+  "nextMonth": "Next month",
+  "previousMonth": "Previous month",
+  "year": "Year",
+  "title": "Select a time period"
+}

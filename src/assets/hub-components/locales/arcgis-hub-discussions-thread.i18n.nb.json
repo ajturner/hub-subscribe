@@ -1,0 +1,10 @@
+{
+  "error": "Noe gikk galt",
+  "repliesFailure": "Svar på dette innlegget kan ikke vises.",
+  "thread.deleted.title": "Tråden er slettet",
+  "thread.deleted.message": "Det koblede innlegget og svaret er slettet og kan ikke vises.",
+  "thread.deleted.action": "Vis alle innlegg",
+  "reply.single.title": "Du viser ett svar",
+  "reply.single.link": "Vis alle svarene",
+  "loading": "Laster inn"
+}

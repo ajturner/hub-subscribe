@@ -1,0 +1,494 @@
+{
+  "success": "Berhasil menyimpan editan",
+  "error": "Terjadi kesalahan saat menyimpan perubahan",
+  "create": "Buat",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Tidak ada lokasi",
+        "org": "Jangkauan organisasi",
+        "custom": "Lokasi kustom",
+        "customDescription": "Gambar satu atau beberapa lokasi",
+        "itemExtent": "Jangkauan Item Saat Ini"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Jenis",
+          "sharing": "Membagikan"
+        },
+        "catalog": {
+          "myContent": "Konten saya",
+          "favorites": "Favorit",
+          "organization": "Organisasi",
+          "world": "Dunia (Publik)"
+        },
+        "collection": {
+          "appsAndMaps": "Aplikasi & Peta",
+          "dataset": "Data",
+          "documents": "Dokumen",
+          "feedback": "Umpan balik",
+          "sites": "Situs"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Detail"
+      },
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "location": {
+        "label": "Lokasi",
+        "helperText": "Tunjukkan area geografis tempat proyek ini akan berlangsung (untuk ditampilkan di tata letak proyek)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Membagikan"
+      },
+      "timeline": {
+        "label": "Garis Waktu"
+      },
+      "searchDiscoverability": {
+        "label": "Pencarian dan kemampuan untuk ditemukan"
+      },
+      "featuredContent": {
+        "label": "Konten unggulan",
+        "helperText": "Soroti dokumen, aplikasi, dan data tertentu yang terkait dengan proyek Anda. Anda dapat menampilkan hingga 4 item."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nama proyek",
+        "requiredError": "Nama proyek adalah bidang yang wajib diisi"
+      },
+      "description": {
+        "label": "Keterangan",
+        "helperText": "Tentukan bagaimana proyek Anda akan mencapai tujuannya. Pertimbangkan untuk menyertakan informasi latar belakang yang relevan dan perubahan yang diharapkan sebagai hasil proyek."
+      },
+      "summary": {
+        "label": "Tujuan",
+        "helperText": "Ringkas secara singkat tujuan proyek Anda."
+      },
+      "access": {
+        "itemType": "Proyek"
+      },
+      "groups": {
+        "label": "Bagikan dengan...",
+        "viewGroup": "(Lihat grup)",
+        "editGroup": "(Edit grup)"
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Atur thumbnail untuk mewakili proyek ini di ArcGIS Online serta di pencarian dan galeri.",
+        "sizeDescription": "Dimensi yang direkomendasikan: 760 x 505 atau lebih besar"
+      },
+      "featuredImage": {
+        "label": "Gambar unggulan",
+        "helperText": "Pilih gambar untuk mewakili pekerjaan Anda pada tata letak proyek.",
+        "sizeDescription": "Ukuran file maks adalah 10mb. Dimensi yang direkomendasikan: 718 x 478 atau lebih besar",
+        "altText": {
+          "label": "Teks alt",
+          "helperText": "Berikan deskripsi singkat tentang gambar Anda untuk mereka yang menggunakan pembaca layar. Biarkan kosong untuk menunjukkan bahwa gambar bersifat dekoratif."
+        }
+      },
+      "tags": {
+        "label": "Label",
+        "helperText": "Tag digunakan dalam katalog pencarian untuk membantu orang lain menemukan proyek ini. Tambahkan teks dan pilih enter untuk membuat tag baru."
+      },
+      "categories": {
+        "label": "Kategori",
+        "helperText": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan proyek ini. Mereka ditetapkan oleh organisasi ArcGIS Online Anda."
+      },
+      "status": {
+        "label": "Status proyek",
+        "enum": {
+          "notStarted": {
+            "label": "Belum dimulai"
+          },
+          "inProgress": {
+            "label": "Dalam proses"
+          },
+          "onHold": {
+            "label": "Ditahan"
+          },
+          "complete": {
+            "label": "Selesai"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Jenis",
+          "sharing": "Membagikan"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Detail"
+      },
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "location": {
+        "label": "Lokasi",
+        "helperText": "Tunjukkan area geografis tempat inisiatif ini akan berlangsung (untuk ditampilkan di tata letak inisiatif)."
+      },
+      "sharing": {
+        "label": "Membagikan"
+      },
+      "featuredContent": {
+        "label": "Konten unggulan",
+        "helperText": "Soroti dokumen, aplikasi, dan data tertentu yang terkait dengan proyek Anda. Anda dapat menampilkan hingga 4 item."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nama inisiatif",
+        "requiredError": "Nama inisiatif adalah kolom yang wajib diisi"
+      },
+      "summary": {
+        "label": "Tujuan",
+        "helperText": "Merangkum secara singkat tujuan inisiatif Anda."
+      },
+      "access": {
+        "itemType": "Inisiatif"
+      },
+      "description": {
+        "label": "Keterangan",
+        "helperText": "Berikan konteks tambahan yang dapat membantu saat mencari inisiatif ini."
+      },
+      "tags": {
+        "label": "Label",
+        "helperText": "Tag digunakan dalam katalog pencarian untuk membantu orang lain menemukan inisiatif ini. Tambahkan teks dan pilih enter untuk membuat tag baru."
+      },
+      "categories": {
+        "label": "Kategori",
+        "helperText": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan inisiatif ini. Mereka ditetapkan oleh organisasi ArcGIS Online Anda."
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Pilih gambar untuk mewakili Inisiatif ini di ArcGIS Online serta di pencarian dan galeri."
+      },
+      "groups": {
+        "label": "Bagikan dengan...",
+        "viewGroup": "(Lihat grup)",
+        "editGroup": "(Edit grup)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Jenis",
+          "sharing": "Berbagi"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Detail"
+      },
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "location": {
+        "label": "Lokasi"
+      },
+      "settings": {
+        "label": "Pengaturan Diskusi"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Gelar",
+        "requiredError": "Nama forum diskusi diperlukan."
+      },
+      "prompt": {
+        "label": "Perintah",
+        "helperText": "Menjelaskan secara singkat apa yang harus dikirimkan oleh peserta di forum diskusi ini.",
+        "requiredError": "Perintah adalah kolom yang wajib diisi"
+      },
+      "description": {
+        "label": "Keterangan",
+        "helperText": "Berikan konteks tambahan yang dapat membantu saat mencari forum ini."
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Pilih gambar untuk mewakili diskusi Anda."
+      },
+      "summary": {
+        "label": "Tujuan",
+        "helperText": "Menjelaskan secara singkat tujuan dari Forum Diskusi ini yang berguna saat membagikan tautan kepada orang lain."
+      },
+      "featuredImage": {
+        "label": "Gambar unggulan",
+        "sizeDescription": "Ukuran maksimalnya adalah 10mb, JPEG, JPG, atau PNG",
+        "altText": {
+          "label": "Teks alt",
+          "helperText": "Berikan deskripsi singkat tentang gambar Anda untuk mereka yang menggunakan pembaca layar. Biarkan kosong untuk menunjukkan bahwa gambar bersifat dekoratif."
+        },
+        "name": {
+          "label": "Nama gambar"
+        }
+      },
+      "tags": {
+        "label": "Label"
+      },
+      "categories": {
+        "label": "Kategori"
+      },
+      "discussable": {
+        "label": "Diskusi diizinkan?",
+        "enabled": {
+          "label": "Ya, diskusi diizinkan",
+          "description": "Peserta dapat menambahkan postingan, balasan, dan reaksi ke papan diskusi ini."
+        },
+        "disabled": {
+          "label": "Tidak, diskusi diblokir",
+          "description": "Menghapus kemampuan untuk menambahkan postingan, balasan, dan reaksi baru. Tidak menghapus partisipasi sebelumnya."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "location": {
+        "label": "Lokasi",
+        "helperText": "Menunjukkan area geografis yang terkait dengan situs ini."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nama situs",
+        "requiredError": "Nama situs adalah bidang wajib"
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Atur thumbnail untuk mewakili Situs ini di ArcGIS Online serta di pencarian dan galeri."
+      },
+      "description": {
+        "label": "Keterangan",
+        "helperText": "Deskripsi situs."
+      },
+      "summary": {
+        "label": "Ringkasan",
+        "helperText": "Merangkum situs secara singkat."
+      },
+      "tags": {
+        "label": "Label",
+        "helperText": "Tag digunakan dalam katalog pencarian untuk membantu orang lain menemukan situs ini. Tambahkan teks dan pilih enter untuk membuat tag baru."
+      },
+      "categories": {
+        "label": "Kategori",
+        "helperText": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan situs ini. Mereka ditetapkan oleh organisasi ArcGIS Online Anda."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Tetapkan visibilitas",
+          "helperText": "Kontrol siapa yang dapat melihat tombol ikuti. Pengaturan ini berlaku untuk tombol ikuti tindakan dalam halaman yang mengikuti dan tombol ikuti apa pun yang tertempel langsung pada tata letak.",
+          "private": {
+            "label": "Pribadi",
+            "description": "Pemilik situs dan grup yang memiliki akses dapat melihat tombol ikuti"
+          },
+          "org": {
+            "label": "Organisasi",
+            "description": "Semua anggota yang memiliki akun organisasi situs dan grup yang memiliki akses dapat melihat tombol ikuti"
+          },
+          "public": {
+            "label": "Publik",
+            "description": "Semua orang dapat melihat tombol ikuti"
+          }
+        },
+        "showFollowAction": {
+          "label": "Tindakan mengikuti",
+          "helperText": "Tambahkan tombol ikuti ke menu tindakan dalam halaman, yang tetap terlihat saat pengguna menggulir tata letak."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "location": {
+        "label": "Lokasi",
+        "helperText": "Menunjukkan area geografis yang terkait dengan halaman ini."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nama halaman",
+        "requiredError": "Nama halaman adalah bidang wajib"
+      },
+      "description": {
+        "label": "Keterangan",
+        "helperText": "Deskripsi halaman."
+      },
+      "summary": {
+        "label": "Ringkasan",
+        "helperText": "Ringkas halaman secara singkat."
+      },
+      "tags": {
+        "label": "Label",
+        "helperText": "Tag digunakan dalam katalog pencarian untuk membantu orang lain menemukan halaman ini. Tambahkan teks dan pilih enter untuk membuat tag baru."
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Atur thumbnail untuk mewakili Halaman ini di ArcGIS Online serta di pencarian dan galeri."
+      },
+      "categories": {
+        "label": "Kategori",
+        "helperText": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan halaman ini. Mereka ditetapkan oleh organisasi ArcGIS Online Anda."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Gelar",
+        "hint": "Judul yang ringkas akan meningkatkan kemampuan untuk ditemukan di seluruh konten Anda.",
+        "requiredError": "Judul adalah bidang yang wajib diisi"
+      },
+      "summary": {
+        "label": "Ringkasan",
+        "hint": "Rangkum konten Anda dengan singkat. TIPS: Tingkatkan SEO dengan menggunakan kata kunci yang berbeda dari \"Judul\" atau \"Tag\" Anda."
+      },
+      "description": {
+        "label": "Keterangan",
+        "hint": "Tambahkan rincian tambahan yang menjelaskan konten Anda. Targetkan ke level pembacaan tingkat ke-7 hingga ke-9 untuk menjangkau audiens yang lebih luas. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Gunakan alat analisis keterbacaan gratis untuk menguji teks Anda</a>."
+      },
+      "tags": {
+        "label": "Label",
+        "hint": "Tag digunakan dalam katalog pencarian untuk membantu orang lain menemukan konten ini. Tambahkan teks dan pilih enter untuk membuat tag baru."
+      },
+      "categories": {
+        "label": "Kategori",
+        "agolHint": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan konten ini. Mereka ditetapkan oleh organisasi ArcGIS Online Anda.",
+        "enterpriseHint": "Kategori digunakan dalam katalog pencarian untuk membantu orang lain menemukan konten ini. Hal tersebut diatur oleh organisasi ArcGIS Enterprise Anda.",
+        "agolNoCategoryHint": "Tips: Kategori hanya tersedia jika kategori tersebut diatur oleh organisasi Anda dalam organisasi ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Tips: Kategori hanya tersedia jika kategori tersebut diatur oleh organisasi Anda dalam organisasi ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Atur thumbnail untuk mewakili item ini di ArcGIS Online serta di pencarian dan galeri."
+      },
+      "license": {
+        "label": "Ketentuan Penggunaan",
+        "helperText": "Lebih sedikit pembatasan mendorong lebih banyak penggunaan kembali."
+      },
+      "serverExtractCapability": {
+        "label": "Kemampuan Ekstrak (ekspor data)",
+        "helperText": "Mengaktifkan kemampuan \"ekstrak\" pada layanan item ini. Ekstrak mendukung format tambahan."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Unduhan yang dihosting",
+        "helperText": "Buat file unduhan secara langsung dari layanan yang di-host. Ini akan mampu meningkatkan kinerja ketika mengunduh konten seperti Feature Layer dan Tabel. Untuk mengaktifkan unduhan yang di-host, Kapabilitas Ekstrak harus diaktifkan."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Info Dasar",
+        "message": "Informasi ini digunakan untuk mengisi hasil pencarian, kartu galeri, dan ditampilkan dalam tampilan detail."
+      },
+      "about": {
+        "title": "Tentang Konten",
+        "message": "Dua baris pertama dari deskripsi Anda adalah apa yang akan ditampilkan dalam hasil pencarian, tetapi deskripsi lengkap akan ditampilkan pada tampilan konten terfokus."
+      },
+      "image": {
+        "title": "Gambar Unggulan",
+        "message": "Memiliki gambar atau gambar mini unggulan itu penting saat Anda memamerkan konten Anda di galeri kami, atau pada tampilan yang menyoroti gambar seperti inisiatif, acara, dan survei. Ukuran yang disarankan adalah 760x505. Jika gambar Anda terlihat kabur pada rute langsung, harap pertimbangkan mengganti gambar mini dengan gambar yang lebih besar."
+      },
+      "location": {
+        "label": "Lokasi",
+        "helperText": "Tunjukkan area geografis tempat konten ini akan berlangsung (untuk ditampilkan di tata letak konten)."
+      },
+      "downloads": {
+        "label": "Unduhan",
+        "helperText": "Konfigurasikan format unduhan, jadwal pembaruan file cache, dan banyak lagi. Untuk lebih jelasnya lihat <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">dokumentasi unduhan.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} karakter tersisa"
+    },
+    "imageThumbnail": {
+      "label": "Gambar Thumbnail",
+      "upload": "Unggah Gambar",
+      "done": "Selesai",
+      "editThumbnail": "Edit Gambar Mini",
+      "browse": "Telusuri Gambar",
+      "remove": "Hapus Gambar",
+      "edit": "Edit Gambar",
+      "defaultHeading": "Tambah Gambar Thumbnail",
+      "dropHeading": "Lepaskan untuk Mengunggah",
+      "errorHeading": "Coba Gambar yang Lain",
+      "subheading": "Ukuran Maks adalah {size}, {types}",
+      "zoomOut": "perkecil",
+      "zoomIn": "perbesar",
+      "drag": "Tarik untuk Memosisikan Ulang",
+      "urlPlaceholder": "Jenis yang didukung: {types}",
+      "browseForImage": "Telusuri Gambar",
+      "aria": {
+        "container": "Area gambar",
+        "crop": "Area potong",
+        "handle": {
+          "top": "Ubah ukuran atas",
+          "right": "Ubah ukuran kanan",
+          "left": "Ubah ukuran kiri",
+          "bottom": "Ubah ukuran bawah"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Detail"
+      },
+      "basicInfo": {
+        "label": "Info dasar"
+      },
+      "membershipAccess": {
+        "label": "Akses keanggotaan"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nama grup",
+        "requiredError": "Nama grup adalah bidang yang wajib diisi"
+      },
+      "summary": {
+        "label": "Ringkasan"
+      },
+      "access": {
+        "itemType": "Grup"
+      },
+      "_thumbnail": {
+        "label": "Thumbnail",
+        "helperText": "Pilih gambar untuk mewakili grup Anda di profil grup.",
+        "sizeDescription": "Ukuran maksimal adalah 10mb. Ukuran yang disarankan: 400 x 400 atau lebih besar"
+      },
+      "membershipAccess": {
+        "label": "Siapa yang dapat berada di grup ini?",
+        "org": "Anggota organisasi saya saja",
+        "collab": "Kolaborasi mitra dan anggota organisasi saya saja",
+        "any": "Anggota organisasi mana pun"
+      },
+      "contributeContent": {
+        "label": "Siapa yang dapat memberi kontribusi konten?",
+        "all": "Semua anggota grup",
+        "admins": "Pemilik dan pengelola grup"
+      }
+    }
+  }
+}

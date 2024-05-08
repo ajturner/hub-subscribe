@@ -1,0 +1,16 @@
+{
+  "post.title": "Úprava příspěvku je zakázána",
+  "post.message": "Editace není k dispozici, pokud je zakázána diskuze.",
+  "post.message.item": "Editace není k dispozici, pokud je zakázána diskuze o této položce.",
+  "post.message.group": "Editace není k dispozici, pokud je zakázána diskuze v této skupině.",
+  "reply.title": "Úprava odpovědi je zakázána",
+  "reply.title.generic": "Diskuze zablokována",
+  "reply.message": "Editace není k dispozici, pokud je zakázána diskuze.",
+  "reply.message.generic": "V tuto chvíli nelze vytvářet odpovědi.",
+  "reply.message.item": "Editace není k dispozici, pokud je zakázána diskuze o této položce.",
+  "reply.message.group": "Editace není k dispozici, pokud je zakázána diskuze v této skupině.",
+  "item.title": "Diskuze o položce zakázána",
+  "item.message": "Není schválena diskuze o této položce.",
+  "group.title": "Skupinová diskuze zakázána",
+  "group.message": "Není schválena diskuze o této skupině."
+}

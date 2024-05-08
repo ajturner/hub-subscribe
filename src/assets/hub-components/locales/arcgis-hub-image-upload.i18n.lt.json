@@ -1,0 +1,15 @@
+{
+  "done": "Atlikta",
+  "cancel": "Atšaukti",
+  "dragDrop": "Nuvilkite JPG, PNG arba GIF failą.",
+  "browse": "Naršyti...",
+  "chooseDiff": "Pasirinkite kitą paveikslėlį",
+  "zoom": "Keisti mastelį:",
+  "bestSize": "Geriausiam rezultatui naudokite paveikslėlį, kurio dydis – 300 x 300 pikselių.",
+  "close": "Uždaryti",
+  "or": "arba",
+  "fromMap": "Kurti miniatiūrą iš žemėlapio",
+  "fromMapDesc": "Sukurkite adaptuotą miniatiūrą nustatydami žemėlapio aprėptį ir mastelį",
+  "changeBasemap": "Pakeisti pagrindo žemėlapį",
+  "loading": "Kraunama"
+}

@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Pemilik"
+  },
+  "updatedDate": {
+    "description": "Tanggal diperbarui"
+  },
+  "createdDate": {
+    "description": "Dipublikasikan"
+  },
+  "access": {
+    "label": {
+      "public": "Publik",
+      "org": "Organisasi",
+      "private": "Pemilik",
+      "shared": "Dibagikan secara pribadi"
+    },
+    "description": {
+      "public": {
+        "site": "Siapa saja dapat melihat situs ini",
+        "project": "Semua orang dapat melihat proyek ini",
+        "initiative": "Siapa saja dapat melihat inisiatif ini",
+        "discussion": "Siapa pun dapat melihat diskusi ini",
+        "default": "Siapa saja dapat melihat konten ini"
+      },
+      "org": {
+        "site": "Siapa pun di organisasi Anda dapat melihat situs ini",
+        "project": "Semua orang di organisasi Anda dapat melihat proyek ini",
+        "initiative": "Siapa saja di organisasi Anda dapat melihat inisiatif ini",
+        "discussion": "Siapa pun di organisasi Anda dapat melihat diskusi ini",
+        "default": "Siapa saja di organisasi Anda dapat melihat konten ini"
+      },
+      "private": {
+        "site": "Hanya Anda yang dapat melihat situs ini",
+        "project": "Hanya Anda yang dapat melihat proyek ini",
+        "initiative": "Hanya Anda yang dapat melihat inisitatif ini",
+        "discussion": "Hanya Anda yang dapat melihat diskusi ini",
+        "default": "Hanya Anda yang dapat melihat konten ini"
+      },
+      "shared": {
+        "site": "Grup yang dipilih dapat melihat situs ini",
+        "project": "Grup yang dipilih dapat melihat proyek ini",
+        "initiative": "Grup yang dipilih dapat melihat inisiatif ini",
+        "discussion": "Grup yang dipilih dapat melihat diskusi ini",
+        "default": "Grup yang dipilih dapat melihat konten ini"
+      }
+    }
+  }
+}

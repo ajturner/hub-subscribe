@@ -1,0 +1,24 @@
+{
+  "content": "Inhalt",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Sammlungen",
+    "catalogConfig": "Katalogkonfiguration"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurieren des Katalogs",
+        "message": "Sie können mit dem Erstellen und Konfigurieren Ihres Katalogs beginnen! Der Katalog besteht aus Gruppen und wird mit den darin enthaltenen Inhalten gefüllt.",
+        "link": "Weitere Informationen zu Katalogen"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalog ist leer",
+        "message": "Sie können jetzt mit dem Erstellen Ihres Katalogs beginnen! Der Katalog wird durch das Hinzufügen einer oder mehrerer Gruppen konfiguriert und mit den darin enthaltenen Inhalten gefüllt.",
+        "link": "Erste Schritte"
+      }
+    }
+  }
+}

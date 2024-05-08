@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Visa",
+    "hide": "Dölj",
+    "rename": "Byt namn"
+  },
+  "formAlert": "Formulärvarning",
+  "alertMessages": {
+    "success": "Ändringarna har sparats",
+    "error": "Fel när ändringarna sparades"
+  },
+  "collectionRenameModal": {
+    "title": "Byt namn på samling",
+    "fieldLabel": "Etikett för samling",
+    "requiredMessage": "Etikett för samling krävs",
+    "apply": "Verkställ"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Data",
+      "hidden": "Data (dolda)"
+    },
+    "site": {
+      "visible": "Webbplatser",
+      "hidden": "Webbplatser (dolda)"
+    },
+    "document": {
+      "visible": "Dokument",
+      "hidden": "Dokument (dolda)"
+    },
+    "appAndMap": {
+      "visible": "Appar och kartor",
+      "hidden": "Appar och kartor (dolda)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Dold)"
+    }
+  },
+  "saveButton": "Spara"
+}

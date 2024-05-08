@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Avansert konfigurasjon",
+    "serverTimeout": {
+      "label": "Tidsavbrudd for server (sekunder)",
+      "helperText": "Nyttig for større tjenester som kan trenge mer tid på å svare."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Hjørner",
+      "enum": {
+        "round": {
+          "label": "Rund"
+        },
+        "square": {
+          "label": "Firkantet"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Skygge på undersiden",
+      "enum": {
+        "heavy": {
+          "label": "Tung"
+        },
+        "low": {
+          "label": "Lav"
+        },
+        "medium": {
+          "label": "Middels"
+        },
+        "none": {
+          "label": "Ikke startet"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistikklayout",
+      "enum": {
+        "dataViz": {
+          "label": "Datavisualisering"
+        },
+        "moreInfo": {
+          "label": "Mer informasjon"
+        },
+        "simple": {
+          "label": "Enkel"
+        }
+      }
+    },
+    "popoverTitle": "Menytittel",
+    "popoverDescription": "Menybeskrivelse",
+    "sectionTitle": "Utseende",
+    "textAlign": "Justering",
+    "visualInterest": {
+      "label": "Visuell interesse",
+      "enum": {
+        "icon": {
+          "label": "Ikon"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Ingen"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Farge (statistikk)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Kobling",
+      "sourceLink": "Lenke-URL",
+      "sourceTitle": "Tekst for kobling"
+    },
+    "sectionTitle": "Detaljer",
+    "subtitle": "Undertittel",
+    "title": "Tittel",
+    "trailingText": "Etterfølgende tekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Det kreves en kobling for å vise kilden."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatering",
+    "unit": {
+      "label": "Visningsenheter",
+      "helperText": "Angi måleenheten for verdien din."
+    },
+    "unitPosition": {
+      "label": "Plassering",
+      "enum": {
+        "after": {
+          "label": "Etter"
+        },
+        "before": {
+          "label": "Før"
+        },
+        "below": {
+          "label": "Under"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Elementdeling",
+    "showShareIcon": "Aktiver",
+    "shareableByValue": "Aktiver innebygging",
+    "shareableOnHover": {
+      "label": "Vis",
+      "enum": {
+        "always": {
+          "label": "Alltid"
+        },
+        "hover": {
+          "label": "Bare når musepekeren er over"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Datakilde",
+    "displayValue": "Visningsverdi",
+    "sectionTitle": "Statistikk",
+    "type": {
+      "label": "Type",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamisk",
+          "description": "Velg et eksisterende datasett (geoobjekttjeneste) å summere."
+        },
+        "static": {
+          "label": "Statisk",
+          "description": "Angi en verdi som skal utheves manuelt i layouten din."
+        }
+      }
+    }
+  }
+}

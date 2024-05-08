@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Papildu konfigurācija",
+    "serverTimeout": {
+      "label": "Servera taimauts (sekundes)",
+      "helperText": "Noder lielākiem servisiem, kas var prasīt vairāk laika."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Stūri",
+      "enum": {
+        "round": {
+          "label": "Apaļš"
+        },
+        "square": {
+          "label": "Kvadrāts"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Krītoša ēna",
+      "enum": {
+        "heavy": {
+          "label": "Biezs"
+        },
+        "low": {
+          "label": "Zems"
+        },
+        "medium": {
+          "label": "Vidējs"
+        },
+        "none": {
+          "label": "Nav sākts"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistikas izkārtojums",
+      "enum": {
+        "dataViz": {
+          "label": "Datu vizualizācija"
+        },
+        "moreInfo": {
+          "label": "Plašāka informācija"
+        },
+        "simple": {
+          "label": "Vienkāršs"
+        }
+      }
+    },
+    "popoverTitle": "Uznirstošā loga nosaukums",
+    "popoverDescription": "Uznirstošā loga apraksts",
+    "sectionTitle": "Izskats",
+    "textAlign": "Līdzinājums",
+    "visualInterest": {
+      "label": "Vizuālā interese",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logotips"
+        },
+        "none": {
+          "label": "Nav"
+        },
+        "sparkline": {
+          "label": "Sīkdiagramma"
+        }
+      }
+    },
+    "valueColor": "Krāsa (statiska)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Saite",
+      "sourceLink": "Saites vietrādis (URL)",
+      "sourceTitle": "Saites teksts"
+    },
+    "sectionTitle": "Papildinformācija",
+    "subtitle": "Apakšvirsraksts",
+    "title": "Virsraksts",
+    "trailingText": "Noslēdzošais teksts"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Lai parādītu avotu, ir nepieciešama saite."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatēšana",
+    "unit": {
+      "label": "Attēlojuma mērvienības",
+      "helperText": "Ievadiet vērtības mērvienību."
+    },
+    "unitPosition": {
+      "label": "Novietojums",
+      "enum": {
+        "after": {
+          "label": "Pēc"
+        },
+        "before": {
+          "label": "Pirms"
+        },
+        "below": {
+          "label": "Zem"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Koplietošana",
+    "showShareIcon": "Iespējot",
+    "shareableByValue": "Iespējot iegulšanu",
+    "shareableOnHover": {
+      "label": "Parādīt",
+      "enum": {
+        "always": {
+          "label": "Vienmēr"
+        },
+        "hover": {
+          "label": "Norādīt"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Datu avots",
+    "displayValue": "Attēlot vērtību",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Veids",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamisks",
+          "description": "Izvēlieties esošu datu kopu (elementu servisu), ko apkopot."
+        },
+        "static": {
+          "label": "Statiska",
+          "description": "Manuāli ievadiet vērtību, ko iezīmēt izkārtojumā."
+        }
+      }
+    }
+  }
+}

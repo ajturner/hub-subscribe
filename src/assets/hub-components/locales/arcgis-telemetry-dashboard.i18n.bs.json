@@ -1,0 +1,31 @@
+{
+  "dateRange": "Raspon datuma: {start} - {end}",
+  "pageViews": "Pregledi stranice",
+  "timeOnSite": "Prosječno minuta na web-mjestu",
+  "users": "Sesije",
+  "viewsOverTime": "Prikazi stranice tijekom vremena",
+  "disabledTracking": "Praćenje aktivnosti je onemogućeno",
+  "enableTracking": "Omogućite praćenje aktivnosti središta u postavkama web-mjesta kako biste pratili korištenje vašeg web-mjesta.",
+  "learnMore": "Saznajte više.",
+  "disabled": "Onemogućeno",
+  "notificationLabel": "Podaci ažurirani",
+  "dataUpdated": "Podaci ažurirani",
+  "subscribe": "Pretplatite se",
+  "subscribed": "Pretplaćen",
+  "weeklyReport": "Tjedno izvješće",
+  "timestampTitle": {
+    "hour": "Vrijeme dana",
+    "day": "Datum",
+    "week": "Tjedan"
+  },
+  "formAlert": "Stvori upozorenje",
+  "success": "Uspješno ažurirana pretplata",
+  "subscriptionActivatedTitle": "Pretplata aktivirana",
+  "subscriptionActivatedMessage": "Registrirali ste {email} za primanje tjednih metrika angažmana.",
+  "unsubscribeCompleteTitle": "Otkazivanje pretplate dovršeno",
+  "unsubscribeCompleteMessage": "{email} uspješno je otkazao pretplatu na metriku angažmana.",
+  "problemSubscribingTitle": "Problem s pretplatom",
+  "problemSubscribingMessage": "Došlo je do problema s pretplatom. Pogreška: ",
+  "problemUnsubscribingTitle": "Problem s prekidom pretplate",
+  "problemUnsubscribingMessage": "Došlo je do problema s prekidom pretplate. Pogreška: "
+}

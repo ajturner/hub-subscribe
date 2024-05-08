@@ -1,0 +1,19 @@
+{
+  "select": "选择",
+  "cancel": "取消",
+  "iconModalTitle": "选择一个图标",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "从库中选择"
+      },
+      "url": {
+        "description": "请提供您自己的 URL"
+      }
+    }
+  },
+  "altText": {
+    "label": "更改文本",
+    "helperText": "如果不添加，图标将被标记为装饰性图标。"
+  }
+}

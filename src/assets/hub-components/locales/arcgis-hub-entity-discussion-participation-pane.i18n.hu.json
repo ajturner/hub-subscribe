@@ -1,0 +1,21 @@
+{
+  "title": "Részvétel",
+  "channelTitle": "Részvételi csatorna",
+  "addChannelsTitle": "Ehhez az elemhez egy csatornára van szükség. Csak egy állítható be.",
+  "headingChannelEdit": "Csatorna szerkesztése",
+  "headingChannelView": "Csatorna megtekintése",
+  "headingChannelCreate": "Új csatorna létrehozása",
+  "buttons": {
+    "browse": "Összes csatorna tallózása",
+    "new": "Új csatorna"
+  },
+  "galleryPickerTitle": "Válasszon egy csatornát",
+  "channelsLabel": "Csatornák",
+  "accessLabel": "Hozzáférés",
+  "optionPublicLabel": "Nyilvános",
+  "optionOrganizationLabel": "Szervezet",
+  "optionPrivateLabel": "Magánjellegű",
+  "viewChannel": "Csatorna megtekintése",
+  "editChannel": "Csatorna szerkesztése",
+  "save": "Mentés"
+}

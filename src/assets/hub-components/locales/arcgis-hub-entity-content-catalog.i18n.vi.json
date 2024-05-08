@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Loại",
+    "tags": "Từ khóa",
+    "categories": "Thể loại",
+    "sharing": "Chia sẻ",
+    "dateUpdated": "Ngày Cập nhật",
+    "map": {
+      "label": "Vị trí",
+      "tooltip": "Áp dụng phạm vi bản đồ làm bộ lọc vị trí"
+    }
+  },
+  "collections": {
+    "all": "Tất cả",
+    "dataset": "Dữ liệu",
+    "site": "Sites",
+    "document": "Tài liệu",
+    "appAndMap": "Ứng dụng & Bản đồ"
+  },
+  "noCollections": {
+    "title": "Danh mục",
+    "message": "Danh mục của bạn hiện đang trống.",
+    "button": "Định cấu hình danh mục"
+  }
+}

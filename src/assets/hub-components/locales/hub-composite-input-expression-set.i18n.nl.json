@@ -1,0 +1,15 @@
+{
+  "addFilter": "Filter toevoegen",
+  "attributeFilter": "Filter",
+  "between": "Tussen",
+  "deleteFilter": "Filter verwijderen",
+  "endingDate": "Einddatum",
+  "endingValue": "Eindwaarde",
+  "expression": "Expressie",
+  "filterType": "Filteren op type",
+  "filterValue": "Filteren op waarde",
+  "isExactly": "Is exact",
+  "startingDate": "Begindatum",
+  "startingValue": "Beginwaarde",
+  "selectAttribute": "Attribuut selecteren"
+}

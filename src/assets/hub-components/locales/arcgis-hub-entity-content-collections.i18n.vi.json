@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Hiển thị",
+    "hide": "Ẩn",
+    "rename": "Đổi tên"
+  },
+  "formAlert": "Cảnh báo biểu mẫu",
+  "alertMessages": {
+    "success": "Đã lưu các chỉnh sửa thành công",
+    "error": "Lỗi lưu các chỉnh sửa"
+  },
+  "collectionRenameModal": {
+    "title": "Đổi tên Bộ sưu tập",
+    "fieldLabel": "Nhãn Bộ sưu tập",
+    "requiredMessage": "Cần có nhãn bộ sưu tập",
+    "apply": "Áp dụng"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dữ liệu",
+      "hidden": "Dữ liệu (Ẩn)"
+    },
+    "site": {
+      "visible": "Sites",
+      "hidden": "Sites (Ẩn)"
+    },
+    "document": {
+      "visible": "Tài liệu",
+      "hidden": "Tài liệu (Ẩn)"
+    },
+    "appAndMap": {
+      "visible": "Ứng dụng & Bản đồ",
+      "hidden": "Ứng dụng & Bản đồ (Ẩn)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Ẩn)"
+    }
+  },
+  "saveButton": "Lưu"
+}

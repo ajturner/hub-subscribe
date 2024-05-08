@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "下载",
+  "buttonOptions": "下载选项",
+  "menuRequest": "使用最新数据生成新下载",
+  "menuDownload": "下载先前在 {createdDate} 中生成的文件",
+  "fileCreated": "已创建文件",
+  "fileSize": "文件大小",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

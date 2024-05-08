@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Kanalas be pavadinimo",
+  "name": {
+    "label": "Pavadinimas",
+    "placeholder": "{prefix} kanalas"
+  },
+  "save": "Įrašyti",
+  "access": {
+    "private": {
+      "label": "Privati",
+      "description": "Gali dalyvauti pasirinktos grupės"
+    },
+    "organization": {
+      "label": "Organizacija",
+      "description": "Visi nariai, turintys {orgName} paskyrą, gali dalyvauti",
+      "disabledTooltip": "Tik organizacijos administratoriai gali kurti organizacijos kanalus."
+    },
+    "public": {
+      "label": "Vieša",
+      "description": "Visi, turintys paskyrą, gali dalyvauti",
+      "disabledTooltip": "Tik organizacijos administratoriai gali kurti viešus kanalus."
+    },
+    "allowAnonymous": "Leisti anoniminius",
+    "confirmation": {
+      "header": "Ar tikrai norite?",
+      "message": "Įrašius šiuos pakeitimus bus pašalinta jūsų redagavimo prieiga prie šio kanalo. Tik organizacijos administratoriai gali redaguoti viešuosius arba organizacijos kanalus.",
+      "secondary": "Atšaukti",
+      "primary": "Patvirtinti"
+    }
+  },
+  "participants": {
+    "label": "Dalyviai",
+    "helperText": "Žmonės, kurie gali peržiūrėti diskusiją ir prie jos prisidėti.",
+    "none": "Dalyviai nenustatyti",
+    "add": "Pridėti dalyvių grupę"
+  },
+  "groupPicker": {
+    "title": "Pasirinkti grupes",
+    "facet": {
+      "label": "Nuo",
+      "myGroup": "Mano grupė",
+      "myOrganization": "Mano organizacija",
+      "myCommunity": "Mano bendruomenė"
+    }
+  },
+  "blockWords": {
+    "label": "Blokuoti žodžiai",
+    "helperText": "Kableliais atskirtas sąrašas. Įrašai ir atsakymai, kuriuose jie yra, bus paslėpti automatiškai."
+  },
+  "manage": {
+    "label": "Tvarkyti ir moderuoti",
+    "helperText": "Automatiškai priskirti, atsižvelgiant į aukščiau nurodytus dalyvavimo pasirinkimus, šie žmonės gali dalyvauti, slėpti arba rodyti įrašus ir valdyti kanalo parametrus."
+  },
+  "manager": "Valdytojas",
+  "admin": "Administratorius",
+  "viewProfile": "Peržiūrėti profilį",
+  "alerts": {
+    "error": "Įrašant kanalą įvyko klaida",
+    "success": "Kanalas sėkmingai įrašytas",
+    "label": "Formos pavojus"
+  },
+  "validations": {
+    "minChannelGroups": "Privatiems kanalams reikia bent vienos dalyvių grupės."
+  },
+  "notices": {
+    "edit": "Redagavimai matysis visur, kur naudojamas šis kanalas",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanalas nesukurtas",
+          "message": "Kanalas su šiais prieigos pasirinkimais jau yra. Naudokite esamą kanalą arba keiskite pasirinkimus."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanalas nebuvo atnaujintas",
+          "message": "Kanalas su šiais prieigos pasirinkimais jau yra, todėl šių naujinimų įrašyti negalime."
+        }
+      },
+      "action": "Naudoti esamą kanalą"
+    },
+    "inaccessibleGroups": {
+      "title": "Neprieinamos grupės: {count}",
+      "message": "Negalite peržiūrėti arba tvarkyti neprieinamų grupių, jei nesate narys."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Innehåll",
+  "facets": {
+    "type": "Typ",
+    "tags": "Tagg",
+    "categories": "Kategori",
+    "sharing": "Delning",
+    "dateUpdated": "Datum uppdaterat",
+    "map": {
+      "label": "Plats",
+      "tooltip": "Tillämpa kartutbredningen som ett platsfilter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Lägg till innehåll",
+    "catalog": {
+      "myContent": "Mitt innehåll",
+      "favorites": "Favoriter",
+      "organization": "Min organisation",
+      "world": "Världen (Offentlig)"
+    },
+    "facets": {
+      "type": "Typ",
+      "sharing": "Delning"
+    },
+    "collection": {
+      "appsAndMaps": "Appar och kartor",
+      "dataset": "Data",
+      "documents": "Dokument",
+      "feedback": "Feedback",
+      "sites": "Webbplatser"
+    },
+    "modal": {
+      "title": "Lägg till innehåll"
+    },
+    "unsharedModal": {
+      "title": "Objekt har inte lagts till",
+      "notice": {
+        "icon": "utropstecken-triangel",
+        "type": "fara",
+        "title": "Åtgärd ofullständig",
+        "message": "Vissa objekt kunde inte läggas till. Detta kan bero på ej matchande delningsnivåer i innehållet eller att ägaren av objektet inte är medlem i gruppen.",
+        "linkText": "Läs mer om delning"
+      }
+    },
+    "itemSharedSuccessAlert": "Objekt har delats"
+  },
+  "close": "Stäng",
+  "newTab": "öppnas i ny flik"
+}

@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Hämtning färdig",
+  "titleFileGeneration": "Filskapande pågår",
+  "titleFileGenerationFailed": "Filskapande misslyckades",
+  "titleDatasetNotFound": "Datasetet hittades inte",
+  "titleApiError": "API-fel",
+  "titleFormatDisabled": "Hämtning inaktiverad",
+  "messageFailedStaleAvailable": "Du kan hämta den föregående versionen nedan.",
+  "messageUpdatingFile": "Vi uppdaterar filen. Det kan ta ett tag.",
+  "messageCreatingFile": "Vi skapar filen. Det kan ta ett tag.",
+  "messageFileNeedsGenerating": "Hämtning av en uppdaterad fil kan ta ett tag.",
+  "messageFormatDisabled": "Ägaren har inaktiverat hämtning för detta format."
+}

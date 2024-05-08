@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Omistaja"
+  },
+  "updatedDate": {
+    "description": "Päivitetty viimeksi"
+  },
+  "createdDate": {
+    "description": "Julkaistu"
+  },
+  "access": {
+    "label": {
+      "public": "Julkinen",
+      "org": "Organisaatio",
+      "private": "Omistaja",
+      "shared": "Jaettu yksityisesti"
+    },
+    "description": {
+      "public": {
+        "site": "Kaikki voivat nähdä tämän sivuston",
+        "project": "Kaikki voivat nähdä tämän projektin",
+        "initiative": "Kaikki voivat nähdä tämän aloitteen",
+        "discussion": "Kaikki voivat nähdä tämän keskustelun",
+        "default": "Kaikki voivat nähdä tämän sisällön"
+      },
+      "org": {
+        "site": "Kaikki organisaatiossasi voivat nähdä tämän sivuston",
+        "project": "Kaikki organisaatiossasi voivat nähdä tämän projektin",
+        "initiative": "Kaikki organisaatiossasi voivat nähdä tämän aloitteen",
+        "discussion": "Kaikki organisaatiossasi voivat nähdä tämän keskustelun",
+        "default": "Kaikki organisaatiossasi voivat nähdä tämän sisällön"
+      },
+      "private": {
+        "site": "Vain sinä voit nähdä sivuston",
+        "project": "Vain sinä voit nähdä tämän projektin",
+        "initiative": "Vain sinä voit nähdä tämän aloitteen",
+        "discussion": "Vain sinä voit nähdä tämän keskustelun",
+        "default": "Vain sinä voit nähdä tämän sisällön"
+      },
+      "shared": {
+        "site": "Valitut ryhmät voivat nähdä tämän sivuston",
+        "project": "Valitut ryhmät voivat nähdä tämän projektin",
+        "initiative": "Valitut ryhmät voivat nähdä tämän aloitteen",
+        "discussion": "Valitut ryhmät voivat nähdä tämän keskustelun",
+        "default": "Valitut ryhmät voivat nähdä tämän sisällön"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Gedeeld met organisatie",
+      "private": "Gedeeld met eigenaar",
+      "public": "Gedeeld met publiek",
+      "shared": "Gedeeld met eigenaar en groepen"
+    },
+    "editLayout": "Lay-out bewerken",
+    "lastUpdated": "Laatst bijgewerkt: {updated}",
+    "viewSite": "Site weergeven"
+  },
+  "cloneLayoutLabel": "Lay-out klonen",
+  "deletePageLabel": "Pagina verwijderen",
+  "deleteSiteLabel": "Site verwijderen",
+  "editInAgoLabel": "Bewerken in ArcGIS Online",
+  "managePage": "Pagina beheren",
+  "manageSite": "Site beheren",
+  "moreOptionsLabel": "Meer opties",
+  "publishLabel": "Publiceren",
+  "saveAsTemplateLabel": "Als sjabloon opslaan",
+  "saveLabel": "Opslaan",
+  "sharingLabel": "Paneel voor delen openen",
+  "viewLabel": "Weergeven",
+  "viewPublishedLabel": "Gepubliceerd concept weergeven",
+  "viewUnpublishedLabel": "Niet-gepubliceerd concept weergeven"
+}

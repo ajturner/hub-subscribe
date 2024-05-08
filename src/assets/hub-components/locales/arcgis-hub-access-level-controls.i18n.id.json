@@ -1,0 +1,9 @@
+{
+  "heading": "Level Berbagi",
+  "public": "Publik",
+  "publicInfo": "Semua orang dapat melihat {itemType} ini",
+  "organization": "Organisasi",
+  "organizationInfo": "Semua anggota dengan akun ke {orgName} dan grup dapat melihat {itemType} ini",
+  "owner": "Pemilik",
+  "ownerInfo": "Pemilik dan grup dengan akses dapat melihat {itemType} ini"
+}

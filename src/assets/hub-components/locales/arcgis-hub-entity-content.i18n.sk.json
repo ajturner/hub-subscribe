@@ -1,0 +1,24 @@
+{
+  "content": "Obsah",
+  "tabs": {
+    "catalog": "Katalóg",
+    "collections": "Kolekcie",
+    "catalogConfig": "Konfigurácia katalógu"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurujte váš katalóg",
+        "message": "Začali ste vytvárať a konfigurovať katalóg! Váš katalóg sa skladá zo skupín a je naplnený obsahom v nich.",
+        "link": "Zistiť viac o katalógoch"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalóg je prázdny",
+        "message": "Ste pripravení začať pracovať na svojom katalógu! Váš katalóg sa nakonfiguruje pridaním jednej alebo viacerých skupín a bude naplnený obsahom v nich.",
+        "link": "Začnite"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "新增貼文",
+  "createPost": "建立貼文",
+  "emptyHeading": "開始討論",
+  "emptyMessage": "作為主題的第一個提出者。 您可以輕鬆地提出問題，或與他人分享您對某個內容的理解程度。",
+  "searchIdeas": "搜尋貼文",
+  "searchCount": "{start} - {end}/{total}",
+  "orderAsc": "升冪",
+  "orderDesc": "降冪",
+  "sortRecent": "最近",
+  "sortCreator": "建立者",
+  "layoutGrid": "網格",
+  "layoutList": "列表"
+}

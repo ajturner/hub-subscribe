@@ -1,0 +1,27 @@
+{
+  "overview": "Prezentare generală",
+  "telemetry": {
+    "pageViews": "Vizualizările paginii",
+    "last30days": "Ultimele 30 de zile",
+    "lastUpdated": "Ultima actualizare {hoursElapsed} ore în urmă"
+  },
+  "newNotice": {
+    "title": "Acesta este spațiul de lucru al proiectului dvs.",
+    "message": "Acest spațiu de lucru este personalizat pentru editarea proiectelor. Spațiile de lucru le permit colaboratorilor să se concentreze pe elementele individuale și sunt în continuă dezvoltare.",
+    "link": "Aflați mai multe"
+  },
+  "learnAbout": "Aflați despre proiecte Hub",
+  "feedbackNotice": {
+    "message": "Vă plac proiectele Hub? Pentru că această caracteristică este încă în versiunea beta, doriți să aflăm cum o puteți utiliza.",
+    "link": "Trimiteți feedback"
+  },
+  "status": {
+    "notStarted": "Nepornit",
+    "inProgress": "În progres",
+    "onHold": "În așteptare",
+    "complete": "Finalizată"
+  },
+  "editDetails": "Editarea detaliilor",
+  "noPurposeSet": "Niciun scop setat",
+  "noLocationSet": "Nu este setată nicio locație"
+}

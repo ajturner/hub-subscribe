@@ -1,0 +1,17 @@
+{
+  "summary": "요약",
+  "description": "설명",
+  "details": "세부정보",
+  "metrics": "지표",
+  "metricsDisclaimer": "최근 30일만 표시",
+  "titleOpen": "공개 토론",
+  "statusOpen": "참여 가능",
+  "titleClosed": "비공개 토론",
+  "statusClosed": "참여 마감",
+  "tags": "태그",
+  "categories": "범주",
+  "metric.pageViews": "페이지 조회수",
+  "metric.postCount": "게시물 개수",
+  "discussion": "토론",
+  "discussionBoard": "토론 보드"
+}

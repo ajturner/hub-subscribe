@@ -1,0 +1,7 @@
+{
+  "showMore": "Prikaži još {num}",
+  "showLess": "Prikaži manje",
+  "inputPlaceholder": "Opcije filtriranja",
+  "noMatchesNotice": "Nisu pronađene podudarajuće opcije",
+  "inputAriaLabel": "Pronađi opciju prema ključnoj riječi"
+}

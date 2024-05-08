@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "고급 구성",
+    "serverTimeout": {
+      "label": "서버 시간 초과(초)",
+      "helperText": "응답하는 데 시간이 오래 걸릴 수 있는 대규모 서비스에 유용합니다."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "코너",
+      "enum": {
+        "round": {
+          "label": "원형"
+        },
+        "square": {
+          "label": "사각형"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "그림자 넣기",
+      "enum": {
+        "heavy": {
+          "label": "강하게"
+        },
+        "low": {
+          "label": "낮음"
+        },
+        "medium": {
+          "label": "보통"
+        },
+        "none": {
+          "label": "시작되지 않음"
+        }
+      }
+    },
+    "layout": {
+      "label": "통계 레이아웃",
+      "enum": {
+        "dataViz": {
+          "label": "데이터 시각화"
+        },
+        "moreInfo": {
+          "label": "추가 정보"
+        },
+        "simple": {
+          "label": "단순"
+        }
+      }
+    },
+    "popoverTitle": "팝오버 제목",
+    "popoverDescription": "팝오버 설명",
+    "sectionTitle": "모양",
+    "textAlign": "정렬",
+    "visualInterest": {
+      "label": "시각적 효과",
+      "enum": {
+        "icon": {
+          "label": "아이콘"
+        },
+        "logo": {
+          "label": "로고"
+        },
+        "none": {
+          "label": "없음"
+        },
+        "sparkline": {
+          "label": "스파크라인"
+        }
+      }
+    },
+    "valueColor": "색상(통계)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "링크",
+      "sourceLink": "링크 URL",
+      "sourceTitle": "링크 텍스트"
+    },
+    "sectionTitle": "세부정보",
+    "subtitle": "부제목",
+    "title": "제목",
+    "trailingText": "후행 텍스트"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "원본을 표시하려면 링크가 필요합니다."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "형식 지정",
+    "unit": {
+      "label": "표시 단위",
+      "helperText": "값의 측정 단위를 입력합니다."
+    },
+    "unitPosition": {
+      "label": "배치",
+      "enum": {
+        "after": {
+          "label": "이후"
+        },
+        "before": {
+          "label": "이전"
+        },
+        "below": {
+          "label": "아래"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "공유",
+    "showShareIcon": "활성화",
+    "shareableByValue": "임베드 활성화",
+    "shareableOnHover": {
+      "label": "표시",
+      "enum": {
+        "always": {
+          "label": "항상"
+        },
+        "hover": {
+          "label": "마우스 오버 시에만"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "데이터 원본",
+    "displayValue": "표시 값",
+    "sectionTitle": "통계",
+    "type": {
+      "label": "유형",
+      "enum": {
+        "dynamic": {
+          "label": "동적",
+          "description": "요약할 기존 데이터셋(피처 서비스)을 선택합니다."
+        },
+        "static": {
+          "label": "통계",
+          "description": "레이아웃에서 강조할 값을 수동으로 입력합니다."
+        }
+      }
+    }
+  }
+}

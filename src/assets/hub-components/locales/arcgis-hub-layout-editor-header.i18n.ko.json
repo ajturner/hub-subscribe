@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "기관에 공유됨",
+      "private": "소유자에게 공유됨",
+      "public": "모든 사람에게 공유됨",
+      "shared": "소유자 및 그룹에 공유됨"
+    },
+    "editLayout": "레이아웃 편집",
+    "lastUpdated": "마지막 업데이트일: {updated}",
+    "viewSite": "사이트 보기"
+  },
+  "cloneLayoutLabel": "레이아웃 복제",
+  "deletePageLabel": "페이지 삭제",
+  "deleteSiteLabel": "사이트 삭제",
+  "editInAgoLabel": "ArcGIS Online에서 편집",
+  "managePage": "페이지 관리",
+  "manageSite": "사이트 관리",
+  "moreOptionsLabel": "추가 옵션",
+  "publishLabel": "발행",
+  "saveAsTemplateLabel": "템플릿으로 저장",
+  "saveLabel": "저장",
+  "sharingLabel": "공유 패널 열기",
+  "viewLabel": "보기",
+  "viewPublishedLabel": "발행된 초안 보기",
+  "viewUnpublishedLabel": "발행되지 않은 초안 미리 보기"
+}

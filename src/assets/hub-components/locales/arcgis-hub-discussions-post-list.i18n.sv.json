@@ -1,0 +1,14 @@
+{
+  "addPost": "Lägg till ett inlägg",
+  "createPost": "Skapa ett inlägg",
+  "emptyHeading": "Starta en diskussion",
+  "emptyMessage": "Var först med att ta upp ett ämne. Det är enkelt att ställa en fråga eller dela det du vet med andra om ett innehållsstycke.",
+  "searchIdeas": "Sök efter inlägg",
+  "searchCount": "{start} - {end} av {total}",
+  "orderAsc": "Stigande",
+  "orderDesc": "Fallande",
+  "sortRecent": "Senaste",
+  "sortCreator": "Creator",
+  "layoutGrid": "Rutnät",
+  "layoutList": "Lista"
+}

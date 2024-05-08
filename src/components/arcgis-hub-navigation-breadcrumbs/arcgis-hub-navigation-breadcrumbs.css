@@ -1,0 +1,7 @@
+:host {
+  display: block;
+}
+
+.container.primary, .container.secondary, .container.tertiary {
+  border: 0;
+}

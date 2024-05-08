@@ -1,0 +1,24 @@
+{
+  "title": "Üyeler",
+  "facets": {
+    "role": {
+      "label": "Rol",
+      "all": "Tümü",
+      "manager": "Yönetici",
+      "member": "Üye"
+    },
+    "dateJoined": {
+      "label": "Katıldığı tarih"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Toplam",
+      "trailingText": "Ekip Üyeleri"
+    },
+    "new": {
+      "title": "Yeni",
+      "trailingText": "Son 30 gün"
+    }
+  }
+}

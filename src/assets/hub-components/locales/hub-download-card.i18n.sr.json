@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Preuzmi",
+  "buttonOptions": "Opcije za preuzimanje",
+  "menuRequest": "Generiši novo preuzimanje sa najnovijim podacima",
+  "menuDownload": "Datoteka za preuzimanje je prethodno generisana {createdDate}",
+  "fileCreated": "Datoteka kreirana",
+  "fileSize": "Veličina datoteke",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Nije dostupno"
+}

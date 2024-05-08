@@ -1,0 +1,16 @@
+{
+  "contentHeading": "업로드할 파일 드래그 앤 드롭",
+  "imageHeading": "이미지 업로드",
+  "selectedHeading": "파일이 선택됨",
+  "maxSizeAndSupportedTypes": "최대 크기: {maxSize}MB, {fileTypes}",
+  "maxSize": "최대 크기: {maxSize}MB",
+  "recommendedDimensions": "권장되는 디멘전 {recommendedDimensions}",
+  "linkText": "지원되는 파일 목록 확인",
+  "contentButton": "파일 찾아보기",
+  "imageButton": "이미지 찾아보기",
+  "clearButton": "선택 항목 해제",
+  "errorHeading": "오류",
+  "fileTooLargeError": "파일이 너무 큼",
+  "multipleFilesError": "여러 파일을 한 번에 업로드할 수 없음",
+  "unsupportedFileTypeError": "이 파일 유형은 지원되지 않음"
+}

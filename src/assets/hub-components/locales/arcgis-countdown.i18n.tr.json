@@ -1,0 +1,7 @@
+{
+  "days": "gün",
+  "hours": "saat",
+  "minutes": "dakika",
+  "seconds": "saniye",
+  "countdownDateMissingError": "Bir geri sayım tarihi vermeniz gerekiyor"
+}

@@ -1,0 +1,24 @@
+{
+  "content": "Sadržaj",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Zbirke",
+    "catalogConfig": "Konfiguracija kataloga"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurirajte svoj katalog",
+        "message": "Započeli ste izradu i konfiguraciju kataloga! Vaš je katalog sastavljen od grupa i popunjen sadržajem unutar njih.",
+        "link": "Saznajte više o katalozima"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalog je prazan",
+        "message": "Spremni ste za početak izrade svog kataloga! Vaš se katalog konfigurira dodavanjem jedne ili više grupa i popunjava sadržajem unutar njih.",
+        "link": "Započnite"
+      }
+    }
+  }
+}

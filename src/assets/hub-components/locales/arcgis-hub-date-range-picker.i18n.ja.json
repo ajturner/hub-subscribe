@@ -1,0 +1,15 @@
+{
+  "default": "日付範囲の選択",
+  "today": "今日",
+  "yesterday": "昨日",
+  "last7Days": "過去 7 日間",
+  "last30Days": "過去 30 日間",
+  "thisMonth": "今月",
+  "lastMonth": "先月",
+  "pastYear": "過去 1 年間",
+  "custom": "カスタム",
+  "nextMonth": "次月",
+  "previousMonth": "前月",
+  "year": "年",
+  "title": "期間を選択"
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "otvori profil u novoj kartici",
+  "noGroups": "Bez grupa",
+  "pickerToggle": "Dodaj grupe",
+  "pickerTitle": "Odaberi grupe",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Nema članova",
+      "oneMember": "1 član",
+      "members": "{count} članova"
+    },
+    "dateCreated": "Datum izrade: {localizedDate}",
+    "sharing": "Dijeljenje: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Ja",
+      "shared": "Vlasnik i grupe",
+      "org": "Organizacija",
+      "public": "Javno"
+    },
+    "membership": "Članstvo: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Vlasnik grupe",
+      "admin": "Upravitelj grupe",
+      "member": "Član grupe",
+      "none": "Nema"
+    }
+  }
+}

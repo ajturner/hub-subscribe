@@ -1,0 +1,12 @@
+{
+  "save": "Lagre",
+  "cancel": "Avbryt",
+  "undoChanges": "Angre endringer",
+  "next": "Neste",
+  "back": "Tilbake",
+  "formAlert": "Skjemavarsel",
+  "invalidForm": "Du må rette alle feil.",
+  "saveDisabled": "Lagring deaktivert",
+  "success": "Redigeringer er lagret",
+  "error": "Feil under lagring av redigeringer"
+}

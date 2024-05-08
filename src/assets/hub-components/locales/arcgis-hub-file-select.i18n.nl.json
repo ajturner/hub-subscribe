@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Te uploaden bestand slepen en neerzetten",
+  "imageHeading": "Een afbeelding uploaden",
+  "selectedHeading": "Bestand geselecteerd",
+  "maxSizeAndSupportedTypes": "Max. grootte is {maxSize}MB, {fileTypes}",
+  "maxSize": "Max. grootte is {maxSize}MB",
+  "recommendedDimensions": "Aanbevolen afmetingen {recommendedDimensions}",
+  "linkText": "Lijst met ondersteunde bestanden bekijken",
+  "contentButton": "Zoek naar bestand",
+  "imageButton": "Zoek naar afbeelding",
+  "clearButton": "Wis geselecteerd",
+  "errorHeading": "Fout",
+  "fileTooLargeError": "Bestand te groot",
+  "multipleFilesError": "Kan niet meerdere bestanden tegelijk uploaden",
+  "unsupportedFileTypeError": "Dit bestandstype worden niet ondersteund"
+}

@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Cấu hình nâng cao",
+    "serverTimeout": {
+      "label": "Thời gian chờ máy chủ (giây)",
+      "helperText": "Hữu ích cho các dịch vụ lớn hơn có thể mất nhiều thời gian hơn để phản hồi."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Góc",
+      "enum": {
+        "round": {
+          "label": "Hình tròn"
+        },
+        "square": {
+          "label": "Square (Bình phương)"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Đổ Bóng",
+      "enum": {
+        "heavy": {
+          "label": "Mạnh"
+        },
+        "low": {
+          "label": "Thấp"
+        },
+        "medium": {
+          "label": "Trung bình"
+        },
+        "none": {
+          "label": "Chưa Bắt đầu"
+        }
+      }
+    },
+    "layout": {
+      "label": "Bố cục Thống kê",
+      "enum": {
+        "dataViz": {
+          "label": "Trực quan hóa Dữ liệu"
+        },
+        "moreInfo": {
+          "label": "Thông tin Khác"
+        },
+        "simple": {
+          "label": "Đơn giản"
+        }
+      }
+    },
+    "popoverTitle": "Tiêu đề Bật lên",
+    "popoverDescription": "Thông tin mô tả Bật lên",
+    "sectionTitle": "Giao diện",
+    "textAlign": "Căn chỉnh",
+    "visualInterest": {
+      "label": "Sự thu hút về mặt trực quan",
+      "enum": {
+        "icon": {
+          "label": "Biểu tượng"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Không có"
+        },
+        "sparkline": {
+          "label": "Biểu đồ đường nhỏ"
+        }
+      }
+    },
+    "valueColor": "Màu sắc (Thống kê)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Liên kết",
+      "sourceLink": "URL Liên kết",
+      "sourceTitle": "Văn bản liên kết"
+    },
+    "sectionTitle": "Thông tin chi tiết",
+    "subtitle": "Phụ đề",
+    "title": "Tiêu đề",
+    "trailingText": "Văn bản cuối câu"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Liên kết bắt buộc để hiển thị nguồn."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Đang định dạng",
+    "unit": {
+      "label": "Đơn vị hiển thị",
+      "helperText": "Nhập đơn vị đo lường lường cho giá trị của bạn."
+    },
+    "unitPosition": {
+      "label": "Sắp đặt",
+      "enum": {
+        "after": {
+          "label": "Sau"
+        },
+        "before": {
+          "label": "Trước"
+        },
+        "below": {
+          "label": "Ở dưới"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Chia sẻ",
+    "showShareIcon": "Bật",
+    "shareableByValue": "Bật Nội dung nhúng",
+    "shareableOnHover": {
+      "label": "Hiển thị",
+      "enum": {
+        "always": {
+          "label": "Luôn luôn"
+        },
+        "hover": {
+          "label": "Chỉ di chuột qua"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Nguồn dữ liệu",
+    "displayValue": "Giá trị hiển thị",
+    "sectionTitle": "Thống kê",
+    "type": {
+      "label": "Loại",
+      "enum": {
+        "dynamic": {
+          "label": "Động",
+          "description": "Chọn một bộ dữ liệu hiện có (dịch vụ đối tượng) để tóm tắt."
+        },
+        "static": {
+          "label": "Tĩnh",
+          "description": "Nhập thủ công một giá trị để đánh dấu trong bố cục."
+        }
+      }
+    }
+  }
+}

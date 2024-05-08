@@ -1,0 +1,14 @@
+{
+  "createdBy": "생성한 사람: {creator}",
+  "emptyMessage": "버전을 찾을 수 없음",
+  "errorMessage": "버전을 가져오는 중 오류 발생",
+  "menuLabel": "작업 표시",
+  "publishedBadge": "발행됨",
+  "viewingBadge": "보기",
+  "popover.label": "버전 작업",
+  "popover.actions.delete": "삭제",
+  "popover.actions.edit": "세부정보 편집",
+  "popover.actions.share": "공유",
+  "shareErrorMessage": "공유 URL을 클립보드에 복사하는 동안 오류가 발생했습니다.",
+  "shareSuccessMessage": "공유 URL이 클립보드에 복사되었습니다."
+}

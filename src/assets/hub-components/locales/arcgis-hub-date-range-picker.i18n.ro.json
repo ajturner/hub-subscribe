@@ -1,0 +1,15 @@
+{
+  "default": "Selectați un interval de date",
+  "today": "Astăzi",
+  "yesterday": "Ieri",
+  "last7Days": "Ultimele 7 zile",
+  "last30Days": "Ultimele 30 de zile",
+  "thisMonth": "Luna aceasta",
+  "lastMonth": "Luna trecută",
+  "pastYear": "Anul trecut",
+  "custom": "Personalizare",
+  "nextMonth": "Luna următoare",
+  "previousMonth": "Luna anterioară",
+  "year": "An",
+  "title": "Selectați o perioadă"
+}

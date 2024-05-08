@@ -1,0 +1,71 @@
+{
+  "addFirstAction": "Add first action",
+  "addSecondAction": "Add second action",
+  "addLink": "Add link",
+  "addSection": "Add section",
+  "deleteNotice": {
+    "title": "Unable to delete",
+    "message": "Section is not empty. Please move all links outside of section before attempting to delete."
+  },
+  "linkEditor": {
+    "save": "Save",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "title": {
+      "button1": "First action",
+      "button2": "Second action",
+      "block": "Action link"
+    },
+    "link": {
+      "source": {
+        "content": {
+          "label": "Link to existing content"
+        },
+        "external": {
+          "label": "Link to an external source"
+        }
+      },
+      "label": {
+        "label": "Label",
+        "helperText": {
+          "button": "This text will appear on the button.",
+          "block": "This will appear on the block in bold."
+        },
+        "requiredError": "Label is a required field."
+      },
+      "description": {
+        "label": "Description",
+        "helperText": "This is secondary information."
+      },
+      "href": {
+        "label": "Link*",
+        "requiredError": "Link is a required field.",
+        "formatError": "URL formatting is incorrect."
+      },
+      "contentId": {
+        "label": "Content link*",
+        "requiredError": "Content link is a required field."
+      },
+      "section": {
+        "label": "Move to section",
+        "placeholder": {
+          "noSections": "No sections have been configured",
+          "notSet": "Not in section"
+        }
+      }
+    }
+  },
+  "sectionEditor": {
+    "title": "Section",
+    "helperText": "Sections can be used to nest links under a menu item. Sections do not act as a link.",
+    "section": {
+      "label": {
+        "label": "Label",
+        "requiredError": "Label is a required field."
+      },
+      "description": {
+        "label": "Description"
+      }
+    }
+  }
+}

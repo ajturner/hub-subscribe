@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "쉐이프파일",
+  "sqlite": "SQLite 지오데이터베이스",
+  "geoPackage": "지오패키지",
+  "filegdb": "파일 지오데이터베이스",
+  "featureCollection": "피처 컬렉션",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "다운로드"
+}

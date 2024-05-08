@@ -1,0 +1,24 @@
+{
+  "title": "Medlemmer",
+  "facets": {
+    "role": {
+      "label": "Rolle",
+      "all": "Alle",
+      "manager": "Administrator",
+      "member": "Medlem"
+    },
+    "dateJoined": {
+      "label": "Dato for deltagelse"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "I alt",
+      "trailingText": "Teammedlemmer"
+    },
+    "new": {
+      "title": "Ny",
+      "trailingText": "Sidste 30 dage"
+    }
+  }
+}

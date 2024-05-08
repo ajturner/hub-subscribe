@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Właściciel"
+  },
+  "updatedDate": {
+    "description": "Data aktualizacji"
+  },
+  "createdDate": {
+    "description": "Opublikowana"
+  },
+  "access": {
+    "label": {
+      "public": "Publiczny",
+      "org": "Instytucja",
+      "private": "Właściciel",
+      "shared": "Udostępnione prywatnie"
+    },
+    "description": {
+      "public": {
+        "site": "Wszyscy widzą tę witrynę",
+        "project": "Wszyscy mogą zobaczyć ten projekt",
+        "initiative": "Wszyscy widzą tę inicjatywę",
+        "discussion": "Wszyscy widzą tę dyskusję",
+        "default": "Wszyscy widzą te zasoby"
+      },
+      "org": {
+        "site": "Każdy użytkownik w instytucji widzi tę witrynę",
+        "project": "Każdy użytkownik w instytucji widzi ten projekt",
+        "initiative": "Każdy użytkownik w instytucji widzi tę inicjatywę",
+        "discussion": "Każdy użytkownik w instytucji widzi tę dyskusję",
+        "default": "Każdy użytkownik w instytucji widzi te zasoby"
+      },
+      "private": {
+        "site": "Tylko Ty widzisz tę witrynę",
+        "project": "Tylko Ty widzisz ten projekt",
+        "initiative": "Tylko Ty widzisz tę inicjatywę",
+        "discussion": "Tylko ty widzisz tę dyskusję",
+        "default": "Tylko Ty widzisz te zasoby"
+      },
+      "shared": {
+        "site": "Wybrane grupy widzą tę witrynę",
+        "project": "Wybrane grupy widzą ten projekt",
+        "initiative": "Wybrane grupy widzą tę inicjatywę",
+        "discussion": "Wybrane grupy widzą tę dyskusję",
+        "default": "Wybrane grupy widzą ten zasób"
+      }
+    }
+  }
+}

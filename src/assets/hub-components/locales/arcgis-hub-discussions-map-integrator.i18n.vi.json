@@ -1,0 +1,16 @@
+{
+  "location.add": "Thêm vị trí",
+  "location.remove": "Xóa vị trí",
+  "draw.tip": "Thêm một vị trí khác?",
+  "prompt.add.post": "Thêm vào bài đăng",
+  "prompt.add.reply": "Thêm vào phản hồi",
+  "prompt.edit.point": "Di chuyển điểm",
+  "prompt.edit.polyline": "Chỉnh sửa đường",
+  "prompt.edit.polygon": "Chỉnh sửa vùng",
+  "prompt.remove.point": "Xóa điểm",
+  "prompt.remove.polyline": "Xóa đường",
+  "prompt.remove.polygon": "Xóa vùng",
+  "prompt.remove.existing": "Hủy lựa chọn",
+  "prompt.location.edit": "Cập nhật bản vẽ",
+  "prompt.location.delete": "Xóa bản vẽ"
+}

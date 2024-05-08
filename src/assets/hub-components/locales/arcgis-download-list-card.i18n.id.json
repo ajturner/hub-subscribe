@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geodatabase SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Koleksi Fitur",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Unduh CSV",
+  "downloadshapefile": "Unduh Shapefile",
+  "downloadsqlite": "Unduh Geodatabase SQLite",
+  "downloadgeoPackage": "Unduh GeoPackage",
+  "downloadfilegdb": "Unduh File Geodatabase",
+  "downloadfeatureCollection": "Unduh Koleksi Fitur",
+  "downloadgeojson": "Unduh GeoJSON",
+  "downloadexcel": "Unduh Excel",
+  "rateLimitMessage": "Maaf, batas unduhan telah tercapai. Silakan coba lagi dalam satu jam atau hubungi pengelola konten.",
+  "createReplicaErrorMessage": "Buat replika kesalahan internal. Silakan coba lagi dalam satu jam atau hubungi pengelola konten."
+}

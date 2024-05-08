@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "选择内容",
+  "secondStepHeader": "设置详细信息",
+  "thirdStepHeader": "设置共享级别和访问权限",
+  "next": "下一页",
+  "back": "返回",
+  "save": "保存",
+  "cancel": "取消",
+  "divider": "或者",
+  "duplicateFileAriaLabel": "重复文件错误",
+  "duplicateFileError": "具有相同文件名的项目已存在。 请修改文件名，然后重试，或在 ArcGIS Online 中移除<a>重复文件</a>",
+  "uploading": "正在上传"
+}

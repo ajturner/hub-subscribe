@@ -1,0 +1,8 @@
+{
+  "header": "Opcje dyskusji",
+  "secondary": "Anuluj",
+  "primary": "Zapisz zmiany",
+  "pending": "Zapisywanie",
+  "error.title": "Wystąpiły problemy",
+  "error.message": "Spróbuj ponownie, aby zapisać zmiany."
+}

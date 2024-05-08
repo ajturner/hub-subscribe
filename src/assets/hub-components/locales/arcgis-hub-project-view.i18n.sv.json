@@ -1,0 +1,18 @@
+{
+  "purpose": "Syfte",
+  "description": "Hur vi kommer dit",
+  "details": "Information",
+  "featuredImageAlt": "Projekt – aktuell bild",
+  "trackProgress": "Spåra våra framsteg",
+  "participatingGroups": "Deltagande grupper",
+  "whosInvolved": "Vem är inblandad",
+  "tags": "Taggar",
+  "status": {
+    "label": "Projektstatus",
+    "notStarted": "Inte startad",
+    "inProgress": "Pågår",
+    "onHold": "Väntande",
+    "complete": "Fullständig"
+  },
+  "featuredContent": "Aktuellt innehåll"
+}

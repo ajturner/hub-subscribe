@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonyymi",
+  "noUser": "Ei käyttäjänimeä",
+  "privateUser": "Yksityinen jäsen",
+  "privateOrg": "Yksityinen organisaatio",
+  "org": "Oma organisaatio",
+  "orgLabel": "Organisaatio",
+  "profile": "Siirry profiiliin",
+  "location": "Sijainti",
+  "information": "Tietoja julkaisusta",
+  "postedIn": "Julkaistu ryhmässä {groupName}",
+  "replyingTo": "Vastataan käyttäjälle @{username}",
+  "visiblePrivate": "Näkyy vain jäsenille",
+  "visibleOrg": "Näkyy organisaatiolle",
+  "visibleAll": "Näkyy kaikille",
+  "manageChannel": "Hallitse kanavaa",
+  "group.deleted": "Poistettu ryhmä",
+  "unnamedChannel": "Nimetön kanava"
+}

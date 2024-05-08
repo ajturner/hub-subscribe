@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "تمت المشاركة مع المؤسسة",
+      "private": "تمت المشاركة مع المالك",
+      "public": "تمت المشاركة مع العامة",
+      "shared": "تمت المشاركة مع المالك والمجموعات"
+    },
+    "editLayout": "تحرير التخطيط",
+    "lastUpdated": "التحديث الأخير {updated}",
+    "viewSite": "عرض الموقع"
+  },
+  "cloneLayoutLabel": "تخطيط النسخة",
+  "deletePageLabel": "حذف الصفحة",
+  "deleteSiteLabel": "حذف الموقع",
+  "editInAgoLabel": "التحرير في ArcGIS Online",
+  "managePage": "إدارة الصفحة",
+  "manageSite": "إدارة الموقع",
+  "moreOptionsLabel": "مزيد من الخيارات",
+  "publishLabel": "نشر",
+  "saveAsTemplateLabel": "حفظ كقالب",
+  "saveLabel": "حفظ",
+  "sharingLabel": "فتح لوحة المشاركة",
+  "viewLabel": "عرض",
+  "viewPublishedLabel": "عرض المسودة المنشورة",
+  "viewUnpublishedLabel": "معاينة المسودة غير المنشورة"
+}

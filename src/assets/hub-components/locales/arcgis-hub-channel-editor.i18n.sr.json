@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Kanal bez naziva",
+  "name": {
+    "label": "Naziv",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Sačuvaj",
+  "access": {
+    "private": {
+      "label": "Privatni",
+      "description": "Izabrane grupe mogu da učestvuju"
+    },
+    "organization": {
+      "label": "Moja organizacija",
+      "description": "Svi članovi sa nalogom na {orgName} mogu da učestvuju",
+      "disabledTooltip": "Samo administratori organizacije mogu da kreiraju kanale organizacije."
+    },
+    "public": {
+      "label": "Javni",
+      "description": "Svako sa nalogom može da učestvuje",
+      "disabledTooltip": "Samo administratori organizacije mogu da kreiraju javne kanale."
+    },
+    "allowAnonymous": "Dozvoli anonimne",
+    "confirmation": {
+      "header": "Da li ste sigurni?",
+      "message": "Čuvanjem ovih izmena uklonićete vaš pristup uređivanju ovog kanala. Samo administratori organizacije mogu da uređuju javne ili kanale organizacije.",
+      "secondary": "Otkaži",
+      "primary": "Potvrdi"
+    }
+  },
+  "participants": {
+    "label": "Učesnici",
+    "helperText": "Ljudi koji mogu da vide i doprinesu diskusiji.",
+    "none": "Nema postavljenih učesnika",
+    "add": "Dodaj grupu učesnika"
+  },
+  "groupPicker": {
+    "title": "Izaberite grupe",
+    "facet": {
+      "label": "Od",
+      "myGroup": "Moja grupa",
+      "myOrganization": "Moja organizacija",
+      "myCommunity": "Moja zajednica"
+    }
+  },
+  "blockWords": {
+    "label": "Blokirane reči",
+    "helperText": "Lista odvojena zapetama. Objave i odgovori koji ih sadrže biće sakriveni automatski."
+  },
+  "manage": {
+    "label": "Upravljanje i moderacija",
+    "helperText": "Automatski dodeljeni na osnovu izbora učešća iznad, ovi ljudi mogu da učestvuju, sakrivaju ili prikazuju postove i upravljaju podešavanjima kanala."
+  },
+  "manager": "Upravljač",
+  "admin": "Administrator",
+  "viewProfile": "Prikaži profil",
+  "alerts": {
+    "error": "Greška prilikom čuvanja kanala",
+    "success": "Kanal uspešno sačuvan",
+    "label": "Formiraj upozorenje"
+  },
+  "validations": {
+    "minChannelGroups": "Privatni kanali zahtevaju najmanje jednu grupu učesnika."
+  },
+  "notices": {
+    "edit": "Izmene će uticati svuda gde se koristi ovaj kanal",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal nije kreiran",
+          "message": "Kanal sa ovim izborima pristupa već postoji. Koristite postojecći kanal ili izmenite izbore."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal nije ažuriran",
+          "message": "Kanal sa ovim izborima pristupa već postoji tako da ne možemo da sačuvamo ova ažuriranja."
+        }
+      },
+      "action": "Upotrebi postojeći kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Nedostupne grupe: {count}",
+      "message": "Ne možete da vidite ili upravljate nedostupnim grupama osim ako niste član."
+    }
+  }
+}

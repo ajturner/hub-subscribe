@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datumbereik: {start} - {end}",
+  "pageViews": "Paginaweergaven",
+  "timeOnSite": "Gemiddeld aantal minuten op de site",
+  "users": "Sessies",
+  "viewsOverTime": "Hoe vaak is de pagina in de loop van tijd bekeken",
+  "disabledTracking": "Het bijhouden van activiteiten is uitgeschakeld",
+  "enableTracking": "Schakel Hub-activiteit bijhouden in bij de site-instellingen om het gebruik van uw site in de gaten te houden.",
+  "learnMore": "Meer informatie.",
+  "disabled": "Uitgeschakeld",
+  "notificationLabel": "Gegevens zijn bijgewerkt",
+  "dataUpdated": "Gegevens zijn bijgewerkt",
+  "subscribe": "Abonneren",
+  "subscribed": "Ingeschreven",
+  "weeklyReport": "Wekelijks rapport",
+  "timestampTitle": {
+    "hour": "Tijd van de dag",
+    "day": "Datum",
+    "week": "Week"
+  },
+  "formAlert": "Formulierwaarschuwing",
+  "success": "Het abonnement is bijgewerkt",
+  "subscriptionActivatedTitle": "Het abonnement is geactiveerd",
+  "subscriptionActivatedMessage": "U hebt {email} geregistreerd voor het ontvangen van wekelijkse interactiecijffers.",
+  "unsubscribeCompleteTitle": "Uitschrijven is voltooid",
+  "unsubscribeCompleteMessage": "{email} is uitgeschreven voor interactiecijfers.",
+  "problemSubscribingTitle": "Probleem bij abonneren",
+  "problemSubscribingMessage": "Er is een probleem opgetreden bij abonneren. Fout: ",
+  "problemUnsubscribingTitle": "Probleem bij uitschrijven",
+  "problemUnsubscribingMessage": "Er is een probleem opgetreden bij uitschrijven. Fout: "
+}

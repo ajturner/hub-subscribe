@@ -1,0 +1,14 @@
+{
+  "title": "標題",
+  "created": "建立日期",
+  "modified": "更新日期",
+  "updated": "更新日期",
+  "asc": "升冪",
+  "desc": "降冪",
+  "relevance": "相關度",
+  "change-sort-order": "變更排序順序",
+  "sort-by": "排序方式 ",
+  "joined": "加入日期",
+  "username": "使用者名稱",
+  "membertype": "角色"
+}

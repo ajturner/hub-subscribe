@@ -1,0 +1,15 @@
+{
+  "default": "날짜 범위 선택",
+  "today": "오늘",
+  "yesterday": "어제",
+  "last7Days": "최근 7일",
+  "last30Days": "최근 30일",
+  "thisMonth": "이번 달",
+  "lastMonth": "지난 달",
+  "pastYear": "지난해",
+  "custom": "사용자 설정",
+  "nextMonth": "다음 달",
+  "previousMonth": "이전 달",
+  "year": "년",
+  "title": "기간 선택"
+}

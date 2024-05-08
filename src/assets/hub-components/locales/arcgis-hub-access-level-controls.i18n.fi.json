@@ -1,0 +1,9 @@
+{
+  "heading": "Jakamistaso",
+  "public": "Julkinen",
+  "publicInfo": "Kaikki näkevät tämän kohteen {itemType}",
+  "organization": "Organisaatio",
+  "organizationInfo": "Kaikki jäsenet, joilla on {orgName} -tili, ja ryhmät voivat nähdä kohteen {itemType}",
+  "owner": "Omistaja",
+  "ownerInfo": "Omistaja ja ryhmät, joilla on käyttöoikeudet, voivat nähdä kohteen {itemType}"
+}

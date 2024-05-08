@@ -1,0 +1,15 @@
+{
+  "panel.heading": "تصفية حسب الموقع",
+  "panel.reset": "إعادة تعيين عامل التصفية",
+  "distance.title": "مسافة",
+  "distance.placeholder": "إدخال رقم...",
+  "distance.message": "أدخل رقمًا لتوسيع المنطقة التي تمت تصفيتها.",
+  "system.imperial": "الإمبراطورية",
+  "system.metric": "متري",
+  "units.title": "وحدات",
+  "units.feet": "قدم",
+  "units.miles": "ميل",
+  "units.nauticalmiles": "الأميال البحرية",
+  "units.meters": "متر",
+  "units.kilometers": "كيلومترات"
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "Sekėjai",
+  "tabs": {
+    "followers": "Stebėtojai",
+    "settings": "Nustatymai"
+  },
+  "addFollowers": {
+    "label": "Pridėti sekėjų"
+  },
+  "emptyState": {
+    "message": "Šiuo metu neturite sekėjų grupės."
+  },
+  "restrictedAccessState": {
+    "message": "Neturite prieigos."
+  },
+  "stats": {
+    "total": {
+      "title": "Iš viso",
+      "trailingText": "Sekėjai"
+    },
+    "new": {
+      "title": "Nauja",
+      "trailingText": "30 dienų"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "Seuraajat",
+  "tabs": {
+    "followers": "Seuraajat",
+    "settings": "Asetukset"
+  },
+  "addFollowers": {
+    "label": "Lisää seuraajia"
+  },
+  "emptyState": {
+    "message": "Sinulla ei ole seuraajaryhmää tällä hetkellä."
+  },
+  "restrictedAccessState": {
+    "message": "Sinulla ei ole käyttöoikeutta."
+  },
+  "stats": {
+    "total": {
+      "title": "Yhteensä",
+      "trailingText": "Seuraajat"
+    },
+    "new": {
+      "title": "Uusi",
+      "trailingText": "Edelliset 30 päivää"
+    }
+  }
+}

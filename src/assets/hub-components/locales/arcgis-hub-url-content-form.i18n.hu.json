@@ -1,0 +1,19 @@
+{
+  "heading": "Hozzáadás URL használatával",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS vektoros szolgáltatás, XLS, PDF, PNG, JPG, webes hivatkozás",
+  "fileTypeSelector": "Kézzel megadott fájltípus",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS vektoros szolgáltatás",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Webes hivatkozás",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Kép (png, jpg, jpeg)",
+  "invalidFormat": "Hiba: Érvénytelen formátum",
+  "invalidUrl": "Hiba: Érvénytelen URL",
+  "recognizedType": "Kézzel megadott fájltípus"
+}

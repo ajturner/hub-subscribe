@@ -1,0 +1,36 @@
+{
+  "edit": "Redigér",
+  "delete": "Slet",
+  "noneMessage": "Ingen placering angivet",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Websted",
+    "initiative": "Initiativ",
+    "discussion": "Diskussion",
+    "content": "Indhold"
+  },
+  "emptyLocation": {
+    "title": "Ingen tegnet position",
+    "message": "{entityType} vises ikke på kort, før en position er tilføjet"
+  },
+  "populatedLocation": {
+    "title": "Tilføj en anden position?",
+    "message": "Vælg tegneværktøjet igen for at tilføje flere positioner (op til {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Maks. antal punkter nået ({currentCount}/{maxLocations})",
+    "message": "Sådan tilføjer du flere positioner: Slet punkter, eller rediger linjer og områder for at slette deres punkter (højreklik)."
+  },
+  "maximumLocations": {
+    "title": "Maks. antal positioner er nået",
+    "message": "Du kan tilføje flere positioner, fjerne en eller flere eller fjerne alle positioner og bruge et generelt område."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Tilføj placering",
+    "clear": "Ryd alle",
+    "extent": "Tegn et rektangel",
+    "point": "Slip et punkt",
+    "polyline": "Tegn en linje",
+    "polygon": "Tegn et område"
+  }
+}

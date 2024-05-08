@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geodatabáze SQLite",
+  "geoPackage": "balíčku GeoPackage",
+  "filegdb": "Souborová geodatabáze",
+  "featureCollection": "Kolekce prvků",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Stahování"
+}

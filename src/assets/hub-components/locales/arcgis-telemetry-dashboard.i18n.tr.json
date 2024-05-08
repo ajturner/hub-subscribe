@@ -1,0 +1,31 @@
+{
+  "dateRange": "Tarih Aralığı: {start} - {end}",
+  "pageViews": "Pageviews",
+  "timeOnSite": "Sitede geçirilen ortalama dakika",
+  "users": "Oturumlar",
+  "viewsOverTime": "Zaman içindeki sayfa görüntülemeleri",
+  "disabledTracking": "Etkinlik izleme devre dışı bırakıldı",
+  "enableTracking": "Sitenizin kullanımını izlemek için site ayarlarında Hub Etkinliği izlemeyi etkinleştirin.",
+  "learnMore": "Daha fazla bilgi edinin.",
+  "disabled": "Devre Dışı Bırak",
+  "notificationLabel": "Veriler Güncellendi",
+  "dataUpdated": "Veriler Güncellendi",
+  "subscribe": "Abone ol",
+  "subscribed": "Abone Olundu",
+  "weeklyReport": "Haftalık rapor",
+  "timestampTitle": {
+    "hour": "Gün İçindeki Saat",
+    "day": "Tarih",
+    "week": "Hafta"
+  },
+  "formAlert": "Biçim Uyarısı",
+  "success": "Abonelik başarıyla güncellendi",
+  "subscriptionActivatedTitle": "Abonelik etkinleştirildi",
+  "subscriptionActivatedMessage": "Haftalık etkileşim metriklerini almak için {email}'ye kaydoldunuz.",
+  "unsubscribeCompleteTitle": "Abonelikten çıkma tamamlandı",
+  "unsubscribeCompleteMessage": "{email}, etkileşim metrikleri aboneliğinden başarıyla çıktı.",
+  "problemSubscribingTitle": "Abone etme sorunu",
+  "problemSubscribingMessage": "Abone ederken sorun oluştu. Hata: ",
+  "problemUnsubscribingTitle": "Abonelikten çıkma sorunu",
+  "problemUnsubscribingMessage": "Abonelikten çıkılırken sorun oluştu. Hata: "
+}

@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "コンテンツの選択",
+  "secondStepHeader": "詳細の設定",
+  "thirdStepHeader": "共有レベルとアクセスの設定",
+  "next": "次へ",
+  "back": "戻る",
+  "save": "保存",
+  "cancel": "キャンセル",
+  "divider": "または",
+  "duplicateFileAriaLabel": "ファイルの重複エラー",
+  "duplicateFileError": "同じファイル名のアイテムがすでに存在します。 ファイル名を変更してから再試行するか、ArcGIS Online で<a>重複しているファイル</a>を削除してください。",
+  "uploading": "アップロードしています"
+}

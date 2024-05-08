@@ -1,0 +1,27 @@
+{
+  "overview": "Ülevaade",
+  "telemetry": {
+    "pageViews": "Lehe vaatamised",
+    "last30days": "Viimased 30 päeva",
+    "lastUpdated": "Viimati uuendatud {hoursElapsed} tundi tagasi"
+  },
+  "newNotice": {
+    "title": "Siin on teie projekti tööruum",
+    "message": "See tööruum on kohandatud projektide muutmiseks. Tööruumid võimaldavad kaastöötajatel keskenduda üksikutele üksustele ja on pidevas arengus.",
+    "link": "Lisateave"
+  },
+  "learnAbout": "Teave Hubi projektide kohta",
+  "feedbackNotice": {
+    "message": "Kuidas teile meeldivad Hubi projektid? Kuna see funktsioon on veel beetaversioonis, soovime kuulda, kuidas te seda kasutate.",
+    "link": "Esita tagasiside"
+  },
+  "status": {
+    "notStarted": "Pole alustatud",
+    "inProgress": "Pooleli",
+    "onHold": "Ootel",
+    "complete": "Lõpetatud"
+  },
+  "editDetails": "Muuda üksikasju",
+  "noPurposeSet": "Eesmärki pole määratud",
+  "noLocationSet": "Asukohta pole määratud"
+}

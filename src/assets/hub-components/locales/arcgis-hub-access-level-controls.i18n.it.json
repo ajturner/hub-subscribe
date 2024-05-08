@@ -1,0 +1,9 @@
+{
+  "heading": "Livello di condivisione",
+  "public": "Pubblico",
+  "publicInfo": "Tutti possono visualizzare questo {itemType}",
+  "organization": "Organizzazione",
+  "organizationInfo": "Tutti i membri con account {orgName} e i gruppi possono visualizzare questo {itemType}",
+  "owner": "Proprietario",
+  "ownerInfo": "Il proprietario e i gruppi con accesso possono visualizzare questo {itemType}"
+}

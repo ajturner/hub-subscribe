@@ -1,0 +1,24 @@
+{
+  "title": "Dalībnieki",
+  "facets": {
+    "role": {
+      "label": "Loma",
+      "all": "Viss",
+      "manager": "Pārvaldnieks",
+      "member": "Dalībnieks"
+    },
+    "dateJoined": {
+      "label": "Pievienošanās datums"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Kopā",
+      "trailingText": "Darba grupas dalībnieki"
+    },
+    "new": {
+      "title": "Jauns",
+      "trailingText": "Pēdējās 30 dienas"
+    }
+  }
+}

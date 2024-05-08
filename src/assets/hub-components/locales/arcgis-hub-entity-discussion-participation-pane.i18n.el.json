@@ -1,0 +1,21 @@
+{
+  "title": "Συμμετοχή",
+  "channelTitle": "Κανάλι συμμετοχής",
+  "addChannelsTitle": "Απαιτείται κανάλι για αυτό το αντικείμενο. Μόνο ένα μπορεί να οριστεί.",
+  "headingChannelEdit": "Επεξεργασία καναλιού",
+  "headingChannelView": "Προβολή καναλιού",
+  "headingChannelCreate": "Δημιουργία νέου καναλιού",
+  "buttons": {
+    "browse": "Περιήγηση σε όλα τα κανάλια",
+    "new": "Νέο κανάλι"
+  },
+  "galleryPickerTitle": "Επιλογή καναλιού",
+  "channelsLabel": "Κανάλια",
+  "accessLabel": "Πρόσβαση",
+  "optionPublicLabel": "Δημόσιο περιεχόμενο",
+  "optionOrganizationLabel": "Οργανισμός",
+  "optionPrivateLabel": "Ιδιωτικό",
+  "viewChannel": "Προβολή καναλιού",
+  "editChannel": "Επεξεργασία καναλιού",
+  "save": "Αποθήκευση"
+}

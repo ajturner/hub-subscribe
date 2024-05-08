@@ -1,0 +1,24 @@
+{
+  "title": "Thành viên",
+  "facets": {
+    "role": {
+      "label": "Vai trò",
+      "all": "Tất cả",
+      "manager": "Người quản lý",
+      "member": "Thành viên"
+    },
+    "dateJoined": {
+      "label": "Ngày gia nhập"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Tổng",
+      "trailingText": "Thành viên Nhóm"
+    },
+    "new": {
+      "title": "Mới",
+      "trailingText": "30 ngày trước"
+    }
+  }
+}

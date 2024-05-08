@@ -1,0 +1,12 @@
+{
+  "save": "Įrašyti",
+  "cancel": "Atšaukti",
+  "undoChanges": "Atšaukti pakeitimus",
+  "next": "Kitas",
+  "back": "Atgal",
+  "formAlert": "Formos pavojus",
+  "invalidForm": "Ištaisykite visas klaidas.",
+  "saveDisabled": "Įrašymas išjungtas",
+  "success": "Pakeitimai įrašyti sėkmingai",
+  "error": "Klaida išsaugant pakeitimus"
+}

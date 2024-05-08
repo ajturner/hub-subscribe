@@ -1,0 +1,494 @@
+{
+  "success": "Redigeringer er lagret",
+  "error": "Feil under lagring av redigeringer",
+  "create": "Opprett",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Ingen posisjon",
+        "org": "Organisasjonens utstrekning",
+        "custom": "Egendefinert lokasjon",
+        "customDescription": "Tegn én eller flere lokasjoner",
+        "itemExtent": "Elementets gjeldende utstrekning"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Elementdeling"
+        },
+        "catalog": {
+          "myContent": "Mitt innhold",
+          "favorites": "Favoritter",
+          "organization": "Organisasjon",
+          "world": "Verden (offentlig)"
+        },
+        "collection": {
+          "appsAndMaps": "Apper og kart",
+          "dataset": "Data",
+          "documents": "Dokumenter",
+          "feedback": "Tilbakemelding",
+          "sites": "Nettsteder"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Detaljer"
+      },
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "location": {
+        "label": "Lokasjon",
+        "helperText": "Vis det geografiske området som dette prosjektet vil finne sted i (som skal vises i prosjektoppsettet)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Elementdeling"
+      },
+      "timeline": {
+        "label": "Tidslinje"
+      },
+      "searchDiscoverability": {
+        "label": "Søk og finnbarhet"
+      },
+      "featuredContent": {
+        "label": "Fremhevet innhold",
+        "helperText": "Fremhev bestemte dokumenter, apper og data knyttet til prosjektet ditt. Du kan fremheve inntil 4 elementer."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Prosjektnavn",
+        "requiredError": "Prosjektnavnet er et obligatorisk felt"
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "helperText": "Spesifiser hvordan prosjektet ditt skal oppnå sine mål. Vurder å ta med relevant bakgrunnsinformasjon og endringene som forventes som et resultat av prosjektet."
+      },
+      "summary": {
+        "label": "Formål",
+        "helperText": "Oppsummer raskt målene for prosjektet ditt."
+      },
+      "access": {
+        "itemType": "Prosjekt"
+      },
+      "groups": {
+        "label": "Del med ...",
+        "viewGroup": "(Vis gruppe)",
+        "editGroup": "(Rediger gruppe)"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Angi et miniatyrbilde som kan representere dette prosjektet i ArcGIS Online og i søk og gallerier.",
+        "sizeDescription": "Anbefalte mål: 760 x 505 eller større"
+      },
+      "featuredImage": {
+        "label": "Fremhevet bilde",
+        "helperText": "Velg et bilde som skal vise ditt arbeid med prosjektets utforming.",
+        "sizeDescription": "Maksimal filstørrelse er 10 mb. Anbefalte mål: 718 x 478 eller større",
+        "altText": {
+          "label": "Alternativ tekst",
+          "helperText": "Gi en kort beskrivelse av bildet ditt for de som bruker skjermlesere. La være tomt for å vise at bildet er dekorativt."
+        }
+      },
+      "tags": {
+        "label": "Merker",
+        "helperText": "Merker brukes i søkekataloger for å hjelpe andre med å finne dette prosjektet. Legg til tekst og velg enter for å lage nye merker."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorier brukes i søkekataloger for å hjelpe andre med å finne dette prosjektet. De angis av din ArcGIS Online-organisasjon."
+      },
+      "status": {
+        "label": "Prosjektstatus",
+        "enum": {
+          "notStarted": {
+            "label": "Ikke startet"
+          },
+          "inProgress": {
+            "label": "Pågår"
+          },
+          "onHold": {
+            "label": "På vent"
+          },
+          "complete": {
+            "label": "Fullført"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Elementdeling"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Detaljer"
+      },
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "location": {
+        "label": "Lokasjon",
+        "helperText": "Vis det geografiske området som dette initiativet vil finne sted i (som skal vises i initiativets oppsett)."
+      },
+      "sharing": {
+        "label": "Elementdeling"
+      },
+      "featuredContent": {
+        "label": "Fremhevet innhold",
+        "helperText": "Fremhev bestemte dokumenter, apper og data knyttet til prosjektet ditt. Du kan fremheve inntil 4 elementer."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Navn på initiativ",
+        "requiredError": "Initiativnavnet er et obligatorisk felt."
+      },
+      "summary": {
+        "label": "Formål",
+        "helperText": "Oppsummer raskt målene for initiativet ditt."
+      },
+      "access": {
+        "itemType": "Initiativ"
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "helperText": "Oppgi mer kontekst, det kan være nyttig ved søk på dette initiativet."
+      },
+      "tags": {
+        "label": "Merker",
+        "helperText": "Merker brukes i søkekataloger for å hjelpe andre med å finne dette initiativet. Legg til tekst og velg enter for å lage nye merker."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorier brukes i søkekataloger for å hjelpe andre med å finne dette initiativet. De angis av din ArcGIS Online-organisasjon."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Angi et miniatyrbilde som kan representere dette initiativet i ArcGIS Online og i søk og gallerier."
+      },
+      "groups": {
+        "label": "Del med ...",
+        "viewGroup": "(Vis gruppe)",
+        "editGroup": "(Rediger gruppe)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Deling"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Detaljer"
+      },
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "location": {
+        "label": "Lokasjon"
+      },
+      "settings": {
+        "label": "Diskusjonsinnstillinger"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tittel",
+        "requiredError": "Diskusjonstavlenavn er obligatorisk."
+      },
+      "prompt": {
+        "label": "Spør",
+        "helperText": "Beskriv kort hva du ønsker at deltakerne skal bidra med på denne diskusjonstavlen.",
+        "requiredError": "Spør er et obligatorisk felt"
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "helperText": "Oppgi mer kontekst, det kan være nyttig ved søk på denne tavlen."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Velg et bilde som skal vise diskusjonen din."
+      },
+      "summary": {
+        "label": "Formål",
+        "helperText": "Beskriv kort formålet med denne diskusjonstavlen, som er nyttig når du deler koblingen med andre."
+      },
+      "featuredImage": {
+        "label": "Fremhevet bilde",
+        "sizeDescription": "JPEG, JPG eller PNG på opptil 10 MB.",
+        "altText": {
+          "label": "Alternativ tekst",
+          "helperText": "Gi en kort beskrivelse av bildet ditt for de som bruker skjermlesere. La være tomt for å vise at bildet er dekorativt."
+        },
+        "name": {
+          "label": "Bildenavn"
+        }
+      },
+      "tags": {
+        "label": "Merker"
+      },
+      "categories": {
+        "label": "Kategorier"
+      },
+      "discussable": {
+        "label": "Diskusjon tillatt?",
+        "enabled": {
+          "label": "Ja, diskusjon er tillatt",
+          "description": "Deltakere kan legge til innlegg, svar og reaksjoner på denne diskusjonstavlen."
+        },
+        "disabled": {
+          "label": "Nei, diskusjon er blokkert",
+          "description": "Fjerner muligheten for å legge til nye innlegg, svar og reaksjoner. Sletter ikke tidligere deltakelse."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "location": {
+        "label": "Lokasjon",
+        "helperText": "Vis det geografiske området som dette nettstedet gjelder."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nettstedsnavn",
+        "requiredError": "Nettstedsnavn er et obligatorisk felt"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Angi et miniatyrbilde som kan representere dette området i ArcGIS Online og i søk og gallerier."
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "helperText": "Beskrivelsen av nettstedet."
+      },
+      "summary": {
+        "label": "Sammendrag",
+        "helperText": "Oppsummer nettstedet raskt."
+      },
+      "tags": {
+        "label": "Merker",
+        "helperText": "Merker brukes i søkekataloger for å hjelpe andre med å finne dette nettstedet. Legg til tekst og velg enter for å lage nye merker."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorier brukes i søkekataloger for å hjelpe andre med å finne dette området. De angis av din ArcGIS Online-organisasjon."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Angi synlighet",
+          "helperText": "Kontroller hvem som kan se følg-knapper. Denne innstillingen gjelder både knappen som flyter på siden og alle følg-knapper som er innbygd direkte i layouten.",
+          "private": {
+            "label": "Privat",
+            "description": "Nettstedets eier og grupper med tilgang kan se følg-knappene"
+          },
+          "org": {
+            "label": "Organisasjon",
+            "description": "Alle medlemmer med en konto i nettstedets org og grupper med tilgang, kan se følg-knappene"
+          },
+          "public": {
+            "label": "Offentlig",
+            "description": "Alle kan se følg-knappene"
+          }
+        },
+        "showFollowAction": {
+          "label": "Følg-handling",
+          "helperText": "Legg til en følg-knapp i sidens handlingsmeny, som forblir synlig når brukerne blar seg gjennom layouten."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "location": {
+        "label": "Lokasjon",
+        "helperText": "Vis det geografiske området som denne siden gjelder."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Sidenavn",
+        "requiredError": "Sidenavnet er et obligatorisk felt"
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "helperText": "Beskrivelsen av siden."
+      },
+      "summary": {
+        "label": "Sammendrag",
+        "helperText": "Oppsummer siden raskt."
+      },
+      "tags": {
+        "label": "Merker",
+        "helperText": "Merker brukes i søkekataloger for å hjelpe andre med å finne denne siden. Legg til tekst og velg enter for å lage nye merker."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Angi et miniatyrbilde som kan representere denne siden i ArcGIS Online og i søk og gallerier."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "helperText": "Kategorier brukes i søkekataloger for å hjelpe andre med å finne denne siden. De angis av din ArcGIS Online-organisasjon."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Tittel",
+        "hint": "Konsekvente titler øker finnbarheten på tvers av innholdet.",
+        "requiredError": "Tittel er et obligatorisk felt"
+      },
+      "summary": {
+        "label": "Sammendrag",
+        "hint": "Oppsummer innholdet ditt raskt. TIPS: Forbedre SEO ved å bruke nøkkelord som skiller seg fra \"Title\" eller \"Tags\"."
+      },
+      "description": {
+        "label": "Beskrivelse",
+        "hint": "Legg til ekstra detaljer for å forklare innholdet ditt. Tilpass teksten til leseferdigheter på ungdomsskolenivå for å nå et stort publikum. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Bruk et gratis analyseverktøy til å sjekke lesbarheten for teksten din</a>."
+      },
+      "tags": {
+        "label": "Merker",
+        "hint": "Det brukes tagger i søkekataloger for å gjøre det enklere for andre å finne dette innholdet. Legg til tekst og velg enter for å lage nye merker."
+      },
+      "categories": {
+        "label": "Kategorier",
+        "agolHint": "Det brukes kategorier i søkekataloger for å gjøre det enklere for andre å finne dette innholdet. De angis av din ArcGIS Online-organisasjon.",
+        "enterpriseHint": "Det brukes kategorier i søkekataloger for å gjøre det enklere for andre å finne dette innholdet. De angis av din ArcGIS Enterprise-organisasjon.",
+        "agolNoCategoryHint": "Tips: Kategoriene er kun tilgjengelige hvis de er angitt av organisasjonen i ArcGIS Online-organisasjonen.",
+        "enterpriseNoCategoryHint": "Tips: Kategoriene er kun tilgjengelige hvis de er angitt av organisasjonen i ArcGIS Enterprise-organisasjonen."
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Angi et miniatyrbilde som kan representere dette elementet i ArcGIS Online og i søk og gallerier."
+      },
+      "license": {
+        "label": "Bruksvilkår",
+        "helperText": "Færre restriksjoner fremmer mer gjenbruk."
+      },
+      "serverExtractCapability": {
+        "label": "Trekk ut-funksjon (eksportere data)",
+        "helperText": "Aktiverer Trekk ut-funksjonen for dette elementets tjeneste. Trekk ut-funksjonen støtter flere formater."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Hostede nedlastinger",
+        "helperText": "Opprett nedlastingsfiler direkte fra en hostet tjeneste. Dette forbedrer ytelsen ved nedlasting av innhold som geoobjektlag og tabeller. Uttrekk av funksjoner må være aktivert for at hostede nedlastinger skal kunne aktiveres."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Grunnleggende info",
+        "message": "Denne informasjonen brukes i søkeresultater og gallerikort, og den vises i detaljvisningen."
+      },
+      "about": {
+        "title": "Om innhold",
+        "message": "De to første linjene i beskrivelsen vises i søkeresultater, men hele beskrivelsen vises i fokuserte innholdsvisninger."
+      },
+      "image": {
+        "title": "Fremhevet bilde",
+        "message": "Det er viktig å bruke et godt bilde eller miniatyrbilde når du skal vise frem innholdet ditt i våre gallerier eller i visninger som fremhever bilder, for eksempel initiativer, arrangementer og undersøkelser. Anbefalt størrelse er 760 x 505. Hvis bildet vises uskarpt på liveruter, bør du vurdere å bytte ut miniatyrbildet med et større bilde."
+      },
+      "location": {
+        "label": "Lokasjon",
+        "helperText": "Vis det geografiske området som dette innholdet vil finne sted i (som skal vises i innholdsoppsettet)."
+      },
+      "downloads": {
+        "label": "Nedlastinger",
+        "helperText": "Konfigurer nedlastingsformater, planlegg oppdatering av bufret fil osv. Se <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">dokumentasjonen for nedlasting</calcite-link> for mer informasjon."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} tegn gjenstår"
+    },
+    "imageThumbnail": {
+      "label": "Miniatyrbilde",
+      "upload": "Last opp bilde",
+      "done": "Ferdig",
+      "editThumbnail": "Rediger miniatyrbilde",
+      "browse": "Bla etter bilde",
+      "remove": "Fjern bilde",
+      "edit": "Rediger bilde",
+      "defaultHeading": "Legg til miniatyrbilde",
+      "dropHeading": "Slipp for å laste opp",
+      "errorHeading": "Prøv et annet bilde",
+      "subheading": "Maksiumsstørrelse er {size}, {types}",
+      "zoomOut": "zoom ut",
+      "zoomIn": "zoom inn",
+      "drag": "Dra for å endre plassering",
+      "urlPlaceholder": "Typer som støttes: {types}",
+      "browseForImage": "Bla etter bilde",
+      "aria": {
+        "container": "Bildeområde",
+        "crop": "Beskjær område",
+        "handle": {
+          "top": "Endre størrelse øverst",
+          "right": "Endre størrelse høyre",
+          "left": "Endre størrelse venstre",
+          "bottom": "Endre størrelse nederst"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Detaljer"
+      },
+      "basicInfo": {
+        "label": "Grunnleggende info"
+      },
+      "membershipAccess": {
+        "label": "Tilgang for medlemmer"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Gruppenavn",
+        "requiredError": "Gruppenavn er et obligatorisk felt"
+      },
+      "summary": {
+        "label": "Sammendrag"
+      },
+      "access": {
+        "itemType": "Gruppe"
+      },
+      "_thumbnail": {
+        "label": "Miniatyrbilde",
+        "helperText": "Velg et bilde som skal representere gruppen din i gruppeprofilen.",
+        "sizeDescription": "Maksimal filstørrelse er 10 MB. Anbefalt størrelse: 400 x 400 eller større"
+      },
+      "membershipAccess": {
+        "label": "Hvem kan være med i denne gruppen?",
+        "org": "Bare medlemmer av min organisasjon",
+        "collab": "Bare samarbeidspartnere og medlemmer av min organisasjon",
+        "any": "Medlemmer av alle organisasjoner"
+      },
+      "contributeContent": {
+        "label": "Hvem kan bidra med innhold?",
+        "all": "Alle gruppemedlemmer",
+        "admins": "Gruppeeier og administratorer"
+      }
+    }
+  }
+}

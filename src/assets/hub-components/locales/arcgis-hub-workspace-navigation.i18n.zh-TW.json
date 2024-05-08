@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "儀表板",
+    "details": "詳細資訊",
+    "overview": "概述",
+    "metrics": "公制",
+    "settings": "設定",
+    "collaborators": "協同作業者",
+    "discussion": "討論",
+    "content": "內容",
+    "members": "成員",
+    "participation": "參與",
+    "followers": "追隨者"
+  }
+}

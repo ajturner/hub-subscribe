@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Шейп-файл",
+  "sqlite": "База геоданих SQLite",
+  "geoPackage": "Геопакет",
+  "filegdb": "Файлова база геоданих",
+  "featureCollection": "Колекція об’єктів",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Завантажити CSV",
+  "downloadshapefile": "Завантажити шейп-файл",
+  "downloadsqlite": "Завантажити базу геоданих SQLite",
+  "downloadgeoPackage": "Завантажити геопакет",
+  "downloadfilegdb": "Завантажити файлову базу геоданих",
+  "downloadfeatureCollection": "Завантажити колекцію об’єктів",
+  "downloadgeojson": "Завантажити GeoJSON",
+  "downloadexcel": "Завантажити Excel",
+  "rateLimitMessage": "Шкода, але досягнуто обмеження на кількість завантажень. Спробуйте знову за годину або зверніться до адміністратора вмісту.",
+  "createReplicaErrorMessage": "Внутрішня помилка створення репліки. Спробуйте знову за годину або зверніться до адміністратора вмісту."
+}

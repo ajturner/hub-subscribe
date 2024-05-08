@@ -1,0 +1,10 @@
+{
+  "true.heading": "Ja, diskusjon er tillatt",
+  "false.heading": "Nei, diskusjon er blokkert",
+  "content.label": "Tillat at dette elementet diskuteres?",
+  "content.true.description": "Brukerne kan opprette innlegg til dette elementet.",
+  "content.false.description": "Brukerne kan ikke opprette innlegg til dette elementet.",
+  "group.label": "Kan denne gruppen delta i diskusjoner?",
+  "group.true.description": "Gruppemedlemmer kan vise eller delta i diskusjonskanaler som gruppen har tilgang til.",
+  "group.false.description": "Gruppemedlemmer kan ikke vise eller delta i diskusjonskanaler som gruppen har tilgang til."
+}

@@ -1,7 +1,7 @@
 {
-  "name": "REPLACE_PROJECT_NAME",
+  "name": "arcgis-hub-subscribe",
   "version": "0.0.1",
-  "description": "Template for creating prototypes with stencil",
+  "description": "Prototype for ArcGIS Hub Subscribe component",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
   "es2015": "dist/esm/index.mjs",
@@ -36,7 +36,7 @@
     "@types/node": "^18.14.0"
   },
   "devDependencies": {
-    "@esri/calcite-components": "^1.2.0",
+    "@esri/calcite-components": "^2.8.0",
     "@stencil/sass": "^2.0.0",
     "@stencil/store": "^2.0.1"
   },

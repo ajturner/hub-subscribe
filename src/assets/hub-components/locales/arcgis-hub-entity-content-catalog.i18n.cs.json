@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Typ",
+    "tags": "Klíčové slovo",
+    "categories": "Kategorie",
+    "sharing": "Sdílení",
+    "dateUpdated": "Datum změny",
+    "map": {
+      "label": "Poloha",
+      "tooltip": "Použít rozsah mapy jako filtr polohy"
+    }
+  },
+  "collections": {
+    "all": "Vše",
+    "dataset": "Data",
+    "site": "Weby",
+    "document": "Dokumenty",
+    "appAndMap": "Aplikace a mapy"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Váš katalog je momentálně prázdný.",
+    "button": "Konfigurovat katalog"
+  }
+}

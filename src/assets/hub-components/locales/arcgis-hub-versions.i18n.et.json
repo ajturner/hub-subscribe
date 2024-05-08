@@ -1,0 +1,14 @@
+{
+  "createdBy": "Autor: {creator}",
+  "emptyMessage": "Versioone ei leitud",
+  "errorMessage": "Tõrge versioonide toomisel",
+  "menuLabel": "kuva toimingud",
+  "publishedBadge": "Publitseeritud",
+  "viewingBadge": "Vaatamine",
+  "popover.label": "Versiooni toimingud",
+  "popover.actions.delete": "Kustuta",
+  "popover.actions.edit": "Muuda üksikasju",
+  "popover.actions.share": "Jagamine",
+  "shareErrorMessage": "Viga jagamise URL-i kopeerimisel lõikelauale.",
+  "shareSuccessMessage": "Jagamise URL on kopeeritud lõikelauale."
+}

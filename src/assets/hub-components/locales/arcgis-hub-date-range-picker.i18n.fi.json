@@ -1,0 +1,15 @@
+{
+  "default": "Valitse päivämääräalue",
+  "today": "Tänään",
+  "yesterday": "Eilen",
+  "last7Days": "Edelliset 7 päivää",
+  "last30Days": "Edelliset 30 päivää",
+  "thisMonth": "Tämä kuukausi",
+  "lastMonth": "Viime kuukausi",
+  "pastYear": "Viime vuosi",
+  "custom": "Mukautettu",
+  "nextMonth": "Seuraava kuukausi",
+  "previousMonth": "Edellinen kuukausi",
+  "year": "Vuosi",
+  "title": "Valitse ajanjakso"
+}

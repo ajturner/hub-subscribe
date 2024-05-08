@@ -1,0 +1,26 @@
+{
+  "followers": "Sledilci",
+  "tabs": {
+    "followers": "Sledilci",
+    "settings": "Nastavitve"
+  },
+  "addFollowers": {
+    "label": "Dodaj sledilce"
+  },
+  "emptyState": {
+    "message": "Trenutno nimate skupine sledilcev."
+  },
+  "restrictedAccessState": {
+    "message": "Nimate dostopa."
+  },
+  "stats": {
+    "total": {
+      "title": "Skupaj",
+      "trailingText": "Sledilci"
+    },
+    "new": {
+      "title": "Novo",
+      "trailingText": "Zadnjih 30 dni"
+    }
+  }
+}

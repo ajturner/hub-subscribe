@@ -1,0 +1,8 @@
+{
+  "header": "Aruteluvalikud",
+  "secondary": "Tühista",
+  "primary": "Salvesta muudatused",
+  "pending": "Salvestamine",
+  "error.title": "Midagi läks valesti",
+  "error.message": "Proovige muudatused uuesti salvestada."
+}

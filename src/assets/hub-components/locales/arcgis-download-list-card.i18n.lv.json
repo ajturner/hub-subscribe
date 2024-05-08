@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite ģeodatubāze",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Faila ģeodatubāze",
+  "featureCollection": "Elementu kolekcija",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Lejupielādēt CSV",
+  "downloadshapefile": "Lejupielādēt shape failu",
+  "downloadsqlite": "Lejupielādēt SQLite ģeodatubāzi",
+  "downloadgeoPackage": "Lejupielādēt GeoPackage",
+  "downloadfilegdb": "Lejupielādēt faila ģeodatubāzi",
+  "downloadfeatureCollection": "Lejupielādēt elementu kolekciju",
+  "downloadgeojson": "Lejupielādēt GeoJSON",
+  "downloadexcel": "Lejupielādēt Excel",
+  "rateLimitMessage": "Diemžēl ir sasniegts lejupielādes ierobežojums. Pēc stundas mēģiniet vēlreiz vai sazinieties ar satura pārvaldnieku.",
+  "createReplicaErrorMessage": "Izveidot iekšējās kļūdas dublikātu. Pēc stundas mēģiniet vēlreiz vai sazinieties ar satura pārvaldnieku."
+}

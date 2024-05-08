@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Izvēlēties saturu",
+  "secondStepHeader": "Iestatīt informāciju",
+  "thirdStepHeader": "Iestatīt koplietošanas līmeni un piekļuvi",
+  "next": "Tālāk",
+  "back": "Atpakaļ",
+  "save": "Saglabāt",
+  "cancel": "Atcelt",
+  "divider": "vai",
+  "duplicateFileAriaLabel": "faila dublikāta kļūda",
+  "duplicateFileError": "Vienība ar šādu faila nosaukumu jau pastāv. Lūdzu, pārveidojiet faila nosaukumu un mēģiniet vēlreiz vai noņemiet <a>faila dublikātu</a> ArcGIS Online",
+  "uploading": "Augšupielādē"
+}

@@ -1,0 +1,34 @@
+{
+  "settings": "设置",
+  "delete": {
+    "project": "删除工程",
+    "initiative": "删除倡议",
+    "site": "删除站点",
+    "discussion": "删除讨论",
+    "content": "删除内容",
+    "page": "删除页面",
+    "group": "删除群组"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "删除工程",
+      "initiative": "删除倡议",
+      "site": "删除站点",
+      "discussion": "删除讨论",
+      "content": "删除内容",
+      "page": "删除页面",
+      "group": "删除群组"
+    },
+    "content": "是否确定删除：",
+    "delete": "删除",
+    "cancel": "取消"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "“提取”功能会更改服务设置。",
+        "message": "引用该服务的其他项目将受到影响。 有关详细信息，请参阅<docLink>从托管要素图层导出数据</docLink>"
+      }
+    }
+  }
+}

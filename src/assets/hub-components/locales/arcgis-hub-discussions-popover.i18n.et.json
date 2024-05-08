@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonüümne",
+  "noUser": "Kasutajanimi puudub",
+  "privateUser": "Privaatne liige",
+  "privateOrg": "Privaatne organisatsioon",
+  "org": "Minu organisatsioon",
+  "orgLabel": "Organisatsioon",
+  "profile": "Ava profiil",
+  "location": "Asukoht",
+  "information": "Teave postituse kohta",
+  "postedIn": "Postitatud gruppi {groupName}",
+  "replyingTo": "Vastus kasutajale @{username}",
+  "visiblePrivate": "Nähtav ainult liikmetele",
+  "visibleOrg": "Nähtav organisatsioonile",
+  "visibleAll": "Nähtav kõigile",
+  "manageChannel": "Kanali haldamine",
+  "group.deleted": "Kustutatud grupp",
+  "unnamedChannel": "Nimetu kanal"
+}

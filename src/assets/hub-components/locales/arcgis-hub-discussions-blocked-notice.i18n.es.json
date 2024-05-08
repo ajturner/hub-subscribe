@@ -1,0 +1,16 @@
+{
+  "post.title": "La postedición está bloqueada",
+  "post.message": "La edición no está disponible mientras los debates estén bloqueados.",
+  "post.message.item": "La edición no está disponible mientras los debates estén bloqueados en este elemento.",
+  "post.message.group": "La edición no está disponible mientras los debates estén bloqueados en este grupo.",
+  "reply.title": "La edición de respuestas está bloqueada",
+  "reply.title.generic": "Debate bloqueado",
+  "reply.message": "La edición no está disponible mientras los debates estén bloqueados.",
+  "reply.message.generic": "En este momento no puede crear respuestas.",
+  "reply.message.item": "La edición no está disponible mientras los debates estén bloqueados en este elemento.",
+  "reply.message.group": "La edición no está disponible mientras los debates estén bloqueados en este grupo.",
+  "item.title": "Debate del elemento bloqueado",
+  "item.message": "Este elemento no está aprobado para debate.",
+  "group.title": "Debate del grupo bloqueado",
+  "group.message": "Este grupo no está aprobado para debate."
+}

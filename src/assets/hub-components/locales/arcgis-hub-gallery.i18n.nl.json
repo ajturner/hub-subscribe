@@ -1,0 +1,25 @@
+{
+  "moreResults": "Meer resultaten",
+  "search": "Zoeken",
+  "filter": "Filters",
+  "viewResults": "Resultaten weergeven ({numResults})",
+  "resultsCount": "1 - {pageTotal} van {searchTotal}",
+  "backToTop": "Terug naar boven",
+  "facets": {
+    "access": {
+      "private": "Ikzelf",
+      "shared": "Eigenaar & groepen",
+      "org": "Organisatie",
+      "public": "Openbaar"
+    },
+    "license": {
+      "custom": "Aangepast",
+      "none": "Geen"
+    }
+  },
+  "layoutOptions": {
+    "list": "Lijst weergeven",
+    "grid": "Raster weergeven"
+  },
+  "galleryActionsLabel": "Extra handelingen"
+}

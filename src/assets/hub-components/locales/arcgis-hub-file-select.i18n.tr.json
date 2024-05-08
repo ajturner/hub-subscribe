@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Yüklenecek dosyayı sürükleyip bırakın",
+  "imageHeading": "Bir Görüntü Yükle",
+  "selectedHeading": "Dosya Seçildi",
+  "maxSizeAndSupportedTypes": "Maksimum Boyut {maxSize}MB, {fileTypes}",
+  "maxSize": "Maksimum Boyut {maxSize}MB",
+  "recommendedDimensions": "Tavsiye edilen boyutlar {recommendedDimensions}",
+  "linkText": "Desteklenen Dosya Listesini Görüntüle",
+  "contentButton": "Dosyaya Gözat",
+  "imageButton": "Görüntüye Gözat",
+  "clearButton": "Seçimi Temizle",
+  "errorHeading": "Hata",
+  "fileTooLargeError": "Dosya çok büyük",
+  "multipleFilesError": "Tek bir seferde birden fazla dosya yüklenemez",
+  "unsupportedFileTypeError": "Bu dosya türü desteklenmiyor"
+}

@@ -1,0 +1,19 @@
+{
+  "select": "Atlasīt",
+  "cancel": "Atcelt",
+  "iconModalTitle": "Izvēlieties ikonu",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Izvēlieties no bibliotēkas"
+      },
+      "url": {
+        "description": "Norādiet savu URL"
+      }
+    }
+  },
+  "altText": {
+    "label": "Alternatīvs teksts",
+    "helperText": "Ja ikona nav pievienota, tā tiks atzīmēta kā dekoratīva."
+  }
+}

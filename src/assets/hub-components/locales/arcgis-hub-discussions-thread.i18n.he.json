@@ -1,0 +1,10 @@
+{
+  "error": "משהו השתבש",
+  "repliesFailure": "לא ניתן להציג את התגובות לפוסט זה.",
+  "thread.deleted.title": "השרשור נמחק",
+  "thread.deleted.message": "הפוסט והתגובה הקשורים נמחקו ואי אפשר להציג אותם.",
+  "thread.deleted.action": "הצג את כל הפוסטים",
+  "reply.single.title": "אתה רואה תשובה אחת",
+  "reply.single.link": "הצג את כל התשובות",
+  "loading": "טוען"
+}

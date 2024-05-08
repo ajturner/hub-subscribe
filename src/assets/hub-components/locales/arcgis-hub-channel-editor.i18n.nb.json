@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Kanal uten navn",
+  "name": {
+    "label": "Navn",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Lagre",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Utvalgte grupper kan delta"
+    },
+    "organization": {
+      "label": "Min organisasjon",
+      "description": "Alle medlemmer med en konto til {orgName} kan delta",
+      "disabledTooltip": "Bare organisasjonsadministratorer kan opprette organisasjonskanaler."
+    },
+    "public": {
+      "label": "Felles",
+      "description": "Alle med konto kan delta",
+      "disabledTooltip": "Bare organisasjonsadministratorer kan opprette offentlige kanaler."
+    },
+    "allowAnonymous": "Tillat anonym",
+    "confirmation": {
+      "header": "Er du sikker?",
+      "message": "Hvis du lagrer disse endringene, mister du tilgangen din til å redigere denne kanalen. Det er bare organisasjonsadministratorer som kan redigere offentlige kanaler eller organisasjonskanaler.",
+      "secondary": "Avbryt",
+      "primary": "Bekreft"
+    }
+  },
+  "participants": {
+    "label": "Deltakere",
+    "helperText": "Personene som kan vise og bidra til diskusjonen.",
+    "none": "Ingen deltakere angitt",
+    "add": "Legg til deltakergruppe"
+  },
+  "groupPicker": {
+    "title": "Velg grupper",
+    "facet": {
+      "label": "Fra",
+      "myGroup": "Min gruppe",
+      "myOrganization": "Min organisasjon",
+      "myCommunity": "Mitt fellesskap"
+    }
+  },
+  "blockWords": {
+    "label": "Blokkerte ord",
+    "helperText": "Kommadelt liste. Innlegg og svar som inneholder dem, blir skjult automatisk."
+  },
+  "manage": {
+    "label": "Administrer og moderer",
+    "helperText": "Automatisk tilordnet på bakgrunn av deltakelsesvalgene over disse folkene kan delta, skjule eller vise innlegg, og administrere kanalinnstillinger."
+  },
+  "manager": "Administrator",
+  "admin": "Admin",
+  "viewProfile": "Vis profil",
+  "alerts": {
+    "error": "Feil under lagring av kanal",
+    "success": "Kanalen ble lagret",
+    "label": "Skjemavarsel"
+  },
+  "validations": {
+    "minChannelGroups": "Private kanaler krever minst én deltakergruppe."
+  },
+  "notices": {
+    "edit": "Redigeringer påvirker alle steder denne kanalen brukes",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanalen ble ikke opprettet",
+          "message": "En kanal med disse kanalutvalgene finens allerede. Bruk den eksisterende kanalen til å modifisere utvalgene."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanalen ble ikke lastet opp",
+          "message": "En kanal med disse kanalutvalgene finnes allerede, så vi kan ikke lagre disse oppdateringene."
+        }
+      },
+      "action": "Bruk eksisterende kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Utilgjengelige grupper: {count}",
+      "message": "Du kan ikke vise eller administrere utilgjengelige grupper med mindre du er medlem."
+    }
+  }
+}

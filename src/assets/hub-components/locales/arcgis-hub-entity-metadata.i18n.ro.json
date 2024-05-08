@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Proprietar"
+  },
+  "updatedDate": {
+    "description": "Dată actualizată"
+  },
+  "createdDate": {
+    "description": "Publicat"
+  },
+  "access": {
+    "label": {
+      "public": "Public",
+      "org": "Organizaţie",
+      "private": "Proprietar",
+      "shared": "Partajat privat"
+    },
+    "description": {
+      "public": {
+        "site": "Oricine poate vedea acest site",
+        "project": "Oricine poate vedea acest proiect",
+        "initiative": "Oricine poate vedea această inițiativă",
+        "discussion": "Oricine poate vedea această discuție",
+        "default": "Oricine poate vedea acest conținut"
+      },
+      "org": {
+        "site": "Oricine din organizația dvs. poate vedea acest site",
+        "project": "Oricine din organizația dvs. poate vedea acest proiect",
+        "initiative": "Oricine din organizația dvs. poate vedea această inițiativă",
+        "discussion": "Oricine din organizația dvs. poate vedea această discuție",
+        "default": "Oricine din organizația dvs. poate vedea acest conținut"
+      },
+      "private": {
+        "site": "Numai dvs. puteți vedea acest site",
+        "project": "Doar dvs. puteți vedea acest proiect",
+        "initiative": "Numai dvs. puteți vedea această inițiativă",
+        "discussion": "Numai dvs. puteți vedea această discuție",
+        "default": "Doar dvs. puteți vedea acest conținut"
+      },
+      "shared": {
+        "site": "Doar anumite grupuri pot vedea acest site",
+        "project": "Doar anumite grupuri pot vedea acest proiect",
+        "initiative": "Doar anumite grupuri pot vedea această inițiativă",
+        "discussion": "Anumite grupuri pot vedea această discuție",
+        "default": "Doar anumite grupuri pot vedea acest conținut"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Valige kasutustingimused",
+  "editorLabel": "Valitud kasutustingimused",
+  "editorRemoveWarning": "Hoiatus. Olete kasutustingimusi kustutamas.",
+  "licenseDescriptionCc0": "See töö on mõeldud avalikkusele",
+  "licenseDescriptionCcBy": "Nõuab omistamist",
+  "licenseDescriptionCcByNc": "Nõuab omistamist, lubab remiksimise, aga keelab ärilise kasutamise",
+  "licenseDescriptionCcByNcNd": "Kõige rangem, nõuab omistamist, keelab ärilise kasutamise ja remiksimise",
+  "licenseDescriptionCcByNcSa": "Nõuab omistamist, lubab remiksimise, kuid keelab ärilise kasutamise ja tuletatud tööd peavad säilitama sama litsentsi",
+  "licenseDescriptionCcByNd": "Nõuab omistamist, lubab ärilise kasutamise, aga keelab tuletatud tööde jagamise",
+  "licenseDescriptionCcBySa": "Nõuab omistamist, lubab remiksimise ja ärilise kasutamise",
+  "licenseDescriptionCustom": "Kuva üksikasjad",
+  "licenseDescriptionOdbl": "Lubab jagamise, loomise ja kohandamise, kui teised omistavad, jagavad sarnasusteabega ja jätavad avatuks",
+  "licenseDescriptionOdcBy": "Lubab jagamise, loomise ja kohandamise, kui teised omistavad",
+  "licenseDescriptionPddl": "Lubab jagamise, loomise ja kohandamise",
+  "licenseInfoButtonAriaLabel": "Kasutustingimuste üksikasjad, avatakse uuel vahekaardil",
+  "selectedLicenseLabelFallback": "Kohandatud",
+  "selectedLicenseLabelNoLicense": "Kasutustingimused puuduvad"
+}

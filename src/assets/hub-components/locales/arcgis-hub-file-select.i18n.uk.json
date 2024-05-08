@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Для завантаження перетягніть файл",
+  "imageHeading": "Передати зображення",
+  "selectedHeading": "Файл вибрано",
+  "maxSizeAndSupportedTypes": "Максимальний розмір {maxSize}МБ, {fileTypes}",
+  "maxSize": "Максимальний розмір {maxSize}МБ",
+  "recommendedDimensions": "Рекомендовані розміри {recommendedDimensions}",
+  "linkText": "Переглянути список підтримуваних файлів",
+  "contentButton": "Знайти файл",
+  "imageButton": "Пошук зображення",
+  "clearButton": "Очистити вибране",
+  "errorHeading": "Помилка",
+  "fileTooLargeError": "Файл занадто великий",
+  "multipleFilesError": "Неможливо вивантажити кілька файлів за один раз",
+  "unsupportedFileTypeError": "Цей тип файлу не підтримується"
+}

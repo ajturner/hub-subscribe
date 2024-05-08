@@ -1,0 +1,26 @@
+{
+  "followers": "Follower",
+  "tabs": {
+    "followers": "Follower",
+    "settings": "Einstellungen"
+  },
+  "addFollowers": {
+    "label": "Follower hinzufügen"
+  },
+  "emptyState": {
+    "message": "Sie haben derzeit keine Follower-Gruppe."
+  },
+  "restrictedAccessState": {
+    "message": "Sie haben keinen Zugriff."
+  },
+  "stats": {
+    "total": {
+      "title": "Gesamt",
+      "trailingText": "Follower"
+    },
+    "new": {
+      "title": "Neu",
+      "trailingText": "Letzte 30 Tage"
+    }
+  }
+}

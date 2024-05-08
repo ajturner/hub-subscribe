@@ -1,0 +1,31 @@
+{
+  "dateRange": "Rentang Tanggal: {start} - {end}",
+  "pageViews": "Pageview",
+  "timeOnSite": "Rata-rata menit di situs",
+  "users": "Sesi",
+  "viewsOverTime": "Pageview seiring waktu",
+  "disabledTracking": "Pelacakan aktivitas dinonaktifkan",
+  "enableTracking": "Aktifkan pelacakan Aktivitas Hub di pengaturan situs untuk memantau penggunaan situs Anda.",
+  "learnMore": "Pelajari selengkapnya.",
+  "disabled": "Dinonaktifkan",
+  "notificationLabel": "Data Diperbarui",
+  "dataUpdated": "Data Diperbarui",
+  "subscribe": "Berlangganan",
+  "subscribed": "Berlangganan",
+  "weeklyReport": "Laporan mingguan",
+  "timestampTitle": {
+    "hour": "Waktu Hari",
+    "day": "Tanggal",
+    "week": "Minggu"
+  },
+  "formAlert": "Peringatan Formulir",
+  "success": "Langganan berhasil diperbarui",
+  "subscriptionActivatedTitle": "Langganan diaktifkan",
+  "subscriptionActivatedMessage": "Anda telah mendaftar {email} untuk menerima metrik keterlibatan mingguan.",
+  "unsubscribeCompleteTitle": "Berhenti berlangganan selesai",
+  "unsubscribeCompleteMessage": "{email} telah berhasil berhenti berlangganan metrik keterlibatan.",
+  "problemSubscribingTitle": "Masalah berlangganan",
+  "problemSubscribingMessage": "Terjadi masalah saat berlangganan . Kesalahan: ",
+  "problemUnsubscribingTitle": "Masalah berhenti berlangganan",
+  "problemUnsubscribingMessage": "Terjadi masalah saat berhenti berlangganan . Kesalahan: "
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "פתח פרופיל בכרטיסייה חדשה",
+  "noGroups": "אין קבוצות",
+  "pickerToggle": "הוסף קבוצות",
+  "pickerTitle": "בחר קבוצות",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "אין חברים",
+      "oneMember": "חבר אחד",
+      "members": "{count} חברים"
+    },
+    "dateCreated": "תאריך יצירה: {localizedDate}",
+    "sharing": "שיתוף: {sharingLevel}",
+    "sharingLevels": {
+      "private": "אני",
+      "shared": "בעלים וקבוצות",
+      "org": "ארגון",
+      "public": "ציבורי"
+    },
+    "membership": "חברות: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "בעל הקבוצה",
+      "admin": "מנהל הקבוצה",
+      "member": "חבר קבוצה",
+      "none": "ללא"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Redaguoti versijos informaciją",
+  "save": "Įrašyti",
+  "cancel": "Atšaukti",
+  "name.label": "Pavadinimas",
+  "name.helpText": "Palikite pavadinimą tuščią, jei norite, kad versiją identifikuotume pagal datos ir laiko žymą.",
+  "description.label": "Aprašas",
+  "error": "Naujinant versiją įvyko klaida."
+}

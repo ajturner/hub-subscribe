@@ -1,0 +1,14 @@
+{
+  "createdBy": "נוצר על ידי {creator}",
+  "emptyMessage": "לא נמצאו גרסאות",
+  "errorMessage": "שגיאה באחזור גרסאות",
+  "menuLabel": "הצג פעולות",
+  "publishedBadge": "פורסם",
+  "viewingBadge": "מציג",
+  "popover.label": "פעולות גרסה",
+  "popover.actions.delete": "מחיקה",
+  "popover.actions.edit": "ערוך פרטים",
+  "popover.actions.share": "שתף",
+  "shareErrorMessage": "שגיאה בהעתקת כתובת URL של שיתוף ללוח.",
+  "shareSuccessMessage": "כתובת URL של שיתוף הועתקה ללוח."
+}

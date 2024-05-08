@@ -1,0 +1,1 @@
+const l=(l,o,a,t)=>{var i;const{i18nScope:n}=(null===(i=null==l?void 0:l.options)||void 0===i?void 0:i.enum)||{},{fallback:c,path:e}=t||{};let v=c;if(a&&n){let l=`${n}.${o}`;e&&(l=`${l}.${e}`),v=a(l,void 0,{fallback:c})}return v};export{l as g}

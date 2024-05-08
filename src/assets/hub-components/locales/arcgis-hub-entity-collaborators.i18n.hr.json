@@ -1,0 +1,52 @@
+{
+  "collaborators": "Suradnici",
+  "editGroupButtonText": "Dodaj grupe za uređivanje",
+  "viewGroupButtonText": "Dodaj grupe za pregled",
+  "groupPicker": {
+    "title": "Odaberi grupe",
+    "facet": {
+      "label": "Šalje",
+      "editGroups": "Uredi grupe",
+      "viewGroups": "Prikaži grupu",
+      "myGroup": "Moja grupa",
+      "myOrganization": "Moja organizacija",
+      "myCommunity": "Moja zajednica"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Dodaj nove osobe",
+    "message": "Ako trebate dodati osobe, možete ih pozvati da se pridruže zajednici ili se možete <orgOverviewLink>obratiti svom administratoru</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupe koje mogu uređivati",
+  "viewGroupsTitle": "Grupe koje mogu pregledavati",
+  "project": {
+    "description": "Odaberite koje grupe korisnika mogu pregledavati i uređivati ovaj projekt.",
+    "editGroupsDescription": "Osobe u tim grupama moći će uređivati informacije o projektu.",
+    "viewGroupsDescription": "Osobe u tim grupama moći će pretraživati i pregledavati projekt ako se ne dijeli javno.",
+    "errorMessage": "Došlo je do pogreške prilikom ažuriranja suradnika vašeg projekta."
+  },
+  "content": {
+    "description": "Odaberite koje grupe korisnika mogu pregledavati i uređivati ovaj sadržaj.",
+    "editGroupsDescription": "Osobe u tim grupama moći će uređivati informacije o sadržaju.",
+    "viewGroupsDescription": "Osobe u tim grupama moći će pretraživati i pregledavati sadržaj ako se ne dijeli javno.",
+    "errorMessage": "Došlo je do pogreške prilikom ažuriranja suradnika vašeg sadržaja."
+  },
+  "discussion": {
+    "description": "Odaberite koje grupe korisnika mogu pregledavati i uređivati ovu raspravu.",
+    "editGroupsDescription": "Osobe u tim grupama moći će uređivati informacije o raspravi.",
+    "viewGroupsDescription": "Osobe u tim grupama moći će pretraživati i pregledavati raspravu ako se ne dijeli javno.",
+    "errorMessage": "Došlo je do pogreške prilikom ažuriranja suradnika vaše rasprave."
+  },
+  "site": {
+    "description": "Odaberite koje grupe korisnika mogu pregledavati i uređivati ovo web-mjesto.",
+    "editGroupsDescription": "Osobe u tim grupama moći će uređivati informacije o web-mjestu.",
+    "viewGroupsDescription": "Osobe u tim grupama moći će pretraživati i pregledavati web-mjesto ako se ne dijeli javno.",
+    "errorMessage": "Došlo je do pogreške prilikom ažuriranja suradnika vašeg web-mjesta."
+  },
+  "newTab": "otvori profil u novoj kartici",
+  "supportingTeams": "Timovi za podršku",
+  "supportingTeamsDesc": "Ovi timovi za podršku prethodno su bili povezani s vašim web-mjestom. Možete ih nastaviti koristiti za dijeljenje sadržaja sa suradnicima.",
+  "supportTeamsRemove": "Ukloni tim",
+  "supportingTeamsRemoveError": "Pogreška pri poništavanju veze s timom. Obratite se administratoru.",
+  "supportingTeamsRemoveSuccess": "Uspješno poništavanje veze s timom."
+}

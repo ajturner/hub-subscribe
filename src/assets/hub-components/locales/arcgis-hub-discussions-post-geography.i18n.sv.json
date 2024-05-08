@@ -1,0 +1,14 @@
+{
+  "description": "Välj att zooma till plats",
+  "displayField.existing": "Befintlig plats",
+  "displayField.added": "Tillagd plats",
+  "displayField.existing.area": "Befintligt område",
+  "displayField.added.area": "Tillagt område",
+  "point": "Punkt",
+  "line": "Linje",
+  "area": "Område",
+  "viewAll": "Visa alla platser",
+  "viewLess": "Visa färre platser",
+  "action.update": "Uppdatera plats",
+  "action.remove": "Ta bort plats"
+}

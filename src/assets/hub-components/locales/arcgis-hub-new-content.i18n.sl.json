@@ -1,0 +1,15 @@
+{
+  "new": "Novo",
+  "project": {
+    "title": "Nov projekt",
+    "description": "Izpostavite delo, ki ima jasne cilje in časovne okvire"
+  },
+  "initiative": {
+    "title": "Nova iniciativa",
+    "description": "Izpostavite delo, ki ima jasne cilje in časovne okvire"
+  },
+  "discussion": {
+    "title": "Nov forum za razprave",
+    "description": "Ustvarite nov forum za razprave tako, da vnesete naslov, ki označuje temo."
+  }
+}

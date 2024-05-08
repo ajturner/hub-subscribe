@@ -1,0 +1,1 @@
+const e=e=>({required:[],type:"object",properties:Object.assign({},e)}),t=(e=[])=>({type:"Layout",elements:[...e]});var a;!function(e){e.BETWEEN="between",e.IS_EXACTLY="isExactly",e.LIKE="like"}(a||(a={}));export{a as E,e as a,t as g}

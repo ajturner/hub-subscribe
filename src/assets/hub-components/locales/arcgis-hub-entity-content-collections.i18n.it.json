@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Mostra",
+    "hide": "Nascondi",
+    "rename": "Rinomina"
+  },
+  "formAlert": "Avviso modulo",
+  "alertMessages": {
+    "success": "Modifiche salvate correttamente",
+    "error": "Errore durante il salvataggio delle modifiche"
+  },
+  "collectionRenameModal": {
+    "title": "Rinominare raccolta",
+    "fieldLabel": "Etichetta raccolta",
+    "requiredMessage": "Etichetta raccolta richiesta",
+    "apply": "Applica"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dati",
+      "hidden": "Dati (nascosto)"
+    },
+    "site": {
+      "visible": "Siti",
+      "hidden": "Siti (nascosto)"
+    },
+    "document": {
+      "visible": "Documenti",
+      "hidden": "Documenti (nascosto)"
+    },
+    "appAndMap": {
+      "visible": "App e mappe",
+      "hidden": "App e mappe (nascosto)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (nascosto)"
+    }
+  },
+  "saveButton": "Salva"
+}

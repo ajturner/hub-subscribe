@@ -1,0 +1,21 @@
+{
+  "title": "Deltagelse",
+  "channelTitle": "Kanal for deltagelse",
+  "addChannelsTitle": "En kanal er nødvendig for dette element; der kan kun indstilles en.",
+  "headingChannelEdit": "Rediger kanal",
+  "headingChannelView": "Vis kanal",
+  "headingChannelCreate": "Opret ny kanal",
+  "buttons": {
+    "browse": "Gennemse alle kanaler",
+    "new": "Ny kanal"
+  },
+  "galleryPickerTitle": "Vælg en kanal",
+  "channelsLabel": "Kanaler",
+  "accessLabel": "Adgang",
+  "optionPublicLabel": "Offentlig",
+  "optionOrganizationLabel": "Organisation",
+  "optionPrivateLabel": "Privat",
+  "viewChannel": "Vis kanal",
+  "editChannel": "Rediger kanal",
+  "save": "Gem"
+}

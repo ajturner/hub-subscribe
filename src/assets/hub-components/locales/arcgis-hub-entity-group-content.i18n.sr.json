@@ -1,0 +1,50 @@
+{
+  "title": "Sadržaj",
+  "facets": {
+    "type": "Tip",
+    "tags": "Oznaka",
+    "categories": "Kategorija",
+    "sharing": "Deljenje",
+    "dateUpdated": "Datum ažuriranja",
+    "map": {
+      "label": "Lokacija",
+      "tooltip": "Primenite opseg mape kao filter za lokaciju"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Dodaj sadržaj",
+    "catalog": {
+      "myContent": "Moj sadržaj",
+      "favorites": "Omiljeni sadržaj",
+      "organization": "Moja organizacija",
+      "world": "Svet (javno)"
+    },
+    "facets": {
+      "type": "Tip",
+      "sharing": "Deljenje"
+    },
+    "collection": {
+      "appsAndMaps": "Aplikacije i mape",
+      "dataset": "Podaci",
+      "documents": "Dokumenti",
+      "feedback": "Povratne informacije",
+      "sites": "Sajtovi"
+    },
+    "modal": {
+      "title": "Dodaj sadržaj"
+    },
+    "unsharedModal": {
+      "title": "Stavke nisu dodate",
+      "notice": {
+        "icon": "uzvičnik-trougao",
+        "type": "opasnost",
+        "title": "Nedovršena radnja",
+        "message": "Neke stavke nije moguće dodati. Ovo može biti zbog neusklađenih nivoa deljenja unutar sadržaja ili zato što vlasnik stavke nije član grupe.",
+        "linkText": "Pročitajte više o deljenju"
+      }
+    },
+    "itemSharedSuccessAlert": "Stavke se uspešno dele"
+  },
+  "close": "Zatvori",
+  "newTab": "otvara se na novoj kartici"
+}

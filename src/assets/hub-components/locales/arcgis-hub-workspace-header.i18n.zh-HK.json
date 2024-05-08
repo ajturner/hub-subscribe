@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "編輯版面配置",
+  "editContent": "編輯內容",
+  "view": {
+    "project": "檢視專案",
+    "site": "檢視網站",
+    "initiative": "檢視倡議",
+    "discussion": "檢視討論",
+    "content": "檢視內容",
+    "page": "檢視頁面",
+    "group": "檢視群組"
+  },
+  "label": {
+    "project": "專案工作空間",
+    "site": "網站工作空間",
+    "initiative": "倡議工作空間",
+    "discussion": "討論工作空間",
+    "content": "內容工作空間",
+    "page": "頁面工作空間",
+    "group": "群組工作空間"
+  },
+  "access": {
+    "sharingLevel": "分享級別",
+    "groupSharing": "群組分享",
+    "public": "公共",
+    "org": "組織",
+    "private": "擁有者",
+    "shared": "私人分享",
+    "disabled": "由於您不是擁有者或管理員，因此無法變更分享。"
+  }
+}

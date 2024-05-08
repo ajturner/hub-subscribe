@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Konfiguracja zaawansowana",
+    "serverTimeout": {
+      "label": "Limit czasu serwera (w sekundach)",
+      "helperText": "Przydatne w przypadku większych usług, które mogą wymagać więcej czasu na odpowiedź."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Narożniki",
+      "enum": {
+        "round": {
+          "label": "Okrągłe"
+        },
+        "square": {
+          "label": "Kwadratowe"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Cień",
+      "enum": {
+        "heavy": {
+          "label": "Duże"
+        },
+        "low": {
+          "label": "Niskie"
+        },
+        "medium": {
+          "label": "Średnie"
+        },
+        "none": {
+          "label": "Nie uruchomiono"
+        }
+      }
+    },
+    "layout": {
+      "label": "Kompozycja statystyczna",
+      "enum": {
+        "dataViz": {
+          "label": "Wizualizacja danych"
+        },
+        "moreInfo": {
+          "label": "Więcej informacji"
+        },
+        "simple": {
+          "label": "Proste"
+        }
+      }
+    },
+    "popoverTitle": "Tytuł okna podręcznego",
+    "popoverDescription": "Opis okna podręcznego",
+    "sectionTitle": "Wygląd",
+    "textAlign": "Wyrównanie",
+    "visualInterest": {
+      "label": "Zainteresowanie wizualne",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logotyp"
+        },
+        "none": {
+          "label": "Brak"
+        },
+        "sparkline": {
+          "label": "Wykres przebiegu w czasie"
+        }
+      }
+    },
+    "valueColor": "Kolor (statystyka)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Łącze",
+      "sourceLink": "Adres URL łącza",
+      "sourceTitle": "Tekst łącza"
+    },
+    "sectionTitle": "Szczegóły",
+    "subtitle": "Podtytuł",
+    "title": "Tytuł",
+    "trailingText": "Tekst końcowy"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Łącze jest wymagane do wyświetlenia źródła."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatowanie",
+    "unit": {
+      "label": "Wyświetl jednostki",
+      "helperText": "Wprowadź jednostkę miary dla wartości."
+    },
+    "unitPosition": {
+      "label": "Położenie",
+      "enum": {
+        "after": {
+          "label": "Po"
+        },
+        "before": {
+          "label": "Przed"
+        },
+        "below": {
+          "label": "Pod"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Udostępnianie",
+    "showShareIcon": "Włącz",
+    "shareableByValue": "Włącz osadzenia",
+    "shareableOnHover": {
+      "label": "Wyświetl",
+      "enum": {
+        "always": {
+          "label": "Zawsze"
+        },
+        "hover": {
+          "label": "Tylko wskazywanie"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Źródło danych",
+    "displayValue": "Wyświetlaj wartość",
+    "sectionTitle": "Statystyka",
+    "type": {
+      "label": "Typ",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamicznie",
+          "description": "Wybierz istniejący zestaw danych (usługę obiektową) do podsumowania."
+        },
+        "static": {
+          "label": "Statycznie",
+          "description": "Ręcznie wprowadź wartość do podświetlenia w kompozycji."
+        }
+      }
+    }
+  }
+}

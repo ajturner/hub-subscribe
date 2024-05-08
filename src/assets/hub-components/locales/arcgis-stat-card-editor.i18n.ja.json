@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "詳細構成",
+    "serverTimeout": {
+      "label": "サーバー タイムアウト (秒)",
+      "helperText": "応答に時間のかかる可能性がある大規模なサービスに役立ちます。"
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "角",
+      "enum": {
+        "round": {
+          "label": "丸"
+        },
+        "square": {
+          "label": "四角"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "ドロップ シャドウ",
+      "enum": {
+        "heavy": {
+          "label": "高"
+        },
+        "low": {
+          "label": "低"
+        },
+        "medium": {
+          "label": "中"
+        },
+        "none": {
+          "label": "開始前"
+        }
+      }
+    },
+    "layout": {
+      "label": "統計情報レイアウト",
+      "enum": {
+        "dataViz": {
+          "label": "データの視覚化"
+        },
+        "moreInfo": {
+          "label": "詳細"
+        },
+        "simple": {
+          "label": "単純化"
+        }
+      }
+    },
+    "popoverTitle": "ポップオーバー タイトル",
+    "popoverDescription": "ポップオーバーの説明",
+    "sectionTitle": "表示設定",
+    "textAlign": "調整",
+    "visualInterest": {
+      "label": "視覚的対象",
+      "enum": {
+        "icon": {
+          "label": "アイコン"
+        },
+        "logo": {
+          "label": "ロゴ"
+        },
+        "none": {
+          "label": "なし"
+        },
+        "sparkline": {
+          "label": "スパークライン"
+        }
+      }
+    },
+    "valueColor": "色 (統計情報)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "リンク",
+      "sourceLink": "リンクの URL",
+      "sourceTitle": "リンク テキスト"
+    },
+    "sectionTitle": "詳細",
+    "subtitle": "サブタイトル",
+    "title": "タイトル",
+    "trailingText": "末尾のテキスト"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "ソースを表示するのにリンクが必要です。"
+    }
+  },
+  "formatting": {
+    "sectionTitle": "書式設定",
+    "unit": {
+      "label": "表示単位",
+      "helperText": "値の計測単位を入力します。"
+    },
+    "unitPosition": {
+      "label": "配置",
+      "enum": {
+        "after": {
+          "label": "後"
+        },
+        "before": {
+          "label": "前"
+        },
+        "below": {
+          "label": "下"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "共有",
+    "showShareIcon": "有効化",
+    "shareableByValue": "埋め込みの有効化",
+    "shareableOnHover": {
+      "label": "表示",
+      "enum": {
+        "always": {
+          "label": "常時"
+        },
+        "hover": {
+          "label": "ポイント時のみ"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "データ ソース",
+    "displayValue": "表示値",
+    "sectionTitle": "統計情報",
+    "type": {
+      "label": "タイプ",
+      "enum": {
+        "dynamic": {
+          "label": "動的",
+          "description": "集計する既存のデータセット (フィーチャ サービス) を選択します。"
+        },
+        "static": {
+          "label": "静的",
+          "description": "レイアウトでハイライト表示する値を手動入力します。"
+        }
+      }
+    }
+  }
+}

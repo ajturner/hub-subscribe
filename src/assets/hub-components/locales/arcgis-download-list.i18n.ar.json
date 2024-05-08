@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "ملف شكل",
+  "sqlite": "قاعدة بيانات SQLite الجغرافية",
+  "geoPackage": "GeoPackage",
+  "filegdb": "تصنيف معالم قاعدة بيانات جغرافية ملفية",
+  "featureCollection": "تجميع المعالم",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "تنزيل"
+}

@@ -1,0 +1,8 @@
+{
+  "header": "Diskussionsmuligheder",
+  "secondary": "Annullér",
+  "primary": "Gem ændringer",
+  "pending": "Gemmer",
+  "error.title": "Der gik noget galt",
+  "error.message": "Prøv igen for at gemme ændringerne."
+}

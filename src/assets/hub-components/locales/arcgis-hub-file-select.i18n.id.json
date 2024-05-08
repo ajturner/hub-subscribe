@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Seret dan letakkan file untuk mengunggah",
+  "imageHeading": "Unggah Gambar",
+  "selectedHeading": "File Dipilih",
+  "maxSizeAndSupportedTypes": "Ukuran Maksimal adalah {maxSize} MB, {fileTypes}",
+  "maxSize": "Ukuran Maksimal adalah {maxSize} MB",
+  "recommendedDimensions": "Dimensi yang direkomendasikan {recommendedDimensions}",
+  "linkText": "Lihat Daftar File yang Didukung",
+  "contentButton": "Telusuri File",
+  "imageButton": "Telusuri Gambar",
+  "clearButton": "Hapus yang Dipilih",
+  "errorHeading": "Kesalahan",
+  "fileTooLargeError": "Ukuran file terlalu besar",
+  "multipleFilesError": "Tidak dapat mengunggah beberapa file secara bersamaan",
+  "unsupportedFileTypeError": "Jenis file ini tidak didukung"
+}

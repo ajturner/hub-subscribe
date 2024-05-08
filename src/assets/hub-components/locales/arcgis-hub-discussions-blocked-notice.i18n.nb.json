@@ -1,0 +1,16 @@
+{
+  "post.title": "Redigering av innlegg er blokkert",
+  "post.message": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert.",
+  "post.message.item": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert for dette elementet.",
+  "post.message.group": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert for denne gruppen.",
+  "reply.title": "Redigering av svar er blokkert",
+  "reply.title.generic": "Diskusjonen er blokkert",
+  "reply.message": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert.",
+  "reply.message.generic": "Du kan ikke opprette svar nå.",
+  "reply.message.item": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert for dette elementet.",
+  "reply.message.group": "Redigering er ikke tilgjengelig så lenge diskusjoner er blokkert for denne gruppen.",
+  "item.title": "Diskusjon av element er blokkert",
+  "item.message": "Dette elementet er ikke godkjent for diskusjon.",
+  "group.title": "Gruppediskusjon blokkert",
+  "group.message": "Denne gruppen er ikke godkjent for diskusjon."
+}

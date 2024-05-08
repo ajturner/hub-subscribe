@@ -1,0 +1,15 @@
+{
+  "addFilter": "Tambahkan filter",
+  "attributeFilter": "Filter",
+  "between": "Di antara",
+  "deleteFilter": "Hapus filter",
+  "endingDate": "Tanggal berakhir",
+  "endingValue": "Nilai akhir",
+  "expression": "Ekspresi",
+  "filterType": "Jenis filter",
+  "filterValue": "Filter nilai",
+  "isExactly": "Tepat",
+  "startingDate": "Tanggal mulai",
+  "startingValue": "Nilai mulai",
+  "selectAttribute": "Pilih atribut"
+}

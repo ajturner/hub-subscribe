@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anònim",
+  "noUser": "Sense nom d'usuari",
+  "privateUser": "Membre privat",
+  "privateOrg": "Organització privada",
+  "orgLabel": "Organització",
+  "profile": "Ves al perfil",
+  "location": "Ubicació",
+  "information": "Informació sobre la publicació",
+  "mentionedBy": "Mencionat per @{username}"
+}

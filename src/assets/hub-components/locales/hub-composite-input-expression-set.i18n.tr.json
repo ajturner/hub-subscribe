@@ -1,0 +1,15 @@
+{
+  "addFilter": "Filtre ekle",
+  "attributeFilter": "Filtrele",
+  "between": "Arasında",
+  "deleteFilter": "Filtreyi sil",
+  "endingDate": "Bitiş tarihi",
+  "endingValue": "Bitiş değeri",
+  "expression": "İfade",
+  "filterType": "Filtre tipi",
+  "filterValue": "Filtre değeri",
+  "isExactly": "Tam olarak",
+  "startingDate": "Başlangıç tarihi",
+  "startingValue": "Başlangıç değeri",
+  "selectAttribute": "Öznitelik seç"
+}

@@ -1,0 +1,494 @@
+{
+  "success": "Muudatused on salvestatud",
+  "error": "Tõrge muudatuste salvestamisel",
+  "create": "Loo",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Asukohta pole",
+        "org": "Organisatsiooni ulatus",
+        "custom": "Kohandatud asukoht",
+        "customDescription": "Joonistage üks asukoht või mitu",
+        "itemExtent": "Üksuse hetkeulatus"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tüüp",
+          "sharing": "Jagamine"
+        },
+        "catalog": {
+          "myContent": "Minu sisu",
+          "favorites": "Lemmikud",
+          "organization": "Organisatsioon",
+          "world": "Maailm (avalik)"
+        },
+        "collection": {
+          "appsAndMaps": "Rakendused ja kaardid",
+          "dataset": "Andmed",
+          "documents": "Dokumendid",
+          "feedback": "Tagasiside",
+          "sites": "Saidid"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Üksikasjad"
+      },
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "location": {
+        "label": "Asukoht",
+        "helperText": "Näidake geograafilist piirkonda, kus see projekt toimub (ilmub projekti skeemil)."
+      },
+      "status": {
+        "label": "Olek"
+      },
+      "sharing": {
+        "label": "Jagamine"
+      },
+      "timeline": {
+        "label": "Ajaskaala"
+      },
+      "searchDiscoverability": {
+        "label": "Otsing ja leidmisvõimalus"
+      },
+      "featuredContent": {
+        "label": "Esiletõstetud sisu",
+        "helperText": "Tõstke esile teie projektiga seotud konkreetsed dokumendid, rakendused ja andmed. Saate esitada kuni 4 objekti."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projekti nimi",
+        "requiredError": "Projekti nimi on kohustuslik väli."
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "helperText": "Määrake, kuidas teie projekt täidab need eesmärgid. Kaaluge, kas lisada asjakohane taustteave ja projekti tulemusena oodatavad muutused."
+      },
+      "summary": {
+        "label": "Eesmärk",
+        "helperText": "Esitage oma projekti eesmärkide lühikokkuvõte."
+      },
+      "access": {
+        "itemType": "Projitseeri"
+      },
+      "groups": {
+        "label": "Jaga:",
+        "viewGroup": "(Kuva grupp)",
+        "editGroup": "(Muuda gruppi)"
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Seadistage pisipilt selle projekti esitamiseks ArcGIS Online'is ning samuti otsingu puhul ja galeriide kasutamisel.",
+        "sizeDescription": "Soovitatavad mõõtmed: 760 x 505 või suurem"
+      },
+      "featuredImage": {
+        "label": "Esiletõstetud pilt",
+        "helperText": "Valige pilt, mis väljendaks teie tööd projekti paigutuse loomisel.",
+        "sizeDescription": "Faili maht ei tohi ületada 10 MB. Soovitatavad mõõtmed: 718 x 478 või suurem",
+        "altText": {
+          "label": "Asetekst",
+          "helperText": "Esitage oma pildi lühikirjeldus ekraanilugereid kasutavatele isikutele. Jätke tühjaks, kui soovite pilti kasutada dekoratsioonina."
+        }
+      },
+      "tags": {
+        "label": "Märksõnad",
+        "helperText": "Kataloogides otsimisel kasutatakse märksõnu, et aidata teistel seda projekti leida. Uute märksõnade sisestamiseks lisage tekst ja vajutage sisestusklahvi."
+      },
+      "categories": {
+        "label": "Kategooriad",
+        "helperText": "Kataloogides otsimisel kasutatakse kategooriaid, et aidata teistel seda projekti leida. Neid on seadistanud teie ArcGIS Online'i organisatsioon."
+      },
+      "status": {
+        "label": "Projekti olek",
+        "enum": {
+          "notStarted": {
+            "label": "Pole alustatud"
+          },
+          "inProgress": {
+            "label": "Pooleli"
+          },
+          "onHold": {
+            "label": "Ootel"
+          },
+          "complete": {
+            "label": "Lõpetatud"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tüüp",
+          "sharing": "Jagamine"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Üksikasjad"
+      },
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "location": {
+        "label": "Asukoht",
+        "helperText": "Näidake geograafilist piirkonda, kus see algatus toimub (kuvatakse algatuse skeemil)."
+      },
+      "sharing": {
+        "label": "Jagamine"
+      },
+      "featuredContent": {
+        "label": "Esiletõstetud sisu",
+        "helperText": "Tõstke esile oma projektiga seotud konkreetsed dokumendid, rakendused ja andmed. Saate esile tõsta kuni 4 objekti."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Algatuse nimi",
+        "requiredError": "Initsiatiivi nimi on nõutav väli."
+      },
+      "summary": {
+        "label": "Eesmärk",
+        "helperText": "Esitage oma algatuse eesmärkide lühikokkuvõte."
+      },
+      "access": {
+        "itemType": "Algatus"
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "helperText": "Sisestage rohkem konteksti, mis võib aidata seda initsiatiivi otsida."
+      },
+      "tags": {
+        "label": "Märksõnad",
+        "helperText": "Kataloogides otsimisel kasutatakse märksõnu, et aidata teistel seda algatust leida. Uute märksõnade sisestamiseks lisage tekst ja vajutage sisestusklahvi."
+      },
+      "categories": {
+        "label": "Kategooriad",
+        "helperText": "Kataloogides otsimisel kasutatakse kategooriaid, et aidata teistel seda algatust leida. Neid on seadistanud teie ArcGIS Online'i organisatsioon."
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Seadistage pisipilt selle initsiatiivi esitamiseks ArcGIS Online'is ning samuti otsingu puhul ja galeriide kasutamisel."
+      },
+      "groups": {
+        "label": "Jaga:",
+        "viewGroup": "(Kuva grupp)",
+        "editGroup": "(Muuda gruppi)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tüüp",
+          "sharing": "Jagamine"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Üksikasjad"
+      },
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "location": {
+        "label": "Asukoht"
+      },
+      "settings": {
+        "label": "Arutelu seaded"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Pealkiri",
+        "requiredError": "Arutelutahvli nimi on nõutav."
+      },
+      "prompt": {
+        "label": "Kuvatav kirje",
+        "helperText": "Kirjeldage lühidalt, mida osalejad peaksid sellele arutelutahvlil esitama.",
+        "requiredError": "Kuvatav kirje on nõutav väli"
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "helperText": "Sisestage rohkem konteksti, mis võib aidata seda tahvlit otsida."
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Valige pilt arutelu esitamiseks."
+      },
+      "summary": {
+        "label": "Eesmärk",
+        "helperText": "Kirjeldage lühidalt selle arutelutahvli eesmärki, mis on abiks lingi jagamisel teistega."
+      },
+      "featuredImage": {
+        "label": "Esiletõstetud pilt",
+        "sizeDescription": "Maksimummaht on 10 MB, JPEG, JPG või PNG",
+        "altText": {
+          "label": "Asetekst",
+          "helperText": "Esitage oma pildi lühikirjeldus ekraanilugereid kasutavatele isikutele. Jätke tühjaks, kui soovite pilti kasutada dekoratsioonina."
+        },
+        "name": {
+          "label": "Pildi nimi"
+        }
+      },
+      "tags": {
+        "label": "Märksõnad"
+      },
+      "categories": {
+        "label": "Kategooriad"
+      },
+      "discussable": {
+        "label": "Kas arutelu on lubatud?",
+        "enabled": {
+          "label": "Jah, arutelu on lubatud",
+          "description": "Osalejad saavad lisada sellele arutelutahvlile postitusi, vastuseid ja reaktsioone."
+        },
+        "disabled": {
+          "label": "Ei, arutelu on blokeeritud",
+          "description": "Eemaldab võimaluse lisada uusi postitusi, vastuseid ja reaktsioone. Ei kustuta varasemat osalemist."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "location": {
+        "label": "Asukoht",
+        "helperText": "Saate kuvada geograafilise ala, kuhu see sait kuulub."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Saidi nimi",
+        "requiredError": "Saidi nimi on kohustuslik väli"
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Seadistage pisipilt selle saidi esitamiseks ArcGIS Online'is ning samuti otsingu puhul ja galeriide kasutamisel."
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "helperText": "Saidi kirjeldus."
+      },
+      "summary": {
+        "label": "Kokkuvõte",
+        "helperText": "Tehke saidist lühikokkuvõte."
+      },
+      "tags": {
+        "label": "Märksõnad",
+        "helperText": "Otsingukataloogides kasutatakse märksõnu, mis aitavad teistel seda saiti leida. Uute märksõnade sisestamiseks lisage tekst ja vajutage sisestusklahvi."
+      },
+      "categories": {
+        "label": "Kategooriad",
+        "helperText": "Otsingukataloogides kasutatakse kategooriaid, et aidata teistel seda saiti leida. Neid on seadistanud teie ArcGIS Online'i organisatsioon."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Nähtavuse määramine",
+          "helperText": "Saate reguleerida, kes näevad jälgimisnuppe. See seade kehtib nii hõljuva lehesisese toimingu jälgimisnupu kui ka otse paigutusse manustatud mis tahes jälgimisnupu kohta.",
+          "private": {
+            "label": "Privaatne",
+            "description": "Jälgimisnuppe näevad ainult saidi omanik ja juurdepääsuga grupid"
+          },
+          "org": {
+            "label": "Organisatsioon",
+            "description": "Kõik liikmed, kellel on saidi organisatsiooni konto, ja juurdepääsuga grupid, näevad jälgimisnuppe"
+          },
+          "public": {
+            "label": "Avalik",
+            "description": "Jälgimisnuppe näevad kõik"
+          }
+        },
+        "showFollowAction": {
+          "label": "Toimingu jälgimine",
+          "helperText": "Lisage lehesiseste toimingute menüüsse jälgimisnupp, mis jääb nähtavaks seniks, kuni kasutajad kerides paigutuses liiguvad."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "location": {
+        "label": "Asukoht",
+        "helperText": "Saate kuvada geograafilise piirkonna, kuhu see leht kuulub."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Lehe nimi",
+        "requiredError": "Lehe nimi on kohustuslik väli"
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "helperText": "Lehe kirjeldus."
+      },
+      "summary": {
+        "label": "Kokkuvõte",
+        "helperText": "Tehke lehest lühikokkuvõte."
+      },
+      "tags": {
+        "label": "Märksõnad",
+        "helperText": "Otsingukataloogides kasutatakse märksõnu, mis aitavad teistel seda lehte leida. Uute märksõnade sisestamiseks lisage tekst ja vajutage sisestusklahvi."
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Seadistage pisipilt selle lehe esitamiseks ArcGIS Online'is ning samuti otsingu puhul ja galeriide kasutamisel."
+      },
+      "categories": {
+        "label": "Kategooriad",
+        "helperText": "Otsingukataloogides kasutatakse kategooriaid, et aidata teistel seda lehte leida. Neid on seadistanud teie ArcGIS Online'i organisatsioon."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Pealkiri",
+        "hint": "Lühikesed pealkirjad soodustavad teie sisus andmete leidmist.",
+        "requiredError": "Pealkiri on kohustuslik väli"
+      },
+      "summary": {
+        "label": "Kokkuvõte",
+        "hint": "Tehke sisust lühikokkuvõte. NÕUANNE: täiustage SEO-d, kasutades võtmesõnu, mis erinevad pealkirjast või märksõnadest."
+      },
+      "description": {
+        "label": "Kirjeldus",
+        "hint": "Teie sisu selgitavad täiendavad üksikasjad. Laiema sihtrühmani jõudmiseks tuleb eesmärgiks seada 7.-9. klassi kugemistase. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Kasutage oma teksti kontrollimiseks vaba loetavuse analüüsi tööriista</a>."
+      },
+      "tags": {
+        "label": "Märksõnad",
+        "hint": "Otsingukataloogides kasutatakse märksõnu, mis aitavad teistel seda sisu leida. Uute märksõnade sisestamiseks lisage tekst ja vajutage sisestusklahvi."
+      },
+      "categories": {
+        "label": "Kategooriad",
+        "agolHint": "Otsingukataloogides kasutatakse kategooriaid, et aidata teistel seda sisu leida. Neid on seadistanud teie ArcGIS Online'i organisatsioon.",
+        "enterpriseHint": "Otsingukataloogides kasutatakse kategooriaid, et aidata teistel seda sisu leida. Need seadistab teie ArcGIS Enterprise’i organisatsioon.",
+        "agolNoCategoryHint": "Nõuanne: kategooriad on saadaval ainult juhul, kui need on seadistatud teie organisatsiooni jaoks ArcGIS Online’i organisatsioonis.",
+        "enterpriseNoCategoryHint": "Nõuanne: kategooriad on saadaval ainult juhul, kui need on seadistatud teie organisatsiooni jaoks ArcGIS Enterprise'i organisatsioonis."
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Seadistage pisipilt selle üksuse esitamiseks ArcGIS Online'is ning samuti otsingu puhul ja galeriide kasutamisel."
+      },
+      "license": {
+        "label": "Kasutustingimused",
+        "helperText": "Väiksemad piirangud õhutavad rohkem korduskasutama."
+      },
+      "serverExtractCapability": {
+        "label": "Ekstraktimisvõimalus (andmete eksport)",
+        "helperText": "Lubab selle üksuse teenuse jaoks ekstraktimisvõimaluse. Ekstraktimine toetab lisavorminguid."
+      },
+      "hostedDownloads": {
+        "label": "(Beetaversioon) Majutatud allalaadimised",
+        "helperText": "Saate luua allalaadimisfaile otse majutatud teenuses. See parandab sisu, nagu objektikihtide ja tabelite, allalaadimisel jõudlust. Selleks et lubada majutatud allalaadimised, peavad olema lubatud ekstraktimisvõimalused."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Põhiteave",
+        "message": "Seda teavet kasutatakse otsingutulemuste ja galeriikaartidega täitmiseks ning see kuvatakse üksikasjade vaates."
+      },
+      "about": {
+        "title": "Sisuüksuse info",
+        "message": "Teie kirjelduse kaks esimest rida kuvatakse otsingu tulemustes, kuid kogu kirjeldus esitatakse fokusseeritud sisu vaadetes."
+      },
+      "image": {
+        "title": "Esiletõstetud pilt",
+        "message": "Hea esiletõstetud pildi või pisipildi omamine on oluline, kui tutvustate oma sisu meie galeriides või piltide esiletõstmise vaadetel, näiteks algatuste, sündmuste ja uuringute puhul. Soovitatav suurus on 760x505. Kui teie pilt kuvatakse otsestel marsruutidel häguselt, kaaluge pisipildi asendamist suurema pildiga."
+      },
+      "location": {
+        "label": "Asukoht",
+        "helperText": "Näidake geograafilist piirkonda, kus see sisu toimub (ilmub sisu skeemil)."
+      },
+      "downloads": {
+        "label": "Allalaadimised",
+        "helperText": "Saate konfigurerida allalaadimisvormingud, vahemällu salvestatud failide värskendamise ajakava jne. Lisateabe saamiseks vaadake <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">allalaadimisdokumentatsiooni.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} tähemärki jäänud"
+    },
+    "imageThumbnail": {
+      "label": "Pisipildi kujutis",
+      "upload": "Pildi laadimine",
+      "done": "Valmis",
+      "editThumbnail": "Muuda pisipilti",
+      "browse": "Sirvi pilte",
+      "remove": "Eemalda pilt",
+      "edit": "Muuda pilti",
+      "defaultHeading": "Lisa pisipildi kujutis",
+      "dropHeading": "Lohistage üles laadimiseks",
+      "errorHeading": "Proovige mõnda muud pilti",
+      "subheading": "Maksimaalne maht on {size}, {types}",
+      "zoomOut": "suumi välja",
+      "zoomIn": "suumi sisse",
+      "drag": "Lohistage paigutuse muutmiseks",
+      "urlPlaceholder": "Toetatud tüübid: {types}",
+      "browseForImage": "Sirvi pilte",
+      "aria": {
+        "container": "Pildiala",
+        "crop": "Kärpeala",
+        "handle": {
+          "top": "Muuda suurust üleval",
+          "right": "Muuda suurust paremal",
+          "left": "Muuda suurust vasakul",
+          "bottom": "Muuda suurust all"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Üksikasjad"
+      },
+      "basicInfo": {
+        "label": "Põhiteave"
+      },
+      "membershipAccess": {
+        "label": "Liikmete juurdepääs"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Grupi nimi",
+        "requiredError": "Grupi nime väli on kohustuslik"
+      },
+      "summary": {
+        "label": "Kokkuvõte"
+      },
+      "access": {
+        "itemType": "Grupp"
+      },
+      "_thumbnail": {
+        "label": "Pisipilt",
+        "helperText": "Valige pilt, mis tähistab teie gruppi grupiprofiilil.",
+        "sizeDescription": "Maksimaalne maht on 10 MB. Soovitatav suurus: 400 x 400 või suurem"
+      },
+      "membershipAccess": {
+        "label": "Kas saavad selle grupiga liituda?",
+        "org": "Ainult minu organisatsiooni liikmed",
+        "collab": "Ainult partnerkoostöö ja minu organisatsiooni liikmed",
+        "any": "Mis tahes organisatsiooni liikmed"
+      },
+      "contributeContent": {
+        "label": "Kes saavad sisu lisada?",
+        "all": "Kõik grupi liikmed",
+        "admins": "Grupi omanik ja haldurid"
+      }
+    }
+  }
+}

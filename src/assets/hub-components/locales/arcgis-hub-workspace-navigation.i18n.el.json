@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Λεπτομέρειες",
+    "overview": "Επισκόπηση",
+    "metrics": "Μετρικά",
+    "settings": "Ρυθμίσεις",
+    "collaborators": "Συνεργάτες",
+    "discussion": "Συζήτηση",
+    "content": "Περιεχόμενο",
+    "members": "Μέλη",
+    "participation": "Συμμετοχή",
+    "followers": "Ακόλουθοι"
+  }
+}

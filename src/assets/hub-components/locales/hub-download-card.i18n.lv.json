@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Lejupielādēt",
+  "buttonOptions": "Lejupielādes opcijas",
+  "menuRequest": "Ģenerēt jaunu lejupielādi ar jaunākajiem datiem",
+  "menuDownload": "Lejupielādēt failu, kas iepriekš ģenerēts {createdDate}",
+  "fileCreated": "Fails izveidots",
+  "fileSize": "Faila lielums",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/P"
+}

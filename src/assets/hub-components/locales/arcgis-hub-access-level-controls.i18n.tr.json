@@ -1,0 +1,9 @@
+{
+  "heading": "Paylaşım Seviyesi",
+  "public": "Genel",
+  "publicInfo": "Herkes bu {itemType}'i görebilir",
+  "organization": "Kuruluş",
+  "organizationInfo": "{orgName} hesabına sahip tüm üyeler ve gruplar bu {itemType}'i görebilir",
+  "owner": "Sahip",
+  "ownerInfo": "Erişimi olan sahipler ve gruplar bu {itemType}'i görebilir"
+}

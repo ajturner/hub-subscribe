@@ -1,0 +1,494 @@
+{
+  "success": "Veiksmīgi saglabāti labojumi",
+  "error": "Kļūda, saglabājot labojumus",
+  "create": "Izveidot",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nav atrašanās vietas",
+        "org": "Organizācijas pārklājums",
+        "custom": "Pielāgots novietojums",
+        "customDescription": "Uzzīmēt vienu vai vairākus novietojumus",
+        "itemExtent": "Vienības pašreizējais pārklājums"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Veids",
+          "sharing": "Koplietošana"
+        },
+        "catalog": {
+          "myContent": "Mans saturs",
+          "favorites": "Izlase",
+          "organization": "Organizācija",
+          "world": "Pasaule (publisks)"
+        },
+        "collection": {
+          "appsAndMaps": "Lietotnes un kartes",
+          "dataset": "Dati",
+          "documents": "Dokumenti",
+          "feedback": "Atsauksmes",
+          "sites": "Vietnes"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Papildinformācija"
+      },
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "location": {
+        "label": "Atrašanās vieta",
+        "helperText": "Parādiet ģeogrāfisko apgabalu, kurā šis projekts norisināsies (lai tas būtu redzams projekta izkārtojumā)."
+      },
+      "status": {
+        "label": "Statuss"
+      },
+      "sharing": {
+        "label": "Koplietošana"
+      },
+      "timeline": {
+        "label": "Laika skala"
+      },
+      "searchDiscoverability": {
+        "label": "Meklēšana un atklājamība"
+      },
+      "featuredContent": {
+        "label": "Saistītais saturs",
+        "helperText": "Izceliet ar projektu saistītos īpašos dokumentus, lietotnes un datus. Var iekļaut ne vairāk kā 4 vienības."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projekta nosaukums",
+        "requiredError": "Projekta nosaukums ir obligāti aizpildāms lauks"
+      },
+      "description": {
+        "label": "Apraksts",
+        "helperText": "Norādiet, kā jūsu projekts sasniegs savus mērķus. Apsveriet iespēju iekļaut būtisku papildinformāciju un projekta rezultātā paredzamās izmaiņas."
+      },
+      "summary": {
+        "label": "Mērķis",
+        "helperText": "Īsi rezumējiet sava projekta mērķus."
+      },
+      "access": {
+        "itemType": "Projekts"
+      },
+      "groups": {
+        "label": "Koplietot ar...",
+        "viewGroup": "(Skatīt grupu)",
+        "editGroup": "(Rediģēt grupu)"
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Iestatiet sīktēlu, lai attēlotu šo projektu ArcGIS Online, kā arī meklēšanā un galerijās.",
+        "sizeDescription": "Ieteicamie izmēri: 760 x 505 vai lielāks"
+      },
+      "featuredImage": {
+        "label": "Redzamais attēls",
+        "helperText": "Izvēlieties attēlu, lai atainotu darbu pie projekta izkārtojuma.",
+        "sizeDescription": "Maksimālais faila lielums ir 10 MB. Ieteicamie izmēri: 718 x 478 vai lielāks",
+        "altText": {
+          "label": "Alternatīvs teksts",
+          "helperText": "Sniedziet īsu attēla aprakstu tiem, kas izmanto ekrāna nolasītājus. Atstājiet tukšu, lai norādītu, ka attēls ir dekoratīvs."
+        }
+      },
+      "tags": {
+        "label": "Atslēgvārdi",
+        "helperText": "Tagi tiek izmantoti meklēšanas katalogos, lai palīdzētu citiem atrast šo projektu. Pievienojiet tekstu un izvēlieties ievadīšanu, lai izveidotu jaunus tagus."
+      },
+      "categories": {
+        "label": "Kategorijas",
+        "helperText": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo projektu. Tās iestata jūsu ArcGIS Online organizācija."
+      },
+      "status": {
+        "label": "Projekta statuss",
+        "enum": {
+          "notStarted": {
+            "label": "Nav sākts"
+          },
+          "inProgress": {
+            "label": "Notiek izpilde"
+          },
+          "onHold": {
+            "label": "Atlikts"
+          },
+          "complete": {
+            "label": "Pabeigts"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Veids",
+          "sharing": "Koplietošana"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Papildinformācija"
+      },
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "location": {
+        "label": "Novietojums",
+        "helperText": "Parādiet ģeogrāfisko apgabalu, kurā šī iniciatīva norisināsies (lai tā būtu redzama iniciatīvas izkārtojumā)."
+      },
+      "sharing": {
+        "label": "Koplietošana"
+      },
+      "featuredContent": {
+        "label": "Saistītais saturs",
+        "helperText": "Izceliet ar projektu saistītos īpašos dokumentus, lietotnes un datus. Varat iekļaut ne vairāk kā 4 vienības."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Iniciatīvas nosaukums",
+        "requiredError": "Iniciatīvas nosaukums ir obligāti aizpildāms lauks"
+      },
+      "summary": {
+        "label": "Mērķis",
+        "helperText": "Īsi rezumējiet savas iniciatīvas mērķus."
+      },
+      "access": {
+        "itemType": "Iniciatīva"
+      },
+      "description": {
+        "label": "Apraksts",
+        "helperText": "Nodrošiniet vairāk konteksta, kas varētu būt noderīgs, meklējot šo iniciatīvu."
+      },
+      "tags": {
+        "label": "Atslēgvārdi",
+        "helperText": "Atslēgvārdi tiek izmantoti meklēšanas katalogos, lai palīdzētu citiem atrast šo iniciatīvu. Pievienojiet tekstu un izvēlieties ievadīšanu, lai izveidotu jaunus tagus."
+      },
+      "categories": {
+        "label": "Kategorijas",
+        "helperText": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo iniciatīvu. Tās iestata jūsu ArcGIS Online organizācija."
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Iestatiet sīktēlu, lai attēlotu šo iniciatīvu ArcGIS Online, kā arī meklēšanā un galerijās."
+      },
+      "groups": {
+        "label": "Koplietot ar...",
+        "viewGroup": "(Skatīt grupu)",
+        "editGroup": "(Rediģēt grupu)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Veids",
+          "sharing": "Koplietošana"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Papildinformācija"
+      },
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "location": {
+        "label": "Novietojums"
+      },
+      "settings": {
+        "label": "Diskusijas ietatījumi"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Virsraksts",
+        "requiredError": "Nepieciešams diskusiju paneļa nosaukums."
+      },
+      "prompt": {
+        "label": "Uzvedne",
+        "helperText": "Īsi aprakstiet, ko vēlaties, lai dalībnieki iesniegtu šajā diskusiju panelī.",
+        "requiredError": "Uzvedne ir obligāti aizpildāms lauks"
+      },
+      "description": {
+        "label": "Apraksts",
+        "helperText": "Nodrošiniet vairāk konteksta, kas varētu būt noderīgs, meklējot šo paneli."
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Izvēlieties attēlu, kas simbolizē jūsu diskusiju."
+      },
+      "summary": {
+        "label": "Mērķis",
+        "helperText": "Īsi aprakstiet šī diskusiju paneļa mērķi, kas ir noderīgs, koplietojot saiti ar citiem."
+      },
+      "featuredImage": {
+        "label": "Redzamais attēls",
+        "sizeDescription": "Maks. izmērs ir 10 MB, JPEG, JPG vai PNG",
+        "altText": {
+          "label": "Alternatīvs teksts",
+          "helperText": "Sniedziet īsu attēla aprakstu tiem, kas izmanto ekrāna nolasītājus. Atstājiet tukšu, lai norādītu, ka attēls ir dekoratīvs."
+        },
+        "name": {
+          "label": "Attēla nosaukums"
+        }
+      },
+      "tags": {
+        "label": "Atslēgvārdi"
+      },
+      "categories": {
+        "label": "Kategorijas"
+      },
+      "discussable": {
+        "label": "Vai diskusija ir atļauta?",
+        "enabled": {
+          "label": "Jā, diskusija ir atļauta",
+          "description": "Dalībnieki var pievienot ziņojumus, atbildes un reakcijas šim diskusiju panelim."
+        },
+        "disabled": {
+          "label": "Nē, diskusija bloķēta",
+          "description": "Noņem iespēju pievienot jaunas ziņas, atbildes un reakcijas. Nedzēš iepriekšējo līdzdalību."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "location": {
+        "label": "Novietojums",
+        "helperText": "Rādīt ģeogrāfisko teritoriju, uz kuru attiecas šī vietne."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Vietnes nosaukums",
+        "requiredError": "Vietnes nosaukums ir obligāti aizpildāms lauks"
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Iestatiet sīktēlu, lai attēlotu šo vietni ArcGIS Online, kā arī meklēšanā un galerijās."
+      },
+      "description": {
+        "label": "Apraksts",
+        "helperText": "Vietnes apraksts."
+      },
+      "summary": {
+        "label": "Kopsavilkums",
+        "helperText": "Īsumā aprakstiet vietni."
+      },
+      "tags": {
+        "label": "Atslēgvārdi",
+        "helperText": "Atslēgvārdi tiek izmantoti meklēšanas katalogos, lai palīdzētu citiem atrast šo vietni. Pievienojiet tekstu un izvēlieties ievadīšanu, lai izveidotu jaunus tagus."
+      },
+      "categories": {
+        "label": "Kategorijas",
+        "helperText": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo vietni. Tās iestata jūsu ArcGIS Online organizācija."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Iestatīt redzamību",
+          "helperText": "Kontrolējiet, kurš var skatīt sekošanas pogas. Šis iestatījums attiecas gan uz plūstošo darbību sekošanas pogu lapā, gan uz jebkuru sekošanas pogu, kas iegulta tieši izkārtojumā.",
+          "private": {
+            "label": "Privāts",
+            "description": "Vietnes īpašnieks un grupas ar piekļuvi var skatīt sekošanas pogas"
+          },
+          "org": {
+            "label": "Organizācija",
+            "description": "Visi dalībnieki ar vietnes organizācijas kontu un grupas ar piekļuvi var skatīt sekošanas pogas"
+          },
+          "public": {
+            "label": "Publisks",
+            "description": "Ikviens var redzēt sekošanas pogas"
+          }
+        },
+        "showFollowAction": {
+          "label": "Sekot darbībai",
+          "helperText": "Lapas darbību izvēlnei pievienojiet sekošanas pogu, kas paliek redzama, lietotājiem ritinot izkārtojumu."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "location": {
+        "label": "Novietojums",
+        "helperText": "Rādīt ģeogrāfisko teritoriju, uz kuru attiecas šī lapa."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Lapas nosaukums",
+        "requiredError": "Lapas nosaukums ir obligāti aizpildāms lauks"
+      },
+      "description": {
+        "label": "Apraksts",
+        "helperText": "Lapas apraksts"
+      },
+      "summary": {
+        "label": "Kopsavilkums",
+        "helperText": "Īss kopsavilkums par lapu."
+      },
+      "tags": {
+        "label": "Atslēgvārdi",
+        "helperText": "Atslēgvārdi tiek izmantoti meklēšanas katalogos, lai palīdzētu citiem atrast šo lapu. Pievienojiet tekstu un izvēlieties ievadīšanu, lai izveidotu jaunus tagus."
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Iestatiet sīktēlu, lai attēlotu šo lapu ArcGIS Online, kā arī meklēšanā un galerijās."
+      },
+      "categories": {
+        "label": "Kategorijas",
+        "helperText": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo lapu. Tās iestata jūsu ArcGIS Online organizācija."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Virsraksts",
+        "hint": "Kodolīgi virsraksti palīdzēs vieglāk atrast jūsu saturu jūsu.",
+        "requiredError": "Nosaukums ir obligāti aizpildāms lauks"
+      },
+      "summary": {
+        "label": "Kopsavilkums",
+        "hint": "Īsumā apkopojiet savu saturu. Padoms. Uzlabojiet meklētājoptimizāciju, izmantojot atslēgvārdus, kas atšķiras no jūsu \"Nosaukuma\" vai \"Atslēgvārdiem\"."
+      },
+      "description": {
+        "label": "Apraksts",
+        "hint": "Pievienojiet papildinformāciju, kas izskaidro jūsu saturu. Izvēlieties 7.–9. pakāpes lasīšanas līmeni, lai sasniegtu plašu mērķauditoriju. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Teksta pārbaudei izmantojiet bezmaksas lasīšanas analīzes rīku</a>."
+      },
+      "tags": {
+        "label": "Atslēgvārdi",
+        "hint": "Atslēgvārdi tiek izmantoti meklēšanas katalogos, lai palīdzētu citiem atrast šo saturu. Pievienojiet tekstu un izvēlieties ievadīšanu, lai izveidotu jaunus tagus."
+      },
+      "categories": {
+        "label": "Kategorijas",
+        "agolHint": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo saturu. Tās iestata jūsu ArcGIS Online organizācija.",
+        "enterpriseHint": "Kategorijas tiek izmantotas meklēšanas katalogos, lai palīdzētu citiem atrast šo saturu. Tos iestata jūsu ArcGIS Enterprise organizācija.",
+        "agolNoCategoryHint": "Padoms. Kategorijas ir pieejamas tikai tad, ja tās iestatījusi jūsu ArcGIS Online organizācija.",
+        "enterpriseNoCategoryHint": "Padoms. Kategorijas ir pieejamas tikai tad, ja tās iestatījusi jūsu ArcGIS Enterprise organizācija."
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Iestatiet sīktēlu, lai attēlotu šo vienību ArcGIS Online, kā arī meklēšanā un galerijās."
+      },
+      "license": {
+        "label": "Lietošanas noteikumi",
+        "helperText": "Mazāk ierobežojumu veicina lielāku atkārtotu izmantošanu."
+      },
+      "serverExtractCapability": {
+        "label": "Izvilkšanas iespēja (eksportēt datus)",
+        "helperText": "Iespējo ''izvilkšanas'' iespēju šīs vienības servisā. Izvilkšana atbalsta papildu formātus."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Viesotas lejupielādes",
+        "helperText": "Izveidojiet lejupielādes failus tieši no viesota servisa. Šādi tiks uzlabota veiktspēja, lejupielādējot saturu, piemēram, elementu slāņus un tabulas. Lai iespējotu viesotās lejupielādes, ir jāiespējo opcija Izvilkt iespējas."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Pamatinformācija",
+        "message": "Šo informāciju izmanto, lai ievietotu meklēšanas rezultātos, galerijas kartītēs, un šī informācija tiek parādīta detalizētas informācijas skatā."
+      },
+      "about": {
+        "title": "Par saturu",
+        "message": "Meklēšanas rezultātos tiks parādītas pirmās divas jūsu apraksta rindas, bet viss saturs būs redzams koncentrētos satura skatos."
+      },
+      "image": {
+        "title": "Redzamais attēls",
+        "message": "Demonstrējot savu saturu mūsu galerijās vai skatos, kas izceļ attēlus, piemēram, iniciatīvas, notikumus un aptaujas, ir svarīga attēla vai sīktēla kvalitāte. Ieteicamais izmērs ir 760×505. Ja jūsu attēls tiešraides maršrutos ir izplūdis, lūdzu, apsveriet iespēju aizstāt sīktēlu ar lielāku attēlu."
+      },
+      "location": {
+        "label": "Novietojums",
+        "helperText": "Parādiet ģeogrāfisko apgabalu, kurā šis saturs norisināsies (lai tas būtu redzams satura izkārtojumā)."
+      },
+      "downloads": {
+        "label": "Lejupielādes",
+        "helperText": "Konfigurējiet lejupielādes formātus, kešoto failu atjaunināšanas grafiku un citas iespējas. Lai iegūtu papildinformāciju, skatiet <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">lejupielādes dokumentāciju.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "Atlikušas {count} rakstzīmes"
+    },
+    "imageThumbnail": {
+      "label": "Sīktēla attēls",
+      "upload": "Augšupielādēt attēlu",
+      "done": "Pabeigts",
+      "editThumbnail": "Rediģēt sīktēlu",
+      "browse": "Pārlūkot, lai atrastu attēlu",
+      "remove": "Noņemt attēlu",
+      "edit": "Attēla rediģēšana",
+      "defaultHeading": "Pievienot sīktēla attēlu",
+      "dropHeading": "Nomest, lai augšupielādētu",
+      "errorHeading": "Izmēģināt citu attēlu",
+      "subheading": "Maks. izmērs ir {size}, {types}",
+      "zoomOut": "tālināt",
+      "zoomIn": "tuvināt",
+      "drag": "Vilkt, lai mainītu novietojumu",
+      "urlPlaceholder": "Atbalstītie veidi: {types}",
+      "browseForImage": "Pārlūkot, lai atrastu attēlu",
+      "aria": {
+        "container": "Attēla apgabals",
+        "crop": "Apgriezt apgabalu",
+        "handle": {
+          "top": "Mainīt izmēru augšdaļā",
+          "right": "Mainīt izmēru labajā pusē",
+          "left": "Mainīt izmēru kreisajā pusē",
+          "bottom": "Mainīt izmēru apakšdaļā"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Papildinformācija"
+      },
+      "basicInfo": {
+        "label": "Pamatinformācija"
+      },
+      "membershipAccess": {
+        "label": "Dalībnieku piekļuve"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Grupas nosaukums",
+        "requiredError": "Grupas nosaukums ir obigāti aizpildāms lauks"
+      },
+      "summary": {
+        "label": "Kopsavilkums"
+      },
+      "access": {
+        "itemType": "Grupa"
+      },
+      "_thumbnail": {
+        "label": "Sīktēls",
+        "helperText": "Izvēlieties attēlu, kas pārstāv grupu grupas profilā.",
+        "sizeDescription": "Maksimālais lielums ir 10 MB. Ieteicamais izmērs: 400 x 400 vai lielāks"
+      },
+      "membershipAccess": {
+        "label": "Kas var būt šajā grupā?",
+        "org": "Tikai manas organizācijas dalībnieki",
+        "collab": "Tikai partneru sadarbības un manas organizācijas dalībnieki",
+        "any": "Ikviens organizācijas dalībnieks"
+      },
+      "contributeContent": {
+        "label": "Kas var iesniegt saturu?",
+        "all": "Visi grupas dalībnieki",
+        "admins": "Grupas īpašnieks un pārvaldnieki"
+      }
+    }
+  }
+}

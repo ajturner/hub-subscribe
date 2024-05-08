@@ -1,0 +1,8 @@
+{
+  "header": "Opzioni di discussione",
+  "secondary": "Annulla",
+  "primary": "Salva modifiche",
+  "pending": "Salvataggio in corso",
+  "error.title": "Si è verificato un errore",
+  "error.message": "Riprovare per salvare le modifiche."
+}

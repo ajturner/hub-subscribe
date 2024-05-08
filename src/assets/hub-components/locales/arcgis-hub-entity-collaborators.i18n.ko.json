@@ -1,0 +1,52 @@
+{
+  "collaborators": "협업 기관",
+  "editGroupButtonText": "편집 그룹 추가",
+  "viewGroupButtonText": "보기 그룹 추가",
+  "groupPicker": {
+    "title": "그룹 선택",
+    "facet": {
+      "label": "From",
+      "editGroups": "그룹 편집",
+      "viewGroups": "그룹 보기",
+      "myGroup": "내 그룹",
+      "myOrganization": "내 기관",
+      "myCommunity": "내 커뮤니티"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "새 사용자 추가",
+    "message": "사용자를 추가해야 하는 경우, 커뮤니티에 참여하도록 초대하거나 <orgOverviewLink>관리자에게 문의</orgOverviewLink>할 수 있습니다."
+  },
+  "editGroupsTitle": "편집할 수 있는 그룹",
+  "viewGroupsTitle": "볼 수 있는 그룹",
+  "project": {
+    "description": "이 프로젝트를 보고 편집할 수 있는 사용자 그룹을 선택합니다.",
+    "editGroupsDescription": "이 그룹의 사용자는 프로젝트 정보를 편집할 수 있습니다.",
+    "viewGroupsDescription": "이 그룹의 사용자는 전체 공개로 공유되지 않은 프로젝트를 검색하고 볼 수 있습니다.",
+    "errorMessage": "프로젝트의 협업 기관을 업데이트하는 동안 오류가 발생했습니다."
+  },
+  "content": {
+    "description": "이 콘텐츠를 보고 편집할 수 있는 사용자 그룹을 선택합니다.",
+    "editGroupsDescription": "이 그룹의 사용자는 콘텐츠 정보를 편집할 수 있습니다.",
+    "viewGroupsDescription": "이 그룹의 사용자는 전체 공개로 공유되지 않은 콘텐츠를 검색하고 볼 수 있습니다.",
+    "errorMessage": "콘텐츠의 협업 기관을 업데이트하는 동안 오류가 발생했습니다."
+  },
+  "discussion": {
+    "description": "이 토론을 보고 편집할 수 있는 사용자 그룹을 선택합니다.",
+    "editGroupsDescription": "이 그룹의 사용자는 토론 정보를 편집할 수 있습니다.",
+    "viewGroupsDescription": "이 그룹의 사용자는 전체 공개로 공유되지 않은 토론을 검색하고 볼 수 있습니다.",
+    "errorMessage": "토론의 협업 기관을 업데이트하는 동안 오류가 발생했습니다."
+  },
+  "site": {
+    "description": "해당 사이트를 보고 편집할 수 있는 사용자 그룹을 선택합니다.",
+    "editGroupsDescription": "해당 그룹의 사용자는 사이트 정보를 편집할 수 있습니다.",
+    "viewGroupsDescription": "해당 그룹의 사용자는 전체 공개로 공유되지 않은 사이트를 검색하고 볼 수 있습니다.",
+    "errorMessage": "사이트의 협업 기관을 업데이트하는 동안 오류가 발생했습니다."
+  },
+  "newTab": "새 탭에서 프로필 열기",
+  "supportingTeams": "지원 팀",
+  "supportingTeamsDesc": "해당 지원 팀은 이전에 사이트에 연결되었습니다. 지원 팀을 계속 이용하여 협업 기관과 콘텐츠를 공유할 수 있습니다.",
+  "supportTeamsRemove": "팀 제거",
+  "supportingTeamsRemoveError": "팀의 연결을 해제하는 동안 오류가 발생했습니다. 관리자에게 문의하세요.",
+  "supportingTeamsRemoveSuccess": "팀의 연결이 해제되었습니다."
+}

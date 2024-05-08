@@ -1,0 +1,19 @@
+{
+  "heading": "Lisa URL-i järgi",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS-i objektiteenus, XLS, PDF, PNG, JPG, veebilink",
+  "fileTypeSelector": "Määrake failitüüp käsitsi",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS-i objektiteenus",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Veebilink",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Pilt (png, jpg, jpeg)",
+  "invalidFormat": "Viga: sobimatu vorming",
+  "invalidUrl": "Viga: sobimatu URL",
+  "recognizedType": "Määrake failitüüp käsitsi"
+}

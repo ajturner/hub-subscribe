@@ -1,0 +1,52 @@
+{
+  "collaborators": "Colaboradores",
+  "editGroupButtonText": "Adicionar grupos de adição",
+  "viewGroupButtonText": "Adicionar grupos de visualização",
+  "groupPicker": {
+    "title": "Selecionar grupos",
+    "facet": {
+      "label": "De",
+      "editGroups": "Editar grupos",
+      "viewGroups": "Visualizar grupo",
+      "myGroup": "Meu grupo",
+      "myOrganization": "Minha organização",
+      "myCommunity": "Minha comunidade"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Adicionar novas pessoas",
+    "message": "Caso seja necessário adicionar pessoas, você poderá convidá-las para participar da comunidade ou <orgOverviewLink>entrar em contato com o administrador</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupos que podem editar",
+  "viewGroupsTitle": "Grupos que podem visualizar",
+  "project": {
+    "description": "Escolha quais grupos de usuários podem visualizar e editar esse projeto.",
+    "editGroupsDescription": "As pessoas nesses grupos poderão editar as informações do projeto.",
+    "viewGroupsDescription": "As pessoas desses grupos poderão pesquisar e visualizar o projeto, caso ele não seja compartilhado com o público.",
+    "errorMessage": "Ocorreu um erro ao atualizar os colaboradores do seu projeto."
+  },
+  "content": {
+    "description": "Escolha quais grupos de usuários podem visualizar e editar esse conteúdo.",
+    "editGroupsDescription": "As pessoas nesses grupos poderão editar as informações do conteúdo.",
+    "viewGroupsDescription": "As pessoas desses grupos poderão pesquisar e visualizar o conteúdo, caso ele não seja compartilhado com o público.",
+    "errorMessage": "Ocorreu um erro ao atualizar os colaboradores do seu conteúdo."
+  },
+  "discussion": {
+    "description": "Escolha quais grupos de usuários podem visualizar e editar esta discussão.",
+    "editGroupsDescription": "As pessoas nesses grupos poderão editar as informações da discussão.",
+    "viewGroupsDescription": "As pessoas nesses grupos poderão pesquisar e visualizar a discussão, se ela não for compartilhada com o público.",
+    "errorMessage": "Ocorreu um erro ao atualizar os colaboradores da sua discussão."
+  },
+  "site": {
+    "description": "Escolha quais grupos de usuários podem visualizar e editar este site.",
+    "editGroupsDescription": "As pessoas nesses grupos poderão editar as informações do site.",
+    "viewGroupsDescription": "As pessoas desses grupos poderão pesquisar e visualizar o site, caso ele não seja compartilhado com o público.",
+    "errorMessage": "Ocorreu um erro ao atualizar os colaboradores do seu site."
+  },
+  "newTab": "abrir perfil em nova guia",
+  "supportingTeams": "Equipes de suporte",
+  "supportingTeamsDesc": "Essas equipes de suporte estavam anteriormente vinculadas ao seu site. Você pode continuar a usá-las para compartilhar conteúdo com colaboradores.",
+  "supportTeamsRemove": "Remover equipe",
+  "supportingTeamsRemoveError": "Erro ao desvincular equipe. Entre em contato com um administrador.",
+  "supportingTeamsRemoveSuccess": "Equipe desvinculada com sucesso."
+}

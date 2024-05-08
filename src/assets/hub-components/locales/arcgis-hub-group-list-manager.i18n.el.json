@@ -1,0 +1,28 @@
+{
+  "newTab": "άνοιγμα προφίλ σε νέα καρτέλα",
+  "noGroups": "Δεν υπάρχουν ομάδες",
+  "pickerToggle": "Προσθήκη ομάδων",
+  "pickerTitle": "Επιλογή ομάδων",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Καθόλου μέλη",
+      "oneMember": "1 μέλος",
+      "members": "{count} μέλη"
+    },
+    "dateCreated": "Ημερομηνία δημιουργίας: {localizedDate}",
+    "sharing": "Κοινοποίηση: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Μόνο εγώ",
+      "shared": "Κάτοχος και Ομάδες",
+      "org": "Οργανισμός",
+      "public": "Δημόσιο περιεχόμενο"
+    },
+    "membership": "Ιδιότητα μέλους: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Κάτοχος ομάδας",
+      "admin": "Διαχειριστής ομάδας",
+      "member": "Μέλος ομάδας",
+      "none": "Καθόλου"
+    }
+  }
+}

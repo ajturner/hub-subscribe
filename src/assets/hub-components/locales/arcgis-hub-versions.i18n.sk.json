@@ -1,0 +1,14 @@
+{
+  "createdBy": "Vytvorené {creator}",
+  "emptyMessage": "Neboli nájdené žiadne verzie",
+  "errorMessage": "Chyba pri načítavaní verzií",
+  "menuLabel": "zobraziť akcie",
+  "publishedBadge": "Publikované",
+  "viewingBadge": "Prehliadanie",
+  "popover.label": "Akcie verzie",
+  "popover.actions.delete": "Zmazať",
+  "popover.actions.edit": "Upraviť podrobnosti",
+  "popover.actions.share": "Zdieľať",
+  "shareErrorMessage": "Chyba pri kopírovaní zdieľanej url adresy do schránky.",
+  "shareSuccessMessage": "Zdieľaná url adresa skopírovaná do schránky."
+}

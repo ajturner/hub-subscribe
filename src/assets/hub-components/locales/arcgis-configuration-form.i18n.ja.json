@@ -1,0 +1,12 @@
+{
+  "save": "保存",
+  "cancel": "キャンセル",
+  "undoChanges": "変更を元に戻す",
+  "next": "次へ",
+  "back": "戻る",
+  "formAlert": "フォームの通知",
+  "invalidForm": "すべてのエラーを修正してください。",
+  "saveDisabled": "保存が無効です",
+  "success": "編集内容が正常に保存されました",
+  "error": "編集内容の保存中にエラーが発生しました"
+}

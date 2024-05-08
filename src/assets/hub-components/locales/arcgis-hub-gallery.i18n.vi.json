@@ -1,0 +1,25 @@
+{
+  "moreResults": "Các kết quả khác",
+  "search": "Tìm kiếm",
+  "filter": "Bộ lọc",
+  "viewResults": "Xem kết quả ({numResults})",
+  "resultsCount": "1 - {pageTotal} / {searchTotal}",
+  "backToTop": "Quay lại đầu trang",
+  "facets": {
+    "access": {
+      "private": "Chính tôi",
+      "shared": "Chủ sở hữu & nhóm",
+      "org": "Tổ chức",
+      "public": "Công khai"
+    },
+    "license": {
+      "custom": "Tùy chỉnh",
+      "none": "Không có"
+    }
+  },
+  "layoutOptions": {
+    "list": "Hiển thị danh sách",
+    "grid": "Hiển thị lưới"
+  },
+  "galleryActionsLabel": "Hành động bổ sung"
+}

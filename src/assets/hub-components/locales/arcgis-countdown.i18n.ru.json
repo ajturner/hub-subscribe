@@ -1,0 +1,7 @@
+{
+  "days": "дни",
+  "hours": "часы",
+  "minutes": "минут",
+  "seconds": "секунды",
+  "countdownDateMissingError": "Вы должны указать дату обратного отсчета"
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Contingut",
+  "facets": {
+    "type": "Tipus",
+    "tags": "Etiqueta",
+    "categories": "Categoria",
+    "sharing": "Ús compartit",
+    "dateUpdated": "Data d'actualització",
+    "map": {
+      "label": "Ubicació",
+      "tooltip": "Apliqueu l'extensió de mapa com a filtre d'ubicació"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Afegeix contingut",
+    "catalog": {
+      "myContent": "El meu contingut",
+      "favorites": "Favorits",
+      "organization": "La meva organització",
+      "world": "Tot el món (públic)"
+    },
+    "facets": {
+      "type": "Tipus",
+      "sharing": "Ús compartit"
+    },
+    "collection": {
+      "appsAndMaps": "Aplicacions i mapes",
+      "dataset": "Dades",
+      "documents": "Documents",
+      "feedback": "Comentaris",
+      "sites": "Llocs"
+    },
+    "modal": {
+      "title": "Afegeix contingut"
+    },
+    "unsharedModal": {
+      "title": "Elements no afegits",
+      "notice": {
+        "icon": "triangle amb signe d'exclamació",
+        "type": "perill",
+        "title": "Acció incompleta",
+        "message": "Alguns elements no s'han pogut afegir. La causa pot ser la discrepància de nivells d'ús compartit dins del contingut o el fet que el propietari de l'element no sigui membre del grup.",
+        "linkText": "Més informació sobre l'ús compartit"
+      }
+    },
+    "itemSharedSuccessAlert": "Elements compartits correctament"
+  },
+  "close": "Tanca",
+  "newTab": "s'obre en una pestanya nova"
+}

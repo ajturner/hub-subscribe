@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Avancerad konfiguration",
+    "serverTimeout": {
+      "label": "Tidsgräns för server (sekunder)",
+      "helperText": "Användbart för större tjänster som kan ta längre tid på sig att svara."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Hörn",
+      "enum": {
+        "round": {
+          "label": "Rund"
+        },
+        "square": {
+          "label": "Fyrkantig"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Bakgrundsskugga",
+      "enum": {
+        "heavy": {
+          "label": "Tung"
+        },
+        "low": {
+          "label": "Låg"
+        },
+        "medium": {
+          "label": "Medium"
+        },
+        "none": {
+          "label": "Inte startad"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistiklayout",
+      "enum": {
+        "dataViz": {
+          "label": "Datavisualisering"
+        },
+        "moreInfo": {
+          "label": "Mer information"
+        },
+        "simple": {
+          "label": "Enkel"
+        }
+      }
+    },
+    "popoverTitle": "Popover-rubrik",
+    "popoverDescription": "Popover-beskrivning",
+    "sectionTitle": "Utseende",
+    "textAlign": "Justering",
+    "visualInterest": {
+      "label": "Visuellt intresse",
+      "enum": {
+        "icon": {
+          "label": "Ikon"
+        },
+        "logo": {
+          "label": "Logotyp"
+        },
+        "none": {
+          "label": "Inga"
+        },
+        "sparkline": {
+          "label": "Miniatyrdiagram"
+        }
+      }
+    },
+    "valueColor": "Färg (statistik)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Länk",
+      "sourceLink": "Länk-URL",
+      "sourceTitle": "Textlänk"
+    },
+    "sectionTitle": "Information",
+    "subtitle": "Underrubrik",
+    "title": "Titel",
+    "trailingText": "Följande text"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Länk krävs för att visa källa."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatering",
+    "unit": {
+      "label": "Visningsenheter",
+      "helperText": "Ange mätenhet för värdet."
+    },
+    "unitPosition": {
+      "label": "Placering",
+      "enum": {
+        "after": {
+          "label": "Efter"
+        },
+        "before": {
+          "label": "Före"
+        },
+        "below": {
+          "label": "Nedanför"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Delning",
+    "showShareIcon": "Aktivera",
+    "shareableByValue": "Aktivera inbäddningar",
+    "shareableOnHover": {
+      "label": "Visning",
+      "enum": {
+        "always": {
+          "label": "Alltid"
+        },
+        "hover": {
+          "label": "Endast hovring"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Datakälla",
+    "displayValue": "Visningsvärde",
+    "sectionTitle": "Statistik",
+    "type": {
+      "label": "Typ",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamisk",
+          "description": "Välj ett befintligt dataset (geoobjekttjänst) att sammanfatta"
+        },
+        "static": {
+          "label": "Statisk",
+          "description": "Ange manuellt ett värde att markera i din layout."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "Formål",
+  "description": "Hvordan vi kommer dit",
+  "details": "Detaljer",
+  "featuredImageAlt": "Fremhevet bilde for prosjekt",
+  "trackProgress": "Spor fremdriften vår",
+  "participatingGroups": "Grupper som deltar",
+  "whosInvolved": "Hvem er involvert",
+  "tags": "Merker",
+  "status": {
+    "label": "Prosjektstatus",
+    "notStarted": "Ikke startet",
+    "inProgress": "Pågår",
+    "onHold": "På vent",
+    "complete": "Fullført"
+  },
+  "featuredContent": "Fremhevet innhold"
+}

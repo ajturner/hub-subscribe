@@ -1,0 +1,15 @@
+{
+  "default": "Vali kuupäevavahemik",
+  "today": "Täna",
+  "yesterday": "Eile",
+  "last7Days": "Viimased 7 päeva",
+  "last30Days": "Viimased 30 päeva",
+  "thisMonth": "Käesolev kuu",
+  "lastMonth": "Eelmine kuu",
+  "pastYear": "Möödunud aasta",
+  "custom": "Kohandatud",
+  "nextMonth": "Järgmine kuu",
+  "previousMonth": "Eelmine kuu",
+  "year": "Aasta",
+  "title": "Vali ajaperiood"
+}

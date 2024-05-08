@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Mostra",
+    "hide": "Amaga",
+    "rename": "Canvia el nom"
+  },
+  "formAlert": "Alerta del formulari",
+  "alertMessages": {
+    "success": "Els canvis s'han desat correctament",
+    "error": "S'ha produït un error en desar els canvis"
+  },
+  "collectionRenameModal": {
+    "title": "Canvia el nom de la col·lecció",
+    "fieldLabel": "Etiqueta de la col·lecció",
+    "requiredMessage": "Cal una etiqueta de la col·lecció",
+    "apply": "Aplica"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dades",
+      "hidden": "Dades (amagat)"
+    },
+    "site": {
+      "visible": "Llocs",
+      "hidden": "Llocs (amagat)"
+    },
+    "document": {
+      "visible": "Documents",
+      "hidden": "Documents (amagat)"
+    },
+    "appAndMap": {
+      "visible": "Aplicacions i mapes",
+      "hidden": "Aplicacions i mapes (amagat)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (amagat)"
+    }
+  },
+  "saveButton": "Desa"
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Wybierz powiększenie do lokalizacji",
+  "displayField.existing": "Istniejąca lokalizacja",
+  "displayField.added": "Dodano lokalizację",
+  "displayField.existing.area": "Istniejący obszar",
+  "displayField.added.area": "Dodano obszar",
+  "point": "Punkt",
+  "line": "Linia",
+  "area": "Obszar",
+  "viewAll": "Wyświetl wszystkie lokalizacje",
+  "viewLess": "Wyświetl mniej lokalizacji",
+  "action.update": "Zaktualizuj lokalizację",
+  "action.remove": "Usuń lokalizację"
+}

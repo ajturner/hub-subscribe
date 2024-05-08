@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Terlihat hanya untuk anggota",
+  "visibleOrg": "Terlihat untuk organisasi",
+  "visibleAll": "Terlihat untuk semua orang",
+  "anonymous": "Anonim",
+  "privateUser": "Anggota Pribadi",
+  "noUser": "Tidak Ada Nama Pengguna",
+  "orgLabel": "Organisasi",
+  "privateOrg": "Organisasi Pribadi",
+  "location": "Lokasi",
+  "profile": "Buka profil",
+  "postedIn": "Diposting di {groupName}",
+  "manageChannel": "Kelola Saluran",
+  "information": "Informasi tentang post",
+  "group.deleted": "Grup yang dihapus",
+  "unnamedChannel": "Saluran tanpa nama",
+  "replyingTo": "Membalas ke {fullName}",
+  "viewPost": "Lihat Postingan"
+}

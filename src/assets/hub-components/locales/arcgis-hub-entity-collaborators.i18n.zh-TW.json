@@ -1,0 +1,52 @@
+{
+  "collaborators": "協同作業者",
+  "editGroupButtonText": "新增編輯群組",
+  "viewGroupButtonText": "新增檢視群組",
+  "groupPicker": {
+    "title": "選擇群組",
+    "facet": {
+      "label": "從",
+      "editGroups": "編輯群組",
+      "viewGroups": "檢視群組",
+      "myGroup": "我的群組",
+      "myOrganization": "我的組織",
+      "myCommunity": "我的社群"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "新增人員",
+    "message": "如果您需要新增人員，您可以邀請他們加入社群，也可以<orgOverviewLink>聯絡您的管理員</orgOverviewLink>。"
+  },
+  "editGroupsTitle": "可編輯的群組",
+  "viewGroupsTitle": "可檢視的群組",
+  "project": {
+    "description": "選擇哪些使用者群組可以檢視和編輯此專案。",
+    "editGroupsDescription": "這些群組中的人員將能夠編輯專案資訊。",
+    "viewGroupsDescription": "如果未與公眾分享專案，則這些群組中的人員將能夠搜尋和檢視專案。",
+    "errorMessage": "更新您專案的協作者時出錯。"
+  },
+  "content": {
+    "description": "選擇哪些使用者群組可以檢視和編輯此內容。",
+    "editGroupsDescription": "這些群組中的人員將能夠編輯內容資訊。",
+    "viewGroupsDescription": "如果未與公眾分享內容，則這些群組中的人員將能夠搜尋和檢視內容。",
+    "errorMessage": "更新您的內容的協同作業者時出錯。"
+  },
+  "discussion": {
+    "description": "選擇哪些使用者群組可以檢視和編輯此討論。",
+    "editGroupsDescription": "這些群組中的人員將能夠編輯討論資訊。",
+    "viewGroupsDescription": "如果未與公眾分享討論，則這些群組中的人員將能夠搜尋和檢視討論。",
+    "errorMessage": "更新您的討論的協同作業者時出錯。"
+  },
+  "site": {
+    "description": "選擇哪些使用者群組可以檢視和編輯此網站。",
+    "editGroupsDescription": "這些群組中的人員將能夠編輯網站資訊。",
+    "viewGroupsDescription": "如果未與公眾分享網站，則這些群組中的人員將能夠搜尋和檢視網站。",
+    "errorMessage": "更新您的網站的協同作業者時出錯。"
+  },
+  "newTab": "在新頁籤中開啟設定檔",
+  "supportingTeams": "支援團隊",
+  "supportingTeamsDesc": "這些支援團隊之前已連結到您的網站。 您可以繼續使用它們與協同作業者分享內容。",
+  "supportTeamsRemove": "移除團隊",
+  "supportingTeamsRemoveError": "取消連結團隊時出錯。 聯絡管理員。",
+  "supportingTeamsRemoveSuccess": "已成功取消連結團隊。"
+}

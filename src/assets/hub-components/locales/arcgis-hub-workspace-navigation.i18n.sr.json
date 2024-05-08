@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Kontrolna tabla",
+    "details": "Detalji",
+    "overview": "Pregled",
+    "metrics": "Merenja",
+    "settings": "Postavke",
+    "collaborators": "Saradnici",
+    "discussion": "Diskusija",
+    "content": "Sadržaj",
+    "members": "Članovi",
+    "participation": "Učešće",
+    "followers": "Pratioci"
+  }
+}

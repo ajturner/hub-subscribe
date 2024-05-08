@@ -1,0 +1,25 @@
+{
+  "moreResults": "Más resultados",
+  "search": "Buscar",
+  "filter": "Filtros",
+  "viewResults": "Ver los resultados ({numResults})",
+  "resultsCount": "1 - {pageTotal} de {searchTotal}",
+  "backToTop": "Volver al principio",
+  "facets": {
+    "access": {
+      "private": "Yo",
+      "shared": "Propietario y grupos",
+      "org": "Organización",
+      "public": "Público"
+    },
+    "license": {
+      "custom": "Personalizado",
+      "none": "Ninguno"
+    }
+  },
+  "layoutOptions": {
+    "list": "Mostrar lista",
+    "grid": "Visualizar cuadrícula"
+  },
+  "galleryActionsLabel": "Acciones adicionales"
+}

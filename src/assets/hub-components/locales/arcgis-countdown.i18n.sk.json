@@ -1,0 +1,7 @@
+{
+  "days": "dní",
+  "hours": "hodín",
+  "minutes": "minút",
+  "seconds": "sekúnd",
+  "countdownDateMissingError": "Je potrebné uviesť dátum odpočítavania"
+}

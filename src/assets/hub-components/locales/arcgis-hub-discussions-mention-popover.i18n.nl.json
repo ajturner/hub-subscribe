@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anoniem",
+  "noUser": "Geen gebruikersnaam",
+  "privateUser": "Privé lid",
+  "privateOrg": "Privé-organisatie",
+  "orgLabel": "Organisatie",
+  "profile": "Naar profiel gaan",
+  "location": "Locatie",
+  "information": "Informatie over post",
+  "mentionedBy": "Vermeld door @{username}"
+}

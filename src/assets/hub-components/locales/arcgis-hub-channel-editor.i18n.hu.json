@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Név nélküli csatorna",
+  "name": {
+    "label": "Név",
+    "placeholder": "{prefix} csatorna"
+  },
+  "save": "Mentés",
+  "access": {
+    "private": {
+      "label": "Magánjellegű",
+      "description": "A kiválasztott csoportok vehetnek részt"
+    },
+    "organization": {
+      "label": "Saját szervezet",
+      "description": "Minden {orgName} fiókkal rendelkező tag részt vehet",
+      "disabledTooltip": "Csak a szervezet adminisztrátorai hozhatnak létre szervezeti csatornákat."
+    },
+    "public": {
+      "label": "Nyilvános",
+      "description": "Minden tag, aki fiókkal rendelkezik részt vehet",
+      "disabledTooltip": "Csak a szervezet adminisztrátorai hozhatnak létre nyilvános csatornákat."
+    },
+    "allowAnonymous": "Névtelen engedélyezése",
+    "confirmation": {
+      "header": "Biztos benne?",
+      "message": "A módosítások mentésével a csatorna szerkesztési hozzáférése megszűnik. Csak a szervezet adminisztrátorai szerkeszthetik a nyilvános vagy szervezeti csatornákat.",
+      "secondary": "Mégse",
+      "primary": "Megerősít"
+    }
+  },
+  "participants": {
+    "label": "Résztvevők",
+    "helperText": "Azok az emberek, akik megtekinthetik és hozzájárulhatnak a vitához.",
+    "none": "Nincsenek résztvevők megadva",
+    "add": "Résztvevői csoport hozzáadása"
+  },
+  "groupPicker": {
+    "title": "Csoportok kiválasztása",
+    "facet": {
+      "label": "Feladó",
+      "myGroup": "Saját csoport",
+      "myOrganization": "Saját szervezet",
+      "myCommunity": "Saját közösség"
+    }
+  },
+  "blockWords": {
+    "label": "Letiltott szavak",
+    "helperText": "Vesszővel elválasztott lista. Az ezeket tartalmazó hozzászólások és válaszok automatikusan el lesznek rejtve."
+  },
+  "manage": {
+    "label": "Kezelés és moderálás",
+    "helperText": "A fenti, részvételre vonatkozó beállítások alapján automatikusan hozzárendelt személyek részt vehetnek, elrejthetik vagy megjeleníthetik a hozzászólásokat, és kezelhetik a csatorna beállításait."
+  },
+  "manager": "Felelős",
+  "admin": "Adminisztrátor",
+  "viewProfile": "Profil megtekintése",
+  "alerts": {
+    "error": "Hiba a csatorna mentésekor",
+    "success": "A csatorna mentése megtörtént",
+    "label": "Űrlap figyelmeztetés"
+  },
+  "validations": {
+    "minChannelGroups": "A privát csatornákhoz legalább egy résztvevői csoportra van szükség."
+  },
+  "notices": {
+    "edit": "A módosítások mindenhol hatással lesznek, ahol ezt a csatornát használják",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "A csatorna nem lett létrehozva",
+          "message": "Ilyen hozzáférési beállításokkal már létezik egy csatorna. Használja a meglévő csatornát, vagy módosítsa a kiválasztásokat."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "A csatorna nem lett módosítva",
+          "message": "Ilyen hozzáférési beállításokkal már létezik egy csatorna, ezért a módosítások nem menthetők."
+        }
+      },
+      "action": "Meglévő csatorna használata"
+    },
+    "inaccessibleGroups": {
+      "title": "Nem elérhető csoportok: {count}",
+      "message": "A nem elérhető csoportokat csak akkor tekintheti meg vagy kezelheti, ha Ön tag."
+    }
+  }
+}

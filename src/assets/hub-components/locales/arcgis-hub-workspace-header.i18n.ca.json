@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Edita el disseny",
+  "editContent": "Edita el contingut",
+  "view": {
+    "project": "Mostra el projecte",
+    "site": "Mostra el lloc",
+    "initiative": "Mostra la iniciativa",
+    "discussion": "Mostra el debat",
+    "content": "Mostra el contingut",
+    "page": "Mostra la pàgina",
+    "group": "Mostra el grup"
+  },
+  "label": {
+    "project": "Espai de treball del projecte",
+    "site": "Espai de treball del lloc",
+    "initiative": "Espai de treball de la iniciativa",
+    "discussion": "Espai de treball de debat",
+    "content": "Espai de treball del contingut",
+    "page": "Espai de treball de la pàgina",
+    "group": "Espai de treball del grup"
+  },
+  "access": {
+    "sharingLevel": "Nivell d'ús compartit",
+    "groupSharing": "Ús compartit del grup",
+    "public": "Públic",
+    "org": "Organització",
+    "private": "Propietari",
+    "shared": "S'ha compartit de manera privada",
+    "disabled": "No podeu canviar l'ús compartit perquè no en sou el propietari ni un administrador."
+  }
+}

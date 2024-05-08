@@ -1,0 +1,18 @@
+{
+  "purpose": "Zámer",
+  "description": "Ako sa tam dostaneme",
+  "details": "Podrobnosti",
+  "featuredImageAlt": "Hlavný obrázok projektu",
+  "trackProgress": "Sledujte náš pokrok",
+  "participatingGroups": "Participujúce skupiny",
+  "whosInvolved": "Kto je zapojený",
+  "tags": "Štítky",
+  "status": {
+    "label": "Stav projektu",
+    "notStarted": "Nezačalo sa",
+    "inProgress": "Prebieha",
+    "onHold": "Podržané",
+    "complete": "Dokončené"
+  },
+  "featuredContent": "Hlavný obsah"
+}

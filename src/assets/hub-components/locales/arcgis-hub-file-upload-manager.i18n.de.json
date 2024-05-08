@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Inhalt auswählen",
+  "secondStepHeader": "Details festlegen",
+  "thirdStepHeader": "Freigabeebene und Zugriff festlegen",
+  "next": "Weiter",
+  "back": "Zurück",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "divider": "oder",
+  "duplicateFileAriaLabel": "Fehler aufgrund von doppelter Datei",
+  "duplicateFileError": "Ein Element mit demselben Dateinamen ist bereits vorhanden. Ändern Sie den Dateinamen, und versuchen Sie es erneut, oder entfernen Sie die <a>doppelte Datei</a> in ArcGIS Online.",
+  "uploading": "Wird hochgeladen"
+}

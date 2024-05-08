@@ -1,0 +1,16 @@
+{
+  "location.add": "위치 추가",
+  "location.remove": "위치 제거",
+  "draw.tip": "다른 위치를 추가하시겠습니까?",
+  "prompt.add.post": "게시물에 추가",
+  "prompt.add.reply": "답글에 추가",
+  "prompt.edit.point": "포인트 이동",
+  "prompt.edit.polyline": "라인 편집",
+  "prompt.edit.polygon": "영역 편집",
+  "prompt.remove.point": "포인트 삭제",
+  "prompt.remove.polyline": "라인 삭제",
+  "prompt.remove.polygon": "영역 삭제",
+  "prompt.remove.existing": "선택 취소",
+  "prompt.location.edit": "그리기 업데이트",
+  "prompt.location.delete": "그리기 삭제"
+}

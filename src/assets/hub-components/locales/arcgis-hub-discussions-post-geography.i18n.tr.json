@@ -1,0 +1,14 @@
+{
+  "description": "Konuma yakınlaştırmayı seç",
+  "displayField.existing": "Mevcut konum",
+  "displayField.added": "Eklenen konum",
+  "displayField.existing.area": "Mevcut alan",
+  "displayField.added.area": "Eklenen alan",
+  "point": "Nokta",
+  "line": "Çizgi",
+  "area": "Alan",
+  "viewAll": "Tüm konumları görüntüle",
+  "viewLess": "Daha az konum görüntüle",
+  "action.update": "Konumu güncelle",
+  "action.remove": "Konumu kaldır"
+}

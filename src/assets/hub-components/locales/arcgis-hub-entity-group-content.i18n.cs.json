@@ -1,0 +1,50 @@
+{
+  "title": "Obsah",
+  "facets": {
+    "type": "Typ",
+    "tags": "Klíčové slovo",
+    "categories": "Kategorie",
+    "sharing": "Sdílení",
+    "dateUpdated": "Datum aktualizace",
+    "map": {
+      "label": "Poloha",
+      "tooltip": "Použít rozsah mapy jako filtr polohy"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Přidat obsah",
+    "catalog": {
+      "myContent": "Můj obsah",
+      "favorites": "Oblíbené",
+      "organization": "Moje organizace",
+      "world": "Svět (veřejné)"
+    },
+    "facets": {
+      "type": "Typ",
+      "sharing": "Sdílení"
+    },
+    "collection": {
+      "appsAndMaps": "Aplikace a mapy",
+      "dataset": "Data",
+      "documents": "Dokumenty",
+      "feedback": "Zpětná vazba",
+      "sites": "Weby"
+    },
+    "modal": {
+      "title": "Přidat obsah"
+    },
+    "unsharedModal": {
+      "title": "Položky nebyly přidány",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "nebezpečí",
+        "title": "Akce nedokončena",
+        "message": "Některé položky nebylo možné přidat. Důvodem může být nesoulad úrovní sdílení v rámci obsahu nebo skutečnost, že vlastník položky není členem skupiny.",
+        "linkText": "Více informací o sdílení"
+      }
+    },
+    "itemSharedSuccessAlert": "Položka(y) úspěšně sdílena"
+  },
+  "close": "Zavřít",
+  "newTab": "otevře se na nové kartě"
+}

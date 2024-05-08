@@ -1,0 +1,16 @@
+{
+  "location.add": "Добавяне на местоположение",
+  "location.remove": "Премахване на местоположение",
+  "draw.tip": "Добавяне на друго местоположение?",
+  "prompt.add.post": "Добавяне в публикация",
+  "prompt.add.reply": "Добавяне в отговор",
+  "prompt.edit.point": "Преместване на точка",
+  "prompt.edit.polyline": "Редактиране на линия",
+  "prompt.edit.polygon": "Зона за редактиране",
+  "prompt.remove.point": "Изтриване на точка",
+  "prompt.remove.polyline": "Изтриване на линия",
+  "prompt.remove.polygon": "Изтриване на област",
+  "prompt.remove.existing": "Отмяна на избор",
+  "prompt.location.edit": "Обновяване на чертеж",
+  "prompt.location.delete": "Изтриване на чертеж"
+}

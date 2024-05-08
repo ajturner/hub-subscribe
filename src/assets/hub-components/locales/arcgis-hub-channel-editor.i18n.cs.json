@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Kanál bez názvu",
+  "name": {
+    "label": "Název",
+    "placeholder": "Kanál {prefix}"
+  },
+  "save": "Uložit",
+  "access": {
+    "private": {
+      "label": "Soukromé",
+      "description": "Zúčastnit se mohou vybrané skupiny"
+    },
+    "organization": {
+      "label": "Moje organizace",
+      "description": "Zúčastnit se mohou všichni členové s účtem {orgName}",
+      "disabledTooltip": "Kanály organizace mohou vytvářet pouze administrátoři organizace."
+    },
+    "public": {
+      "label": "Veřejné",
+      "description": "Zúčastnit se může kdokoli s účtem",
+      "disabledTooltip": "Veřejné kanály mohou vytvářet pouze administrátoři organizace."
+    },
+    "allowAnonymous": "Povolit anonymní",
+    "confirmation": {
+      "header": "Jste si jisti?",
+      "message": "Uložením těchto změn zrušíte svůj přístup k úpravám tohoto kanálu. Veřejné kanály nebo kanály organizace mohou upravovat pouze správci organizace.",
+      "secondary": "Storno",
+      "primary": "Potvrdit"
+    }
+  },
+  "participants": {
+    "label": "Účastníci",
+    "helperText": "Lidé, kteří si mohou diskusi prohlížet a přispívat do ní.",
+    "none": "Účastníci nebyli nastaveni",
+    "add": "Přidat skupinu účastníků"
+  },
+  "groupPicker": {
+    "title": "Vybrat skupiny",
+    "facet": {
+      "label": "Z",
+      "myGroup": "Moje skupina",
+      "myOrganization": "Moje organizace",
+      "myCommunity": "Moje komunita"
+    }
+  },
+  "blockWords": {
+    "label": "Blokovaná slova",
+    "helperText": "Seznam oddělený čárkami. Příspěvky a odpovědi, které je obsahují, budou automaticky skryty."
+  },
+  "manage": {
+    "label": "Správa a moderace",
+    "helperText": "Tito lidé, kteří jsou automaticky přiřazeni na základě výše uvedených voleb, se mohou účastnit, skrývat nebo zobrazovat příspěvky a spravovat nastavení kanálu."
+  },
+  "manager": "Správce",
+  "admin": "Administrátor",
+  "viewProfile": "Zobrazit profil",
+  "alerts": {
+    "error": "Chyba při ukládání kanálu",
+    "success": "Kanál byl úspěšně uložen",
+    "label": "Chyba formuláře"
+  },
+  "validations": {
+    "minChannelGroups": "Soukromé kanály vyžadují alespoň jednu skupinu účastníků."
+  },
+  "notices": {
+    "edit": "Úpravy se projeví všude, kde se tento kanál používá.",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanál nebyl vytvořen",
+          "message": "Kanál s těmito volbami přístupu již existuje. Použijte stávající kanál nebo upravte výběr."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanál nebyl aktualizován",
+          "message": "Kanál s těmito volbami přístupu již existuje, takže tyto aktualizace nemůžeme uložit."
+        }
+      },
+      "action": "Použít stávající kanál"
+    },
+    "inaccessibleGroups": {
+      "title": "Nedostupné skupiny: {count}",
+      "message": "Pokud nejste členem, nemůžete zobrazit ani spravovat nedostupné skupiny."
+    }
+  }
+}

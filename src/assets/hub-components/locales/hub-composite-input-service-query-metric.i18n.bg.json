@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Споделяне",
+      "myself": "Себе си",
+      "myOrganization": "Моята организация",
+      "public": "Свят (публични)"
+    },
+    "catalog": {
+      "myContent": "Моето съдържание",
+      "favorites": "Любими",
+      "organization": "Моята организация",
+      "world": "Свят (публични)"
+    }
+  },
+  "expression": {
+    "label": "Филтри за атрибути"
+  },
+  "field": {
+    "label": "Атрибут"
+  },
+  "layer": "Слой/таблица",
+  "statistic": {
+    "label": "Обобщаване"
+  }
+}

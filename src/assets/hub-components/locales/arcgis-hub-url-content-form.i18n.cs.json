@@ -1,0 +1,19 @@
+{
+  "heading": "Přidat podle URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, odkaz na webové stránky",
+  "fileTypeSelector": "Ruční nastavení typu souboru",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Odkaz na stránku",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Obrázek (png, jpg, jpeg)",
+  "invalidFormat": "Chyba: Neplatný formát",
+  "invalidUrl": "Chyba: Neplatná adresa URL",
+  "recognizedType": "Ruční nastavení typu souboru"
+}

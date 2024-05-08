@@ -1,0 +1,14 @@
+{
+  "createdBy": "Създаден от {creator}",
+  "emptyMessage": "Няма намерени версии",
+  "errorMessage": "Грешка при извличането на версии",
+  "menuLabel": "показване на действия",
+  "publishedBadge": "Публикувани",
+  "viewingBadge": "Преглед",
+  "popover.label": "Действия на версията",
+  "popover.actions.delete": "Изтриване",
+  "popover.actions.edit": "Редактиране на подробна информация",
+  "popover.actions.share": "Споделяне",
+  "shareErrorMessage": "Грешка при копиране на URL адреса на споделяне в клипборда.",
+  "shareSuccessMessage": "Споделяне на URL адреса, копиран в клипборда."
+}

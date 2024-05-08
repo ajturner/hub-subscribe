@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Vlastník"
+  },
+  "updatedDate": {
+    "description": "Dátum aktualizácie"
+  },
+  "createdDate": {
+    "description": "Publikované"
+  },
+  "access": {
+    "label": {
+      "public": "Verejné",
+      "org": "Organizácia",
+      "private": "Vlastník",
+      "shared": "Súkromne zdieľané"
+    },
+    "description": {
+      "public": {
+        "site": "Túto lokalitu môžu vidieť všetci",
+        "project": "Tento projekt môže vidieť ktokoľvek",
+        "initiative": "Túto iniciatívu môžu vidieť všetci",
+        "discussion": "Túto diskusiu si môže pozrieť ktokoľvek",
+        "default": "Tento obsah môžu vidieť všetci"
+      },
+      "org": {
+        "site": "Túto lokalitu môžu vidieť všetci vo vašej organizácii",
+        "project": "Tento projekt môžu vidieť všetci vo vašej organizácii",
+        "initiative": "Túto iniciatívu môžu vidieť všetci vo vašej organizácii",
+        "discussion": "Túto diskusiu môže vidieť ktokoľvek vo vašej organizácii",
+        "default": "Tento obsah môžu vidieť všetci vo vašej organizácii"
+      },
+      "private": {
+        "site": "Túto lokalitu môžete vidieť len vy",
+        "project": "Tento projekt môžete vidieť len vy",
+        "initiative": "Túto iniciatívu môžete vidieť len vy",
+        "discussion": "Túto diskusiu môžete vidieť len vy",
+        "default": "Tento obsah môžete vidieť len vy"
+      },
+      "shared": {
+        "site": "Vybrané skupiny môžu vidieť túto lokalitu",
+        "project": "Vybrané skupiny môžu vidieť tento projekt",
+        "initiative": "Vybrané skupiny môžu vidieť túto iniciatívu",
+        "discussion": "Vybrané skupiny si môžu pozrieť túto diskusiu",
+        "default": "Vybrané skupiny môžu vidieť tento obsah"
+      }
+    }
+  }
+}

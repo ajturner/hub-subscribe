@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "다운로드",
+  "buttonOptions": "다운로드 옵션",
+  "menuRequest": "최신 데이터가 포함된 새 다운로드 생성",
+  "menuDownload": "{createdDate}에서 이전에 생성된 파일 다운로드",
+  "fileCreated": "파일이 생성됨",
+  "fileSize": "파일 크기",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

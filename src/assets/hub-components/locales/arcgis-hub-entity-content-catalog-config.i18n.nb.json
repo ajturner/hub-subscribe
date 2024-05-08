@@ -1,0 +1,30 @@
+{
+  "helperText": "Definer og konfigurer katalogen",
+  "sections": {
+    "groups": {
+      "title": "Grupper",
+      "helperText": "Gruppene nedenfor inneholder innholdet i søkekatalogen din. Velg en gruppe for å se dens innstillinger, innhold med mer.",
+      "createGroup": "Opprett ny gruppe"
+    },
+    "feeds": {
+      "title": "Feedkonfigurasjon",
+      "helperText": "Bruk Hub-feeder for enkel tilgang til og gjenbruk av dine offentlige åpne data.",
+      "learn": "Lær om Hub-feeder",
+      "toggle": "Aktiver feeder ",
+      "configure": "Konfigurer feeder",
+      "notice": "For å aktivere feeder må du først velge \"Offentlig\" for Hub-områdene dine i innstillingene"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Fra",
+    "editGroups": "Rediger grupper",
+    "viewGroups": "Vis gruppe",
+    "myGroup": "Min gruppe",
+    "myOrganization": "Min organisasjon",
+    "myCommunity": "Mitt fellesskap"
+  },
+  "formAlert": "Skjemavarsel",
+  "alertMessages": {
+    "error": "Feil under lagring av redigeringer"
+  }
+}

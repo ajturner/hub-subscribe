@@ -1,0 +1,15 @@
+{
+  "default": "Bir Tarih Aralığı Seç",
+  "today": "Bugün",
+  "yesterday": "Dün",
+  "last7Days": "Son 7 gün",
+  "last30Days": "Son 30 gün",
+  "thisMonth": "Bu Ay",
+  "lastMonth": "Geçen Ay",
+  "pastYear": "Geçen Yıl",
+  "custom": "Özel",
+  "nextMonth": "Sonraki ay",
+  "previousMonth": "Önceki ay",
+  "year": "Yıl",
+  "title": "Bir zaman aralığı seç"
+}

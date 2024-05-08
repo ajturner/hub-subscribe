@@ -1,0 +1,11 @@
+{
+  "anonymous": "匿名",
+  "noUser": "无用户名",
+  "privateUser": "私有成员",
+  "privateOrg": "私有组织",
+  "orgLabel": "组织",
+  "profile": "转至配置文件",
+  "location": "位置",
+  "information": "关于发布内容的信息",
+  "mentionedBy": "由 @{username} 提及"
+}

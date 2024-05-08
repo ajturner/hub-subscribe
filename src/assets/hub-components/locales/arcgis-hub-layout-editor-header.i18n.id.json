@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Dibagikan ke organisasi",
+      "private": "Dibagikan kepada pemilik",
+      "public": "Dibagikan ke publik",
+      "shared": "Dibagikan kepada pemilik dan grup"
+    },
+    "editLayout": "Edit tata letak",
+    "lastUpdated": "Terakhir diperbarui {updated}",
+    "viewSite": "Lihat situs"
+  },
+  "cloneLayoutLabel": "Tata letak klon",
+  "deletePageLabel": "Hapus halaman",
+  "deleteSiteLabel": "Hapus situs",
+  "editInAgoLabel": "Edit di ArcGIS Online",
+  "managePage": "Kelola halaman",
+  "manageSite": "Kelola situs",
+  "moreOptionsLabel": "Opsi lainnya",
+  "publishLabel": "Publikasikan",
+  "saveAsTemplateLabel": "Simpan sebagai template",
+  "saveLabel": "Simpan",
+  "sharingLabel": "Buka panel berbagi",
+  "viewLabel": "Lihat",
+  "viewPublishedLabel": "Lihat draf yang dipublikasikan",
+  "viewUnpublishedLabel": "Pratinjau draf yang belum dipublikasikan"
+}

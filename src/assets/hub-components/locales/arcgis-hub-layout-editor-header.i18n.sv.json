@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Delat till organisation",
+      "private": "Delat till ägare",
+      "public": "Delat offentligt",
+      "shared": "Delat till ägare och grupper"
+    },
+    "editLayout": "Redigera layout",
+    "lastUpdated": "Senast uppdaterad {updated}",
+    "viewSite": "Visa webbplats"
+  },
+  "cloneLayoutLabel": "Klona layout",
+  "deletePageLabel": "Ta bort sida",
+  "deleteSiteLabel": "Ta bort webbplats",
+  "editInAgoLabel": "Redigera i ArcGIS Online",
+  "managePage": "Hantera sida",
+  "manageSite": "Hantera webbplats",
+  "moreOptionsLabel": "Fler alternativ",
+  "publishLabel": "Publicera",
+  "saveAsTemplateLabel": "Spara som mall",
+  "saveLabel": "Spara",
+  "sharingLabel": "Öppna delningspanel",
+  "viewLabel": "Visa",
+  "viewPublishedLabel": "Visa publicerat utkast",
+  "viewUnpublishedLabel": "Förhandsgranska opublicerat utkast"
+}

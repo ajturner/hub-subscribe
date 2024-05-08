@@ -1,0 +1,10 @@
+{
+  "error": "حدث خطأ ما",
+  "repliesFailure": "لا يمكن عرض الردود على هذا المنشور.",
+  "thread.deleted.title": "تم حذف مؤشر الترابط",
+  "thread.deleted.message": "تم حذف المنشور والرد المرتبط ولا يمكن عرضهما.",
+  "thread.deleted.action": "مشاهدة جميع المشاركات",
+  "reply.single.title": "أنت تشاهد ردًا واحدًا",
+  "reply.single.link": "عرض جميع الردود",
+  "loading": "تحميل"
+}

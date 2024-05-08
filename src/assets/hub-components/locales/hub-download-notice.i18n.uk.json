@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Завантаження завершено",
+  "titleFileGeneration": "Триває створення файлу",
+  "titleFileGenerationFailed": "Не вдалося створити файл",
+  "titleDatasetNotFound": "Набір даних не знайдено",
+  "titleApiError": "Помилка API",
+  "titleFormatDisabled": "Завантаження вимкнено",
+  "messageFailedStaleAvailable": "Нижче можна завантажити попередню версію.",
+  "messageUpdatingFile": "Ми оновлюємо файл. Це може зайняти деякий час.",
+  "messageCreatingFile": "Ми створюємо файл. Це може зайняти деякий час.",
+  "messageFileNeedsGenerating": "Завантаження оновленого файлу може тривати деякий час.",
+  "messageFormatDisabled": "Власник вимкнув завантаження для цього формату."
+}

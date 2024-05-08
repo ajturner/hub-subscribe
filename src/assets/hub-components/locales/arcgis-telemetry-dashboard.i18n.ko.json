@@ -1,0 +1,31 @@
+{
+  "dateRange": "날짜 범위: {start}~{end}",
+  "pageViews": "페이지 조회수",
+  "timeOnSite": "사이트의 평균 시간(분)",
+  "users": "세션",
+  "viewsOverTime": "시간별 페이지 조회수",
+  "disabledTracking": "활동 추적이 비활성화됨",
+  "enableTracking": "사이트 사용량을 모니터링하려면 사이트 설정에서 허브 활동 추적을 활성화합니다.",
+  "learnMore": "자세히 알아보세요.",
+  "disabled": "비활성화됨",
+  "notificationLabel": "데이터 업데이트됨",
+  "dataUpdated": "데이터 업데이트됨",
+  "subscribe": "구독",
+  "subscribed": "구독됨",
+  "weeklyReport": "주간 보고서",
+  "timestampTitle": {
+    "hour": "시간",
+    "day": "날짜",
+    "week": "주"
+  },
+  "formAlert": "양식 알림",
+  "success": "구독이 업데이트됨",
+  "subscriptionActivatedTitle": "구독이 활성화됨",
+  "subscriptionActivatedMessage": "주간 참여 지표를 받기 위해 {email}에 등록했습니다.",
+  "unsubscribeCompleteTitle": "구독 취소 완료",
+  "unsubscribeCompleteMessage": "{email}의 참여 지표 구독이 취소되었습니다.",
+  "problemSubscribingTitle": "구독 중 문제",
+  "problemSubscribingMessage": "구독 중 문제가 발생했습니다. 오류: ",
+  "problemUnsubscribingTitle": "구독 취소 중 문제",
+  "problemUnsubscribingMessage": "구독 취소 중 문제가 발생했습니다. 오류: "
+}

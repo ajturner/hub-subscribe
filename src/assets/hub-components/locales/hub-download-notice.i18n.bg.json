@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Изтеглянето завърши",
+  "titleFileGeneration": "Генерирането на файл се изпълнява",
+  "titleFileGenerationFailed": "Неуспешно генериране на файл",
+  "titleDatasetNotFound": "Наборът от данни не е намерен",
+  "titleApiError": "API грешка",
+  "titleFormatDisabled": "Деактивирано изтегляне",
+  "messageFailedStaleAvailable": "Можете да изтеглите предишна версия по-долу.",
+  "messageUpdatingFile": "Обновяваме файла. Това ще отнеме известно време.",
+  "messageCreatingFile": "Създаваме файла. Това ще отнеме известно време.",
+  "messageFileNeedsGenerating": "Изтеглянето на обновен файл може да отнеме известно време.",
+  "messageFormatDisabled": "Собственикът е деактивирал изтеглянето за този формат."
+}

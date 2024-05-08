@@ -1,0 +1,10 @@
+{
+  "error": "发生错误",
+  "repliesFailure": "无法显示对该帖子的回复。",
+  "thread.deleted.title": "已删除线程",
+  "thread.deleted.message": "链接的帖子或回复已删除，无法显示。",
+  "thread.deleted.action": "查看所有帖子",
+  "reply.single.title": "您正在查看单个回复",
+  "reply.single.link": "查看所有回复",
+  "loading": "正在加载"
+}

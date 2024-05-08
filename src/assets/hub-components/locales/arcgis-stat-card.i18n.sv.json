@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Servern överskred tidsgränsen och kunde inte visa statistiken.",
+    "title": "Servern överskred tidsgränsen"
+  },
+  "genericError": {
+    "message": "Statistik kan inte visas.",
+    "title": "Det uppstod ett fel"
+  }
+}

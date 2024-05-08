@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Select Content",
+  "secondStepHeader": "Set Details",
+  "thirdStepHeader": "Set Sharing Level & Access",
+  "next": "Next",
+  "back": "Back",
+  "save": "Save",
+  "cancel": "Cancel",
+  "divider": "or",
+  "duplicateFileAriaLabel": "duplicate file error",
+  "duplicateFileError": "A item with the same file name already exists. Please modify the file name and try again, or remove the <a>duplicate file</a> in ArcGIS Online",
+  "uploading": "Uploading"
+}

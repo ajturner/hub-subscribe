@@ -1,0 +1,17 @@
+{
+  "summary": "Résumé",
+  "description": "Description",
+  "details": "Détails",
+  "metrics": "Métriques",
+  "metricsDisclaimer": "Affichage des 30 derniers jours uniquement",
+  "titleOpen": "Discussion ouverte",
+  "statusOpen": "Ouverte à la participation",
+  "titleClosed": "Discussion fermée",
+  "statusClosed": "Fermée à la participation",
+  "tags": "Balises",
+  "categories": "Catégories",
+  "metric.pageViews": "Vues des pages",
+  "metric.postCount": "Nombre de publications",
+  "discussion": "Discussion",
+  "discussionBoard": "Forum de discussion"
+}

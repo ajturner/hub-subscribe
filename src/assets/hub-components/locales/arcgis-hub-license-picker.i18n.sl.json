@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Izberite pogoje uporabe",
+  "editorLabel": "Izbrani pogoji uporabe",
+  "editorRemoveWarning": "Pozor, izbrisali boste pogoje uporabe.",
+  "licenseDescriptionCc0": "To delo je namenjeno javnosti",
+  "licenseDescriptionCcBy": "Zahteva pripis",
+  "licenseDescriptionCcByNc": "Zahteva pripis, omogoča premešanje, vendar prepoveduje komercialno uporabo",
+  "licenseDescriptionCcByNcNd": "Najbolj omejen, zahteva pripis, prepoveduje komercialno uporabo in premešanje",
+  "licenseDescriptionCcByNcSa": "Zahteva pripis, dovoljuje premešanje, vendar prepoveduje komercialno uporabo, izvedena dela morajo obdržati isto licenco",
+  "licenseDescriptionCcByNd": "Zahteva pripis, dovoljuje komercialno uporabo, vendar prepoveduje deljenje izvedenih del",
+  "licenseDescriptionCcBySa": "Zahteva pripis, dovoljuje premešanje in komercialno uporabo",
+  "licenseDescriptionCustom": "Ogled podrobnosti",
+  "licenseDescriptionOdbl": "Dovoli deljenje, ustvarjanje in prilagajanje, dokler tudi ostali prispevajo, podobno delijo in ohranjajo odprtost",
+  "licenseDescriptionOdcBy": "Dovoli deljenje, ustvarjanje in prilagajanje, dokler tudi ostali prispevajo",
+  "licenseDescriptionPddl": "Dovoli deljenje, ustvarjanje in prilagajanje",
+  "licenseInfoButtonAriaLabel": "Podrobnosti pogojev uporabe, odprejo se v novem zavihku",
+  "selectedLicenseLabelFallback": "Po meri",
+  "selectedLicenseLabelNoLicense": "Ni pogojev uporabe"
+}

@@ -1,0 +1,30 @@
+{
+  "helperText": "Définir et configurer le catalogue",
+  "sections": {
+    "groups": {
+      "title": "Groupes",
+      "helperText": "Les groupes ci-dessous incluent le contenu de votre catalogue de recherche. Sélectionnez un groupe pour voir ses paramètres, son contenu, etc.",
+      "createGroup": "Créer un nouveau groupe"
+    },
+    "feeds": {
+      "title": "Configuration des flux",
+      "helperText": "Rendez vos données Open Data publiques facilement accessibles et réutilisables grâce aux flux Hub.",
+      "learn": "En savoir plus sur les flux Hub",
+      "toggle": "Activer les flux ",
+      "configure": "Configurer les flux",
+      "notice": "Pour activer les flux, vous devez d’abord définir vos sites Hub sur \"Public\" dans les paramètres"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Depuis",
+    "editGroups": "Modifier les groupes",
+    "viewGroups": "Afficher le groupe",
+    "myGroup": "Mon groupe",
+    "myOrganization": "Mon organisation",
+    "myCommunity": "Ma communauté"
+  },
+  "formAlert": "Alerte de formulaire",
+  "alertMessages": {
+    "error": "Erreur lors de l’enregistrement des modifications"
+  }
+}

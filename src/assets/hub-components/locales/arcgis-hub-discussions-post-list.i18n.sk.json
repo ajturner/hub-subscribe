@@ -1,0 +1,14 @@
+{
+  "addPost": "Pridať príspevok",
+  "createPost": "Vytvoriť príspevok",
+  "emptyHeading": "Začať diskusiu",
+  "emptyMessage": "Buďte prvý, kto otvorí tému. Je jednoduché položiť otázku alebo zdieľať s ostatnými to, čo viete o danom obsahu.",
+  "searchIdeas": "Hľadať príspevky",
+  "searchCount": "{start} - {end} z {total}",
+  "orderAsc": "Vzostupne",
+  "orderDesc": "Zostupne",
+  "sortRecent": "Najnovšie",
+  "sortCreator": "Tvorca",
+  "layoutGrid": "Mriežka",
+  "layoutList": "Zoznam"
+}

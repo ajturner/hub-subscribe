@@ -1,0 +1,14 @@
+{
+  "addPost": "הוסף פוסט",
+  "createPost": "צור פוסט",
+  "emptyHeading": "התחל דיון",
+  "emptyMessage": "העלה נושא לדיון בפעם הראשונה. ניתן בקלות לשאול שאלה ולשתף אחרים בידע שלך על תוכן מסוים.",
+  "searchIdeas": "חפש פוסטים",
+  "searchCount": "{start} - {end} מתוך {total}",
+  "orderAsc": "סדר עולה",
+  "orderDesc": "סדר יורד",
+  "sortRecent": "לאחרונה",
+  "sortCreator": "Creator",
+  "layoutGrid": "גריד",
+  "layoutList": "רשימה"
+}

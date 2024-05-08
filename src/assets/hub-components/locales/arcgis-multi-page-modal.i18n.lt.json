@@ -1,0 +1,6 @@
+{
+  "pageCounter": "{currentPage} / {numPages}",
+  "acceptButton": "Gerai",
+  "nextButton": "Kitas",
+  "previousButton": "Atgal"
+}

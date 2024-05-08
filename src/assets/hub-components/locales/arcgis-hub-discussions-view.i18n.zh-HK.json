@@ -1,0 +1,17 @@
+{
+  "summary": "摘要",
+  "description": "描述",
+  "details": "詳細資訊",
+  "metrics": "公制",
+  "metricsDisclaimer": "僅顯示最近 30 天",
+  "titleOpen": "開啟討論",
+  "statusOpen": "開放參與",
+  "titleClosed": "已關閉討論",
+  "statusClosed": "關閉參與",
+  "tags": "標記",
+  "categories": "類別",
+  "metric.pageViews": "頁面視圖",
+  "metric.postCount": "貼文計數",
+  "discussion": "討論",
+  "discussionBoard": "討論板"
+}

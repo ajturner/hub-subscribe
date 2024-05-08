@@ -1,0 +1,1 @@
+import{c as t}from"./p-b728aff4.js";function o(o,c,e={},f=!1){const n=c.split(".");let r=o;const s=n.length-1;n.forEach(((o,c)=>{r.hasOwnProperty(o)&&null!=r[o]?c===s&&(r[o]="object"!=typeof r[o]||Array.isArray(r[o])?e:f?t(e):Object.assign(r[o],t(e))):r[o]=c===s?e:{},r=r[o]}))}export{o as d}

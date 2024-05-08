@@ -1,0 +1,10 @@
+{
+  "true.heading": "Tak, dyskusja jest dozwolona",
+  "false.heading": "Nie, dyskusja jest zablokowana",
+  "content.label": "Zezwolić na dyskusję na temat tego elementu?",
+  "content.true.description": "Użytkownicy mogą tworzyć posty dotyczące tego elementu.",
+  "content.false.description": "Użytkownicy nie mogą tworzyć postów dotyczących tego elementu.",
+  "group.label": "Czy ta grupa może brać udział w dyskusjach?",
+  "group.true.description": "Członkowie grupy mogą przeglądać kanały dyskusyjne, do których grupa ma dostęp i w nich uczestniczyć.",
+  "group.false.description": "Członkowie grupy nie mogą przeglądać kanałów dyskusyjnych, do których grupa ma dostęp, ani w nich uczestniczyć."
+}

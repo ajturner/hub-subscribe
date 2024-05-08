@@ -1,0 +1,16 @@
+{
+  "post.title": "Julkaisun muokkaaminen on estetty",
+  "post.message": "Muokkaus on pois käytöstä siihen asti, kun keskustelut on estetty.",
+  "post.message.item": "Muokkaus on pois käytöstä siihen asti, kun tähän kohteeseen liittyvät keskustelut on estetty.",
+  "post.message.group": "Muokkaus on pois käytöstä siihen asti, kun tähän ryhmään liittyvät keskustelut on estetty.",
+  "reply.title": "Vastauksen muokkaaminen on estetty",
+  "reply.title.generic": "Keskustelu on estetty",
+  "reply.message": "Muokkaus on pois käytöstä siihen asti, kun keskustelut on estetty.",
+  "reply.message.generic": "Et voi luoda vastauksia tällä hetkellä.",
+  "reply.message.item": "Muokkaus on pois käytöstä siihen asti, kun tähän kohteeseen liittyvät keskustelut on estetty.",
+  "reply.message.group": "Muokkaus on pois käytöstä siihen asti, kun tähän ryhmään liittyvät keskustelut on estetty.",
+  "item.title": "Kohteeseen liittyvä keskustelu estetty",
+  "item.message": "Tähän kohteeseen liittyvää keskustelua ei hyväksytä.",
+  "group.title": "Ryhmään liittyvä keskustelu estetty",
+  "group.message": "Tähän ryhmään liittyvää keskustelua ei hyväksytä."
+}

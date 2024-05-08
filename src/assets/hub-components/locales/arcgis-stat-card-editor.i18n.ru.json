@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Дополнительная конфигурация",
+    "serverTimeout": {
+      "label": "Время ожидания сервера (в секундах)",
+      "helperText": "Полезно для больших сервисов, которым может потребоваться больше времени для ответа."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Углы",
+      "enum": {
+        "round": {
+          "label": "Круг"
+        },
+        "square": {
+          "label": "Квадрат"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Падающая тень",
+      "enum": {
+        "heavy": {
+          "label": "Интенсивный"
+        },
+        "low": {
+          "label": "Низкий"
+        },
+        "medium": {
+          "label": "Средний"
+        },
+        "none": {
+          "label": "Не начато"
+        }
+      }
+    },
+    "layout": {
+      "label": "Компоновка Статистика",
+      "enum": {
+        "dataViz": {
+          "label": "Визуализация данных"
+        },
+        "moreInfo": {
+          "label": "Подробнее"
+        },
+        "simple": {
+          "label": "Простой"
+        }
+      }
+    },
+    "popoverTitle": "Заголовок всплывающего окна",
+    "popoverDescription": "Описание всплывающего окна",
+    "sectionTitle": "Оформление",
+    "textAlign": "Выравнивание",
+    "visualInterest": {
+      "label": "Отображение интереса",
+      "enum": {
+        "icon": {
+          "label": "Значок"
+        },
+        "logo": {
+          "label": "Логотип"
+        },
+        "none": {
+          "label": "Нет"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Цвет (Статистика)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Ссылка",
+      "sourceLink": "URL-адрес ссылки",
+      "sourceTitle": "Текст ссылки"
+    },
+    "sectionTitle": "Сведения",
+    "subtitle": "Подзаголовок",
+    "title": "Заголовок",
+    "trailingText": "Сопроводительный текст"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Требуется ссылка для отображения источника."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Форматирование",
+    "unit": {
+      "label": "Единицы отображения",
+      "helperText": "Введите единицы измерения для своего значения."
+    },
+    "unitPosition": {
+      "label": "Размещение",
+      "enum": {
+        "after": {
+          "label": "После"
+        },
+        "before": {
+          "label": "До"
+        },
+        "below": {
+          "label": "Под"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Общий доступ",
+    "showShareIcon": "Включить",
+    "shareableByValue": "Включить встраивание",
+    "shareableOnHover": {
+      "label": "Отображение",
+      "enum": {
+        "always": {
+          "label": "Всегда"
+        },
+        "hover": {
+          "label": "Только при наведении"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Источник данных",
+    "displayValue": "Отобразить значение",
+    "sectionTitle": "Статистика",
+    "type": {
+      "label": "Тип",
+      "enum": {
+        "dynamic": {
+          "label": "Динамический",
+          "description": "Выберите существующий набор данных (сервис объектов) для суммирования."
+        },
+        "static": {
+          "label": "Статический",
+          "description": "Введите вручную значение, которое будет выделено в компоновке."
+        }
+      }
+    }
+  }
+}

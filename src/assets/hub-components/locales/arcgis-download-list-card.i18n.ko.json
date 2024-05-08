@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "쉐이프파일",
+  "sqlite": "SQLite 지오데이터베이스",
+  "geoPackage": "지오패키지",
+  "filegdb": "파일 지오데이터베이스",
+  "featureCollection": "피처 컬렉션",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV 다운로드",
+  "downloadshapefile": "쉐이프파일 다운로드",
+  "downloadsqlite": "SQLite 지오데이터베이스 다운로드",
+  "downloadgeoPackage": "지오패키지 다운로드",
+  "downloadfilegdb": "파일 지오데이터베이스 다운로드",
+  "downloadfeatureCollection": "피처 컬렉션 다운로드",
+  "downloadgeojson": "GeoJSON 다운로드",
+  "downloadexcel": "Excel 다운로드",
+  "rateLimitMessage": "죄송합니다. 다운로드 한도에 도달했습니다. 한 시간 후에 다시 시도하거나 콘텐츠 관리자에게 문의하세요.",
+  "createReplicaErrorMessage": "복사본 생성 내부 오류입니다. 한 시간 후에 다시 시도하거나 콘텐츠 관리자에게 문의하세요."
+}

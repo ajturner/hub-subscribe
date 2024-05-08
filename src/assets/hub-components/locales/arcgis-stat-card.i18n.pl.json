@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Nastąpiło przekroczenie limitu czasu połączenia z serwerem i nie można było wyświetlić statystyk.",
+    "title": "Przekroczono limit czasu serwera"
+  },
+  "genericError": {
+    "message": "Nie można wyświetlić statystyk.",
+    "title": "Wystąpiły problemy"
+  }
+}

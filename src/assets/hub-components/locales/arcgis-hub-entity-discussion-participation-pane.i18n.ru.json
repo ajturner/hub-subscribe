@@ -1,0 +1,21 @@
+{
+  "title": "Участие",
+  "channelTitle": "Канал участия",
+  "addChannelsTitle": "Для этого элемента необходим канал; можно установить только один.",
+  "headingChannelEdit": "Редактировать канал",
+  "headingChannelView": "Просмотреть канал",
+  "headingChannelCreate": "Создать новый канал",
+  "buttons": {
+    "browse": "Поиск по всем каналам",
+    "new": "Новый канал"
+  },
+  "galleryPickerTitle": "Выбрать канал",
+  "channelsLabel": "Каналы",
+  "accessLabel": "Доступ",
+  "optionPublicLabel": "Для всех",
+  "optionOrganizationLabel": "Организация",
+  "optionPrivateLabel": "Частная",
+  "viewChannel": "Просмотреть канал",
+  "editChannel": "Редактировать канал",
+  "save": "Сохранить"
+}

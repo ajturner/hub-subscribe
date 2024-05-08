@@ -1,0 +1,14 @@
+{
+  "createdBy": "由 {creator} 建立",
+  "emptyMessage": "找不到版本",
+  "errorMessage": "擷取版本時發生錯誤",
+  "menuLabel": "顯示動作",
+  "publishedBadge": "已發佈",
+  "viewingBadge": "正在檢視",
+  "popover.label": "版本動作",
+  "popover.actions.delete": "刪除",
+  "popover.actions.edit": "編輯詳細資訊",
+  "popover.actions.share": "共用",
+  "shareErrorMessage": "將分享 url 複製到剪貼簿時出錯。",
+  "shareSuccessMessage": "分享複製到剪貼簿的 url。"
+}

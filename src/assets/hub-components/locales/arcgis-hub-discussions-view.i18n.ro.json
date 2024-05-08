@@ -1,0 +1,17 @@
+{
+  "summary": "Rezumat",
+  "description": "Descriere",
+  "details": "Detalii",
+  "metrics": "Măsurători",
+  "metricsDisclaimer": "Se afișează doar ultimele 30 de zile",
+  "titleOpen": "Deschidere discuție",
+  "statusOpen": "Deschis pentru participare",
+  "titleClosed": "Închidere discuție",
+  "statusClosed": "Închis pentru participare",
+  "tags": "Etichete",
+  "categories": "Categorii",
+  "metric.pageViews": "Vizualizările paginii",
+  "metric.postCount": "Număr de postări",
+  "discussion": "Discuție",
+  "discussionBoard": "Panou de discuții"
+}

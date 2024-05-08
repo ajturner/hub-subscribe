@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefil",
+  "sqlite": "SQLite-geodatabas",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Filbaserad geodatabas",
+  "featureCollection": "Samling av geoobjekt",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Hämta"
+}

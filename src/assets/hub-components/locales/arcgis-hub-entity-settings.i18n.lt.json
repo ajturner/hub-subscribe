@@ -1,0 +1,34 @@
+{
+  "settings": "Nuostatos",
+  "delete": {
+    "project": "Ištrinti projektą",
+    "initiative": "Ištrinti iniciatyvą",
+    "site": "Ištrinti svetainę",
+    "discussion": "Ištrinti diskusiją",
+    "content": "Ištrinti turinį",
+    "page": "Naikinti puslapį",
+    "group": "Ištrinti grupę"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Ištrinti projektą",
+      "initiative": "Ištrinti iniciatyvą",
+      "site": "Ištrinti svetainę",
+      "discussion": "Ištrinti diskusiją",
+      "content": "Ištrinti turinį",
+      "page": "Naikinti puslapį",
+      "group": "Ištrinti grupę"
+    },
+    "content": "Ar tikrai norite ištrinti:",
+    "delete": "Pašalinti",
+    "cancel": "Atšaukti"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "„Ištraukimo“ galimybė keičia paslaugos nustatymus.",
+        "message": "Tai turės įtakos kitiems elementams, kurie nurodo paslaugą. Norėdami gauti daugiau informacijos, žr. <docLink>Duomenų eksportavimas iš talpinamų funkcijų sluoksnių</docLink>"
+      }
+    }
+  }
+}

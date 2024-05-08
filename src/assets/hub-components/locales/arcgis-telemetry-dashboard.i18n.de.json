@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datumsbereich: {start}–{end}",
+  "pageViews": "Seitenaufrufe",
+  "timeOnSite": "Durchschnittliche Verweilzeit auf der Site in Minuten",
+  "users": "Sitzungen",
+  "viewsOverTime": "Seitenaufrufe im Zeitverlauf",
+  "disabledTracking": "Aktivitäts-Tracking ist deaktiviert",
+  "enableTracking": "Aktivieren Sie das Hub-Aktivitäts-Tracking in den Site-Einstellungen, um die Nutzung Ihrer Site zu überwachen.",
+  "learnMore": "Weitere Informationen",
+  "disabled": "Deaktiviert",
+  "notificationLabel": "Daten aktualisiert",
+  "dataUpdated": "Daten aktualisiert",
+  "subscribe": "Abonnieren",
+  "subscribed": "Abonniert",
+  "weeklyReport": "Wöchentlicher Bericht",
+  "timestampTitle": {
+    "hour": "Uhrzeit",
+    "day": "Datum",
+    "week": "Woche"
+  },
+  "formAlert": "Formularwarnung",
+  "success": "Subskription erfolgreich aktualisiert",
+  "subscriptionActivatedTitle": "Subskription aktiviert",
+  "subscriptionActivatedMessage": "Sie haben {email} für den wöchentlichen Empfang von Interaktionskennwerten registriert.",
+  "unsubscribeCompleteTitle": "Abbestellen abgeschlossen",
+  "unsubscribeCompleteMessage": "Interaktionskennwerte wurden für {email} erfolgreich abbestellt.",
+  "problemSubscribingTitle": "Problem bei Abschluss der Subskription",
+  "problemSubscribingMessage": "Beim Abschluss der Subskription ist ein Problem aufgetreten. Fehler: ",
+  "problemUnsubscribingTitle": "Problem bei Abbestellung",
+  "problemUnsubscribingMessage": "Beim Abbestellen ist ein Problem aufgetreten. Fehler: "
+}

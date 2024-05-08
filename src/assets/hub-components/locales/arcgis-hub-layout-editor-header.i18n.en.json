@@ -1,0 +1,28 @@
+{
+  "popover": {
+    "access": {
+      "org": "Shared to organization",
+      "private": "Shared to owner",
+      "public": "Shared to public",
+      "shared": "Shared to owner and groups"
+    },
+    "editLayout": "Edit layout",
+    "lastUpdated": "Last updated {updated}",
+    "viewSite": "View site"
+  },
+  "cloneLayoutLabel": "Clone layout",
+  "deletePageLabel": "Delete page",
+  "deleteSiteLabel": "Delete site",
+  "editInAgoLabel": "Edit in ArcGIS Online",
+  "managePage": "Manage page",
+  "manageSite": "Manage site",
+  "manageTemplate": "Manage template",
+  "moreOptionsLabel": "More options",
+  "publishLabel": "Publish",
+  "saveAsTemplateLabel": "Save as template",
+  "saveLabel": "Save",
+  "sharingLabel": "Open sharing panel",
+  "viewLabel": "View",
+  "viewPublishedLabel": "View published draft",
+  "viewUnpublishedLabel": "Preview unpublished draft"
+}

@@ -1,0 +1,10 @@
+{
+  "true.heading": "Da, discuția este permisă",
+  "false.heading": "Nu, discuția este blocată",
+  "content.label": "Permiteți discutarea acestui element?",
+  "content.true.description": "Utilizatorii pot crea postări pe acest element.",
+  "content.false.description": "Utilizatorii nu pot crea postări pe acest element.",
+  "group.label": "Acest grup poate participa la discuții?",
+  "group.true.description": "Membrii grupului pot vizualiza și participa la canalele de discuții la care grupul are acces.",
+  "group.false.description": "Membrii grupului nu pot vizualiza sau participa la canalele de discuție la care grupul are acces."
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Sisu",
+  "facets": {
+    "type": "Tüüp",
+    "tags": "Märksõna",
+    "categories": "Kategooria",
+    "sharing": "Jagamine",
+    "dateUpdated": "Uuendamise kuupäev",
+    "map": {
+      "label": "Asukoht",
+      "tooltip": "Rakenda kaardiulatus asukohafiltrina"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Lisa sisu",
+    "catalog": {
+      "myContent": "Minu sisu",
+      "favorites": "Lemmikud",
+      "organization": "Minu organisatsioon",
+      "world": "Maailm (avalik)"
+    },
+    "facets": {
+      "type": "Tüüp",
+      "sharing": "Jagamine"
+    },
+    "collection": {
+      "appsAndMaps": "Rakendused ja kaardid",
+      "dataset": "Andmed",
+      "documents": "Dokumendid",
+      "feedback": "Tagasiside",
+      "sites": "Saidid"
+    },
+    "modal": {
+      "title": "Lisa sisu"
+    },
+    "unsharedModal": {
+      "title": "Üksusi pole lisatud",
+      "notice": {
+        "icon": "hüüumärgiga kolmnurk",
+        "type": "oht",
+        "title": "Toiming on pooleli",
+        "message": "Mõnda üksust ei saanud lisada. Põhjus võib olla selles, et sisus on mittevastavuses jagamistasemed või kuna üksuse omanik ei ole grupi liige.",
+        "linkText": "Lisateave jagamise kohta"
+      }
+    },
+    "itemSharedSuccessAlert": "Üksused on jagatud"
+  },
+  "close": "Sule",
+  "newTab": "avatakse uuel vahelehel"
+}

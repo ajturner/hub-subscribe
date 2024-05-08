@@ -1,0 +1,30 @@
+{
+  "helperText": "Katalógus létrehozása és konfigurálása",
+  "sections": {
+    "groups": {
+      "title": "Csoportok",
+      "helperText": "Az alábbi csoportok tartalmazzák a keresési katalógus tartalmát. Válasszon ki egy csoportot a beállítások, a tartalom és a továbbiak megtekintéséhez.",
+      "createGroup": "Új csoport létrehozása"
+    },
+    "feeds": {
+      "title": "Adatcsatorna konfiguráció",
+      "helperText": "Könnyen hozzáférhetővé és újrafelhasználhatóvá teheti nyilvános, nyílt adatait a Hub adatcsatornák segítségével.",
+      "learn": "Ismerje meg a Hub adatcsatornákat",
+      "toggle": "Adatcsatornák engedélyezése ",
+      "configure": "Adatcsatornák konfigurálása",
+      "notice": "Az adatcsatornák engedélyezéséhez először a Beállításokban a Hub webhelyeit Nyilvános értékre kell állítani."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Feladó",
+    "editGroups": "Csoportok szerkesztése",
+    "viewGroups": "Csoport megtekintése",
+    "myGroup": "Saját csoport",
+    "myOrganization": "Saját szervezet",
+    "myCommunity": "Saját közösség"
+  },
+  "formAlert": "Űrlap figyelmeztetés",
+  "alertMessages": {
+    "error": "Nem sikerült a módosítások mentése"
+  }
+}

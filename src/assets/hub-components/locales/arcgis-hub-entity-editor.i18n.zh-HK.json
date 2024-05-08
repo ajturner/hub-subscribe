@@ -1,0 +1,494 @@
+{
+  "success": "已成功儲存編輯內容",
+  "error": "儲存編輯內容時發生錯誤",
+  "create": "建立",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "無位置",
+        "org": "組織的範圍",
+        "custom": "自訂位置",
+        "customDescription": "繪製一或多個位置",
+        "itemExtent": "項目的目前範圍"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "類型",
+          "sharing": "分享"
+        },
+        "catalog": {
+          "myContent": "我的內容",
+          "favorites": "我的最愛",
+          "organization": "組織",
+          "world": "世界 (公眾)"
+        },
+        "collection": {
+          "appsAndMaps": "應用程式與地圖",
+          "dataset": "資料",
+          "documents": "文件",
+          "feedback": "意見",
+          "sites": "網站"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "詳細資訊"
+      },
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "顯示此專案將發生的地理區域 (出現在專案版面配置上)。"
+      },
+      "status": {
+        "label": "狀態"
+      },
+      "sharing": {
+        "label": "分享"
+      },
+      "timeline": {
+        "label": "時間軸"
+      },
+      "searchDiscoverability": {
+        "label": "搜尋與可探索性"
+      },
+      "featuredContent": {
+        "label": "特色內容",
+        "helperText": "反白與您的專案相關的特定文件、應用程式和資料。 您最多可以選擇 4 個項目。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "專案名稱",
+        "requiredError": "專案名稱是必要欄位"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "指定您的專案將如何實現其目標。 考慮包括相關背景資訊和專案預期的變化。"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "簡單摘要您的專案目標。"
+      },
+      "access": {
+        "itemType": "專案"
+      },
+      "groups": {
+        "label": "分享給...",
+        "viewGroup": "(檢視群組)",
+        "editGroup": "(編輯群組)"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "設定縮圖，在 ArcGIS Online 以及搜索和圖庫中表示此專案。",
+        "sizeDescription": "建議的維度: 760 x 505 或更大"
+      },
+      "featuredImage": {
+        "label": "特色圖像",
+        "helperText": "選擇圖像來代表您在專案版面配置上的工作。",
+        "sizeDescription": "檔案大小上限為 10mb。 建議的維度: 718 x 478 或更大",
+        "altText": {
+          "label": "更改文字",
+          "helperText": "為使用螢幕助讀程式的人提供圖像的簡短描述。 留空表示圖像是裝飾性的。"
+        }
+      },
+      "tags": {
+        "label": "標記",
+        "helperText": "標記是用於搜尋目錄以協助其他人找到此專案。 新增文字並選擇 enter 以建立新標記。"
+      },
+      "categories": {
+        "label": "類別",
+        "helperText": "類別是用於搜尋目錄以協助其他人找到此專案。 它們是由您的 ArcGIS Online 組織設定。"
+      },
+      "status": {
+        "label": "專案狀態",
+        "enum": {
+          "notStarted": {
+            "label": "未啟動"
+          },
+          "inProgress": {
+            "label": "進行中"
+          },
+          "onHold": {
+            "label": "保留中"
+          },
+          "complete": {
+            "label": "完成"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "類型",
+          "sharing": "分享"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "詳細資訊"
+      },
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "顯示此倡議將發生的地理區域 (出現在倡議版面配置上)。"
+      },
+      "sharing": {
+        "label": "分享"
+      },
+      "featuredContent": {
+        "label": "特色內容",
+        "helperText": "反白與您的專案相關的特定文件、應用程式和資料。 您最多可以選擇 4 個項目。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "倡議名稱",
+        "requiredError": "倡議名稱為必填欄位"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "簡單摘要您的倡議目標。"
+      },
+      "access": {
+        "itemType": "倡議"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "提供可能對搜尋此倡議有幫助的更多內容。"
+      },
+      "tags": {
+        "label": "標記",
+        "helperText": "標記是用於搜尋目錄以協助其他人找到此倡議。 新增文字並選擇 enter 以建立新標記。"
+      },
+      "categories": {
+        "label": "類別",
+        "helperText": "類別是用於搜尋目錄以協助其他人找到此倡議。 它們是由您的 ArcGIS Online 組織設定。"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "設定縮圖，在 ArcGIS Online 以及搜索和圖庫中表示此倡議。"
+      },
+      "groups": {
+        "label": "分享給...",
+        "viewGroup": "(檢視群組)",
+        "editGroup": "(編輯群組)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "類型",
+          "sharing": "正在分享"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "詳細資訊"
+      },
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "location": {
+        "label": "位置"
+      },
+      "settings": {
+        "label": "討論設定"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "標題",
+        "requiredError": "討論板名稱為必填項。"
+      },
+      "prompt": {
+        "label": "提示",
+        "helperText": "簡單說明您希望參與者在此討論板上提交的內容。",
+        "requiredError": "提示為必填欄位"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "提供可能對搜尋此板有幫助的更多內容。"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "選擇圖像來代表您的討論。"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "簡單說明此討論板的目的，這在與其他人分享連結時很有幫助。"
+      },
+      "featuredImage": {
+        "label": "特色圖像",
+        "sizeDescription": "大小上限為 10mb、JPEG、JPG 或 PNG",
+        "altText": {
+          "label": "更改文字",
+          "helperText": "為使用螢幕助讀程式的人提供圖像的簡短描述。 留空表示圖像是裝飾性的。"
+        },
+        "name": {
+          "label": "圖像名稱"
+        }
+      },
+      "tags": {
+        "label": "標記"
+      },
+      "categories": {
+        "label": "類別"
+      },
+      "discussable": {
+        "label": "允許討論?",
+        "enabled": {
+          "label": "是，允許討論",
+          "description": "參與者可向此討論板新增貼文、回覆和回應。"
+        },
+        "disabled": {
+          "label": "否，封鎖討論",
+          "description": "移除了新增新的貼文、回覆和回應的功能。 不刪除先前的參與。"
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "顯示此網站專屬的地理區域。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "網站名稱",
+        "requiredError": "網站名稱為必要欄位"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "設定縮圖，在 ArcGIS Online 以及搜索和圖庫中表示此網站。"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "網站的描述。"
+      },
+      "summary": {
+        "label": "摘要",
+        "helperText": "簡單摘要網站。"
+      },
+      "tags": {
+        "label": "標記",
+        "helperText": "標記是用於搜尋目錄以協助其他人找到此網站。 新增文字並選擇 enter 以建立新標記。"
+      },
+      "categories": {
+        "label": "類別",
+        "helperText": "類別是用於搜尋目錄以協助其他人找到此網站。 它們是由您的 ArcGIS Online 組織設定。"
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "設定可見性",
+          "helperText": "控制誰可以看到追蹤按鈕。 此設定適用於流動的頁內動作追蹤按鈕，和直接嵌入在版面配置上的任何追蹤按鈕。",
+          "private": {
+            "label": "私有",
+            "description": "網站擁有者和具有存取權的群組都可以看到追蹤按鈕"
+          },
+          "org": {
+            "label": "組織",
+            "description": "所有擁有網站組織帳號的成員和具有存取權的群組，都可以看到追蹤按鈕"
+          },
+          "public": {
+            "label": "公共",
+            "description": "所有人都可以看到追蹤按鈕"
+          }
+        },
+        "showFollowAction": {
+          "label": "追蹤動作",
+          "helperText": "將追蹤按鈕新增至頁內動作功能表，當使用者捲動版面配置時該按鈕仍然可見。"
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "顯示此頁面專屬的地理區域。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "頁面名稱",
+        "requiredError": "頁面名稱是必要欄位"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "頁面的描述。"
+      },
+      "summary": {
+        "label": "摘要",
+        "helperText": "簡單摘要頁面。"
+      },
+      "tags": {
+        "label": "標記",
+        "helperText": "標記是用於搜尋目錄以協助其他人找到此頁面。 新增文字並選擇 enter 以建立新標記。"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "設定縮圖，在 ArcGIS Online 以及搜索和圖庫中表示此頁面。"
+      },
+      "categories": {
+        "label": "類別",
+        "helperText": "類別是用於搜尋目錄以協助其他人找到此頁面。 它們是由您的 ArcGIS Online 組織設定。"
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "標題",
+        "hint": "簡潔的標題將提升整個內容的可探索性。",
+        "requiredError": "標題是必要欄位"
+      },
+      "summary": {
+        "label": "摘要",
+        "hint": "簡單摘要您的內容。 提示: 藉由使用與「標題」或「標記」不同的關鍵字來改善 SEO。"
+      },
+      "description": {
+        "label": "描述",
+        "hint": "新增額外的詳細資訊來解釋您的內容。 鎖定 7-9 年級閱讀水平以接觸廣泛的受眾。 <a href='https://www.webfx.com/tools/read-able/' target='_blank'>使用免費的可讀性分析工具來測試您的文字。</a>"
+      },
+      "tags": {
+        "label": "標記",
+        "hint": "標記是用於搜尋目錄以協助其他人找到此內容。 新增文字並選擇 enter 以建立新標記。"
+      },
+      "categories": {
+        "label": "類別",
+        "agolHint": "類別是用於搜尋目錄以協助其他人找到此內容。 它們是由您的 ArcGIS Online 組織設定。",
+        "enterpriseHint": "類別是用於搜尋目錄以協助其他人找到此內容。 它們是由您的 ArcGIS Enterprise 組織所設定。",
+        "agolNoCategoryHint": "提示: 只能使用您的組織在 ArcGIS Online 組織中設定的類別。",
+        "enterpriseNoCategoryHint": "提示: 只能使用您的組織在 ArcGIS Enterprise 組織中設定的類別。"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "設定縮圖，在 ArcGIS Online 以及搜索和圖庫中表示此項目。"
+      },
+      "license": {
+        "label": "使用條款",
+        "helperText": "更少的限制促進更多的重複使用。"
+      },
+      "serverExtractCapability": {
+        "label": "擷取功能 (匯出資料)",
+        "helperText": "啟用此項目之服務上的「擷取」功能。 擷取支援其他格式。"
+      },
+      "hostedDownloads": {
+        "label": "(Beta) 託管的下載",
+        "helperText": "直接從託管服務建立下載檔。 這可以提高下載圖徵圖層和表格等內容的效能。 要啟用託管下載，必須啟用「解壓縮功能」。"
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "基本資訊",
+        "message": "此資訊是用來填入搜尋結果、圖庫卡並顯示於詳細視圖上。"
+      },
+      "about": {
+        "title": "關於內容",
+        "message": "搜索結果會顯示描述的前兩行，但整個描述將顯示於重點內容視圖中。"
+      },
+      "image": {
+        "title": "特色圖片",
+        "message": "當您在我們的圖庫中，或在突顯倡議、事件和調查等圖片的視圖上展示內容時，擁有優質的特色圖片或縮圖非常重要。 建議的尺寸為 760x505。 如果您在即時路線上顯示的圖片很模糊，請考慮以較大的圖片取代縮圖。"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "顯示此內容將發生的地理區域 (出現在內容版面配置上)。"
+      },
+      "downloads": {
+        "label": "下載",
+        "helperText": "配置下載格式、快取的檔案更新排程等。 有關詳細資訊，請參閱<calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">下載文件。</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "剩餘 {count} 個字元"
+    },
+    "imageThumbnail": {
+      "label": "縮圖",
+      "upload": "上傳圖像",
+      "done": "完成",
+      "editThumbnail": "編輯縮圖",
+      "browse": "瀏覽圖片",
+      "remove": "移除圖片",
+      "edit": "編輯圖像",
+      "defaultHeading": "新增縮圖",
+      "dropHeading": "拖曳以上傳",
+      "errorHeading": "嘗試不同的圖片",
+      "subheading": "大小上限為 {size}，{types}",
+      "zoomOut": "縮小",
+      "zoomIn": "放大",
+      "drag": "拖曳以重新定位",
+      "urlPlaceholder": "支援的類型: {types}",
+      "browseForImage": "瀏覽圖像",
+      "aria": {
+        "container": "圖片區域",
+        "crop": "裁切區域",
+        "handle": {
+          "top": "調整頂部尺寸",
+          "right": "調整右側尺寸",
+          "left": "調整左側尺寸",
+          "bottom": "調整底部尺寸"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "詳細資訊"
+      },
+      "basicInfo": {
+        "label": "基本資訊"
+      },
+      "membershipAccess": {
+        "label": "成員資格存取"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "群組名稱",
+        "requiredError": "群組名稱是必要欄位"
+      },
+      "summary": {
+        "label": "摘要"
+      },
+      "access": {
+        "itemType": "群組"
+      },
+      "_thumbnail": {
+        "label": "縮略圖",
+        "helperText": "選擇圖像來代表您在群組設定檔上的群組。",
+        "sizeDescription": "大小上限為 10mb。 建議大小: 400 x 400 或更大"
+      },
+      "membershipAccess": {
+        "label": "誰能加入此群組?",
+        "org": "僅限我的組織成員",
+        "collab": "僅限夥伴式協同作業和我的組織成員",
+        "any": "任何組織的成員"
+      },
+      "contributeContent": {
+        "label": "誰能貢獻內容?",
+        "all": "所有群組成員",
+        "admins": "群組擁有者和管理員"
+      }
+    }
+  }
+}

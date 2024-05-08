@@ -1,0 +1,28 @@
+{
+  "newTab": "otwórz profil w nowej karcie",
+  "noGroups": "Brak grup",
+  "pickerToggle": "Dodaj grupy",
+  "pickerTitle": "Wybierz grupy",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Brak członków",
+      "oneMember": "1 członek",
+      "members": "Liczba członków: {count}"
+    },
+    "dateCreated": "Data utworzenia: {localizedDate}",
+    "sharing": "Udostępnianie: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Ja",
+      "shared": "Właściciel i grupy",
+      "org": "Instytucja",
+      "public": "Publiczny"
+    },
+    "membership": "Członkostwo: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Właściciel grupy",
+      "admin": "Menedżer grupy",
+      "member": "Członek grupy",
+      "none": "Brak"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "การดาวน์โหลดสมบูรณ์",
+  "titleFileGeneration": "อยู่ระหว่างการสร้างไฟล์",
+  "titleFileGenerationFailed": "การสร้างไฟล์ล้มเหลว",
+  "titleDatasetNotFound": "ไม่พบชุดข้อมูล",
+  "titleApiError": "ข้อผิดพลาด API",
+  "titleFormatDisabled": "ปิดใช้งานการดาวน์โหลดไว้",
+  "messageFailedStaleAvailable": "คุณสามารถดาวน์โหลดเวอร์ชันก่อนหน้าได้จากด้านล่าง",
+  "messageUpdatingFile": "เรากำลังอัปเดตไฟล์ ซึ่งอาจต้องใช้เวลาสักพัก",
+  "messageCreatingFile": "เรากำลังสร้างไฟล์ ซึ่งอาจต้องใช้เวลาสักพัก",
+  "messageFileNeedsGenerating": "การดาวน์โหลดไฟล์อัปเดตอาจใช้เวลาสักพัก",
+  "messageFormatDisabled": "เจ้าของปิดใช้งานการดาวน์โหลดสำหรับรูปแบบนี้ไว้"
+}

@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Koplietošana",
+      "myself": "Sevi",
+      "myOrganization": "Mana organizācija",
+      "public": "Pasaule (publisks)"
+    },
+    "catalog": {
+      "myContent": "Mans saturs",
+      "favorites": "Izlase",
+      "organization": "Mana organizācija",
+      "world": "Pasaule (publisks)"
+    }
+  },
+  "expression": {
+    "label": "Atribūta filtri"
+  },
+  "field": {
+    "label": "Atribūts"
+  },
+  "layer": "Slānis/tabula",
+  "statistic": {
+    "label": "Apkopojums"
+  }
+}

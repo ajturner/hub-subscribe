@@ -1,0 +1,494 @@
+{
+  "success": "Els canvis s'han desat correctament",
+  "error": "S'ha produït un error en desar els canvis",
+  "create": "Crea",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "No hi ha cap ubicació",
+        "org": "Extensió de l'organització",
+        "custom": "Ubicació personalitzada",
+        "customDescription": "Dibuixeu una o diverses ubicacions",
+        "itemExtent": "Extensió actual de l'element"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipus",
+          "sharing": "Ús compartit"
+        },
+        "catalog": {
+          "myContent": "El meu contingut",
+          "favorites": "Favorits",
+          "organization": "Organització",
+          "world": "Tot el món (públic)"
+        },
+        "collection": {
+          "appsAndMaps": "Aplicacions i mapes",
+          "dataset": "Dades",
+          "documents": "Documents",
+          "feedback": "Comentaris",
+          "sites": "Llocs"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Detalls"
+      },
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "location": {
+        "label": "Ubicació",
+        "helperText": "Mostreu l'àrea geogràfica on es durà a terme aquest projecte (perquè aparegui al disseny del projecte)."
+      },
+      "status": {
+        "label": "Estat"
+      },
+      "sharing": {
+        "label": "Ús compartit"
+      },
+      "timeline": {
+        "label": "Cronologia"
+      },
+      "searchDiscoverability": {
+        "label": "Cerca i descobribilitat"
+      },
+      "featuredContent": {
+        "label": "Contingut destacat",
+        "helperText": "Ressalteu documents, aplicacions i dades específics relacionats amb el vostre projecte. Podeu destacar fins a 4 elements."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nom del projecte",
+        "requiredError": "El nom del projecte és un camp obligatori"
+      },
+      "description": {
+        "label": "Descripció",
+        "helperText": "Especifiqueu com el vostre projecte assolirà els seus objectius. Us recomanem que inclogueu informació de fons rellevant i els canvis que s'esperen com a resultat del projecte."
+      },
+      "summary": {
+        "label": "Propòsit",
+        "helperText": "Resumiu breument els objectius del vostre projecte."
+      },
+      "access": {
+        "itemType": "Projecte"
+      },
+      "groups": {
+        "label": "Comparteix amb...",
+        "viewGroup": "(Grup de visualització)",
+        "editGroup": "(Grup d'edició)"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Definiu una miniatura per representar aquest projecte a l'ArcGIS Online, així com a la cerca i les galeries.",
+        "sizeDescription": "Dimensions recomanades: 760 x 505 o més gran"
+      },
+      "featuredImage": {
+        "label": "Imatge destacada",
+        "helperText": "Seleccioneu una imatge que representi la vostra feina al disseny del projecte.",
+        "sizeDescription": "La mida màxima de fitxer és de 10 MB. Dimensions recomanades: 718 x 478 o més gran",
+        "altText": {
+          "label": "Text alternatiu",
+          "helperText": "Proporcioneu una descripció breu de la imatge per a les persones que utilitzen lectors de pantalla. Deixeu-ho en blanc per indicar que la imatge es decorativa."
+        }
+      },
+      "tags": {
+        "label": "Etiquetes",
+        "helperText": "Les etiquetes es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest projecte. Afegiu text i seleccioneu Introdueix per crear etiquetes noves."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest projecte. Les defineix la vostra organització de l'ArcGIS Online."
+      },
+      "status": {
+        "label": "Estat del projecte",
+        "enum": {
+          "notStarted": {
+            "label": "No s'ha iniciat"
+          },
+          "inProgress": {
+            "label": "En curs"
+          },
+          "onHold": {
+            "label": "En espera"
+          },
+          "complete": {
+            "label": "Completat"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipus",
+          "sharing": "Ús compartit"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Detalls"
+      },
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "location": {
+        "label": "Ubicació",
+        "helperText": "Mostreu l'àrea geogràfica on es durà a terme aquesta iniciativa (perquè aparegui al disseny de la iniciativa)."
+      },
+      "sharing": {
+        "label": "Ús compartit"
+      },
+      "featuredContent": {
+        "label": "Contingut destacat",
+        "helperText": "Ressalteu documents, aplicacions i dades específics relacionats amb el vostre projecte. Podeu destacar fins a 4 elements."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nom de la iniciativa",
+        "requiredError": "El nom de la iniciativa és un camp obligatori"
+      },
+      "summary": {
+        "label": "Propòsit",
+        "helperText": "Resumiu breument els objectius de la vostra iniciativa."
+      },
+      "access": {
+        "itemType": "Iniciativa"
+      },
+      "description": {
+        "label": "Descripció",
+        "helperText": "Proporcioneu més context que pugui ser útil en cercar aquesta iniciativa."
+      },
+      "tags": {
+        "label": "Etiquetes",
+        "helperText": "Les etiquetes es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquesta iniciativa. Afegiu text i seleccioneu Introdueix per crear etiquetes noves."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquesta iniciativa. Les defineix la vostra organització de l'ArcGIS Online."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Definiu una miniatura per representar aquesta iniciativa a l'ArcGIS Online, així com a la cerca i les galeries."
+      },
+      "groups": {
+        "label": "Comparteix amb...",
+        "viewGroup": "(Grup de visualització)",
+        "editGroup": "(Grup d'edició)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipus",
+          "sharing": "Ús compartit"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Detalls"
+      },
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "location": {
+        "label": "Ubicació"
+      },
+      "settings": {
+        "label": "Configuració del debat"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Títol",
+        "requiredError": "El nom del tauler de debat és obligatori."
+      },
+      "prompt": {
+        "label": "Sol·licitud",
+        "helperText": "Descriviu breument el que voleu que enviïn els participants en aquest tauler de debat.",
+        "requiredError": "La sol·licitud és un camp obligatori"
+      },
+      "description": {
+        "label": "Descripció",
+        "helperText": "Proporcioneu més context que pugui ser útil en cercar aquest tauler."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Seleccioneu una imatge que representi el debat."
+      },
+      "summary": {
+        "label": "Propòsit",
+        "helperText": "Descriviu breument l'objectiu d'aquest tauler de debat. Això és útil quan es comparteix l'enllaç amb altres usuaris."
+      },
+      "featuredImage": {
+        "label": "Imatge destacada",
+        "sizeDescription": "La mida màxima és 10 MB (JPEG, JPG o PNG)",
+        "altText": {
+          "label": "Text alternatiu",
+          "helperText": "Proporcioneu una descripció breu de la imatge per a les persones que utilitzen lectors de pantalla. Deixeu-ho en blanc per indicar que la imatge es decorativa."
+        },
+        "name": {
+          "label": "Nom de la imatge"
+        }
+      },
+      "tags": {
+        "label": "Etiquetes"
+      },
+      "categories": {
+        "label": "Categories"
+      },
+      "discussable": {
+        "label": "Es permet el debat?",
+        "enabled": {
+          "label": "Sí, es permet el debat",
+          "description": "Els participants poden afegir publicacions, respostes i reaccions a aquest tauler de debat."
+        },
+        "disabled": {
+          "label": "No, el debat està bloquejat",
+          "description": "Elimina la capacitat d'afegir publicacions noves, respostes i reaccions. No elimina la participació anterior."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "location": {
+        "label": "Ubicació",
+        "helperText": "Mostreu l'àrea geogràfica a què pertany aquest lloc."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nom del lloc",
+        "requiredError": "El nom del lloc és un camp obligatori"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Definiu una miniatura per representar aquest lloc a l'ArcGIS Online, així com a la cerca i les galeries."
+      },
+      "description": {
+        "label": "Descripció",
+        "helperText": "Descripció del lloc."
+      },
+      "summary": {
+        "label": "Resum",
+        "helperText": "Resumiu breument el lloc."
+      },
+      "tags": {
+        "label": "Etiquetes",
+        "helperText": "Les etiquetes es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest lloc. Afegiu text i seleccioneu Introdueix per crear etiquetes noves."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest lloc. Les defineix la vostra organització de l'ArcGIS Online."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Definiu la visibilitat",
+          "helperText": "Controleu qui pot veure els botons de seguiment. Aquesta configuració s'aplica tant al botó de seguiment de l'acció de la pàgina com a qualsevol botó incrustat directament al disseny.",
+          "private": {
+            "label": "Privat",
+            "description": "Poden veure els botons de seguiment el propietari del lloc i els grups amb accés concedit"
+          },
+          "org": {
+            "label": "Organització",
+            "description": "Poden veure els botons de seguiment tots els membres que tinguin un compte a l'organització del lloc i els grups amb accés concedit"
+          },
+          "public": {
+            "label": "Públic",
+            "description": "Tothom pot veure els botons de seguiment"
+          }
+        },
+        "showFollowAction": {
+          "label": "Segueix l'acció",
+          "helperText": "Afegiu un botó de seguiment al menú d'accions de la pàgina, que es manté visible mentre els usuaris es desplacen pel disseny."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "location": {
+        "label": "Ubicació",
+        "helperText": "Mostreu l'àrea geogràfica a què pertany aquesta pàgina."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nom de la pàgina",
+        "requiredError": "El nom de la pàgina és un camp obligatori"
+      },
+      "description": {
+        "label": "Descripció",
+        "helperText": "Descripció de la pàgina."
+      },
+      "summary": {
+        "label": "Resum",
+        "helperText": "Resumiu breument la pàgina."
+      },
+      "tags": {
+        "label": "Etiquetes",
+        "helperText": "Les etiquetes es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquesta pàgina. Afegiu text i seleccioneu Introdueix per crear etiquetes noves."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Definiu una miniatura per representar aquesta pàgina a l'ArcGIS Online, així com a la cerca i les galeries."
+      },
+      "categories": {
+        "label": "Categories",
+        "helperText": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquesta pàgina. Les defineix la vostra organització de l'ArcGIS Online."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Títol",
+        "hint": "Els títols concisos augmentaran la visibilitat del vostre contingut.",
+        "requiredError": "El títol és un camp obligatori"
+      },
+      "summary": {
+        "label": "Resum",
+        "hint": "Resumiu breument el vostre contingut. Consell: milloreu el SEO fent servir paraules clau que siguin diferents de les de \"Títol\" i \"Etiquetes\"."
+      },
+      "description": {
+        "label": "Descripció",
+        "hint": "Afegiu detalls addicionals que expliquin el vostre contingut. Per arribar a un públic més ampli, intenteu que la facilitat de lectura sigui de nivell de secundària. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Feu servir una eina gratuïta d'anàlisi de la facilitat de lectura per comprovar el text</a>."
+      },
+      "tags": {
+        "label": "Etiquetes",
+        "hint": "Les etiquetes es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest contingut. Afegiu text i seleccioneu Introdueix per crear etiquetes noves."
+      },
+      "categories": {
+        "label": "Categories",
+        "agolHint": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest contingut. Les defineix la vostra organització de l'ArcGIS Online.",
+        "enterpriseHint": "Les categories es fan servir als catàlegs de cerca per ajudar altres persones a trobar aquest contingut. Les defineix la vostra organització de l'ArcGIS Enterprise.",
+        "agolNoCategoryHint": "Consell: les categories només estan disponibles si les defineix la vostra organització a l'organització de l'ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Consell: les categories només estan disponibles si les defineix la vostra organització a l'organització de l'ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Definiu una miniatura per representar aquest element a l'ArcGIS Online, així com a la cerca i les galeries."
+      },
+      "license": {
+        "label": "Condicions d\\&apos;ús",
+        "helperText": "Menys restriccions promouen la reutilització."
+      },
+      "serverExtractCapability": {
+        "label": "Capacitat d'extracció (exportació de dades)",
+        "helperText": "Habilita la capacitat d'\"extracció\" al servei d'aquest element. L'extracció admet suports addicionals."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Baixades allotjades",
+        "helperText": "Creeu fitxers de baixada directament des d'un servei allotjat. Això millora el rendiment en baixar contingut com ara taules i capes d'entitats. Per habilitar les baixades allotjades, cal que les funcions d'extracció estiguin habilitades."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Informació bàsica",
+        "message": "Aquesta informació s'utilitza per emplenar resultats de cerca i targetes de la galeria, i es mostra a la visualització dels detalls."
+      },
+      "about": {
+        "title": "Quant al contingut",
+        "message": "Les dues primeres línies de la descripció són el que es mostra als resultats de la cerca, però la descripció sencera es mostrarà a les visualitzacions detallades del contingut."
+      },
+      "image": {
+        "title": "Imatge destacada",
+        "message": "Tenir una bona imatge o miniatura destacada és important quan mostreu el vostre contingut a les nostres galeries o en visualitzacions que ressalten imatges com ara iniciatives, esdeveniments i enquestes. La mida recomanada és 760 x 505. Si la vostra imatge es mostra borrosa a les rutes publicades, us recomanem que substituïu la miniatura per una imatge més gran."
+      },
+      "location": {
+        "label": "Ubicació",
+        "helperText": "Mostreu l'àrea geogràfica on es durà a terme aquest contingut (perquè aparegui al disseny del contingut)."
+      },
+      "downloads": {
+        "label": "Baixades",
+        "helperText": "Configureu els formats de baixada, la programació de les actualitzacions de fitxers emmagatzemats a la memòria cau i més. Per obtenir més informació, consulteu la <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">documentació de baixada</calcite-link>."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} caràcters restants"
+    },
+    "imageThumbnail": {
+      "label": "Imatge en miniatura",
+      "upload": "Puja la imatge",
+      "done": "Fet",
+      "editThumbnail": "Edita la miniatura",
+      "browse": "Cerca una imatge",
+      "remove": "Elimina la imatge",
+      "edit": "Edita la imatge",
+      "defaultHeading": "Afegeix una imatge en miniatura",
+      "dropHeading": "Deixeu-la anar per pujar-la",
+      "errorHeading": "Proveu-ho amb una altra imatge",
+      "subheading": "La mida màxima és {size}, {types}",
+      "zoomOut": "redueix",
+      "zoomIn": "amplia",
+      "drag": "Arrossegueu-ho per canviar la posició",
+      "urlPlaceholder": "Tipus admesos: {types}",
+      "browseForImage": "Cerca una imatge",
+      "aria": {
+        "container": "Àrea d'imatge",
+        "crop": "Retalla l'àrea",
+        "handle": {
+          "top": "Canvia la mida de la part superior",
+          "right": "Canvia la mida de la part dreta",
+          "left": "Canvia la mida de la part esquerra",
+          "bottom": "Canvia la mida de la part inferior"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Detalls"
+      },
+      "basicInfo": {
+        "label": "Informació bàsica"
+      },
+      "membershipAccess": {
+        "label": "Accés a la pertinença"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nom del grup",
+        "requiredError": "El camp Nom del grup és obligatori"
+      },
+      "summary": {
+        "label": "Resum"
+      },
+      "access": {
+        "itemType": "Grup"
+      },
+      "_thumbnail": {
+        "label": "Miniatura",
+        "helperText": "Seleccioneu una imatge que representi el vostre grup al perfil de grup.",
+        "sizeDescription": "La mida màxima és de 10 MB. Mida recomanada: 400 × 400 o més"
+      },
+      "membershipAccess": {
+        "label": "Qui pot formar part d'aquest grup?",
+        "org": "Només els membres de la meva organització",
+        "collab": "Només els membres de la col·laboració associada i els de la meva organització",
+        "any": "Membres de qualsevol organització"
+      },
+      "contributeContent": {
+        "label": "Qui pot aportar contingut?",
+        "all": "Tots els membres del grup",
+        "admins": "Propietaris i administradors del grup"
+      }
+    }
+  }
+}

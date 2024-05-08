@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonimno",
+  "noUser": "Nema korisničkog imena",
+  "privateUser": "Privatni član",
+  "privateOrg": "Privatna organizacija",
+  "orgLabel": "Organizacija",
+  "profile": "Idite na profil",
+  "location": "Lokacija",
+  "information": "Informacije o objavi",
+  "mentionedBy": "Pomenuto od strane @{username}"
+}

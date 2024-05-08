@@ -1,0 +1,15 @@
+{
+  "done": "Gereed",
+  "cancel": "Annuleren",
+  "dragDrop": "Sleep een JPG-, PNG- of GIF-bestand en zet het neer.",
+  "browse": "Bladeren...",
+  "chooseDiff": "Kies een andere afbeelding",
+  "zoom": "Zoomen:",
+  "bestSize": "Gebruik een afbeelding van 300 x 300 pixels voor de beste weergave.",
+  "close": "Sluiten",
+  "or": "of",
+  "fromMap": "Maak een thumbnail op basis van kaart",
+  "fromMapDesc": "Maak een aangepaste thumbnail door de extent en het zoomniveau in te stellen",
+  "changeBasemap": "Wijzig basiskaart",
+  "loading": "Laden"
+}

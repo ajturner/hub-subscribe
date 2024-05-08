@@ -1,0 +1,30 @@
+{
+  "helperText": "Kataloğu tanımlayın ve yapılandırın",
+  "sections": {
+    "groups": {
+      "title": "Gruplar",
+      "helperText": "Aşağıdaki gruplar arama katalogunuzdaki içeriği içerir. Ayarlarını, içeriğini ve daha fazlasını görüntülemek için bir grup seçin.",
+      "createGroup": "Yeni Grup Oluştur"
+    },
+    "feeds": {
+      "title": "Akış Yapılandırması",
+      "helperText": "Hub akışları ile herkese açık verilerinizi kolayca erişilebilir ve yeniden kullanılabilir hale getirin.",
+      "learn": "Hub akışları hakkında daha fazla bilgi edinin",
+      "toggle": "Akışları Etkinleştir ",
+      "configure": "Akışları Yapılandır",
+      "notice": "Akışları etkinleştirmek için öncelikle Hub sitelerinizi Ayarlarınızda \"Herkese Açık\" olarak ayarlamanız gerekir"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Kaynak",
+    "editGroups": "Grupları düzenle",
+    "viewGroups": "Grubu görüntüle",
+    "myGroup": "Grubum",
+    "myOrganization": "Kuruluşum",
+    "myCommunity": "Topluluğum"
+  },
+  "formAlert": "Biçim uyarısı",
+  "alertMessages": {
+    "error": "Düzenlemeler kaydedilirken hata oluştu"
+  }
+}

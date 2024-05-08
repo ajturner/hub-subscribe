@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configuração avançada",
+    "serverTimeout": {
+      "label": "Tempo limite do servidor (segundos)",
+      "helperText": "Útil para serviços de maior dimensão que podem demorar mais tempo a responder."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Cantos",
+      "enum": {
+        "round": {
+          "label": "Redondo"
+        },
+        "square": {
+          "label": "Quadrado"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Sombra",
+      "enum": {
+        "heavy": {
+          "label": "Carregado"
+        },
+        "low": {
+          "label": "Baixo"
+        },
+        "medium": {
+          "label": "Médio"
+        },
+        "none": {
+          "label": "Não Iniciado"
+        }
+      }
+    },
+    "layout": {
+      "label": "Layout Estatístico",
+      "enum": {
+        "dataViz": {
+          "label": "Visualização de Dados"
+        },
+        "moreInfo": {
+          "label": "Mais Informações"
+        },
+        "simple": {
+          "label": "Simples"
+        }
+      }
+    },
+    "popoverTitle": "Título do Pop-over",
+    "popoverDescription": "Descrição do Pop-over",
+    "sectionTitle": "Aspeto",
+    "textAlign": "Alinhamento",
+    "visualInterest": {
+      "label": "Interesse Visual",
+      "enum": {
+        "icon": {
+          "label": "Ícone"
+        },
+        "logo": {
+          "label": "Logótipo"
+        },
+        "none": {
+          "label": "Nenhum"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Cor (Estatística)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Ligar",
+      "sourceLink": "URL da ligação",
+      "sourceTitle": "Texto de ligação"
+    },
+    "sectionTitle": "Detalhes",
+    "subtitle": "Subtítulo",
+    "title": "Título",
+    "trailingText": "Texto final"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "É necessária uma ligação para visualizar a origem."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "A formatar",
+    "unit": {
+      "label": "Exibir unidades",
+      "helperText": "Introduza a unidade de medição do seu valor."
+    },
+    "unitPosition": {
+      "label": "Colocação",
+      "enum": {
+        "after": {
+          "label": "Após"
+        },
+        "before": {
+          "label": "Antes"
+        },
+        "below": {
+          "label": "Abaixo"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Partilha",
+    "showShareIcon": "Ativar",
+    "shareableByValue": "Ativar Incorporações",
+    "shareableOnHover": {
+      "label": "Exibir",
+      "enum": {
+        "always": {
+          "label": "Sempre"
+        },
+        "hover": {
+          "label": "Apenas sobreposição do cursor"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Fonte de Dados",
+    "displayValue": "Exibir valor",
+    "sectionTitle": "Estatística",
+    "type": {
+      "label": "Tipo",
+      "enum": {
+        "dynamic": {
+          "label": "Dinâmico",
+          "description": "Selecione um conjunto de dados existente (serviço de elementos) a resumir."
+        },
+        "static": {
+          "label": "Estático",
+          "description": "Introduza manualmente um valor a destacar no seu layout."
+        }
+      }
+    }
+  }
+}

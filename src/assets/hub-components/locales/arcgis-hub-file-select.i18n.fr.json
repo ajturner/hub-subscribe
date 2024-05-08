@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Faire glisser et déposer le fichier à charger",
+  "imageHeading": "Charger une image",
+  "selectedHeading": "Fichier sélectionné",
+  "maxSizeAndSupportedTypes": "La taille maximale est de {maxSize} Mo, {fileTypes}",
+  "maxSize": "La taille maximale est de {maxSize} Mo",
+  "recommendedDimensions": "Dimensions recommandées {recommendedDimensions}",
+  "linkText": "Afficher la liste des fichiers pris en charge",
+  "contentButton": "Rechercher un fichier",
+  "imageButton": "Rechercher une image",
+  "clearButton": "Effacer la sélection",
+  "errorHeading": "Erreur",
+  "fileTooLargeError": "Fichier trop volumineux",
+  "multipleFilesError": "Impossible de charger plusieurs fichiers à la fois",
+  "unsupportedFileTypeError": "Ce type de fichier n’est pas pris en charge"
+}

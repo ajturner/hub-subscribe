@@ -1,0 +1,1 @@
+import{H as s}from"./p-742d0454.js";import{E as e,P as t}from"./p-89f8c546.js";const i=["hub:site:edit","hub:site:create","hub:site:followers","hub:site:discussions","hub:site:settings"],o=Object.assign(Object.assign({},s),{properties:Object.assign(Object.assign({},s.properties),{_discussions:e,telemetry:t})});export{i as SiteEditorTypes,o as SiteSchema}

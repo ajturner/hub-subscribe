@@ -1,0 +1,36 @@
+{
+  "edit": "Szerkesztés",
+  "delete": "Törlés",
+  "noneMessage": "Nincs hely beállítva",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Webhely",
+    "initiative": "Kezdeményezés",
+    "discussion": "Vita",
+    "content": "Tartalom"
+  },
+  "emptyLocation": {
+    "title": "Nincs megrajzolt helyszín",
+    "message": "{entityType} nem jelenik meg a térképen, amíg nem ad hozzá egy helyszínt."
+  },
+  "populatedLocation": {
+    "title": "Másik hely hozzáadása?",
+    "message": "Válassza ki ismét a rajzolóeszközt további helyek hozzáadásához (legfeljebb {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Elérte a pontok maximális számát ({currentCount}/{maxLocations})",
+    "message": "További helyszínek hozzáadása: pontok törlése, vagy vonalak és területek szerkesztése a pontok törléséhez (jobb klikk)."
+  },
+  "maximumLocations": {
+    "title": "Elérte a helyek maximális számát",
+    "message": "További helyszínek hozzáadása, egy vagy több helyszín eltávolítása, vagy az összes helyszín eltávolítása és egy általánosabb terület használata."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Hely hozzáadása",
+    "clear": "Összes törlése",
+    "extent": "Téglalap rajzolása",
+    "point": "Pont elhelyezése",
+    "polyline": "Vonal rajzolása",
+    "polygon": "Terület rajzolása"
+  }
+}

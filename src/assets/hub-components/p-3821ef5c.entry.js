@@ -1,0 +1,1 @@
+import{r,h as s,H as a}from"./p-d4ba4c14.js";const t=class{constructor(s){r(this,s)}render(){return s(a,{"data-element":"group-card"},s("h1",null,"Group Card Placeholder"))}static get assetsDirs(){return["locales"]}};t.style="";export{t as arcgis_hub_group_card}

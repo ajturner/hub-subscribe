@@ -1,0 +1,36 @@
+{
+  "edit": "Editovať",
+  "delete": "Zmazať",
+  "noneMessage": "Nebola nastavená poloha",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Lokalita",
+    "initiative": "Iniciatíva",
+    "discussion": "Diskusia",
+    "content": "Obsah"
+  },
+  "emptyLocation": {
+    "title": "Žiadna zakreslená lokalita",
+    "message": "{entityType} sa v mapách nezobrazí, pokým sa nepridá lokalita"
+  },
+  "populatedLocation": {
+    "title": "Pridať ďalšiu lokalitu?",
+    "message": "Ak chcete pridať ďalšie lokality, opäť vyberte nástroj na kreslenie (až do {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Maximum dosiahnutých bodov ({currentCount}/{maxLocations})",
+    "message": "Ak chcete pridať ďalšie lokality: odstráňte body alebo upravte línie a oblasti pre zmazanie ich bodov (kliknite pravým tlačidlom myši)."
+  },
+  "maximumLocations": {
+    "title": "Maximum dosiahnutých lokalít",
+    "message": "Ak chcete pridať viac lokalít, odstrániť jednu alebo viac lokalít alebo odstrániť všetky lokality a použiť širšiu oblasť."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Pridať polohu",
+    "clear": "Vyčistiť všetko",
+    "extent": "Nakresliť obdĺžnik",
+    "point": "Umiestniť bod",
+    "polyline": "Nakresliť líniu",
+    "polygon": "Nakresliť plochu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Select to zoom to location",
+  "displayField.existing": "Existing location",
+  "displayField.added": "Added location",
+  "displayField.existing.area": "Existing area",
+  "displayField.added.area": "Added area",
+  "point": "Point",
+  "line": "Line",
+  "area": "Area",
+  "viewAll": "View all locations",
+  "viewLess": "View less locations",
+  "action.update": "Update location",
+  "action.remove": "Remove location"
+}

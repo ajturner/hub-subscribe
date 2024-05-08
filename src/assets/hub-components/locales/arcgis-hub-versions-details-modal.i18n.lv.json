@@ -1,0 +1,9 @@
+{
+  "title": "Rediģēt versijas informāciju",
+  "save": "Saglabāt",
+  "cancel": "Atcelt",
+  "name.label": "Virsraksts",
+  "name.helpText": "Atstājiet virsrakstu tukšu, ja vēlaties, lai versiju identificētu pēc datuma laikspiedola.",
+  "description.label": "Apraksts",
+  "error": "Atjauninot versiju, radās kļūda."
+}

@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Napredna konfiguracija",
+    "serverTimeout": {
+      "label": "Kašnjenje servera (sekunde)",
+      "helperText": "Korisno za veće usluge kojima je potrebno više vremena da odgovore."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Ivice",
+      "enum": {
+        "round": {
+          "label": "Okruglo"
+        },
+        "square": {
+          "label": "Kvadrat"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Efekat senke",
+      "enum": {
+        "heavy": {
+          "label": "Teško"
+        },
+        "low": {
+          "label": "Nisko"
+        },
+        "medium": {
+          "label": "Srednje"
+        },
+        "none": {
+          "label": "Nije započeto"
+        }
+      }
+    },
+    "layout": {
+      "label": "Raspored statistike",
+      "enum": {
+        "dataViz": {
+          "label": "Vizuelizacija podataka"
+        },
+        "moreInfo": {
+          "label": "Više informacija"
+        },
+        "simple": {
+          "label": "Jednostavan"
+        }
+      }
+    },
+    "popoverTitle": "Iskačući naslov",
+    "popoverDescription": "Iskačući opis",
+    "sectionTitle": "Izgled",
+    "textAlign": "Poravnanje",
+    "visualInterest": {
+      "label": "Vizuelni interes",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logotip"
+        },
+        "none": {
+          "label": "Ništa"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Boja (Statistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "URL adresa linka",
+      "sourceTitle": "Tekst linka"
+    },
+    "sectionTitle": "Detalji",
+    "subtitle": "Podnaslov",
+    "title": "Naslov",
+    "trailingText": "Prateći tekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Potreban je link za prikaz izvora."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatiranje",
+    "unit": {
+      "label": "Prikaži jedinice",
+      "helperText": "Unesi jedincu mere za tvoju vrednost."
+    },
+    "unitPosition": {
+      "label": "Položaj",
+      "enum": {
+        "after": {
+          "label": "Posle"
+        },
+        "before": {
+          "label": "Pre"
+        },
+        "below": {
+          "label": "Ispod"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Deljenje",
+    "showShareIcon": "Omogući",
+    "shareableByValue": "Omogući ugrađivanja",
+    "shareableOnHover": {
+      "label": "Prikaz",
+      "enum": {
+        "always": {
+          "label": "Uvek"
+        },
+        "hover": {
+          "label": "Samo preći"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Izvor podataka",
+    "displayValue": "Prikaži vrednost",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Tip",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamički",
+          "description": "Odaberi postojeće podatke (uslugu) za rezimiranje."
+        },
+        "static": {
+          "label": "Statički",
+          "description": "Ručno unesite vrednost da je istaknete u vašem projektu."
+        }
+      }
+    }
+  }
+}

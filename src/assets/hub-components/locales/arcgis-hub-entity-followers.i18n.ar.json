@@ -1,0 +1,26 @@
+{
+  "followers": "المتابعون",
+  "tabs": {
+    "followers": "المتابعون",
+    "settings": "الإعدادات"
+  },
+  "addFollowers": {
+    "label": "أضف متابعين"
+  },
+  "emptyState": {
+    "message": "ليس لديك حاليا مجموعة متابعين."
+  },
+  "restrictedAccessState": {
+    "message": "ليس لديك حق الوصول."
+  },
+  "stats": {
+    "total": {
+      "title": "المجموع",
+      "trailingText": "المتابعون"
+    },
+    "new": {
+      "title": "جديد",
+      "trailingText": "آخر 30 يومًا"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Liikmed",
+  "facets": {
+    "role": {
+      "label": "Roll",
+      "all": "Kõik",
+      "manager": "Haldur",
+      "member": "Liige"
+    },
+    "dateJoined": {
+      "label": "Liitumise kuupäev"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Kokku",
+      "trailingText": "Töörühma liikmed"
+    },
+    "new": {
+      "title": "Uus",
+      "trailingText": "Viimased 30 päeva"
+    }
+  }
+}

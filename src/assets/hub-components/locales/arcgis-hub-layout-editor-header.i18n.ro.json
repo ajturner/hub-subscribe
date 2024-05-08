@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Partajat cu organizația",
+      "private": "Partajat cu proprietarul",
+      "public": "Partajat cu publicul",
+      "shared": "Partajat cu proprietarul și grupurile"
+    },
+    "editLayout": "Editare structură",
+    "lastUpdated": "Ultima actualizare {updated}",
+    "viewSite": "Vizualizare site"
+  },
+  "cloneLayoutLabel": "Strat tematic clonă",
+  "deletePageLabel": "Ștergere pagină",
+  "deleteSiteLabel": "Ștergere site",
+  "editInAgoLabel": "Editare în ArcGIS Online",
+  "managePage": "Administrare pagină",
+  "manageSite": "Administrare site",
+  "moreOptionsLabel": "Mai multe opțiuni",
+  "publishLabel": "Publicare",
+  "saveAsTemplateLabel": "Salvare ca șablon",
+  "saveLabel": "Salvare",
+  "sharingLabel": "Deschidere panou de partajare",
+  "viewLabel": "Vizualizare",
+  "viewPublishedLabel": "Vizualizare schiță publicată",
+  "viewUnpublishedLabel": "Previzualizare schiță nepublicată"
+}

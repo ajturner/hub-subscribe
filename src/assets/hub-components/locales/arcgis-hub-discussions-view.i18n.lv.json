@@ -1,0 +1,17 @@
+{
+  "summary": "Kopsavilkums",
+  "description": "Apraksts",
+  "details": "Papildinformācija",
+  "metrics": "Rādītāji",
+  "metricsDisclaimer": "Rāda tikai pēdējās 30 dienas",
+  "titleOpen": "Atvērt diskusiju",
+  "statusOpen": "Atvērts dalībai",
+  "titleClosed": "Aizvērta diskusija",
+  "statusClosed": "Slēgts dalībai",
+  "tags": "Atslēgvārdi",
+  "categories": "Kategorijas",
+  "metric.pageViews": "Lapas skatījumi",
+  "metric.postCount": "Ierakstu skaits",
+  "discussion": "Diskusija",
+  "discussionBoard": "Diskusiju panelis"
+}

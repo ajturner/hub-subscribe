@@ -1,0 +1,10 @@
+{
+  "error": "Midagi läks valesti",
+  "repliesFailure": "Selle postituse vastuseid ei saa kuvada.",
+  "thread.deleted.title": "Lõim kustutatud",
+  "thread.deleted.message": "Lingitud postitus ja vastus kustutati ning neid ei saa kuvada.",
+  "thread.deleted.action": "Kuva kõik postitused",
+  "reply.single.title": "Vaatate ühte vastust",
+  "reply.single.link": "Kuva kõik vastused",
+  "loading": "Laadimine"
+}

@@ -1,0 +1,17 @@
+{
+  "summary": "サマリー",
+  "description": "説明",
+  "details": "詳細",
+  "metrics": "指標",
+  "metricsDisclaimer": "過去 30 日間のみを表示",
+  "titleOpen": "ディスカッションを開く",
+  "statusOpen": "自由に参加できます",
+  "titleClosed": "ディスカッションは終了しました",
+  "statusClosed": "参加を締め切りました",
+  "tags": "タグ",
+  "categories": "カテゴリ",
+  "metric.pageViews": "ページ ビュー",
+  "metric.postCount": "投稿数",
+  "discussion": "ディスカッション",
+  "discussionBoard": "ディスカッション ボード"
+}

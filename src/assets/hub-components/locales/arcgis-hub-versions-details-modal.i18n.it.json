@@ -1,0 +1,9 @@
+{
+  "title": "Modifica dettagli versione",
+  "save": "Salva",
+  "cancel": "Annulla",
+  "name.label": "Titolo",
+  "name.helpText": "Lasciare il titolo vuoto se si desidera identificare la versione con un indicatore data-ora.",
+  "description.label": "Descrizione",
+  "error": "Errore durante l'aggiornamento della versione."
+}

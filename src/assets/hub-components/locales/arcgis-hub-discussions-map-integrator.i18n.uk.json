@@ -1,0 +1,16 @@
+{
+  "location.add": "Додайте місце розташування",
+  "location.remove": "Вилучити місце розташування",
+  "draw.tip": "Додати інше місце розташування?",
+  "prompt.add.post": "Додати до допису",
+  "prompt.add.reply": "Додати до відповіді",
+  "prompt.edit.point": "Перемістити точку",
+  "prompt.edit.polyline": "Редагувати лінію",
+  "prompt.edit.polygon": "Редагувати область",
+  "prompt.remove.point": "Видалити точку",
+  "prompt.remove.polyline": "Видалити лінію",
+  "prompt.remove.polygon": "Видалити область",
+  "prompt.remove.existing": "Скасувати вибір",
+  "prompt.location.edit": "Оновити малюнок",
+  "prompt.location.delete": "Видалити малюнок"
+}

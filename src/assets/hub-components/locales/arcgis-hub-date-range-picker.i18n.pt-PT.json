@@ -1,0 +1,15 @@
+{
+  "default": "Selecione um Intervalo de Data",
+  "today": "Hoje",
+  "yesterday": "Ontem",
+  "last7Days": "Últimos 7 Dias",
+  "last30Days": "Últimos 30 Dias",
+  "thisMonth": "Este Mês",
+  "lastMonth": "Mês Passado",
+  "pastYear": "Ano Passado",
+  "custom": "Personalizar",
+  "nextMonth": "Próximo mês",
+  "previousMonth": "Mês anterior",
+  "year": "Ano",
+  "title": "Selecionar período de tempo"
+}

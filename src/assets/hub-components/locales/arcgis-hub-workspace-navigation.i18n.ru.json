@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Операционная панель",
+    "details": "Сведения",
+    "overview": "Обзор",
+    "metrics": "Метрики",
+    "settings": "Настройки",
+    "collaborators": "Сотрудники",
+    "discussion": "Обсуждение",
+    "content": "Ресурсы",
+    "members": "Участники",
+    "participation": "Участие",
+    "followers": "Подписчики"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "overview": "概要",
+  "telemetry": {
+    "pageViews": "ページ ビュー",
+    "last30days": "過去 30 日間",
+    "lastUpdated": "最終更新: {hoursElapsed} 時間前"
+  },
+  "newNotice": {
+    "title": "これがプロジェクトのワークスペースです",
+    "message": "このワークスペースは、プロジェクトの編集向けにカスタマイズされています。 ワークスペースを使用すると共同作業者は個別のアイテムに集中できます。ワークスペースは継続的に開発中です。",
+    "link": "詳細"
+  },
+  "learnAbout": "Hub プロジェクトの詳細",
+  "feedbackNotice": {
+    "message": "Hub プロジェクトについてご意見をお聞かせください。 この機能はまだベータ版であるため、その使用方法についてのご意見をお待ちしています。",
+    "link": "フィードバックを送信"
+  },
+  "status": {
+    "notStarted": "開始していません",
+    "inProgress": "進行中",
+    "onHold": "保留中",
+    "complete": "完了"
+  },
+  "editDetails": "詳細の編集",
+  "noPurposeSet": "目的が設定されていません",
+  "noLocationSet": "場所が設定されていません"
+}

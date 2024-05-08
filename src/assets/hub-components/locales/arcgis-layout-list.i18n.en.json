@@ -1,0 +1,8 @@
+{
+    "grid.text": "Grid",
+    "grid.label": "View as grid",
+    "list.text": "List",
+    "list.label": "View as list",
+    "map.text": "Map",
+    "map.label": "View as map"
+}

@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "类型",
+    "tags": "标签",
+    "categories": "类别",
+    "sharing": "共享",
+    "dateUpdated": "更新日期",
+    "map": {
+      "label": "位置",
+      "tooltip": "应用地图范围作为位置过滤器"
+    }
+  },
+  "collections": {
+    "all": "全部",
+    "dataset": "数据",
+    "site": "站点",
+    "document": "文档",
+    "appAndMap": "应用程序和地图"
+  },
+  "noCollections": {
+    "title": "目录",
+    "message": "你的目录当前为空。",
+    "button": "配置目录"
+  }
+}

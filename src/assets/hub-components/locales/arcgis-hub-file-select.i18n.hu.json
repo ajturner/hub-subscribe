@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Húzza ide a feltölteni kívánt fájlt",
+  "imageHeading": "Kép feltöltése",
+  "selectedHeading": "Fájl kiválasztva",
+  "maxSizeAndSupportedTypes": "Maximális méret: {maxSize} MB, {fileTypes}",
+  "maxSize": "Maximális méret: {maxSize} MB",
+  "recommendedDimensions": "Javasolt méretek {recommendedDimensions}",
+  "linkText": "Támogatott fájlok listájának megjelenítése",
+  "contentButton": "A fájl megkeresése tallózással",
+  "imageButton": "Kép keresése",
+  "clearButton": "Kiválasztott elemek törlése",
+  "errorHeading": "Hiba",
+  "fileTooLargeError": "A fájl túl nagy",
+  "multipleFilesError": "Több fájl egyidejű feltöltése nem lehetséges",
+  "unsupportedFileTypeError": "Ez a fájltípus nem támogatott"
+}

@@ -1,0 +1,12 @@
+{
+  "save": "Uložiť",
+  "cancel": "Zrušiť",
+  "undoChanges": "Vrátiť zmeny",
+  "next": "Ďalšie",
+  "back": "Naspäť",
+  "formAlert": "Upozornenie na formulár",
+  "invalidForm": "Vyriešte prosím všetky chyby.",
+  "saveDisabled": "Uloženie zakázané",
+  "success": "Editácie úspešne uložené",
+  "error": "Chyba pri ukladaní editácií"
+}

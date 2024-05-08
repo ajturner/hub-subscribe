@@ -1,0 +1,1 @@
+import{r as t}from"./p-87582fe0.js";function n(n){return n.httpMethod="POST",t("/settings",n)}function s(n){return n.httpMethod="GET",t(`/settings/${n.id}`,n)}function r(n){return n.httpMethod="PATCH",t(`/settings/${n.id}`,n)}function e(n){return n.httpMethod="DELETE",t(`/settings/${n.id}`,n)}export{n as c,s as f,e as r,r as u}

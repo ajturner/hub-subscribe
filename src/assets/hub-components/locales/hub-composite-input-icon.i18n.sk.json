@@ -1,0 +1,19 @@
+{
+  "select": "Vybrať",
+  "cancel": "Zrušiť",
+  "iconModalTitle": "Vyberte ikonu",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Vybrať z knižnice"
+      },
+      "url": {
+        "description": "Zadajte URL pre vlastné"
+      }
+    }
+  },
+  "altText": {
+    "label": "Alternatívny text",
+    "helperText": "Ak nie je pridaný, ikona bude označená ako ilustračná."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "unauthenticated": {
+    "heading": "Please sign in.",
+    "message": "This site requires credentials to access.",
+    "actionText": "Sign In"
+  },
+  "not-found": {
+    "heading": "Page Not Found",
+    "message": "This page may have been moved or deleted. Try searching for it from the homepage",
+    "actionText": "Go to Homepage"
+  }
+}

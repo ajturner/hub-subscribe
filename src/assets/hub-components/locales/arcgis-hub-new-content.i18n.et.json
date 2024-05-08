@@ -1,0 +1,15 @@
+{
+  "new": "Uus",
+  "project": {
+    "title": "Uus projekt",
+    "description": "Saate esile tõsta tööd, millel on selged eesmärgid ja ajakavad"
+  },
+  "initiative": {
+    "title": "Uus algatus",
+    "description": "Saate esile tõsta tööd, millel on selged eesmärgid ja ajakavad"
+  },
+  "discussion": {
+    "title": "Uus arutelutahvel",
+    "description": "Uue arutelutahvli loomiseks sisestage teemat tutvustav pealkiri."
+  }
+}

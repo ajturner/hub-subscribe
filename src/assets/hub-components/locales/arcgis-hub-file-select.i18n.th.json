@@ -1,0 +1,16 @@
+{
+  "contentHeading": "ลากและวางไฟล์เพื่ออัปโหลด",
+  "imageHeading": "อัปโหลดภาพ",
+  "selectedHeading": "ไฟล์ที่เลือก",
+  "maxSizeAndSupportedTypes": "ขนาดสูงสุดคือ {maxSize}MB{fileTypes}",
+  "maxSize": "ขนาดสูงสุดคือ {maxSize}MB",
+  "recommendedDimensions": "ขนาดที่แนะนำ {recommendedDimensions}",
+  "linkText": "ดูรายการไฟล์ที่รองรับ",
+  "contentButton": "เรียกดูไฟล์",
+  "imageButton": "เรียกดูรูปภาพ",
+  "clearButton": "ล้างสิ่งที่เลือกไว้",
+  "errorHeading": "ข้อผิดพลาด",
+  "fileTooLargeError": "ไฟล์ขนาดใหญ่เกินไป",
+  "multipleFilesError": "ไม่สามารถอัปโหลดหลายไฟล์พร้อมกันได้",
+  "unsupportedFileTypeError": "ชนิดไฟล์นี้ไม่สนับสนุน"
+}

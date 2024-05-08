@@ -1,0 +1,30 @@
+{
+  "helperText": "Definovať a konfigurovať katalóg",
+  "sections": {
+    "groups": {
+      "title": "Skupiny",
+      "helperText": "Nižšie uvedené skupiny obsahujú obsah vo vašom katalógu vyhľadávania. Vyberte skupinu pre zobrazenie jej nastavenia, obsahu a ďalších informácií.",
+      "createGroup": "Vytvoriť novú skupinu"
+    },
+    "feeds": {
+      "title": "Konfigurácia kanálov",
+      "helperText": "Zjednodušte prístup k verejným otvoreným dátam a umožnite ich používanie pomocou Hub kanálov.",
+      "learn": "Dozvedieť sa o Hub kanáloch",
+      "toggle": "Povoliť kanály ",
+      "configure": "Konfigurovať kanály",
+      "notice": "Na povolenie kanálov potrebujete predovšetkým v nastaveniach nastaviť vaše Hub lokality na \"Verejné\"."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Od",
+    "editGroups": "Upraviť skupiny",
+    "viewGroups": "Zobraziť skupinu",
+    "myGroup": "Moja skupina",
+    "myOrganization": "Moja organizácia",
+    "myCommunity": "Moja komunita"
+  },
+  "formAlert": "Upozornenie na formulár",
+  "alertMessages": {
+    "error": "Chyba pri ukladaní editácií"
+  }
+}

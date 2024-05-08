@@ -1,0 +1,21 @@
+{
+  "title": "Účast",
+  "channelTitle": "Kanál účasti",
+  "addChannelsTitle": "Pro tuto položku je nutný kanál; lze nastavit pouze jeden.",
+  "headingChannelEdit": "Upravit kanál",
+  "headingChannelView": "Zobrazit kanál",
+  "headingChannelCreate": "Vytvořit nový kanál",
+  "buttons": {
+    "browse": "Procházet všechny kanály",
+    "new": "Nový kanál"
+  },
+  "galleryPickerTitle": "Vyberte kanál",
+  "channelsLabel": "Kanály",
+  "accessLabel": "Přístup",
+  "optionPublicLabel": "Veřejné",
+  "optionOrganizationLabel": "Organizace",
+  "optionPrivateLabel": "Soukromé",
+  "viewChannel": "Zobrazit kanál",
+  "editChannel": "Upravit kanál",
+  "save": "Uložit"
+}

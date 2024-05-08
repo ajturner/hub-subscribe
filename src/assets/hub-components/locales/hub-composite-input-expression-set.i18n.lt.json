@@ -1,0 +1,15 @@
+{
+  "addFilter": "Pridėti filtrą",
+  "attributeFilter": "Filtruoti",
+  "between": "Tarp",
+  "deleteFilter": "Ištrinti filtrą",
+  "endingDate": "Pabaigos data",
+  "endingValue": "Pabaigos reikšmė",
+  "expression": "Išraiška",
+  "filterType": "Filtro tipas",
+  "filterValue": "Filtro reikšmė",
+  "isExactly": "Tiksliai atitinka",
+  "startingDate": "Pradžios data",
+  "startingValue": "Pradžios reikšmė",
+  "selectAttribute": "Pasirinkti atributą"
+}

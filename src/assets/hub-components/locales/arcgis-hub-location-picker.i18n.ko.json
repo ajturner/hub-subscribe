@@ -1,0 +1,36 @@
+{
+  "edit": "편집",
+  "delete": "삭제",
+  "noneMessage": "위치가 설정되어 있지 않음",
+  "entityTypes": {
+    "project": "프로젝트",
+    "site": "사이트",
+    "initiative": "이니셔티브",
+    "discussion": "토론",
+    "content": "콘텐츠"
+  },
+  "emptyLocation": {
+    "title": "그린 위치 없음",
+    "message": "{entityType}은(는) 위치가 추가될 때까지 맵에 표시되지 않습니다."
+  },
+  "populatedLocation": {
+    "title": "다른 위치를 추가하시겠습니까?",
+    "message": "그리기 도구를 다시 선택하여 위치를 더 추가하세요(최대 {maxLocations}개)."
+  },
+  "maximumPoints": {
+    "title": "최대 포인트 수에 도달했습니다({currentCount}/{maxLocations}).",
+    "message": "위치를 더 추가하려면 포인트를 삭제하거나 라인 및 영역을 편집하여 포함된 포인트를 삭제하세요(마우스 우측 버튼 클릭)."
+  },
+  "maximumLocations": {
+    "title": "최대 위치 수에 도달했습니다.",
+    "message": "위치를 더 추가하려면 위치를 하나 이상 제거하거나 모든 위치를 제거하고 더 일반적인 영역을 사용하세요."
+  },
+  "drawLocationPopover": {
+    "tooltip": "위치 추가",
+    "clear": "모두 해제",
+    "extent": "사각형 그리기",
+    "point": "포인트 놓기",
+    "polyline": "라인 그리기",
+    "polygon": "영역 그리기"
+  }
+}

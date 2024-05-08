@@ -1,0 +1,15 @@
+{
+  "panel.heading": "ตัวกรองตำแหน่ง",
+  "panel.reset": "รีเซ็ตตัวกรอง",
+  "distance.title": "ระยะทาง",
+  "distance.placeholder": "ป้อนตัวเลข...",
+  "distance.message": "ป้อนตัวเลขเพื่อขยายพื้นที่ที่กรอง",
+  "system.imperial": "ยิ่งใหญ่",
+  "system.metric": "ระบบเมตริก",
+  "units.title": "หน่วย",
+  "units.feet": "ฟุต",
+  "units.miles": "ไมล์",
+  "units.nauticalmiles": "ไมล์ทะเล",
+  "units.meters": "เมตร",
+  "units.kilometers": "กิโลเมตร"
+}

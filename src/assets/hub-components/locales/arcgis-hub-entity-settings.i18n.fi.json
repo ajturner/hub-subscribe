@@ -1,0 +1,34 @@
+{
+  "settings": "Asetukset",
+  "delete": {
+    "project": "Poista projekti",
+    "initiative": "Poista aloite",
+    "site": "Poista sivusto",
+    "discussion": "Poista keskustelu",
+    "content": "Poista sisältö",
+    "page": "Poista sivu",
+    "group": "Poista ryhmä"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Poista projekti",
+      "initiative": "Poista aloite",
+      "site": "Poista sivusto",
+      "discussion": "Poista keskustelu",
+      "content": "Poista sisältö",
+      "page": "Poista sivu",
+      "group": "Poista ryhmä"
+    },
+    "content": "Haluatko varmasti poistaa kohteen:",
+    "delete": "Poista",
+    "cancel": "Peruuta"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Poimintaominaisuus muuttaa palvelun asetuksia.",
+        "message": "Tällä on vaikutusta muihin palveluun viittaaviin kohteisiin. Lisätietoja on kohdassa <docLink>Tuo tietoja isännöidyistä kohdekarttatasoista</docLink>"
+      }
+    }
+  }
+}

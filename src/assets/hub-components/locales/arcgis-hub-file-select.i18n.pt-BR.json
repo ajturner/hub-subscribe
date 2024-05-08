@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Arraste e solte o arquivo para transferir",
+  "imageHeading": "Transferir uma Imagem",
+  "selectedHeading": "Arquivo Selecionado",
+  "maxSizeAndSupportedTypes": "O Tamanho Máximo é {maxSize} MB, {fileTypes}",
+  "maxSize": "O Tamanho Máximo é {maxSize} MB",
+  "recommendedDimensions": "Dimensões recomendadas {recommendedDimensions}",
+  "linkText": "Visualizar Lista de Arquivos Suportados",
+  "contentButton": "Procurar por Arquivo",
+  "imageButton": "Procurar Imagem",
+  "clearButton": "Apagar Selecionado",
+  "errorHeading": "Erro",
+  "fileTooLargeError": "Arquivo muito grande",
+  "multipleFilesError": "Não é possível transferir vários arquivos de uma vez",
+  "unsupportedFileTypeError": "Este tipo de arquivo não tem suporte"
+}

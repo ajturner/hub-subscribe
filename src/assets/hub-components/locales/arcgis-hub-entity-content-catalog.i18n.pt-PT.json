@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tipo",
+    "tags": "Etiqueta",
+    "categories": "Categoria",
+    "sharing": "Partilha",
+    "dateUpdated": "Data de Atualização",
+    "map": {
+      "label": "Localização",
+      "tooltip": "Aplicar a extensão do mapa como um filtro de localização"
+    }
+  },
+  "collections": {
+    "all": "Tudo",
+    "dataset": "Dados",
+    "site": "Sites",
+    "document": "Documentos",
+    "appAndMap": "Aplicações e Mapas"
+  },
+  "noCollections": {
+    "title": "Catálogo",
+    "message": "O seu catálogo está atualmente vazio.",
+    "button": "Configurar Catálogo"
+  }
+}

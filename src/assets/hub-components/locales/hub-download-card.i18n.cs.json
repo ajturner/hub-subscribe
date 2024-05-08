@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Stáhnout",
+  "buttonOptions": "Možnosti stahování",
+  "menuRequest": "Vytvořit nové stahování s nejnovějšími daty",
+  "menuDownload": "Stáhnout soubor dříve vygenerovaný {createdDate}",
+  "fileCreated": "Vytvořený soubor",
+  "fileSize": "Velikost souboru",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "NENÍ K DISPOZICI"
+}

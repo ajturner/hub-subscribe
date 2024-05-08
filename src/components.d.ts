@@ -5,20 +5,102 @@
  * It contains typing information for all components that exist in this project.
  */
 import { HTMLStencilElement, JSXBase } from "@stencil/core/internal";
+import { IHubNavigation } from "./components/arcgis-hub-navigation-breadcrumbs/arcgis-hub-navigation-breadcrumbs";
 export namespace Components {
+    interface ArcgisHubNavigationBreadcrumb {
+    }
+    interface ArcgisHubNavigationBreadcrumbs {
+        /**
+          * Structured list of breadcrumbs
+         */
+        "navigation": IHubNavigation;
+        /**
+          * Optional URL or path to turn into breadcrumbs
+         */
+        "path": string;
+    }
+    interface ArcgisHubSubscribe {
+    }
+    interface ArcgisHubSubscribeButton {
+    }
+    interface ArcgisHubSubscribeConfiguration {
+    }
 }
 declare global {
+    interface HTMLArcgisHubNavigationBreadcrumbElement extends Components.ArcgisHubNavigationBreadcrumb, HTMLStencilElement {
+    }
+    var HTMLArcgisHubNavigationBreadcrumbElement: {
+        prototype: HTMLArcgisHubNavigationBreadcrumbElement;
+        new (): HTMLArcgisHubNavigationBreadcrumbElement;
+    };
+    interface HTMLArcgisHubNavigationBreadcrumbsElement extends Components.ArcgisHubNavigationBreadcrumbs, HTMLStencilElement {
+    }
+    var HTMLArcgisHubNavigationBreadcrumbsElement: {
+        prototype: HTMLArcgisHubNavigationBreadcrumbsElement;
+        new (): HTMLArcgisHubNavigationBreadcrumbsElement;
+    };
+    interface HTMLArcgisHubSubscribeElement extends Components.ArcgisHubSubscribe, HTMLStencilElement {
+    }
+    var HTMLArcgisHubSubscribeElement: {
+        prototype: HTMLArcgisHubSubscribeElement;
+        new (): HTMLArcgisHubSubscribeElement;
+    };
+    interface HTMLArcgisHubSubscribeButtonElement extends Components.ArcgisHubSubscribeButton, HTMLStencilElement {
+    }
+    var HTMLArcgisHubSubscribeButtonElement: {
+        prototype: HTMLArcgisHubSubscribeButtonElement;
+        new (): HTMLArcgisHubSubscribeButtonElement;
+    };
+    interface HTMLArcgisHubSubscribeConfigurationElement extends Components.ArcgisHubSubscribeConfiguration, HTMLStencilElement {
+    }
+    var HTMLArcgisHubSubscribeConfigurationElement: {
+        prototype: HTMLArcgisHubSubscribeConfigurationElement;
+        new (): HTMLArcgisHubSubscribeConfigurationElement;
+    };
     interface HTMLElementTagNameMap {
+        "arcgis-hub-navigation-breadcrumb": HTMLArcgisHubNavigationBreadcrumbElement;
+        "arcgis-hub-navigation-breadcrumbs": HTMLArcgisHubNavigationBreadcrumbsElement;
+        "arcgis-hub-subscribe": HTMLArcgisHubSubscribeElement;
+        "arcgis-hub-subscribe-button": HTMLArcgisHubSubscribeButtonElement;
+        "arcgis-hub-subscribe-configuration": HTMLArcgisHubSubscribeConfigurationElement;
     }
 }
 declare namespace LocalJSX {
+    interface ArcgisHubNavigationBreadcrumb {
+    }
+    interface ArcgisHubNavigationBreadcrumbs {
+        /**
+          * Structured list of breadcrumbs
+         */
+        "navigation"?: IHubNavigation;
+        /**
+          * Optional URL or path to turn into breadcrumbs
+         */
+        "path"?: string;
+    }
+    interface ArcgisHubSubscribe {
+    }
+    interface ArcgisHubSubscribeButton {
+    }
+    interface ArcgisHubSubscribeConfiguration {
+    }
     interface IntrinsicElements {
+        "arcgis-hub-navigation-breadcrumb": ArcgisHubNavigationBreadcrumb;
+        "arcgis-hub-navigation-breadcrumbs": ArcgisHubNavigationBreadcrumbs;
+        "arcgis-hub-subscribe": ArcgisHubSubscribe;
+        "arcgis-hub-subscribe-button": ArcgisHubSubscribeButton;
+        "arcgis-hub-subscribe-configuration": ArcgisHubSubscribeConfiguration;
     }
 }
 export { LocalJSX as JSX };
 declare module "@stencil/core" {
     export namespace JSX {
         interface IntrinsicElements {
+            "arcgis-hub-navigation-breadcrumb": LocalJSX.ArcgisHubNavigationBreadcrumb & JSXBase.HTMLAttributes<HTMLArcgisHubNavigationBreadcrumbElement>;
+            "arcgis-hub-navigation-breadcrumbs": LocalJSX.ArcgisHubNavigationBreadcrumbs & JSXBase.HTMLAttributes<HTMLArcgisHubNavigationBreadcrumbsElement>;
+            "arcgis-hub-subscribe": LocalJSX.ArcgisHubSubscribe & JSXBase.HTMLAttributes<HTMLArcgisHubSubscribeElement>;
+            "arcgis-hub-subscribe-button": LocalJSX.ArcgisHubSubscribeButton & JSXBase.HTMLAttributes<HTMLArcgisHubSubscribeButtonElement>;
+            "arcgis-hub-subscribe-configuration": LocalJSX.ArcgisHubSubscribeConfiguration & JSXBase.HTMLAttributes<HTMLArcgisHubSubscribeConfigurationElement>;
         }
     }
 }

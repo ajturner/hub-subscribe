@@ -1,0 +1,9 @@
+{
+  "title": "Muuda versiooni üksikasju",
+  "save": "Salvesta",
+  "cancel": "Tühista",
+  "name.label": "Pealkiri",
+  "name.helpText": "Jätke pealkiri tühjaks, kui soovite, et me määraks versiooni kuupäeva ajatempli põhjal.",
+  "description.label": "Kirjeldus",
+  "error": "Tõrge versiooni uuendamisel."
+}

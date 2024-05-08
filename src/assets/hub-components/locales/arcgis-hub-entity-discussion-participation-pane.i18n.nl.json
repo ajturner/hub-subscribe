@@ -1,0 +1,21 @@
+{
+  "title": "Deelname",
+  "channelTitle": "Deelnamekanaal",
+  "addChannelsTitle": "Er is een kanaal nodig voor dit item; er kan er slechts één worden ingesteld.",
+  "headingChannelEdit": "Kanaal bewerken",
+  "headingChannelView": "Kanaal weergeven",
+  "headingChannelCreate": "Nieuw kanaal maken",
+  "buttons": {
+    "browse": "Bekijk alle kanalen",
+    "new": "Nieuw kanaal"
+  },
+  "galleryPickerTitle": "Een kanaal selecteren",
+  "channelsLabel": "Kanalen",
+  "accessLabel": "Toegang",
+  "optionPublicLabel": "Openbaar",
+  "optionOrganizationLabel": "Organisatie",
+  "optionPrivateLabel": "Privé",
+  "viewChannel": "Kanaal weergeven",
+  "editChannel": "Kanaal bewerken",
+  "save": "Opslaan"
+}

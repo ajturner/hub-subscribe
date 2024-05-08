@@ -1,0 +1,14 @@
+{
+  "description": "Seleziona per zoomare alla posizione",
+  "displayField.existing": "Posizione esistente",
+  "displayField.added": "Posizione aggiunta",
+  "displayField.existing.area": "Area esistente",
+  "displayField.added.area": "Area aggiunta",
+  "point": "Punto",
+  "line": "Linea",
+  "area": "Area",
+  "viewAll": "Visualizza tutte le posizioni",
+  "viewLess": "Visualizza meno posizioni",
+  "action.update": "Aggiorna la posizione",
+  "action.remove": "Rimuovi la posizione"
+}

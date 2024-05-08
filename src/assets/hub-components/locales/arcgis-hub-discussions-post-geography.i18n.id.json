@@ -1,0 +1,14 @@
+{
+  "description": "Pilih untuk zoom ke lokasi",
+  "displayField.existing": "Lokasi yang ada",
+  "displayField.added": "Lokasi ditambahkan",
+  "displayField.existing.area": "Area yang ada",
+  "displayField.added.area": "Area ditambahkan",
+  "point": "Titik",
+  "line": "Garis",
+  "area": "Luas",
+  "viewAll": "Lihat semua lokasi",
+  "viewLess": "Lihat lebih sedikit lokasi",
+  "action.update": "Perbarui lokasi",
+  "action.remove": "Hapus lokasi"
+}

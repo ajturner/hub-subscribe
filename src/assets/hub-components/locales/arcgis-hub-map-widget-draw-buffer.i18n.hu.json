@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Helyszűrő",
+  "panel.reset": "Szűrő alaphelyzetbe állítása",
+  "distance.title": "Távolság",
+  "distance.placeholder": "Adja meg a kívánt számot…",
+  "distance.message": "Adja meg a szűrt terület bővítésének számát.",
+  "system.imperial": "Angolszász",
+  "system.metric": "Metrikus",
+  "units.title": "Mértékegységek",
+  "units.feet": "láb",
+  "units.miles": "mérföld",
+  "units.nauticalmiles": "Tengeri mérföld",
+  "units.meters": "méter",
+  "units.kilometers": "kilométer"
+}

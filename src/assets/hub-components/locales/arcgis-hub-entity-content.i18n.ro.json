@@ -1,0 +1,24 @@
+{
+  "content": "Conținut",
+  "tabs": {
+    "catalog": "Catalog",
+    "collections": "Colecții",
+    "catalogConfig": "Configurație catalog"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Configurați-vă catalogul",
+        "message": "Ați început construirea și configurarea catalogului dvs.! Catalogul dvs. este alcătuit din grupuri și populat de conținutul din ele.",
+        "link": "Aflați mai multe despre cataloage"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Catalogul este gol",
+        "message": "Sunteți gata să vă începeți catalogul! Catalogul dvs. este configurat prin adăugarea unuia sau mai multor grupuri și populate de conținutul din acestora.",
+        "link": "Începeţi"
+      }
+    }
+  }
+}

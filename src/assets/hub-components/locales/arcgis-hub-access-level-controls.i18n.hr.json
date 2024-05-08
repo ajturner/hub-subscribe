@@ -1,0 +1,9 @@
+{
+  "heading": "Razina dijeljenja:",
+  "public": "Javnost",
+  "publicInfo": "Svi mogu vidjeti ovo {itemType}",
+  "organization": "Organizacija",
+  "organizationInfo": "Svi članovi s računom do {orgName} i grupe mogu vidjeti ovo{itemType}",
+  "owner": "Vlasnik",
+  "ownerInfo": "Vlasnik i grupe s pristupom mogu vidjeti ovo {itemType}"
+}

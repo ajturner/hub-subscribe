@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Tablou de control",
+    "details": "Detalii",
+    "overview": "Prezentare generală",
+    "metrics": "Măsurători",
+    "settings": "Setări",
+    "collaborators": "Colaboratori",
+    "discussion": "Discuție",
+    "content": "Conținut",
+    "members": "Membri",
+    "participation": "Participare",
+    "followers": "Urmăritori"
+  }
+}

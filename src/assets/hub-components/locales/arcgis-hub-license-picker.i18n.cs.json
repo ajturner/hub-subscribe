@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Zvolte podmínky používání",
+  "editorLabel": "Vybrané podmínky používání",
+  "editorRemoveWarning": "Varování, chystáte se vymazat podmínky používání.",
+  "licenseDescriptionCc0": "Tato práce je určena veřejnosti",
+  "licenseDescriptionCcBy": "Vyžaduje uvedení autora",
+  "licenseDescriptionCcByNc": "Vyžaduje uvedení autora, umožňuje remixování, ale zakazuje komerční použití",
+  "licenseDescriptionCcByNcNd": "Nejpřísnější, vyžaduje uvedení autora, zakazuje komerční použití a remixování",
+  "licenseDescriptionCcByNcSa": "Vyžaduje uvedení autora, umožňuje remixování, ale zakazuje komerční použití a odvozená díla musí mít stejnou licenci",
+  "licenseDescriptionCcByNd": "Vyžaduje uvedení autora, povoluje komerční použití, ale zakazuje sdílení odvozenin",
+  "licenseDescriptionCcBySa": "Vyžaduje uvedení autora, umožňuje remixování a komerční využití",
+  "licenseDescriptionCustom": "Zobrazit podrobnosti",
+  "licenseDescriptionOdbl": "Povolte sdílení, vytváření a přizpůsobování, dokud ostatní uvádějí autora, sdílejí a udržují otevřený přístup",
+  "licenseDescriptionOdcBy": "Povolte sdílení, vytváření a přizpůsobování, dokud ostatní uvádějí autora",
+  "licenseDescriptionPddl": "Povolte sdílení, vytváření a přizpůsobování",
+  "licenseInfoButtonAriaLabel": "Podrobnosti o podmínkách používání, otevřou se na nové kartě",
+  "selectedLicenseLabelFallback": "Vlastní",
+  "selectedLicenseLabelNoLicense": "Žádné podmínky používání"
+}

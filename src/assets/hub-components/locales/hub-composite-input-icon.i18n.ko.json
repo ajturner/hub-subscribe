@@ -1,0 +1,19 @@
+{
+  "select": "선택",
+  "cancel": "취소",
+  "iconModalTitle": "아이콘 선택",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "라이브러리에서 선택"
+      },
+      "url": {
+        "description": "사용자 URL 제공"
+      }
+    }
+  },
+  "altText": {
+    "label": "대체 텍스트",
+    "helperText": "추가되지 않은 경우 아이콘이 장식으로 표시됩니다."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Katılım",
+  "channelTitle": "Katılım kanalı",
+  "addChannelsTitle": "Bu öge için bir kanal gerekmektedir; sadece bir kanal ayarlanabilir.",
+  "headingChannelEdit": "Kanalı düzenle",
+  "headingChannelView": "Kanalı görüntüle",
+  "headingChannelCreate": "Yeni kanal oluştur",
+  "buttons": {
+    "browse": "Tüm kanallara gözat",
+    "new": "Yeni kanal"
+  },
+  "galleryPickerTitle": "Bir kanal seç",
+  "channelsLabel": "Kanallar",
+  "accessLabel": "Erişim",
+  "optionPublicLabel": "Genel",
+  "optionOrganizationLabel": "Kuruluş",
+  "optionPrivateLabel": "Özel",
+  "viewChannel": "Kanalı görüntüle",
+  "editChannel": "Kanalı düzenle",
+  "save": "Kaydet"
+}

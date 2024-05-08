@@ -1,0 +1,36 @@
+{
+  "edit": "Edit",
+  "delete": "Delete",
+  "noneMessage": "No location set",
+  "entityTypes": {
+    "project": "Project",
+    "site": "Site",
+    "initiative": "Initiative",
+    "discussion": "Discussion",
+    "content": "Content"
+  },
+  "emptyLocation": {
+    "title": "No location drawn",
+    "message": "{entityType} will not display on maps until a location is added"
+  },
+  "populatedLocation": {
+    "title": "Add another location?",
+    "message": "Select the drawing tool again to add more locations (up to {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Maximum points reached ({currentCount}/{maxLocations})",
+    "message": "To add more locations: delete points, or edit lines and areas to delete their points (right click)."
+  },
+  "maximumLocations": {
+    "title": "Maximum locations reached",
+    "message": "To add more locations, remove one or more, or remove all locations and use a more general area."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Add location",
+    "clear": "Clear all",
+    "extent": "Draw a rectangle",
+    "point": "Drop a point",
+    "polyline": "Draw a line",
+    "polygon": "Draw an area"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "Afegeix una publicació",
+  "createPost": "Crea una publicació",
+  "emptyHeading": "Inicia un debat",
+  "emptyMessage": "Sigues la primera persona a parlar sobre un tema, És fàcil fer una pregunta o compartir el sabeu amb altes persones sobre un contingut.",
+  "searchIdeas": "Cerca publicacions",
+  "searchCount": "{start} - {end} de {total}",
+  "orderAsc": "Ascendent",
+  "orderDesc": "Descendent",
+  "sortRecent": "Recent",
+  "sortCreator": "Creador",
+  "layoutGrid": "Quadrícula",
+  "layoutList": "Llista"
+}

@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Časovna omejitev povezave strežnika je potekla, zato statistike ni bilo mogoče prikazati.",
+    "title": "Časovna omejitev strežnika je potekla"
+  },
+  "genericError": {
+    "message": "Statistike ni mogoče prikazati.",
+    "title": "Nekaj je šlo narobe"
+  }
+}

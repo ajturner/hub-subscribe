@@ -1,0 +1,52 @@
+{
+  "collaborators": "Līdzdalībnieki",
+  "editGroupButtonText": "Pievienot rediģēšanas grupas",
+  "viewGroupButtonText": "Pievienot skata grupas",
+  "groupPicker": {
+    "title": "Izvēlēties grupas",
+    "facet": {
+      "label": "No",
+      "editGroups": "Rediģēt grupas",
+      "viewGroups": "Skatīt grupu",
+      "myGroup": "Mana grupa",
+      "myOrganization": "Mana organizācija",
+      "myCommunity": "Mana kopiena"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Pievienot jaunas personas",
+    "message": "Ja ir nepieciešams pievienot personas, varat uzaicināt tās pievienoties kopienai vai <orgOverviewLink>sazināties ar administratoru</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupas, kuras var rediģēt",
+  "viewGroupsTitle": "Grupas, kuras var skatīt",
+  "project": {
+    "description": "Izvēlieties, kuras lietotāju grupas var skatīt un rediģēt šo projektu.",
+    "editGroupsDescription": "Šo grupu dalībnieki varēs rediģēt projekta informāciju.",
+    "viewGroupsDescription": "Šo grupu dalībnieki varēs meklēt un skatīt projektu, ja tas netiks publiski koplietots.",
+    "errorMessage": "Atjauninot projekta līdzstrādniekus, radās kļūda."
+  },
+  "content": {
+    "description": "Izvēlieties, kuras lietotāju grupas var skatīt un rediģēt šo saturu.",
+    "editGroupsDescription": "Šo grupu dalībnieki varēs rediģēt satura informāciju.",
+    "viewGroupsDescription": "Šo grupu dalībnieki varēs meklēt un skatīt saturu, ja tas netiks publiski koplietots.",
+    "errorMessage": "Atjauninot satura līdzstrādniekus, radās kļūda."
+  },
+  "discussion": {
+    "description": "Izvēlieties, kuras lietotāju grupas var skatīt un rediģēt šo diskusiju.",
+    "editGroupsDescription": "Šo grupu dalībnieki varēs rediģēt diskusijas informāciju.",
+    "viewGroupsDescription": "Šo grupu dalībnieki varēs meklēt un skatīt diskusiju, ja tā netiks publiski koplietota.",
+    "errorMessage": "Atjauninot diskusijas līdzstrādniekus, radās kļūda."
+  },
+  "site": {
+    "description": "Izvēlieties, kuras lietotāju grupas var skatīt un rediģēt šo vietni.",
+    "editGroupsDescription": "Šo grupu dalībnieki varēs rediģēt vietnes informāciju.",
+    "viewGroupsDescription": "Šo grupu dalībnieki varēs meklēt un skatīt vietni, ja tas netiks publiski koplietots.",
+    "errorMessage": "Atjauninot vietnes līdzstrādniekus, radās kļūda."
+  },
+  "newTab": "atvērt profilu jaunā cilnē",
+  "supportingTeams": "Atbalsta darba grupas",
+  "supportingTeamsDesc": "Šīs atbalsta grupas iepriekš bija saistītas ar jūsu vietni. Varat turpināt tās izmantot, lai koplietotu saturu ar sadarbības partneriem.",
+  "supportTeamsRemove": "Noņemt darba grupu",
+  "supportingTeamsRemoveError": "Atvienojot darba grupu, radās kļūda. Sazināties ar administratoru.",
+  "supportingTeamsRemoveSuccess": "Darba grupa ir sekmīgi atvienota."
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Conținut",
+  "facets": {
+    "type": "Tip",
+    "tags": "Marcaj",
+    "categories": "Categorie",
+    "sharing": "Partajare",
+    "dateUpdated": "Dată actualizată",
+    "map": {
+      "label": "Locaţie",
+      "tooltip": "Aplicați extinderea hărții ca filtru de locație"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Adăugare conținut",
+    "catalog": {
+      "myContent": "Resursele mele",
+      "favorites": "Preferințe",
+      "organization": "Organizația mea",
+      "world": "Internațional (public)"
+    },
+    "facets": {
+      "type": "Tip",
+      "sharing": "Partajare"
+    },
+    "collection": {
+      "appsAndMaps": "Aplicații și hărți",
+      "dataset": "Date",
+      "documents": "Documente",
+      "feedback": "Feedback",
+      "sites": "Site-uri"
+    },
+    "modal": {
+      "title": "Adăugare conținut"
+    },
+    "unsharedModal": {
+      "title": "Elemente neadăugate",
+      "notice": {
+        "icon": "semn-exclamare-triunghi",
+        "type": "pericol",
+        "title": "Acțiune incompletă",
+        "message": "Unele elemente nu au putut fi adăugate. Acest lucru se poate datora unor niveluri de partajare diferite în conținut sau deoarece proprietarul unui element nu este membru al grupului.",
+        "linkText": "Citiți mai multe despre partajare"
+      }
+    },
+    "itemSharedSuccessAlert": "Element(e) partajat(e) cu succes"
+  },
+  "close": "Închidere",
+  "newTab": "se deschide în filă nouă"
+}

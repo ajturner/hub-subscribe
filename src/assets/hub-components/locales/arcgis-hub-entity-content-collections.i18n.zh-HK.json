@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "顯示",
+    "hide": "隱藏",
+    "rename": "重新命名"
+  },
+  "formAlert": "表格警示",
+  "alertMessages": {
+    "success": "已成功儲存編輯內容",
+    "error": "儲存編輯內容時發生錯誤"
+  },
+  "collectionRenameModal": {
+    "title": "重新命名集合",
+    "fieldLabel": "集合標籤",
+    "requiredMessage": "需要集合標籤",
+    "apply": "套用"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "資料",
+      "hidden": "資料 (隱藏)"
+    },
+    "site": {
+      "visible": "網站",
+      "hidden": "網站 (隱藏)"
+    },
+    "document": {
+      "visible": "文件",
+      "hidden": "文件 (隱藏)"
+    },
+    "appAndMap": {
+      "visible": "應用程式與地圖",
+      "hidden": "應用程式與地圖 (隱藏)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (隱藏)"
+    }
+  },
+  "saveButton": "儲存"
+}

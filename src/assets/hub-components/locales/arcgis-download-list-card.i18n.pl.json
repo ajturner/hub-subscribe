@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Plik shape",
+  "sqlite": "Geobaza SQLite",
+  "geoPackage": "Geopakiet",
+  "filegdb": "Geobaza plikowa",
+  "featureCollection": "Zbiór obiektów",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Pobierz plik CSV",
+  "downloadshapefile": "Pobierz plik shape",
+  "downloadsqlite": "Pobierz geobazę SQLite",
+  "downloadgeoPackage": "Pobierz geopakiet",
+  "downloadfilegdb": "Pobierz geobazę plikową",
+  "downloadfeatureCollection": "Pobierz zbiór obiektów",
+  "downloadgeojson": "Pobierz plik GeoJSON",
+  "downloadexcel": "Pobierz plik programu Excel",
+  "rateLimitMessage": "Przepraszamy, osiągnięty został limit pobierania. Spróbuj ponownie za godzinę lub skontaktuj się z menedżerem zasobów.",
+  "createReplicaErrorMessage": "Błąd wewnątrzny podczas tworzenia repliki. Spróbuj ponownie za godzinę lub skontaktuj się z menedżerem zasobów."
+}

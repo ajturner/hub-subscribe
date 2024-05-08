@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite 地理数据库",
+  "geoPackage": "GeoPackage",
+  "filegdb": "文件地理数据库",
+  "featureCollection": "要素集合",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "下载 CSV",
+  "downloadshapefile": "下载 shapefile",
+  "downloadsqlite": "下载 SQLite 地理数据库",
+  "downloadgeoPackage": "下载 GeoPackage",
+  "downloadfilegdb": "下载文件地理数据库",
+  "downloadfeatureCollection": "下载要素集合",
+  "downloadgeojson": "下载 GeoJSON",
+  "downloadexcel": "下载 Excel",
+  "rateLimitMessage": "抱歉，已达到下载限制。 请在一小时后重试或联系内容管理员。",
+  "createReplicaErrorMessage": "创建复本内部错误。 请在一小时后重试或联系内容管理员。"
+}

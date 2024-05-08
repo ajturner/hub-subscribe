@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tip",
+    "tags": "Marcaj",
+    "categories": "Categorie",
+    "sharing": "Partajare",
+    "dateUpdated": "Dată actualizată",
+    "map": {
+      "label": "Locaţie",
+      "tooltip": "Aplicați extinderea hărții ca filtru de locație"
+    }
+  },
+  "collections": {
+    "all": "Totul",
+    "dataset": "Date",
+    "site": "Site-uri",
+    "document": "Documente",
+    "appAndMap": "Aplicații și hărți"
+  },
+  "noCollections": {
+    "title": "Catalog",
+    "message": "Catalogul dvs. este momentan gol.",
+    "button": "Configurare catalog"
+  }
+}

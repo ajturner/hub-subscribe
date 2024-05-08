@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Kun synlig for medlemmer",
+  "visibleOrg": "Synlig for organisationen",
+  "visibleAll": "Synlig for alle",
+  "anonymous": "Anonym",
+  "privateUser": "Privat medlem",
+  "noUser": "Intet brugernavn",
+  "orgLabel": "Organisation",
+  "privateOrg": "Privat organisation",
+  "location": "Position",
+  "profile": "Gå til profil",
+  "postedIn": "Slået op i {groupName}",
+  "manageChannel": "Administrer kanal",
+  "information": "Oplysninger om post",
+  "group.deleted": "Gruppen er slettet",
+  "unnamedChannel": "Ikke-navngivet kanal",
+  "replyingTo": "Sender svar til {fullName}",
+  "viewPost": "Vis post"
+}

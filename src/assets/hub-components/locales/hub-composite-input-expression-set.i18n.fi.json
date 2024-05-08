@@ -1,0 +1,15 @@
+{
+  "addFilter": "Lisää suodatin",
+  "attributeFilter": "Suodata",
+  "between": "Välillä",
+  "deleteFilter": "Poista suodatin",
+  "endingDate": "Lopetuspäivämäärä",
+  "endingValue": "Lopetusarvo",
+  "expression": "Lauseke",
+  "filterType": "Suodatintyyppi",
+  "filterValue": "Suodattimen arvo",
+  "isExactly": "On täsmälleen",
+  "startingDate": "Aloituspäivämäärä",
+  "startingValue": "Aloitusarvo",
+  "selectAttribute": "Valitse ominaisuustieto"
+}

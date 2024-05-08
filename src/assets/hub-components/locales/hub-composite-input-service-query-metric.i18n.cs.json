@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Sdílení",
+      "myself": "Moje",
+      "myOrganization": "Moje organizace",
+      "public": "Svět (veřejné)"
+    },
+    "catalog": {
+      "myContent": "Můj obsah",
+      "favorites": "Oblíbené",
+      "organization": "Moje organizace",
+      "world": "Svět (veřejné)"
+    }
+  },
+  "expression": {
+    "label": "Filtry atributů"
+  },
+  "field": {
+    "label": "Atribut"
+  },
+  "layer": "Vrstva nebo tabulka",
+  "statistic": {
+    "label": "Agregace"
+  }
+}

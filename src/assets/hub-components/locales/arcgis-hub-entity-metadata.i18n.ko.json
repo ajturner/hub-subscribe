@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "소유자"
+  },
+  "updatedDate": {
+    "description": "업데이트된 날짜"
+  },
+  "createdDate": {
+    "description": "발행됨"
+  },
+  "access": {
+    "label": {
+      "public": "공개",
+      "org": "기관",
+      "private": "소유자",
+      "shared": "비공개로 공유됨"
+    },
+    "description": {
+      "public": {
+        "site": "모든 사람이 이 사이트를 볼 수 있음",
+        "project": "모든 사용자가 이 프로젝트를 볼 수 있음",
+        "initiative": "모든 사람이 이 이니셔티브를 볼 수 있음",
+        "discussion": "모든 사람이 해당 토론을 볼 수 있음",
+        "default": "모든 사람이 이 콘텐츠를 볼 수 있음"
+      },
+      "org": {
+        "site": "기관의 모든 사람이 이 사이트를 볼 수 있음",
+        "project": "기관의 모든 사용자가 이 프로젝트를 볼 수 있음",
+        "initiative": "기관의 모든 사람이 이 이니셔티브를 볼 수 있음",
+        "discussion": "기관의 모든 사람이 해당 토론을 볼 수 있음",
+        "default": "기관의 모든 사람이 이 콘텐츠를 볼 수 있음"
+      },
+      "private": {
+        "site": "사용자만 이 사이트를 볼 수 있음",
+        "project": "사용자만 이 프로젝트를 볼 수 있음",
+        "initiative": "사용자만 이 이니셔티브를 볼 수 있음",
+        "discussion": "사용자만 이 토론을 볼 수 있음",
+        "default": "사용자만 이 콘텐츠를 볼 수 있음"
+      },
+      "shared": {
+        "site": "특정 그룹은 이 사이트를 볼 수 있음",
+        "project": "특정 그룹은 이 프로젝트를 볼 수 있음",
+        "initiative": "특정 그룹은 이 이니셔티브를 볼 수 있음",
+        "discussion": "특정 그룹은 해당 토론을 볼 수 있음",
+        "default": "특정 그룹은 이 콘텐츠를 볼 수 있음"
+      }
+    }
+  }
+}

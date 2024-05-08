@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Prikaži",
+    "hide": "Skrij",
+    "rename": "Preimenuj"
+  },
+  "formAlert": "Opozorilo obrazca",
+  "alertMessages": {
+    "success": "Uspešno shranjena urejanja",
+    "error": "Napaka pri shranjevanju urejanj"
+  },
+  "collectionRenameModal": {
+    "title": "Preimenuj zbirko",
+    "fieldLabel": "Napis zbirke",
+    "requiredMessage": "Napis zbirke je obvezen.",
+    "apply": "Uporabi"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Podatki",
+      "hidden": "Podatki (skrito)"
+    },
+    "site": {
+      "visible": "Spletna mesta",
+      "hidden": "Spletna mesta (skrito)"
+    },
+    "document": {
+      "visible": "Dokumenti",
+      "hidden": "Dokumenti (skrito)"
+    },
+    "appAndMap": {
+      "visible": "Aplikacije in karte",
+      "hidden": "Aplikacije in karte (skrito)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (skrito)"
+    }
+  },
+  "saveButton": "Shrani"
+}

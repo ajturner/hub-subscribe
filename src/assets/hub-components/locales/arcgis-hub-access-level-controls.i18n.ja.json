@@ -1,0 +1,9 @@
+{
+  "heading": "共有レベル",
+  "public": "パブリック",
+  "publicInfo": "すべてのユーザーがこの {itemType} を表示できます",
+  "organization": "組織",
+  "organizationInfo": "{orgName} のアカウントを持つすべてのメンバーとグループは、この {itemType} を表示できます",
+  "owner": "所有者",
+  "ownerInfo": "所有者とアクセス権のあるグループはこの {itemType} を表示できます"
+}

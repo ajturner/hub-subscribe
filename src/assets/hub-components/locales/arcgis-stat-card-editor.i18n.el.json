@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Διαμόρφωση για προχωρημένους",
+    "serverTimeout": {
+      "label": "Υπέρβαση Περιόδου Χρονικού Ορίου Διακομιστή (δευτερόλεπτα)",
+      "helperText": "Χρήσιμο για μεγάλες υπηρεσίες που ενδέχεται να χρειαστούν περισσότερο χρόνο για να ανταποκριθούν."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Γωνίες",
+      "enum": {
+        "round": {
+          "label": "Κυκλικό"
+        },
+        "square": {
+          "label": "Τετράγωνο"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Σκιά",
+      "enum": {
+        "heavy": {
+          "label": "Έντονη"
+        },
+        "low": {
+          "label": "Χαμηλό"
+        },
+        "medium": {
+          "label": "Μεσαίο"
+        },
+        "none": {
+          "label": "Δεν ξεκίνησε"
+        }
+      }
+    },
+    "layout": {
+      "label": "Διάταξη στατιστικών στοιχείων",
+      "enum": {
+        "dataViz": {
+          "label": "Οπτικοποίηση Δεδομένων"
+        },
+        "moreInfo": {
+          "label": "Περισσότερες πληροφορίες"
+        },
+        "simple": {
+          "label": "Απλή"
+        }
+      }
+    },
+    "popoverTitle": "Τίτλος Αναδυόμενου Παράθυρου",
+    "popoverDescription": "Περιγραφή Αναδυόμενου Παράθυρου",
+    "sectionTitle": "Εμφάνιση",
+    "textAlign": "Στοίχιση",
+    "visualInterest": {
+      "label": "Οπτική Ενδιαφέροντος",
+      "enum": {
+        "icon": {
+          "label": "Εικονίδιο"
+        },
+        "logo": {
+          "label": "Λογότυπο"
+        },
+        "none": {
+          "label": "Καθόλου"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Χρώμα (στατιστικό στοιχείο)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Σύνδεσμος",
+      "sourceLink": "URL συνδέσμου",
+      "sourceTitle": "Κείμενο συνδέσμου"
+    },
+    "sectionTitle": "Λεπτομέρειες",
+    "subtitle": "Υπότιτλος",
+    "title": "Τίτλος",
+    "trailingText": "Κείμενο τέλους"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Απαιτείται σύνδεσμος για την εμφάνιση της πηγής."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Μορφοποίηση",
+    "unit": {
+      "label": "Μονάδες εμφάνισης",
+      "helperText": "Καταχωρίστε τη μονάδα μέτρησης για την τιμή σας."
+    },
+    "unitPosition": {
+      "label": "Τοποθέτηση",
+      "enum": {
+        "after": {
+          "label": "Μετά"
+        },
+        "before": {
+          "label": "Πριν"
+        },
+        "below": {
+          "label": "Κάτω"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Διαδικασία κοινοποίησης",
+    "showShareIcon": "Ενεργοποίηση",
+    "shareableByValue": "Ενεργοποίηση ενσωματώσεων",
+    "shareableOnHover": {
+      "label": "Οθόνη",
+      "enum": {
+        "always": {
+          "label": "Πάντα"
+        },
+        "hover": {
+          "label": "Μόνο κατάδειξη"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Πηγή δεδομένων",
+    "displayValue": "Παρουσίαση τιμής",
+    "sectionTitle": "Στατιστικό στοιχείο",
+    "type": {
+      "label": "Τύπος",
+      "enum": {
+        "dynamic": {
+          "label": "Δυναμική",
+          "description": "Επιλέξτε υπάρχον σύνολο δεδομένων (υπηρεσία στοιχείων) για σύνοψη."
+        },
+        "static": {
+          "label": "Στατική",
+          "description": "Καταχωρίστε μη αυτόματα τιμή για τονίζετε στη διάταξή σας."
+        }
+      }
+    }
+  }
+}

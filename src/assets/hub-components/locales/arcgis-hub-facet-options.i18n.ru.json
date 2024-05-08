@@ -1,0 +1,7 @@
+{
+  "showMore": "Показать ещё {num}",
+  "showLess": "Показать меньше",
+  "inputPlaceholder": "Опции фильтра",
+  "noMatchesNotice": "Подходящие параметры не найдены",
+  "inputAriaLabel": "Найти параметр по ключевому слову"
+}

@@ -1,0 +1,25 @@
+{
+  "moreResults": "Flere resultater",
+  "search": "Søg",
+  "filter": "Filtre",
+  "viewResults": "Vis resultater ({numResults})",
+  "resultsCount": "1 - {pageTotal} af {searchTotal}",
+  "backToTop": "Tilbage til toppen",
+  "facets": {
+    "access": {
+      "private": "Mig",
+      "shared": "Ejer og grupper",
+      "org": "Organisation",
+      "public": "Offentlig"
+    },
+    "license": {
+      "custom": "Brugerdefineret",
+      "none": "Ingen"
+    }
+  },
+  "layoutOptions": {
+    "list": "Vis liste",
+    "grid": "Vis gitter"
+  },
+  "galleryActionsLabel": "Yderligere handlinger"
+}

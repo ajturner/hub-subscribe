@@ -1,0 +1,14 @@
+{
+  "createdBy": "Vytvořil/a {creator}",
+  "emptyMessage": "Nebyly nalezeny žádné verze",
+  "errorMessage": "Chyba při načítání verzí",
+  "menuLabel": "zobrazit akce",
+  "publishedBadge": "Publikováno",
+  "viewingBadge": "Zobrazení",
+  "popover.label": "Akce verze",
+  "popover.actions.delete": "Odstranit",
+  "popover.actions.edit": "Upravit údaje",
+  "popover.actions.share": "Sdílet",
+  "shareErrorMessage": "Chyba při kopírování adresy URL pro sdílení do schránky.",
+  "shareSuccessMessage": "URL adresa pro sdílení byla zkopírovaná do schránky."
+}

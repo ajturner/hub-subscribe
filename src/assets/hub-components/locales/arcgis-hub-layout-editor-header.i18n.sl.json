@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Deljeno z organizacijo",
+      "private": "Deljeno z lastnikom",
+      "public": "Deljeno z vsemi",
+      "shared": "Deljeno z lastnikom in skupinami"
+    },
+    "editLayout": "Uredi postavitev",
+    "lastUpdated": "Nazadnje posodobljeno {updated}",
+    "viewSite": "Ogled spletnega mesta"
+  },
+  "cloneLayoutLabel": "Kloniraj postavitev",
+  "deletePageLabel": "Izbriši stran",
+  "deleteSiteLabel": "Izbriši spletno mesto",
+  "editInAgoLabel": "Uredi v ArcGIS Online",
+  "managePage": "Upravljaj stran",
+  "manageSite": "Upravljaj mesto",
+  "moreOptionsLabel": "Več možnosti",
+  "publishLabel": "Objavi",
+  "saveAsTemplateLabel": "Shrani kot predlogo",
+  "saveLabel": "Shrani",
+  "sharingLabel": "Odpri ploščo za deljenje",
+  "viewLabel": "Ogled",
+  "viewPublishedLabel": "Prikaži objavljen osnutek",
+  "viewUnpublishedLabel": "Predogled neobjavljenega osnutka"
+}

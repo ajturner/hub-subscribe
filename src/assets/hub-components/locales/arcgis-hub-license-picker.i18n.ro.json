@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Alegeți condițiile de utilizare",
+  "editorLabel": "Condiții de utilizare selectate",
+  "editorRemoveWarning": "Avertizare, urmează să ștergeți condițiile de utilizare.",
+  "licenseDescriptionCc0": "Această sarcină este dedicată publicului",
+  "licenseDescriptionCcBy": "Necesită atribuire",
+  "licenseDescriptionCcByNc": "Necesită atribuire, permite recombinarea, dar interzice utilizarea comercială",
+  "licenseDescriptionCcByNcNd": "Cea mai restrictivă, necesită atribuire, interzice utilizarea comercială și recombinarea",
+  "licenseDescriptionCcByNcSa": "Necesită atribuire, permite recombinarea, dar interzice utilizarea comercială și sarcinile derivate trebuie să mențină aceeași licență",
+  "licenseDescriptionCcByNd": "Necesită atribuire, permite utilizarea comercială, dar interzice distribuirea materialelor derivate",
+  "licenseDescriptionCcBySa": "Necesită atribuire, permite recombinarea și utilizarea comercială",
+  "licenseDescriptionCustom": "Vizualizați pentru detalii",
+  "licenseDescriptionOdbl": "Permite distribuirea, crearea și adaptarea atâta timp când alte atribute, de genul distribuirii, sunt menținute deschise",
+  "licenseDescriptionOdcBy": "Permite distribuirea, crearea și adaptarea atâta timp când alte atribute",
+  "licenseDescriptionPddl": "Permite distribuirea, crearea și adaptarea",
+  "licenseInfoButtonAriaLabel": "Detalii despre condițiile de utilizare, deschidere în filă nouă",
+  "selectedLicenseLabelFallback": "Personalizare",
+  "selectedLicenseLabelNoLicense": "Nu există condiții de utilizare"
+}

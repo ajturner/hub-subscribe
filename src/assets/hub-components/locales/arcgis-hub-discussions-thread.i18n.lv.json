@@ -1,0 +1,10 @@
+{
+  "error": "Radās kāda problēma",
+  "repliesFailure": "Atbildes uz šo ziņu nevar parādīt.",
+  "thread.deleted.title": "Pavediens ir izdzēsts",
+  "thread.deleted.message": "Saistītā ziņa un atbilde tika izdzēsta, un to nevar parādīt.",
+  "thread.deleted.action": "Skatīt visas ziņas",
+  "reply.single.title": "Jūs skatāt vienu atbildi",
+  "reply.single.link": "Skatīt visas atbildes",
+  "loading": "Ielādē"
+}

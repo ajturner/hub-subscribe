@@ -1,0 +1,24 @@
+{
+  "content": "Content",
+  "tabs": {
+    "catalog": "Catalogus",
+    "collections": "Verzamelingen",
+    "catalogConfig": "Catalogusconfiguratie"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Uw catalogus configureren",
+        "message": "Het opbouwen en configureren van uw catalogus is gestart! Uw catalogis bestaat uit groepen en wordt gevuld met de content in die groepen.",
+        "link": "Meer informatie over catalogi"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Catalogus is leeg",
+        "message": "U bent klaar om aan de slag te gaan met uw catalogus! De catalogus wordt geconfigureerd door er een of meer groepen aan toe te voegen en hij wordt gevuld met de content in die groepen.",
+        "link": "Aan de slag"
+      }
+    }
+  }
+}

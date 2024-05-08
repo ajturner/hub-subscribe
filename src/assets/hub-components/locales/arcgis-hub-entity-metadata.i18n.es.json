@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Propietario"
+  },
+  "updatedDate": {
+    "description": "Fecha de actualización"
+  },
+  "createdDate": {
+    "description": "Publicado"
+  },
+  "access": {
+    "label": {
+      "public": "Público",
+      "org": "Organización",
+      "private": "Propietario",
+      "shared": "Compartido en privado"
+    },
+    "description": {
+      "public": {
+        "site": "Cualquiera puede ver este sitio",
+        "project": "Todos pueden ver este proyecto",
+        "initiative": "Cualquiera puede ver esta iniciativa",
+        "discussion": "Cualquiera puede ver este debate",
+        "default": "Cualquiera puede ver este contenido"
+      },
+      "org": {
+        "site": "Cualquier persona de su organización puede ver este sitio",
+        "project": "Cualquier persona de su organización puede ver este proyecto",
+        "initiative": "Cualquier persona de su organización puede ver esta iniciativa",
+        "discussion": "Cualquier persona de su organización puede ver este debate",
+        "default": "Cualquier persona de su organización puede ver este contenido"
+      },
+      "private": {
+        "site": "Solo usted puede ver este sitio",
+        "project": "Solo usted puede ver este proyecto",
+        "initiative": "Solo usted puede ver esta iniciativa",
+        "discussion": "Solo usted puede ver este debate",
+        "default": "Solo usted puede ver este contenido"
+      },
+      "shared": {
+        "site": "Los grupos seleccionados pueden ver este sitio",
+        "project": "Los grupos seleccionados pueden ver este proyecto",
+        "initiative": "Los grupos seleccionados pueden ver esta iniciativa",
+        "discussion": "Los grupos seleccionados pueden ver este debate",
+        "default": "Los grupos seleccionados pueden ver este contenido"
+      }
+    }
+  }
+}

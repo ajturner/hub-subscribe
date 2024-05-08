@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Välj användarvillkor",
+  "editorLabel": "Valda användarvillkor",
+  "editorRemoveWarning": "Varning: Du håller på att radera användarvillkor.",
+  "licenseDescriptionCc0": "Det här arbetet är dedikerat till allmänheten",
+  "licenseDescriptionCcBy": "Kräver attributering",
+  "licenseDescriptionCcByNc": "Kräver attributering, tillåter remixing, men förbjuder kommersiell användning",
+  "licenseDescriptionCcByNcNd": "Mest restriktiv, kräver attributering, förbjuder kommersiell användning och remixing",
+  "licenseDescriptionCcByNcSa": "Kräver attributering, tillåter remixing, men förbjuder kommersiell användning och härlett arbete måste behålla samma licens",
+  "licenseDescriptionCcByNd": "Kräver attributering, tillåter kommersiell användning, men förbjuder delning av härledningar",
+  "licenseDescriptionCcBySa": "Kräver attributering, tillåter remixing och kommersiell användning",
+  "licenseDescriptionCustom": "Visa information",
+  "licenseDescriptionOdbl": "Tillåt delning, skapande och anpassning så länge andra lämnar bidrag, delar lika och behåller öppet",
+  "licenseDescriptionOdcBy": "Tillåt delning, skapande och anpassning så länge andra lämnar bidrag",
+  "licenseDescriptionPddl": "Tillåt delning, skapande och anpassning",
+  "licenseInfoButtonAriaLabel": "Information om användarvillkor, öppnas i ny flik",
+  "selectedLicenseLabelFallback": "Anpassat",
+  "selectedLicenseLabelNoLicense": "Inga användarvillkor"
+}

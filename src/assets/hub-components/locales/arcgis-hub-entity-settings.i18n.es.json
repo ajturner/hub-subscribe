@@ -1,0 +1,34 @@
+{
+  "settings": "Ajustes",
+  "delete": {
+    "project": "Eliminar proyecto",
+    "initiative": "Eliminar iniciativa",
+    "site": "Eliminar sitio",
+    "discussion": "Eliminar debate",
+    "content": "Eliminar contenido",
+    "page": "Eliminar página",
+    "group": "Eliminar grupo"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Eliminar proyecto",
+      "initiative": "Eliminar iniciativa",
+      "site": "Eliminar sitio",
+      "discussion": "Eliminar debate",
+      "content": "Eliminar contenido",
+      "page": "Eliminar página",
+      "group": "Eliminar grupo"
+    },
+    "content": "¿Seguro de que desea eliminar?",
+    "delete": "Eliminar",
+    "cancel": "Cancelar"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "La capacidad de \"extracción\" cambia la configuración del servicio.",
+        "message": "Esto afectará a los demás elementos que hagan referencia al servicio. Para obtener más detalles, consulte <docLink>Exportar datos de capas de entidades alojadas</docLink>"
+      }
+    }
+  }
+}

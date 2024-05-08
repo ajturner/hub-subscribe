@@ -1,0 +1,8 @@
+{
+  "header": "讨论选项",
+  "secondary": "取消",
+  "primary": "保存更改",
+  "pending": "正在保存",
+  "error.title": "出错",
+  "error.message": "请重试以保存更改。"
+}

@@ -1,0 +1,31 @@
+{
+  "dateRange": "Dátumtartomány: {start}–{end}",
+  "pageViews": "Oldalmegtekintések",
+  "timeOnSite": "Átlagos tartózkodási idő az oldalon percben",
+  "users": "Munkamenetek",
+  "viewsOverTime": "Oldalmegtekintések az idő múlásával",
+  "disabledTracking": "A tevékenységkövetés le van tiltva",
+  "enableTracking": "A webhely beállításaiban engedélyezze a Hub tevékenység nyomonkövetését, hogy nyomon követhesse a webhely használatát.",
+  "learnMore": "További információ.",
+  "disabled": "Letiltva",
+  "notificationLabel": "Adatok frissítve",
+  "dataUpdated": "Adatok frissítve",
+  "subscribe": "Feliratkozás",
+  "subscribed": "Feliratkozott",
+  "weeklyReport": "Heti jelentés",
+  "timestampTitle": {
+    "hour": "Napszak",
+    "day": "Dátum",
+    "week": "Hét"
+  },
+  "formAlert": "Űrlapfigyelmeztetés",
+  "success": "Az előfizetés frissítése sikeresen megtörtént",
+  "subscriptionActivatedTitle": "Előfizetés aktiválva",
+  "subscriptionActivatedMessage": "A heti elkötelezettségi mérőszámok fogadására regisztrálta a(z) {email} címet.",
+  "unsubscribeCompleteTitle": "A leiratkozás megtörtént",
+  "unsubscribeCompleteMessage": "A(z) {email} cím elkötelezettségi mérőszámok fogadásáról való leiratkoztatása sikeresen megtörtént.",
+  "problemSubscribingTitle": "Hiba történt am feliratkozás során",
+  "problemSubscribingMessage": "Hiba történt a következő feliratkozása során: Hiba: ",
+  "problemUnsubscribingTitle": "Hiba történt a leiratkozása során",
+  "problemUnsubscribingMessage": "Hiba történt a következő leiratkozása során: Hiba: "
+}

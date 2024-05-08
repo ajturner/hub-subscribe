@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Μεταφορά και απόθεση αρχείου για ανέβασμα",
+  "imageHeading": "Μεταφόρτωση μίας Εικόνας",
+  "selectedHeading": "Επιλέχθηκε Αρχείο",
+  "maxSizeAndSupportedTypes": "Το Μέγιστο Μέγεθος είναι {maxSize}MB, {fileTypes}",
+  "maxSize": "Το Μέγιστο Μέγεθος είναι {maxSize}MB",
+  "recommendedDimensions": "Προτεινόμενες διαστάσεις {recommendedDimensions}",
+  "linkText": "Προβολή Καταλόγου Υποστηριζόμενων Αρχείων",
+  "contentButton": "Περιήγηση για Αρχείο",
+  "imageButton": "Περιήγηση και αναζήτηση εικόνας",
+  "clearButton": "Απαλοιφή Επιλεγμένων",
+  "errorHeading": "Σφάλμα",
+  "fileTooLargeError": "Το αρχείο είναι πολύ μεγάλο",
+  "multipleFilesError": "Δεν είναι δυνατή η ταυτόχρονη μεταφόρτωση πολλών αρχείων",
+  "unsupportedFileTypeError": "Αυτός ο τύπος αρχείου δεν υποστηρίζεται"
+}

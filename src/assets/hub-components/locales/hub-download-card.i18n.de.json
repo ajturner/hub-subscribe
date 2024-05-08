@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Herunterladen",
+  "buttonOptions": "Download-Optionen",
+  "menuRequest": "Neuen Download mit aktuellen Daten generieren",
+  "menuDownload": "Datei herunterladen, die am {createdDate} erstellt wurde",
+  "fileCreated": "Datei wurde erstellt",
+  "fileSize": "Dateigröße",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N. z."
+}

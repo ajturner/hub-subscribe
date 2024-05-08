@@ -1,0 +1,16 @@
+{
+  "location.add": "Tambah lokasi",
+  "location.remove": "Hapus lokasi",
+  "draw.tip": "Tambahkan lokasi lain?",
+  "prompt.add.post": "Tambahkan ke postingan",
+  "prompt.add.reply": "Tambahkan ke balasan",
+  "prompt.edit.point": "Pindahkan titik",
+  "prompt.edit.polyline": "Edit garis",
+  "prompt.edit.polygon": "Edit area",
+  "prompt.remove.point": "Hapus titik",
+  "prompt.remove.polyline": "Hapus garis",
+  "prompt.remove.polygon": "Hapus area",
+  "prompt.remove.existing": "Batalkan pilihan",
+  "prompt.location.edit": "Perbarui gambar",
+  "prompt.location.delete": "Hapus gambar"
+}

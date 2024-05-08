@@ -1,0 +1,7 @@
+{
+  "org": "Organization",
+  "private": "Private",
+  "public": "Public",
+  "unnamed": "Unnamed channel",
+  "groupNotFound": "Group not found"
+}

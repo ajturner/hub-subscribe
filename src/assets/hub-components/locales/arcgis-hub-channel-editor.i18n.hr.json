@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Neimenovani kanal",
+  "name": {
+    "label": "Naziv",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Spremi",
+  "access": {
+    "private": {
+      "label": "Privatno",
+      "description": "Odabrane grupe mogu sudjelovati"
+    },
+    "organization": {
+      "label": "Moja organizacija",
+      "description": "Svi članovi s računom za {orgName} mogu sudjelovati",
+      "disabledTooltip": "Samo administratori organizacije mogu stvarati organizacijske kanale."
+    },
+    "public": {
+      "label": "Javno",
+      "description": "Svatko s računom može sudjelovati",
+      "disabledTooltip": "Samo administratori organizacije mogu stvarati javne kanale."
+    },
+    "allowAnonymous": "Omogući anonimno",
+    "confirmation": {
+      "header": "Jeste li sigurni?",
+      "message": "Spremanjem ovih promjena uklonit ćete svoj pristup uređivanju ovog kanala. Samo administratori organizacije mogu uređivati javne ili organizacijske kanale.",
+      "secondary": "Odustani",
+      "primary": "Potvrdi"
+    }
+  },
+  "participants": {
+    "label": "Sudionici",
+    "helperText": "Osobe koje mogu vidjeti i pridonijeti raspravi.",
+    "none": "Nema postavljenih sudionika",
+    "add": "Dodaj grupu sudionika"
+  },
+  "groupPicker": {
+    "title": "Odaberi grupe",
+    "facet": {
+      "label": "Šalje",
+      "myGroup": "Moja grupa",
+      "myOrganization": "Moja organizacija",
+      "myCommunity": "Moja zajednica"
+    }
+  },
+  "blockWords": {
+    "label": "Blokirane riječi",
+    "helperText": "Popis odvojen zarezom. Objave i odgovori koji ih sadrže bit će automatski skriveni."
+  },
+  "manage": {
+    "label": "Upravljanje i moderiranje",
+    "helperText": "Automatski dodijeljene na temelju odabira sudjelovanja iznad, te osobe mogu sudjelovati, sakriti ili prikazati objave i upravljati postavkama kanala."
+  },
+  "manager": "Upravitelj",
+  "admin": "Administrator",
+  "viewProfile": "Prikaži profil",
+  "alerts": {
+    "error": "Pogreška pri spremanju kanala",
+    "success": "Kanal je uspješno spremljen",
+    "label": "Stvori upozorenje"
+  },
+  "validations": {
+    "minChannelGroups": "Privatni kanali zahtijevaju najmanje jednu grupu sudionika."
+  },
+  "notices": {
+    "edit": "Uređivanja će utjecati svugdje gdje se ovaj kanal koristi",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Knala nije stvoren",
+          "message": "Kanal s ovim odabirima pristupa već postoji. Koristite postojeći kanal ili promijenite odabire."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal nije ažuriran",
+          "message": "Kanal s ovim odabirima pristupa već postoji pa ne možemo spremiti ova ažuriranja."
+        }
+      },
+      "action": "Upotrijebi postojeći kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Nedostupne grupe: {count}",
+      "message": "Ne možete pregledavati ili upravljati nedostupnim grupama osim ako niste član."
+    }
+  }
+}

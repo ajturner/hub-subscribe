@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "已共享给组织",
+      "private": "已共享给所有者",
+      "public": "已共享给公众",
+      "shared": "已共享给所有者和群组"
+    },
+    "editLayout": "编辑布局",
+    "lastUpdated": "上次更新时间：{updated}",
+    "viewSite": "查看站点"
+  },
+  "cloneLayoutLabel": "克隆布局",
+  "deletePageLabel": "删除页面",
+  "deleteSiteLabel": "删除站点",
+  "editInAgoLabel": "在 ArcGIS Online 中进行编辑",
+  "managePage": "管理页面",
+  "manageSite": "管理站点",
+  "moreOptionsLabel": "更多选项",
+  "publishLabel": "发布",
+  "saveAsTemplateLabel": "另存为模板",
+  "saveLabel": "保存",
+  "sharingLabel": "打开共享面板",
+  "viewLabel": "查看",
+  "viewPublishedLabel": "查看已发布草稿",
+  "viewUnpublishedLabel": "预览未发布草稿"
+}

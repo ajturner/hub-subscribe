@@ -1,0 +1,9 @@
+{
+  "heading": "Cấp chia sẻ",
+  "public": "Công khai",
+  "publicInfo": "Mọi người đều có thể thấy {itemType} này",
+  "organization": "Tổ chức",
+  "organizationInfo": "Tất cả các thành viên có tài khoản đến {orgName} và các nhóm có thể thấy {itemType} này",
+  "owner": "Chủ sở hữu",
+  "ownerInfo": "Chủ sở hữu và nhóm có quyền truy cập có thể thấy {itemType} này"
+}

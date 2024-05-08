@@ -1,0 +1,24 @@
+{
+  "title": "Участники",
+  "facets": {
+    "role": {
+      "label": "Роль",
+      "all": "Все",
+      "manager": "Менеджер",
+      "member": "Участник"
+    },
+    "dateJoined": {
+      "label": "Дата присоединения"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Всего",
+      "trailingText": "Участники команды"
+    },
+    "new": {
+      "title": "Новое",
+      "trailingText": "Последние 30 дней"
+    }
+  }
+}

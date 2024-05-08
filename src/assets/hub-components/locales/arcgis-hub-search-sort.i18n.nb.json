@@ -1,0 +1,14 @@
+{
+  "title": "Tittel",
+  "created": "Opprettet dato",
+  "modified": "Oppdateringsdato",
+  "updated": "Oppdateringsdato",
+  "asc": "stigende",
+  "desc": "synkende",
+  "relevance": "Relevans",
+  "change-sort-order": "Endre sorteringsrekkefølge",
+  "sort-by": "Sorter etter ",
+  "joined": "Dato for innmelding",
+  "username": "Brukernavn",
+  "membertype": "Rolle"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "URL による追加",
+  "subText": "CSV、SHP、GeoJSON、ArcGIS フィーチャ サービス、XLS、PDF、PNG、JPG、Web リンク",
+  "fileTypeSelector": "ファイル タイプを手動で設定",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web リンク",
+  "microsoftexcel": "Microsoft Excel (xls、xlsx)",
+  "image": "Image (png、jpg、jpeg)",
+  "invalidFormat": "エラー: 無効な形式",
+  "invalidUrl": "エラー: 無効な形式 URL",
+  "recognizedType": "ファイル タイプを手動で設定"
+}

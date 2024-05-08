@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "高级配置",
+    "serverTimeout": {
+      "label": "服务器超时(秒)",
+      "helperText": "对于可能需要更多时间响应的大型服务非常有用。"
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "角",
+      "enum": {
+        "round": {
+          "label": "圆形"
+        },
+        "square": {
+          "label": "正方形"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "下拉阴影",
+      "enum": {
+        "heavy": {
+          "label": "重"
+        },
+        "low": {
+          "label": "低"
+        },
+        "medium": {
+          "label": "中"
+        },
+        "none": {
+          "label": "未开始"
+        }
+      }
+    },
+    "layout": {
+      "label": "统计数据布局",
+      "enum": {
+        "dataViz": {
+          "label": "数据可视化"
+        },
+        "moreInfo": {
+          "label": "更多信息"
+        },
+        "simple": {
+          "label": "简单"
+        }
+      }
+    },
+    "popoverTitle": "弹出窗口标题",
+    "popoverDescription": "弹出窗口描述",
+    "sectionTitle": "外观",
+    "textAlign": "对齐",
+    "visualInterest": {
+      "label": "视觉效果",
+      "enum": {
+        "icon": {
+          "label": "图标"
+        },
+        "logo": {
+          "label": "徽标"
+        },
+        "none": {
+          "label": "无"
+        },
+        "sparkline": {
+          "label": "迷你图"
+        }
+      }
+    },
+    "valueColor": "颜色(统计数据)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "链接",
+      "sourceLink": "链接 URL",
+      "sourceTitle": "链接文本"
+    },
+    "sectionTitle": "详细信息",
+    "subtitle": "子标题",
+    "title": "标题",
+    "trailingText": "尾随文本"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "显示源所需的链接。"
+    }
+  },
+  "formatting": {
+    "sectionTitle": "格式化",
+    "unit": {
+      "label": "显示单位",
+      "helperText": "输入您的值的计量单位。"
+    },
+    "unitPosition": {
+      "label": "放置",
+      "enum": {
+        "after": {
+          "label": "之后"
+        },
+        "before": {
+          "label": "之前"
+        },
+        "below": {
+          "label": "下方"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "共享",
+    "showShareIcon": "启用",
+    "shareableByValue": "启用嵌入",
+    "shareableOnHover": {
+      "label": "显示",
+      "enum": {
+        "always": {
+          "label": "始终"
+        },
+        "hover": {
+          "label": "仅在悬停在上方时"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "数据源",
+    "displayValue": "显示值",
+    "sectionTitle": "统计数据",
+    "type": {
+      "label": "类型",
+      "enum": {
+        "dynamic": {
+          "label": "动态",
+          "description": "选择现有的数据集（要素服务）进行汇总。"
+        },
+        "static": {
+          "label": "静态",
+          "description": "手动输入要在布局中突出显示的值。"
+        }
+      }
+    }
+  }
+}

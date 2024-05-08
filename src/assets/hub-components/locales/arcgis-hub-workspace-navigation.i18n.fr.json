@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Tableau de bord",
+    "details": "Détails",
+    "overview": "Vue d’ensemble",
+    "metrics": "Métriques",
+    "settings": "Paramètres",
+    "collaborators": "Collaborateurs",
+    "discussion": "Discussion",
+    "content": "Contenu",
+    "members": "Membres",
+    "participation": "Participation",
+    "followers": "Abonnés"
+  }
+}

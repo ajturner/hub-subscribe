@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal sans nom",
+  "name": {
+    "label": "Nom",
+    "placeholder": "Canal {prefix}"
+  },
+  "save": "Enregistrer",
+  "access": {
+    "private": {
+      "label": "Privé",
+      "description": "Les groupes sélectionnés peuvent participer"
+    },
+    "organization": {
+      "label": "Mon organisation",
+      "description": "Tous les membres dotés d’un compte sur {orgName} peuvent participer",
+      "disabledTooltip": "Seuls les administrateurs de l’organisation peuvent créer des canaux d’organisation."
+    },
+    "public": {
+      "label": "Public",
+      "description": "Toute personne dotée d’un compte peut participer",
+      "disabledTooltip": "Seuls les administrateurs de l’organisation peuvent créer des canaux publics."
+    },
+    "allowAnonymous": "Autoriser l’accès anonyme",
+    "confirmation": {
+      "header": "Êtes-vous sûr ?",
+      "message": "L’enregistrement de ces modifications entraînera la suppression de votre accès en mise à jour à ce canal. Seuls les administrateurs de l’organisation peuvent modifier des canaux publics ou d’organisation.",
+      "secondary": "Annuler",
+      "primary": "Confirmer"
+    }
+  },
+  "participants": {
+    "label": "Participants",
+    "helperText": "Personnes qui peuvent afficher la discussion et y participer.",
+    "none": "Aucun participant défini",
+    "add": "Ajouter un groupe de participants"
+  },
+  "groupPicker": {
+    "title": "Sélectionner des groupes",
+    "facet": {
+      "label": "Depuis",
+      "myGroup": "Mon groupe",
+      "myOrganization": "Mon organisation",
+      "myCommunity": "Ma communauté"
+    }
+  },
+  "blockWords": {
+    "label": "Mots bloqués",
+    "helperText": "Liste de mots séparés par des virgules. Les publications et réponses qui les contiennent sont automatiquement masquées."
+  },
+  "manage": {
+    "label": "Gérer et modérer",
+    "helperText": "Attribution automatique en fonction des choix effectués ci-dessus en matière de participation. Ces personnes peuvent participer, masquer ou afficher des publications et gérer les paramètres du canal."
+  },
+  "manager": "Gestionnaire",
+  "admin": "Admin",
+  "viewProfile": "Afficher le profil",
+  "alerts": {
+    "error": "Erreur lors de l’enregistrement du canal",
+    "success": "Canal enregistré",
+    "label": "Alerte de formulaire"
+  },
+  "validations": {
+    "minChannelGroups": "Les canaux privés nécessitent au moins un groupe de participants."
+  },
+  "notices": {
+    "edit": "Les modifications s’appliquent à tous les endroits où ce canal est utilisé",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Canal non créé",
+          "message": "Un canal avec ces choix en matière d’accès existe déjà. Utilisez le canal existant ou modifiez les choix."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Canal non mis à jour",
+          "message": "Les mises à jour ne peuvent pas être enregistrées car un canal avec ces choix en matière d’accès existe déjà."
+        }
+      },
+      "action": "Utiliser le canal existant"
+    },
+    "inaccessibleGroups": {
+      "title": "Groupes non disponibles : {count}",
+      "message": "Vous ne pouvez afficher ou gérer que les groupes non disponibles dont vous êtes membre."
+    }
+  }
+}

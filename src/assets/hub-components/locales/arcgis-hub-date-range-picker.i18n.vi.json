@@ -1,0 +1,15 @@
+{
+  "default": "Chọn Phạm vi Ngày",
+  "today": "Hôm nay",
+  "yesterday": "Hôm qua",
+  "last7Days": "7 Ngày Trước",
+  "last30Days": "30 Ngày Trước",
+  "thisMonth": "Tháng Này",
+  "lastMonth": "Tháng Trước",
+  "pastYear": "Năm Ngoái",
+  "custom": "Tùy chỉnh",
+  "nextMonth": "Tháng sau",
+  "previousMonth": "Tháng trước",
+  "year": "Năm",
+  "title": "Chọn khoảng thời gian"
+}

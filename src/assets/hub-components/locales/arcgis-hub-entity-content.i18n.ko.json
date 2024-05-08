@@ -1,0 +1,24 @@
+{
+  "content": "콘텐츠",
+  "tabs": {
+    "catalog": "카탈로그",
+    "collections": "컬렉션",
+    "catalogConfig": "카탈로그 구성"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "카탈로그 구성",
+        "message": "카탈로그 생성 및 구성이 시작되었습니다! 해당 카탈로그는 그룹으로 구성되며 그룹 내 콘텐츠로 채워집니다.",
+        "link": "카탈로그에 대한 자세한 정보"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "카탈로그가 비어 있음",
+        "message": "카탈로그를 시작할 준비가 되었습니다! 해당 카탈로그는 하나 이상의 그룹을 추가하여 구성되며 그룹 내 콘텐츠로 채워집니다.",
+        "link": "시작하기"
+      }
+    }
+  }
+}

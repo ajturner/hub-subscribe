@@ -1,0 +1,1 @@
+import{g as r}from"./p-3f64a9d9.js";function e(e,o){return`${r(o)}/home/user.html?user=${e}`}export{e as g}

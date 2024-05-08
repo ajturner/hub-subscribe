@@ -1,0 +1,18 @@
+{
+  "purpose": "Цел",
+  "description": "Как да я намерим",
+  "details": "Подробни данни",
+  "featuredImageAlt": "Препоръчано изображение на проект",
+  "trackProgress": "Проследяване на нашия напредък",
+  "participatingGroups": "Участващи групи",
+  "whosInvolved": "Кой участва",
+  "tags": "Тагове",
+  "status": {
+    "label": "Състояние на проекта",
+    "notStarted": "Не е започнало",
+    "inProgress": "В процес на изпълнение",
+    "onHold": "Задържане",
+    "complete": "Завършен"
+  },
+  "featuredContent": "Представено съдържание"
+}

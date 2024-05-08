@@ -1,0 +1,31 @@
+{
+  "dateRange": "Intervalo de Data: {start} - {end}",
+  "pageViews": "Visualizações de página",
+  "timeOnSite": "Minutos médios no site",
+  "users": "Sessões",
+  "viewsOverTime": "Visualizações de página ao longo do tempo",
+  "disabledTracking": "O rastreamento de atividade está desativado",
+  "enableTracking": "Habilite o rastreamento de Atividade do Hub nas configurações do site para monitorar o uso do seu site.",
+  "learnMore": "Obtenha mais informações.",
+  "disabled": "Desabilitado",
+  "notificationLabel": "Dados Atualizados",
+  "dataUpdated": "Dados Atualizados",
+  "subscribe": "Inscreva-se",
+  "subscribed": "Inscrito",
+  "weeklyReport": "Relatório semanal",
+  "timestampTitle": {
+    "hour": "Hora do Dia",
+    "day": "Data",
+    "week": "Semana"
+  },
+  "formAlert": "Alerta de Formulário",
+  "success": "Assinatura atualizada com sucesso",
+  "subscriptionActivatedTitle": "Assinatura ativada",
+  "subscriptionActivatedMessage": "Você registrou {email} para receber métricas semanais de engajamento.",
+  "unsubscribeCompleteTitle": "Opção cancelar assinatura concluída",
+  "unsubscribeCompleteMessage": "{email} teve sua inscrição cancelada com sucesso a partir das métricas de engajamento.",
+  "problemSubscribingTitle": "Problema de assinatura",
+  "problemSubscribingMessage": "Ocorreu um problema na assinatura. Erro: ",
+  "problemUnsubscribingTitle": "Problema ao cancelar assinatura",
+  "problemUnsubscribingMessage": "Ocorreu um problema ao cancelar a assinatura. Erro: "
+}

@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "ダウンロード",
+  "buttonOptions": "ダウンロード オプション",
+  "menuRequest": "最新データを使用した新規ダウンロードの生成",
+  "menuDownload": "{createdDate} に生成済みのファイルのダウンロード",
+  "fileCreated": "ファイルが作成されました",
+  "fileSize": "ファイル サイズ",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "なし"
+}

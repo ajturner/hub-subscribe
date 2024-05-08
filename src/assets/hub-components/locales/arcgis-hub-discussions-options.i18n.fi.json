@@ -1,0 +1,10 @@
+{
+  "true.heading": "Kyllä, keskustelu on sallittu",
+  "false.heading": "Ei, keskustelu on estetty",
+  "content.label": "Sallitaanko keskustelu tästä kohteesta?",
+  "content.true.description": "Käyttäjät voivat luoda tähän kohteeseen liittyviä julkaisuja.",
+  "content.false.description": "Käyttäjät eivät voi luoda tähän kohteeseen liittyviä julkaisuja.",
+  "group.label": "Voiko tämä ryhmä osallistua keskusteluihin?",
+  "group.true.description": "Ryhmän jäsenet voivat katsoa ja osallistua keskustelukanaviin, joihin ryhmällä on pääsy.",
+  "group.false.description": "Ryhmän jäsenet eivät voi katsoa ja osallistua keskustelukanaviin, joihin ryhmällä on pääsy."
+}

@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "未命名通道",
+  "name": {
+    "label": "名称",
+    "placeholder": "{prefix} 通道"
+  },
+  "save": "保存",
+  "access": {
+    "private": {
+      "label": "私有",
+      "description": "所选群组可以参与"
+    },
+    "organization": {
+      "label": "我的组织",
+      "description": "具有 {orgName} 帐户的所有成员均可参与",
+      "disabledTooltip": "只有组织管理员才能创建组织通道。"
+    },
+    "public": {
+      "label": "公共",
+      "description": "具有帐户的任何人都可以参与",
+      "disabledTooltip": "只有组织管理员才能创建公共通道。"
+    },
+    "allowAnonymous": "允许匿名",
+    "confirmation": {
+      "header": "是否确定?",
+      "message": "保存这些更改将会取消您对此通道的编辑访问权限。 仅组织管理员可以编辑公共或组织通道。",
+      "secondary": "取消",
+      "primary": "确认"
+    }
+  },
+  "participants": {
+    "label": "参与者",
+    "helperText": "可以查看讨论以及贡献内容的人员。",
+    "none": "未设置参与者",
+    "add": "添加参与者群组"
+  },
+  "groupPicker": {
+    "title": "选择群组",
+    "facet": {
+      "label": "自",
+      "myGroup": "我的群组",
+      "myOrganization": "我的组织",
+      "myCommunity": "我的社区"
+    }
+  },
+  "blockWords": {
+    "label": "屏蔽词",
+    "helperText": "逗号分隔的列表。 系统将自动隐藏包含它们的帖子和回复。"
+  },
+  "manage": {
+    "label": "管理和审核",
+    "helperText": "根据上述参与选择自动分配的这些人员可以参与、隐藏或显示帖子并管理通道设置。"
+  },
+  "manager": "管理员",
+  "admin": "管理",
+  "viewProfile": "查看个人资料",
+  "alerts": {
+    "error": "保存通道式出错",
+    "success": "已成功保存通道",
+    "label": "表单警告"
+  },
+  "validations": {
+    "minChannelGroups": "私有通道至少需要一个参与者群组。"
+  },
+  "notices": {
+    "edit": "编辑内容将影响使用此通道的所有位置",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "通道未创建",
+          "message": "已存在具有这些访问选择的通道。 使用现有通道或修改选择。"
+        }
+      },
+      "update": {
+        "error": {
+          "title": "通道未更新",
+          "message": "已存在具有这些访问选择的通道，因此无法保存这些更新。"
+        }
+      },
+      "action": "使用现有通道"
+    },
+    "inaccessibleGroups": {
+      "title": "不可用群组：{count}",
+      "message": "您无法查看或管理不可用群组，除非您是其中一员。"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "overview": "Overview",
+  "telemetry": {
+    "pageViews": "Page views",
+    "last30days": "Last 30 days",
+    "lastUpdated": "Last updated {hoursElapsed} hours ago"
+  },
+  "newNotice": {
+    "title": "Here's your project workspace",
+    "message": "This workspace is customized for editing projects. Workspaces allow collaborators to focus on individual items and are in continual development.",
+    "link": "Learn more"
+  },
+  "learnAbout": "Learn about Hub projects",
+  "feedbackNotice": {
+    "message": "How do you like Hub projects? As this feature is still in beta, we want to hear how you may use it.",
+    "link": "Submit feedback"
+  },
+  "status": {
+    "notStarted": "Not started",
+    "inProgress": "In progress",
+    "onHold": "On hold",
+    "complete": "Complete"
+  },
+  "editDetails": "Edit details",
+  "noPurposeSet": "No purpose set",
+  "noLocationSet": "No location set"
+}

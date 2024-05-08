@@ -1,0 +1,31 @@
+{
+  "dateRange": "نطاق التاريخ: {start} - {end}",
+  "pageViews": "عروض الصفحة",
+  "timeOnSite": "متوسط الدقائق على الموقع",
+  "users": "جلسات",
+  "viewsOverTime": "عدد مرات زيارة الصفحة عبر الوقت",
+  "disabledTracking": "تتبع النشاط مُعطّل",
+  "enableTracking": "قم بتمكين تتبع النشاط Hub في إعدادات الموقع لمراقبة استخدام موقعك.",
+  "learnMore": "تعرّف على المزيد.",
+  "disabled": "معطل",
+  "notificationLabel": "البيانات التي تم تحديثها",
+  "dataUpdated": "البيانات التي تم تحديثها",
+  "subscribe": "اشتراك",
+  "subscribed": "تم الاشتراك",
+  "weeklyReport": "التقرير الأسبوعي",
+  "timestampTitle": {
+    "hour": "وقت اليوم",
+    "day": "التاريخ",
+    "week": "أسبوع"
+  },
+  "formAlert": "رسائل تنبيه النموذج",
+  "success": "تم تحديث الاشتراك بنجاح",
+  "subscriptionActivatedTitle": "تم تنشيط الاشتراك",
+  "subscriptionActivatedMessage": "لقد سجلت {email} لتلقي مقاييس المشاركة الأسبوعية.",
+  "unsubscribeCompleteTitle": "اكتمل إلغاء الاشتراك",
+  "unsubscribeCompleteMessage": "تم إلغاء اشتراك {email} بنجاح من مقاييس المشاركة.",
+  "problemSubscribingTitle": "مشكلة في الاشتراك",
+  "problemSubscribingMessage": "حدثت مشكلة بالاشتراك. الخطأ: ",
+  "problemUnsubscribingTitle": "مشكلة في إلغاء الاشتراك.",
+  "problemUnsubscribingMessage": "حدثت مشكلة في إلغاء الاشتراك. الخطأ: "
+}

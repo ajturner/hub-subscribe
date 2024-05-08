@@ -1,0 +1,14 @@
+{
+  "addPost": "Bir Gönderi Ekle",
+  "createPost": "Gönderi oluştur",
+  "emptyHeading": "Tartışma başlat",
+  "emptyMessage": "Konuyu ilk açan siz olun. Bir içerik hakkında soru sormak veya bildiklerinizi başkalarıyla paylaşmak kolaydır.",
+  "searchIdeas": "Gönderileri ara",
+  "searchCount": "{start} - {end} / {total}",
+  "orderAsc": "Artan",
+  "orderDesc": "Azalan",
+  "sortRecent": "Yakın zamanda",
+  "sortCreator": "Creator",
+  "layoutGrid": "Kılavuz",
+  "layoutList": "Liste"
+}

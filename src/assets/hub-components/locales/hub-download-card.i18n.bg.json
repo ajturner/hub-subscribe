@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Изтегляне",
+  "buttonOptions": "Опции за изтегляне",
+  "menuRequest": "Генериране на ново изтегляне с най-новите данни",
+  "menuDownload": "Изтеглете файл, генериран преди това на {createdDate}",
+  "fileCreated": "Файлът е създаден",
+  "fileSize": "Размер на файла",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "팔로워",
+  "tabs": {
+    "followers": "팔로워",
+    "settings": "설정"
+  },
+  "addFollowers": {
+    "label": "팔로워 추가"
+  },
+  "emptyState": {
+    "message": "현재 팔로워 그룹이 없습니다."
+  },
+  "restrictedAccessState": {
+    "message": "접근 권한이 없습니다."
+  },
+  "stats": {
+    "total": {
+      "title": "총계",
+      "trailingText": "팔로워"
+    },
+    "new": {
+      "title": "신규",
+      "trailingText": "지난 30일"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+import{a as e}from"./p-31aebb8c.js";function t(t){return["myContent","favorites","organization","world"].map((r=>e("shared.fields.featuredContent",r,"item",{user:t})))}export{t as g}

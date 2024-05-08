@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "เดชบอร์ด",
+    "details": "รายละเอียด",
+    "overview": "ภาพรวม",
+    "metrics": "ระบบเมตริก",
+    "settings": "การตั้งค่า",
+    "collaborators": "ผู้ร่วมงาน",
+    "discussion": "การสนทนา",
+    "content": "เนื้อหา",
+    "members": "สมาชิก",
+    "participation": "การเข้าร่วม",
+    "followers": "ผู้ติดตาม"
+  }
+}

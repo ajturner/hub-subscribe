@@ -1,0 +1,50 @@
+{
+  "title": "Konten",
+  "facets": {
+    "type": "Jenis",
+    "tags": "Tag",
+    "categories": "Kategori",
+    "sharing": "Membagikan",
+    "dateUpdated": "Tanggal diperbarui",
+    "map": {
+      "label": "Lokasi",
+      "tooltip": "Terapkan luas peta sebagai filter lokasi"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Tambahkan konten",
+    "catalog": {
+      "myContent": "Konten saya",
+      "favorites": "Favorit",
+      "organization": "Organisasi saya",
+      "world": "Dunia (Publik)"
+    },
+    "facets": {
+      "type": "Jenis",
+      "sharing": "Berbagi"
+    },
+    "collection": {
+      "appsAndMaps": "Aplikasi & Peta",
+      "dataset": "Data",
+      "documents": "Dokumen",
+      "feedback": "Umpan balik",
+      "sites": "Situs"
+    },
+    "modal": {
+      "title": "Tambahkan konten"
+    },
+    "unsharedModal": {
+      "title": "Item tidak ditambahkan",
+      "notice": {
+        "icon": "tanda-seru-segitiga",
+        "type": "bahaya",
+        "title": "Tindakan tidak lengkap",
+        "message": "Beberapa item tidak dapat ditambahkan. Hal ini mungkin disebabkan oleh ketidaksesuaian tingkat pembagian dalam konten atau karena pemilik item bukan anggota grup.",
+        "linkText": "Baca selengkapnya tentang berbagi"
+      }
+    },
+    "itemSharedSuccessAlert": "Item yang berhasil dibagikan"
+  },
+  "close": "Tutup",
+  "newTab": "buka di tab baru"
+}

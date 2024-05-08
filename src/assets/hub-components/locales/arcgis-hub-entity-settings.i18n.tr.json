@@ -1,0 +1,34 @@
+{
+  "settings": "Ayarlar",
+  "delete": {
+    "project": "Projeyi sil",
+    "initiative": "İnisiyatifi sil",
+    "site": "Siteyi sil",
+    "discussion": "Tartışmayı sil",
+    "content": "İçeriği sil",
+    "page": "Sayfayı sil",
+    "group": "Grubu sil"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Projeyi sil",
+      "initiative": "İnisiyatifi sil",
+      "site": "Siteyi sil",
+      "discussion": "Tartışmayı sil",
+      "content": "İçeriği sil",
+      "page": "Sayfayı sil",
+      "group": "Grubu sil"
+    },
+    "content": "Şunu silmek istediğinizden emin misiniz:",
+    "delete": "Sil",
+    "cancel": "İptal"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "\"Ayıklama\" becerisi servis ayarlarını değiştirir.",
+        "message": "Servise referans veren diğer ögeler etkilenecektir. Daha fazla bilgi için bkz. <docLink>Barındırılan Detay Katmanlarından Veri Aktarma</docLink>"
+      }
+    }
+  }
+}

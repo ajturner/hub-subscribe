@@ -1,0 +1,10 @@
+{
+  "error": "Bir şey ters gitti",
+  "repliesFailure": "Bu gönderiye verilen yanıtlar görüntülenemez.",
+  "thread.deleted.title": "İş Parçası Silindi",
+  "thread.deleted.message": "Bağlantılı gönderi ve yanıt silindi ve görüntülenemez.",
+  "thread.deleted.action": "Tüm gönderileri görüntüle",
+  "reply.single.title": "Tek bir yanıt görüntülüyorsunuz",
+  "reply.single.link": "Tüm yanıtları görüntüle",
+  "loading": "Yükleniyor"
+}

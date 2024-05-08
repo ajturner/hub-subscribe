@@ -1,0 +1,27 @@
+{
+  "overview": "Descripció general",
+  "telemetry": {
+    "pageViews": "Visualitzacions de les pàgines",
+    "last30days": "Darrers 30 dies",
+    "lastUpdated": "Darrera actualització fa {hoursElapsed} hores"
+  },
+  "newNotice": {
+    "title": "Aquí teniu l'espai de treball del projecte",
+    "message": "Aquest espai de treball s'ha personalitzat per editar projectes. Els espais de treball permeten als col·laboradors centrar-se en elements individuals i estan contínuament en desenvolupament.",
+    "link": "Més informació"
+  },
+  "learnAbout": "Obteniu informació sobre els projectes del Hub",
+  "feedbackNotice": {
+    "message": "Què us semblen els projectes del Hub? Com que aquesta característica encara està en versió beta, volem saber com la podeu fer servir.",
+    "link": "Envieu comentaris"
+  },
+  "status": {
+    "notStarted": "No s'ha iniciat",
+    "inProgress": "En curs",
+    "onHold": "En espera",
+    "complete": "Completat"
+  },
+  "editDetails": "Edita els detalls",
+  "noPurposeSet": "No s'ha definit cap propòsit",
+  "noLocationSet": "No s'ha definit cap ubicació"
+}

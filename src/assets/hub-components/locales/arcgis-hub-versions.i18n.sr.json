@@ -1,0 +1,14 @@
+{
+  "createdBy": "Kreirano od strane {creator}",
+  "emptyMessage": "Nema pronađenih verzija",
+  "errorMessage": "Greška prilikom pribavljanja verzija",
+  "menuLabel": "prikaži radnje",
+  "publishedBadge": "Objavljeno",
+  "viewingBadge": "Prikazivanje",
+  "popover.label": "Akcije verzije",
+  "popover.actions.delete": "Izbriši",
+  "popover.actions.edit": "Izmeni detalje",
+  "popover.actions.share": "Podeli",
+  "shareErrorMessage": "Greška prilikom kopiranja podeljenog url u ostavu.",
+  "shareSuccessMessage": "Podeljeni url kopiran u ostavu."
+}

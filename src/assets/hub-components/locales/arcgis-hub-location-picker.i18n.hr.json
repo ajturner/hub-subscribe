@@ -1,0 +1,36 @@
+{
+  "edit": "Uredi",
+  "delete": "Izbriši",
+  "noneMessage": "Nije postavljena lokacija",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Web-mjesto",
+    "initiative": "Inicijativa",
+    "discussion": "Rasprava",
+    "content": "Sadržaj"
+  },
+  "emptyLocation": {
+    "title": "Nema nacrtane lokacije",
+    "message": "{entityType} neće se prikazati na kartama dok se ne doda lokacija"
+  },
+  "populatedLocation": {
+    "title": "Dodati drugu lokaciju?",
+    "message": "Ponovno odaberite alat za crtanje kako biste dodali više lokacija (do {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Dosegnut je maksimalan broj bodova ({currentCount}/{maxLocations})",
+    "message": "Za dodavanje više lokacija: izbrišite točke ili uredite linije i područja kako biste izbrisali njihove točke (desni klik)."
+  },
+  "maximumLocations": {
+    "title": "Dosegnut je maksimalan broj lokacija",
+    "message": "Da biste dodali više lokacija, uklonite jednu ili više ili uklonite sve lokacije i upotrijebite općenitije područje."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Dodaj lokaciju",
+    "clear": "Očisti sve",
+    "extent": "Nacrtajte pravokutnik",
+    "point": "Ukloni točku",
+    "polyline": "Nacrtaj liniju",
+    "polygon": "Crtaj poligon"
+  }
+}

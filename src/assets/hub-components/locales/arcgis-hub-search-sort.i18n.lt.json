@@ -1,0 +1,14 @@
+{
+  "title": "Pavadinimas",
+  "created": "Sukūrimo data",
+  "modified": "Atnaujinimo data",
+  "updated": "Atnaujinimo data",
+  "asc": "didėjimo tvarka",
+  "desc": "mažėjimo tvarka",
+  "relevance": "Aktualumas",
+  "change-sort-order": "Keisti rūšiavimo tvarką",
+  "sort-by": "Rūšiuoti pagal ",
+  "joined": "Prisijungimo data",
+  "username": "Naudotojo vardas",
+  "membertype": "Rolė"
+}

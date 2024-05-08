@@ -1,0 +1,30 @@
+{
+  "helperText": "Definer og konfigurer katalog",
+  "sections": {
+    "groups": {
+      "title": "Grupper",
+      "helperText": "Grupperne nedenfor indeholder dit søgekatalogs indhold. Vælg en gruppe for at få vist dens indstillinger, indhold etc.",
+      "createGroup": "Opret ny gruppe"
+    },
+    "feeds": {
+      "title": "Feed-konfiguration",
+      "helperText": "Gør dine offentlige Open Data nemt tilgængelige og genanvendelige med Hub-feeds.",
+      "learn": "Få mere at vide om Hub-feeds",
+      "toggle": "Aktivér feeds ",
+      "configure": "Konfigurér feeds",
+      "notice": "For at aktivere feeds skal du først angive dine Hub-websteder til \"Offentlige\" i dine indstillinger"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Fra",
+    "editGroups": "Rediger grupper",
+    "viewGroups": "Vis gruppe",
+    "myGroup": "Min gruppe",
+    "myOrganization": "Min organisation",
+    "myCommunity": "Mit fællesskab"
+  },
+  "formAlert": "Formularadvarsel",
+  "alertMessages": {
+    "error": "Fejl under lagring af redigeringer"
+  }
+}

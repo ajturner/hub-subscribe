@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Trieu les condicions d'ús",
+  "editorLabel": "Condicions d'ús seleccionades",
+  "editorRemoveWarning": "Avís: esteu a punt de suprimir les condicions d'ús.",
+  "licenseDescriptionCc0": "Aquesta obra està destinada al públic",
+  "licenseDescriptionCcBy": "Requereix atribució",
+  "licenseDescriptionCcByNc": "Requereix atribució, permet la mescla, però prohibeix l'ús comercial",
+  "licenseDescriptionCcByNcNd": "Més restrictiva, requereix atribució i prohibeix l'ús comercial i la mescla",
+  "licenseDescriptionCcByNcSa": "Requereix atribució, permet la mescla, però prohibeix l'ús comercial i les obres derivades han de mantenir la mateixa llicència",
+  "licenseDescriptionCcByNd": "Requereix atribució, permet l'ús comercial, però prohibeix que es comparteixin les obres derivades",
+  "licenseDescriptionCcBySa": "Requereix atribució i permet la mescla i l'ús comercial",
+  "licenseDescriptionCustom": "Consulteu-ho per obtenir informació detallada",
+  "licenseDescriptionOdbl": "Permet la compartició, la creació i l'adaptació, sempre que els altres indiquin l'atribució, comparteixin igual i mantinguin el contingut obert",
+  "licenseDescriptionOdcBy": "Permet la compartició, la creació i l'adaptació, sempre que els altres indiquin l'atribució",
+  "licenseDescriptionPddl": "Permet la compartició, la creació i l'adaptació",
+  "licenseInfoButtonAriaLabel": "Detalls de les condicions d'ús, s'obre en una pestanya nova",
+  "selectedLicenseLabelFallback": "Personalitzat",
+  "selectedLicenseLabelNoLicense": "No hi ha condicions d'ús"
+}

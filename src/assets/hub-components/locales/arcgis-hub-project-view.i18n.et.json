@@ -1,0 +1,18 @@
+{
+  "purpose": "Eesmärk",
+  "description": "Kuidas me sinna jõuame?",
+  "details": "Üksikasjad",
+  "featuredImageAlt": "Projekti esiletõstetud pilt",
+  "trackProgress": "Jälgi meie edusamme",
+  "participatingGroups": "Osalevad grupid",
+  "whosInvolved": "Kes osalevad?",
+  "tags": "Märksõnad",
+  "status": {
+    "label": "Projekti olek",
+    "notStarted": "Pole alustatud",
+    "inProgress": "Pooleli",
+    "onHold": "Ootel",
+    "complete": "Lõpetatud"
+  },
+  "featuredContent": "Esiletõstetud sisu"
+}

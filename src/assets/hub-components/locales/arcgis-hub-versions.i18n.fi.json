@@ -1,0 +1,14 @@
+{
+  "createdBy": "Luonut {creator}",
+  "emptyMessage": "Versioita ei löydy",
+  "errorMessage": "Virhe versioiden noudossa",
+  "menuLabel": "näytä toimet",
+  "publishedBadge": "Julkaistu",
+  "viewingBadge": "Näytetään",
+  "popover.label": "Versiotoiminnot",
+  "popover.actions.delete": "Poista",
+  "popover.actions.edit": "Muokkaa tietoja",
+  "popover.actions.share": "Jaa",
+  "shareErrorMessage": "Virhe kopioitaessa jakamisen URL-osoitetta leikepöydälle.",
+  "shareSuccessMessage": "Jakamisen URL-osoite on kopioitu leikepöydälle."
+}

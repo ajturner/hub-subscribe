@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Transferência concluída",
+  "titleFileGeneration": "Geração de ficheiro em curso",
+  "titleFileGenerationFailed": "Falha ao gerar ficheiro",
+  "titleDatasetNotFound": "Conjunto de dados não encontrado",
+  "titleApiError": "Erro de API",
+  "titleFormatDisabled": "Transferência desativada",
+  "messageFailedStaleAvailable": "Pode transferir uma versão anterior abaixo.",
+  "messageUpdatingFile": "Estamos a atualizar o ficheiro. Isto poderá demorar algum tempo.",
+  "messageCreatingFile": "Estamos a criar o ficheiro. Isto poderá demorar algum tempo.",
+  "messageFileNeedsGenerating": "A transferência de um ficheiro atualizado pode demorar algum tempo.",
+  "messageFormatDisabled": "O proprietário desativou a transferência para este formato."
+}

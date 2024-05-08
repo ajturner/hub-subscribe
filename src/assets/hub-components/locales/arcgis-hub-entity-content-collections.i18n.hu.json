@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Megjelenítés",
+    "hide": "Elrejtés",
+    "rename": "Átnevezés"
+  },
+  "formAlert": "Űrlap figyelmeztetés",
+  "alertMessages": {
+    "success": "A módosítások mentése sikerült",
+    "error": "Nem sikerült a módosítások mentése"
+  },
+  "collectionRenameModal": {
+    "title": "Gyűjtemény átnevezése",
+    "fieldLabel": "Gyűjtemény felirata",
+    "requiredMessage": "A gyűjtemény feliratát meg kell adni",
+    "apply": "Alkalmaz"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Adatok",
+      "hidden": "Adatok (rejtett)"
+    },
+    "site": {
+      "visible": "Webhelyek",
+      "hidden": "Webhelyek (rejtett)"
+    },
+    "document": {
+      "visible": "Dokumentumok",
+      "hidden": "Dokumentumok (rejtett)"
+    },
+    "appAndMap": {
+      "visible": "Alkalmazások és térképek",
+      "hidden": "Alkalmazások és térképek (rejtett)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (rejtett)"
+    }
+  },
+  "saveButton": "Mentés"
+}

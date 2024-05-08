@@ -1,0 +1,52 @@
+{
+  "collaborators": "Spolupracovníci",
+  "editGroupButtonText": "Přidat skupiny pro editaci",
+  "viewGroupButtonText": "Přidat skupiny pro prohlížení",
+  "groupPicker": {
+    "title": "Vybrat skupiny",
+    "facet": {
+      "label": "Z",
+      "editGroups": "Upravit skupiny",
+      "viewGroups": "Zobrazit skupinu",
+      "myGroup": "Moje skupina",
+      "myOrganization": "Moje organizace",
+      "myCommunity": "Moje komunita"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Přidat nové lidi",
+    "message": "Pokud potřebujete přidat další osoby, můžete je pozvat do komunity nebo se můžete <orgOverviewLink>obrátit na administrátora</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Skupiny, které mohou upravovat",
+  "viewGroupsTitle": "Skupiny, které mohou prohlížet",
+  "project": {
+    "description": "Zvolte, které skupiny uživatelů mohou tento projekt prohlížet a upravovat.",
+    "editGroupsDescription": "Lidé v těchto skupinách budou moci upravovat informace v projektu.",
+    "viewGroupsDescription": "Lidé v těchto skupinách budou moci vyhledávat a prohlížet projekt, pokud není veřejně sdílen.",
+    "errorMessage": "Došlo k chybě při aktualizaci spolupracovníků vašeho projektu."
+  },
+  "content": {
+    "description": "Zvolte, které skupiny uživatelů mohou tento obsah prohlížet a upravovat.",
+    "editGroupsDescription": "Lidé v těchto skupinách budou moci upravovat informace v obsahu.",
+    "viewGroupsDescription": "Lidé v těchto skupinách budou moci vyhledávat a prohlížet obsah, pokud není veřejně sdílen.",
+    "errorMessage": "Došlo k chybě při aktualizaci spolupracovníků vašeho obsahu."
+  },
+  "discussion": {
+    "description": "Vyberte, které skupiny uživatelů mohou tuto diskuzi zobrazovat a upravovat.",
+    "editGroupsDescription": "Lidé v těchto skupinách budou moci upravovat informace v diskuzi.",
+    "viewGroupsDescription": "Lidé v těchto skupinách budou moci vyhledávat a prohlížet diskuze, i když nejsou veřejně sdíleny.",
+    "errorMessage": "Při aktualizaci spolupracovníků ve vaší diskuzi došlo k chybě."
+  },
+  "site": {
+    "description": "Zvolte, které skupiny uživatelů mohou tento web prohlížet a upravovat.",
+    "editGroupsDescription": "Lidé v těchto skupinách budou moci upravovat informace o webu.",
+    "viewGroupsDescription": "Lidé v těchto skupinách budou moci web prohledávat a prohlížet, pokud není veřejně sdílen.",
+    "errorMessage": "Při aktualizaci spolupracovníků vašeho webu došlo k chybě."
+  },
+  "newTab": "otevřít profil na nové kartě",
+  "supportingTeams": "Podpůrné týmy",
+  "supportingTeamsDesc": "Tyto podpůrné týmy byly dříve propojeny s vaším webem. Můžete je nadále používat ke sdílení obsahu se spolupracovníky.",
+  "supportTeamsRemove": "Odebrat tým",
+  "supportingTeamsRemoveError": "Chyba při odpojení týmu. Kontaktujte správce.",
+  "supportingTeamsRemoveSuccess": "Tým byl úspěšně odpojen."
+}

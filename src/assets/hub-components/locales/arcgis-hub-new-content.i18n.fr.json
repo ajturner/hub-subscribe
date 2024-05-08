@@ -1,0 +1,15 @@
+{
+  "new": "Nouveau",
+  "project": {
+    "title": "Nouveau projet",
+    "description": "Exposez des travaux aux objectifs clairs et au calendrier précis"
+  },
+  "initiative": {
+    "title": "Nouvelle initiative",
+    "description": "Exposez des travaux aux objectifs clairs et au calendrier précis"
+  },
+  "discussion": {
+    "title": "Nouveau forum de discussion",
+    "description": "Créez un nouveau forum de discussion en saisissant un titre qui indique le sujet."
+  }
+}

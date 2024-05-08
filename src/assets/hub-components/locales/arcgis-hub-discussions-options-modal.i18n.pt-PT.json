@@ -1,0 +1,8 @@
+{
+  "header": "Opções de Discussão",
+  "secondary": "Cancelar",
+  "primary": "Guardar Alterações",
+  "pending": "A guardar",
+  "error.title": "Algo correu mal",
+  "error.message": "Tente novamente para guardar as alterações."
+}

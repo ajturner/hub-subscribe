@@ -1,0 +1,21 @@
+{
+  "title": "Участь",
+  "channelTitle": "Канал участі",
+  "addChannelsTitle": "Для цього елемента потрібен канал; можна задати лише один.",
+  "headingChannelEdit": "Редагувати канал",
+  "headingChannelView": "Переглянути канал",
+  "headingChannelCreate": "Створити новий канал",
+  "buttons": {
+    "browse": "Переглянути всі канали",
+    "new": "Новий канал"
+  },
+  "galleryPickerTitle": "Вибрати канал",
+  "channelsLabel": "Канали",
+  "accessLabel": "Доступ",
+  "optionPublicLabel": "Публічний",
+  "optionOrganizationLabel": "Організація",
+  "optionPrivateLabel": "Приватний",
+  "viewChannel": "Переглянути канал",
+  "editChannel": "Редагувати канал",
+  "save": "Зберегти"
+}

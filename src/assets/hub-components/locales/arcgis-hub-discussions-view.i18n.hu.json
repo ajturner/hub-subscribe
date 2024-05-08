@@ -1,0 +1,17 @@
+{
+  "summary": "Összefoglalás",
+  "description": "Leírás",
+  "details": "Részletek",
+  "metrics": "Mutatók",
+  "metricsDisclaimer": "Csak az elmúlt 30 nap megjelenítése",
+  "titleOpen": "Vita megnyitása",
+  "statusOpen": "A részvételre nyitott",
+  "titleClosed": "Lezárt vita",
+  "statusClosed": "A részvételre zárt",
+  "tags": "Címkék",
+  "categories": "Szabványok",
+  "metric.pageViews": "Oldalmegtekintések",
+  "metric.postCount": "Bejegyzések száma",
+  "discussion": "Vita",
+  "discussionBoard": "Vitafórum"
+}

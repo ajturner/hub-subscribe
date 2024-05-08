@@ -1,0 +1,10 @@
+{
+  "error": "Ada masalah",
+  "repliesFailure": "Balasan pada postingan ini tidak dapat ditampilkan.",
+  "thread.deleted.title": "Utas Dihapus",
+  "thread.deleted.message": "Postingan dan balasan yang tertaut dihapus dan tidak dapat ditampilkan.",
+  "thread.deleted.action": "Tampilkan semua postingan",
+  "reply.single.title": "Anda melihat balasan tunggal",
+  "reply.single.link": "Tampilkan semua balasan",
+  "loading": "Memuat"
+}

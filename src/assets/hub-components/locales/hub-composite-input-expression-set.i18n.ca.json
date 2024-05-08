@@ -1,0 +1,15 @@
+{
+  "addFilter": "Afegeix un filtre",
+  "attributeFilter": "Filtra",
+  "between": "Entre",
+  "deleteFilter": "Elimina el filtre",
+  "endingDate": "Data de finalització",
+  "endingValue": "Valor de finalització",
+  "expression": "Expressió",
+  "filterType": "Tipus de filtre",
+  "filterValue": "Valor de filtre",
+  "isExactly": "És exactament",
+  "startingDate": "Data d'inici",
+  "startingValue": "Valor d'inici",
+  "selectAttribute": "Seleccioneu un atribut"
+}

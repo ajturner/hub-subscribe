@@ -1,0 +1,21 @@
+{
+  "title": "参加",
+  "channelTitle": "参加チャンネル",
+  "addChannelsTitle": "このアイテムにはチャンネルが必要です。設定できるチャンネルは 1 つだけです。",
+  "headingChannelEdit": "チャンネルの編集",
+  "headingChannelView": "チャンネルの表示",
+  "headingChannelCreate": "新しいチャンネルの作成",
+  "buttons": {
+    "browse": "すべてのチャンネルを参照",
+    "new": "新しいチャンネル"
+  },
+  "galleryPickerTitle": "チャンネルを選択",
+  "channelsLabel": "チャンネル",
+  "accessLabel": "アクセス",
+  "optionPublicLabel": "パブリック",
+  "optionOrganizationLabel": "組織",
+  "optionPrivateLabel": "非公開",
+  "viewChannel": "チャンネルの表示",
+  "editChannel": "チャンネルの編集",
+  "save": "保存"
+}

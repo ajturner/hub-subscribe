@@ -1,0 +1,30 @@
+{
+  "helperText": "De catalogus definiëren en configureren",
+  "sections": {
+    "groups": {
+      "title": "Groepen",
+      "helperText": "De onderstaande groepen bevatten de content in uw zoekcatalogus. Selecteer een groep als u de instellingen, content etc. hiervoor wilt weergeven.",
+      "createGroup": "Nieuwe groep maken"
+    },
+    "feeds": {
+      "title": "Configuratie feed",
+      "helperText": "Maak uw openbare gegevens makkelijk toegankelijk en herbruikbaar met Hub-feeds.",
+      "learn": "Meer over Hub-feeds",
+      "toggle": "Feeds inschakelen ",
+      "configure": "Feeds configureren",
+      "notice": "Als u feeds wilt inschakelen, moet u eerst uw Hub-sites op \"Openbaar\" instellen in uw instellingen."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Van",
+    "editGroups": "Groepen bewerken",
+    "viewGroups": "Groep weergeven",
+    "myGroup": "Mijn groep",
+    "myOrganization": "Mijn organisatie",
+    "myCommunity": "Mijn community"
+  },
+  "formAlert": "Formulierwaarschuwing",
+  "alertMessages": {
+    "error": "Er is een fout opgetreden bij het opslaan van bewerkingen"
+  }
+}

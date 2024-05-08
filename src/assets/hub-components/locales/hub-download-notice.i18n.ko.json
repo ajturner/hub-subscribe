@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "다운로드 완료",
+  "titleFileGeneration": "파일 생성 진행 중",
+  "titleFileGenerationFailed": "파일 생성 실패",
+  "titleDatasetNotFound": "데이터셋을 찾을 수 없음",
+  "titleApiError": "API 오류",
+  "titleFormatDisabled": "다운로드가 비활성화됨",
+  "messageFailedStaleAvailable": "아래에서 이전 버전을 다운로드할 수 있습니다.",
+  "messageUpdatingFile": "파일을 업데이트하고 있습니다. 시간이 다소 소요될 수도 있습니다.",
+  "messageCreatingFile": "파일을 생성하고 있습니다. 시간이 다소 소요될 수도 있습니다.",
+  "messageFileNeedsGenerating": "업데이트된 파일을 다운로드하는 데는 시간이 다소 소요될 수 있습니다.",
+  "messageFormatDisabled": "소유자가 이 형식에 대한 다운로드를 비활성화했습니다."
+}

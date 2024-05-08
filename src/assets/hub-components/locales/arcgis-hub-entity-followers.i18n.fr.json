@@ -1,0 +1,26 @@
+{
+  "followers": "Abonnés",
+  "tabs": {
+    "followers": "Abonnés",
+    "settings": "Paramètres"
+  },
+  "addFollowers": {
+    "label": "Ajouter des abonnés"
+  },
+  "emptyState": {
+    "message": "Vous n’avez aucun groupe d’abonnés pour le moment."
+  },
+  "restrictedAccessState": {
+    "message": "Vous ne disposez pas des autorisations d’accès."
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Abonnés"
+    },
+    "new": {
+      "title": "Nouveau",
+      "trailingText": "30 derniers jours"
+    }
+  }
+}

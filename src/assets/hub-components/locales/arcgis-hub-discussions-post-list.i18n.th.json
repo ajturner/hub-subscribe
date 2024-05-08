@@ -1,0 +1,14 @@
+{
+  "addPost": "เพิ่มโพสต์",
+  "createPost": "สร้างโพสต์",
+  "emptyHeading": "เริ่มต้นการสนทนา",
+  "emptyMessage": "เป็นคนแรกที่เปิดหัวข้อการสนทนา การถามคำถามหรือแชร์สิ่งที่คุณรู้เกี่ยวกับเนื้อหาให้คนอื่นๆ นั้นเป็นเรื่องง่าย",
+  "searchIdeas": "ค้นหาโพสต์",
+  "searchCount": "{start} - {end} จาก {total}",
+  "orderAsc": "น้อยไปมาก",
+  "orderDesc": "มากไปน้อย",
+  "sortRecent": "ล่าสุด",
+  "sortCreator": "Creator",
+  "layoutGrid": "กริด",
+  "layoutList": "รายการ"
+}

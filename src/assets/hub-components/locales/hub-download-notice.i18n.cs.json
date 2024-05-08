@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Stahování dokončeno",
+  "titleFileGeneration": "Probíhá generování souboru",
+  "titleFileGenerationFailed": "Nepodařilo se vygenerovat soubor",
+  "titleDatasetNotFound": "Datová sada nebyla nalezena",
+  "titleApiError": "Chyba API",
+  "titleFormatDisabled": "Stahování zakázáno",
+  "messageFailedStaleAvailable": "Níže si můžete stáhnout předchozí verzi.",
+  "messageUpdatingFile": "Aktualizujeme soubor. To může nějakou dobu trvat.",
+  "messageCreatingFile": "Vytváříme soubor. To může nějakou dobu trvat.",
+  "messageFileNeedsGenerating": "Stažení aktualizovaného souboru může nějakou dobu trvat.",
+  "messageFormatDisabled": "Vlastník pro tento formát zakázal stahování."
+}

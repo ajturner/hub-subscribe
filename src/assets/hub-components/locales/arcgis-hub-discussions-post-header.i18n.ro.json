@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Vizibil doar pentru membri",
+  "visibleOrg": "Vizibil pentru organizație",
+  "visibleAll": "Vizibil pentru toată lumea",
+  "anonymous": "Anonim",
+  "privateUser": "Membru privat",
+  "noUser": "Fără Nume de utilizator",
+  "orgLabel": "Organizaţie",
+  "privateOrg": "Organizație privată",
+  "location": "Locaţie",
+  "profile": "Accesați profilul",
+  "postedIn": "Postat în {groupName}",
+  "manageChannel": "Gestionare canal",
+  "information": "Informații despre postare",
+  "group.deleted": "Grup șters",
+  "unnamedChannel": "Canal fără nume",
+  "replyingTo": "Răspuns la {fullName}",
+  "viewPost": "Vizualizare postare"
+}

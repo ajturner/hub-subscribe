@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configuración avanzada",
+    "serverTimeout": {
+      "label": "Tiempo de espera del servidor (segundos)",
+      "helperText": "Útil para servicios más grandes que pueden tardar más en responder."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Esquinas",
+      "enum": {
+        "round": {
+          "label": "Redondo"
+        },
+        "square": {
+          "label": "Cuadrado"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Sombreado",
+      "enum": {
+        "heavy": {
+          "label": "Denso"
+        },
+        "low": {
+          "label": "Bajo"
+        },
+        "medium": {
+          "label": "Medio"
+        },
+        "none": {
+          "label": "No iniciado"
+        }
+      }
+    },
+    "layout": {
+      "label": "Diseño estadístico",
+      "enum": {
+        "dataViz": {
+          "label": "Visualización de datos"
+        },
+        "moreInfo": {
+          "label": "Más información"
+        },
+        "simple": {
+          "label": "Simple"
+        }
+      }
+    },
+    "popoverTitle": "Título de ventana emergente",
+    "popoverDescription": "Descripción de ventana emergente",
+    "sectionTitle": "Apariencia",
+    "textAlign": "Alineamiento",
+    "visualInterest": {
+      "label": "Interés visual",
+      "enum": {
+        "icon": {
+          "label": "Icono"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Ninguno"
+        },
+        "sparkline": {
+          "label": "Minigráfico"
+        }
+      }
+    },
+    "valueColor": "Color (estadística)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Vínculo",
+      "sourceLink": "Vincular dirección URL",
+      "sourceTitle": "Texto de vínculo"
+    },
+    "sectionTitle": "Detalles",
+    "subtitle": "Subtítulo",
+    "title": "Título",
+    "trailingText": "Texto final"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "El vínculo es necesario para mostrar el origen."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formato",
+    "unit": {
+      "label": "Unidades de visualización",
+      "helperText": "Introduzca la unidad de medida de su valor."
+    },
+    "unitPosition": {
+      "label": "Ubicación",
+      "enum": {
+        "after": {
+          "label": "Después"
+        },
+        "before": {
+          "label": "Antes"
+        },
+        "below": {
+          "label": "Debajo"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Uso compartido",
+    "showShareIcon": "Habilitar",
+    "shareableByValue": "Habilitar integraciones",
+    "shareableOnHover": {
+      "label": "Visualización",
+      "enum": {
+        "always": {
+          "label": "Siempre"
+        },
+        "hover": {
+          "label": "Solo pasar el cursor"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Fuente de datos",
+    "displayValue": "Valor de visualización",
+    "sectionTitle": "Estadística",
+    "type": {
+      "label": "Tipo",
+      "enum": {
+        "dynamic": {
+          "label": "Dinámico",
+          "description": "Seleccione un dataset existente (servicio de entidades) para resumir."
+        },
+        "static": {
+          "label": "Estático",
+          "description": "Introduzca manualmente un valor para resaltar en su diseño."
+        }
+      }
+    }
+  }
+}

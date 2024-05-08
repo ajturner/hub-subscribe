@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "ダッシュボード",
+    "details": "詳細",
+    "overview": "概要",
+    "metrics": "指標",
+    "settings": "設定",
+    "collaborators": "共同作業者",
+    "discussion": "ディスカッション",
+    "content": "コンテンツ",
+    "members": "メンバー",
+    "participation": "参加",
+    "followers": "フォロワー"
+  }
+}

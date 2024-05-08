@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configuració avançada",
+    "serverTimeout": {
+      "label": "Temps d'espera del servidor (segons)",
+      "helperText": "Útil per a serveis grans que poden tardar més temps a respondre."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Cantonades",
+      "enum": {
+        "round": {
+          "label": "Rodó"
+        },
+        "square": {
+          "label": "Quadrat"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Ombreig",
+      "enum": {
+        "heavy": {
+          "label": "Intens"
+        },
+        "low": {
+          "label": "Baixa"
+        },
+        "medium": {
+          "label": "Mitjana"
+        },
+        "none": {
+          "label": "No iniciat"
+        }
+      }
+    },
+    "layout": {
+      "label": "Disseny de l'estadística",
+      "enum": {
+        "dataViz": {
+          "label": "Visualització de dades"
+        },
+        "moreInfo": {
+          "label": "Més informació"
+        },
+        "simple": {
+          "label": "Simple"
+        }
+      }
+    },
+    "popoverTitle": "Títol emergent",
+    "popoverDescription": "Descripció emergent",
+    "sectionTitle": "Aparença",
+    "textAlign": "Alineació",
+    "visualInterest": {
+      "label": "Interès visual",
+      "enum": {
+        "icon": {
+          "label": "Icona"
+        },
+        "logo": {
+          "label": "Logotip"
+        },
+        "none": {
+          "label": "Cap"
+        },
+        "sparkline": {
+          "label": "Minigràfic"
+        }
+      }
+    },
+    "valueColor": "Color (estadística)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Enllaç",
+      "sourceLink": "URL de l'enllaç",
+      "sourceTitle": "Text de l'enllaç"
+    },
+    "sectionTitle": "Detalls",
+    "subtitle": "Subtítol",
+    "title": "Títol",
+    "trailingText": "Text final"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Cal un enllaç a la font de visualització."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Format",
+    "unit": {
+      "label": "Unitats de visualització",
+      "helperText": "Introduïu la unitat de mesura del valor."
+    },
+    "unitPosition": {
+      "label": "Col·locació",
+      "enum": {
+        "after": {
+          "label": "Després"
+        },
+        "before": {
+          "label": "Abans"
+        },
+        "below": {
+          "label": "A sota"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Ús compartit",
+    "showShareIcon": "Habilita",
+    "shareableByValue": "Habilita les incrustacions",
+    "shareableOnHover": {
+      "label": "Visualització",
+      "enum": {
+        "always": {
+          "label": "Sempre"
+        },
+        "hover": {
+          "label": "Només en passar el cursor pel damunt"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Font de dades",
+    "displayValue": "Valor de visualització",
+    "sectionTitle": "Estadística",
+    "type": {
+      "label": "Tipus",
+      "enum": {
+        "dynamic": {
+          "label": "Dinàmic",
+          "description": "Seleccioneu un dataset existent (servei d'entitats) per resumir-lo."
+        },
+        "static": {
+          "label": "Estàtic",
+          "description": "Introduïu manualment un valor per ressaltar-lo al disseny."
+        }
+      }
+    }
+  }
+}

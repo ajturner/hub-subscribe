@@ -1,0 +1,10 @@
+{
+  "error": "Si è verificato un errore",
+  "repliesFailure": "Le risposte a questo post non possono essere visualizzate.",
+  "thread.deleted.title": "Thread eliminato",
+  "thread.deleted.message": "Il post e la risposta a questo link sono stati eliminati e non possono essere visualizzati.",
+  "thread.deleted.action": "Visualizza tutti i post",
+  "reply.single.title": "Si sta visualizzando una risposta singola",
+  "reply.single.link": "Visualizza tutte le risposte",
+  "loading": "Caricamento"
+}

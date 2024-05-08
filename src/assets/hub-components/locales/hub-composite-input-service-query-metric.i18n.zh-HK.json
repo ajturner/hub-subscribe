@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "分享",
+      "myself": "我自己",
+      "myOrganization": "我的組織",
+      "public": "世界 (公眾)"
+    },
+    "catalog": {
+      "myContent": "我的內容",
+      "favorites": "我的最愛",
+      "organization": "我的組織",
+      "world": "世界 (公眾)"
+    }
+  },
+  "expression": {
+    "label": "屬性篩選器"
+  },
+  "field": {
+    "label": "屬性"
+  },
+  "layer": "圖層/表格",
+  "statistic": {
+    "label": "匯聚"
+  }
+}

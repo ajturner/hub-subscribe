@@ -1,0 +1,38 @@
+{
+  "settings": "Settings",
+  "delete": {
+    "project": "Delete project",
+    "initiative": "Delete initiative",
+    "site": "Delete site",
+    "discussion": "Delete discussion",
+    "content": "Delete content",
+    "page": "Delete page",
+    "group": "Delete group",
+    "initiativeTemplate": "Delete initiative template",
+    "template": "Delete template"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Delete project",
+      "initiative": "Delete initiative",
+      "site": "Delete site",
+      "discussion": "Delete discussion",
+      "content": "Delete content",
+      "page": "Delete page",
+      "group": "Delete group",
+      "initiativeTemplate": "Delete initiative template",
+      "template": "Delete template"
+    },
+    "content": "Are you sure you want to delete:",
+    "delete": "Delete",
+    "cancel": "Cancel"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "\"Extract\" capability changes the service settings.",
+        "message": "Other items that reference the service will be impacted. For more details see <docLink>Export Data from Hosted Feature Layers</docLink>"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "المعلومات",
+    "details": "التفاصيل",
+    "overview": "نظرة عامة",
+    "metrics": "متري",
+    "settings": "الإعدادات",
+    "collaborators": "المشاركون",
+    "discussion": "مناقشة",
+    "content": "المحتوى",
+    "members": "الأعضاء",
+    "participation": "المشاركة",
+    "followers": "المتابعون"
+  }
+}

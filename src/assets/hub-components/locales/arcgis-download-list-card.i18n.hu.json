@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoadatbázis",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Fájl-geoadatbázis",
+  "featureCollection": "Vektoros gyűjtemény",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV letöltése",
+  "downloadshapefile": "Shapefile letöltése",
+  "downloadsqlite": "SQLite geoadatbázis letöltése",
+  "downloadgeoPackage": "GeoPackage letöltése",
+  "downloadfilegdb": "File Geodatabase letöltése",
+  "downloadfeatureCollection": "Feature Collection letöltése",
+  "downloadgeojson": "GeoJSON letöltése",
+  "downloadexcel": "Excel letöltése",
+  "rateLimitMessage": "Sajnáljuk, elérte a letöltési korlátot. Kérjük, próbálja meg újra egy óra múlva, vagy lépjen kapcsolatba a tartalomkezelővel.",
+  "createReplicaErrorMessage": "Belső hiba a replika létrehozása közben. Kérjük, próbálja meg újra egy óra múlva, vagy lépjen kapcsolatba a tartalomkezelővel."
+}

@@ -1,0 +1,16 @@
+{
+  "location.add": "Dodaj lokalizację",
+  "location.remove": "Usuń lokalizację",
+  "draw.tip": "Dodać kolejną lokalizację?",
+  "prompt.add.post": "Dodaj do wpisu",
+  "prompt.add.reply": "Dodaj do odpowiedzi",
+  "prompt.edit.point": "Przenieś punkt",
+  "prompt.edit.polyline": "Edytuj linię",
+  "prompt.edit.polygon": "Edytuj obszar",
+  "prompt.remove.point": "Usuń punkt",
+  "prompt.remove.polyline": "Usuń linię",
+  "prompt.remove.polygon": "Usuń obszar",
+  "prompt.remove.existing": "Anuluj wybór",
+  "prompt.location.edit": "Zaktualizuj rysunek",
+  "prompt.location.delete": "Usuń rysunek"
+}

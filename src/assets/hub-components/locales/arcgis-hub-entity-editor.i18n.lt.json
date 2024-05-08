@@ -1,0 +1,494 @@
+{
+  "success": "Pakeitimai įrašyti sėkmingai",
+  "error": "Klaida išsaugant pakeitimus",
+  "create": "Sukurti",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nėra vietos",
+        "org": "Organizacijos aprėptis",
+        "custom": "Pasirinktinė vieta",
+        "customDescription": "Brėžkite vieną ar daugiau buvimo vietų",
+        "itemExtent": "Dabartinė elemento aprėptis"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipas",
+          "sharing": "Bendrinimas"
+        },
+        "catalog": {
+          "myContent": "Mano turinys",
+          "favorites": "Mėgstami",
+          "organization": "Organizacija",
+          "world": "Pasaulis (viešai)"
+        },
+        "collection": {
+          "appsAndMaps": "Programėlės ir žemėlapiai",
+          "dataset": "Duomenys",
+          "documents": "Dokumentai",
+          "feedback": "Atsiliepimai",
+          "sites": "Svetainės"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Išsamiau"
+      },
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "location": {
+        "label": "Vieta",
+        "helperText": "Pažymėkite geografinę teritoriją, kurioje bus vykdomas šis projektas (bus pateikta projekto makete)."
+      },
+      "status": {
+        "label": "Būsena"
+      },
+      "sharing": {
+        "label": "Bendrinimas"
+      },
+      "timeline": {
+        "label": "Laiko juosta"
+      },
+      "searchDiscoverability": {
+        "label": "Paieška ir aptinkamumas"
+      },
+      "featuredContent": {
+        "label": "Rekomenduojamas turinys",
+        "helperText": "Pažymėkite konkrečius su projektu susijusius dokumentus, programas ir duomenis. Galite pateikti ne daugiau kaip 4 elementus."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projekto pavadinimas",
+        "requiredError": "Projekto pavadinimas yra būtinas laukas"
+      },
+      "description": {
+        "label": "Aprašas",
+        "helperText": "Nurodykite, kaip jūsų projektas padės įgyvendinti šiuos tikslus. Apsvarstykite galimybę įtraukti svarbią pagrindinę informaciją ir numatomus projekto pokyčius."
+      },
+      "summary": {
+        "label": "Paskirtis",
+        "helperText": "Trumpai apibūdinkite savo projekto tikslus."
+      },
+      "access": {
+        "itemType": "Projektas"
+      },
+      "groups": {
+        "label": "Bendrinti su...",
+        "viewGroup": "(Peržiūrėti grupę)",
+        "editGroup": "(Redaguoti grupę)"
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Nustatykite miniatiūrą, kuri nurodys šį projektą „ArcGIS Online“, paieškoje ir galerijose.",
+        "sizeDescription": "Rekomenduojami matmenys: 760 x 505 arba didesni"
+      },
+      "featuredImage": {
+        "label": "Rekomenduojamas paveikslėlis",
+        "helperText": "Norėdami pristatyti savo darbą projekto makete, pasirinkite paveikslėlį.",
+        "sizeDescription": "Maks. failo dydis yra 10 mb. Rekomenduojami matmenys: 718 x 478 arba didesni",
+        "altText": {
+          "label": "Alternatyvusis tekstas",
+          "helperText": "Pateikite trumpą paveikslėlio aprašymą tiems, kurie naudojasi ekrano skaitytuvais. Jei paveikslėlis tik puošybinis, palikite tuščią."
+        }
+      },
+      "tags": {
+        "label": "Raktažodžiai",
+        "helperText": "Paieškos kataloguose naudojamos žymos padės kitiems surasti šį projektą. Norėdami sukurti naujas žymas, pridėkite tekstą ir paspauskite Enter."
+      },
+      "categories": {
+        "label": "Kategorijos",
+        "helperText": "Kategorijos naudojamos paieškos kataloguose, kad kiti galėtų rasti šį projektą. Jas nustato jūsų ArcGIS Online organizacija."
+      },
+      "status": {
+        "label": "Projekto būsena",
+        "enum": {
+          "notStarted": {
+            "label": "Nepradėta"
+          },
+          "inProgress": {
+            "label": "Vykdoma"
+          },
+          "onHold": {
+            "label": "Sulaikyta"
+          },
+          "complete": {
+            "label": "Baigta"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipas",
+          "sharing": "Bendrinimas"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Išsamiau"
+      },
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "location": {
+        "label": "Vieta",
+        "helperText": "Pažymėkite geografinę teritoriją, kurioje bus vykdoma ši iniciatyva (bus pateikta iniciatyvos makete)."
+      },
+      "sharing": {
+        "label": "Bendrinimas"
+      },
+      "featuredContent": {
+        "label": "Rekomenduojamas turinys",
+        "helperText": "Pažymėkite konkrečius su projektu susijusius dokumentus, programas ir duomenis. Galite pateikti ne daugiau kaip 4 elementus."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Iniciatyvos pavadinimas",
+        "requiredError": "Iniciatyvos pavadinimas yra būtinas laukas"
+      },
+      "summary": {
+        "label": "Paskirtis",
+        "helperText": "Trumpai apibūdinkite savo iniciatyvos tikslus."
+      },
+      "access": {
+        "itemType": "Iniciatyva"
+      },
+      "description": {
+        "label": "Aprašas",
+        "helperText": "Pateikite daugiau konteksto, kuris gali būti naudingas ieškant šios iniciatyvos."
+      },
+      "tags": {
+        "label": "Raktažodžiai",
+        "helperText": "Žymos naudojamos paieškos kataloguose, siekiant padėti kitiems rasti šią iniciatyvą. Norėdami sukurti naujas žymas, pridėkite tekstą ir paspauskite Enter."
+      },
+      "categories": {
+        "label": "Kategorijos",
+        "helperText": "Kategorijos naudojamos paieškos kataloguose, siekiant padėti kitiems rasti šią iniciatyvą. Jas nustato jūsų ArcGIS Online organizacija."
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Nustatykite miniatiūrą, kuri nurodys šią iniciatyvą „ArcGIS Online“, paieškoje ir galerijose."
+      },
+      "groups": {
+        "label": "Bendrinti su...",
+        "viewGroup": "(Peržiūrėti grupę)",
+        "editGroup": "(Redaguoti grupę)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipas",
+          "sharing": "Bendrinimas"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Išsamiau"
+      },
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "location": {
+        "label": "Vieta"
+      },
+      "settings": {
+        "label": "Diskusijų nustatymai"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Pavadinimas",
+        "requiredError": "Diskusijų lentos pavadinimas yra būtinas."
+      },
+      "prompt": {
+        "label": "Įveskite",
+        "helperText": "Trumpai aprašykite, ką dalyviai gali pateikti šioje diskusijų lentoje.",
+        "requiredError": "Šį lauką užpildyti būtina"
+      },
+      "description": {
+        "label": "Aprašas",
+        "helperText": "Pateikite daugiau konteksto, kuris gali būti naudingas ieškant šios lentos."
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Pasirinkite vaizdą, kuris nurodys jūsų diskusiją."
+      },
+      "summary": {
+        "label": "Paskirtis",
+        "helperText": "Trumpai aprašykite šios diskusijų lentos tikslą, kuris gali būti naudingas dalijantis nuoroda su kitais."
+      },
+      "featuredImage": {
+        "label": "Rekomenduojamas paveikslėlis",
+        "sizeDescription": "Maks. dydis – 10 MB. Formatai – JPEG, JPG arba PNG",
+        "altText": {
+          "label": "Alternatyvusis tekstas",
+          "helperText": "Pateikite trumpą paveikslėlio aprašymą tiems, kurie naudojasi ekrano skaitytuvais. Jei paveikslėlis tik puošybinis, palikite tuščią."
+        },
+        "name": {
+          "label": "Vaizdo pavadinimas"
+        }
+      },
+      "tags": {
+        "label": "Raktažodžiai"
+      },
+      "categories": {
+        "label": "Kategorijos"
+      },
+      "discussable": {
+        "label": "Diskusija leidžiama?",
+        "enabled": {
+          "label": "Taip, diskusija leidžiama",
+          "description": "Dalyviai šioje diskusijų lentoje gali pateikti įrašus, atsakymus ir reakcijas."
+        },
+        "disabled": {
+          "label": "Ne, diskusijos funkcija užblokuota",
+          "description": "Panaikina galimybę įtraukti naujus įrašus, atsakymus ir reakcijas. Neištrina ankstesnio dalyvavimo"
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "location": {
+        "label": "Vieta",
+        "helperText": "Pažymėkite geografinę teritoriją, kuriai priklauso šis puslapis."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Svetainės pavadinimas",
+        "requiredError": "Svetainės pavadinimas yra būtinas laukas"
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Nustatykite miniatiūrą, kuri nurodys šią svetainę „ArcGIS Online“, paieškoje ir galerijose."
+      },
+      "description": {
+        "label": "Aprašas",
+        "helperText": "Svetainės aprašas."
+      },
+      "summary": {
+        "label": "Santrauka",
+        "helperText": "Pateikite trumpą svetainės santrauką."
+      },
+      "tags": {
+        "label": "Raktažodžiai",
+        "helperText": "Paieškos kataloguose naudojamos žymos padės kitiems surasti šią svetainę. Norėdami sukurti naujas žymas, pridėkite tekstą ir paspauskite Enter."
+      },
+      "categories": {
+        "label": "Kategorijos",
+        "helperText": "Kategorijos naudojamos paieškos kataloguose, kad kiti galėtų rasti šią svetainę. Jas nustato jūsų ArcGIS Online organizacija."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Nustatyti matomumą",
+          "helperText": "Valdykite, kas gali matyti stebėjimo mygtukus. Šis parametras taikomas ir puslapyje vykstančio veiksmo stebėjimo mygtukui, ir bet kuriam stebėjimo mygtukui, įdėtam tiesiai į maketą.",
+          "private": {
+            "label": "Privati",
+            "description": "Svetainės savininkas ir prieigą turinčios grupės gali matyti stebėjimo mygtukus"
+          },
+          "org": {
+            "label": "Organizacija",
+            "description": "Visi nariai, turintys paskyrą svetainės organizacijoje, ir prieigą turinčios grupės gali matyti stebėjimo mygtukus"
+          },
+          "public": {
+            "label": "Vieša",
+            "description": "Visi gali matyti stebėjimo mygtukus"
+          }
+        },
+        "showFollowAction": {
+          "label": "Stebėjimo veiksmas",
+          "helperText": "Įtraukite stebėjimo mygtuką į puslapio veiksmų meniu, kuris išlieka matomas naudotojams slenkant per maketą."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "location": {
+        "label": "Vieta",
+        "helperText": "Pažymėkite geografinę teritoriją, kuriai priklauso šis puslapis."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Puslapio pavadinimas",
+        "requiredError": "Puslapio pavadinimas yra būtinas laukas"
+      },
+      "description": {
+        "label": "Aprašas",
+        "helperText": "Puslapio aprašas."
+      },
+      "summary": {
+        "label": "Santrauka",
+        "helperText": "Pateikite trumpą puslapio santrauką."
+      },
+      "tags": {
+        "label": "Raktažodžiai",
+        "helperText": "Paieškos kataloguose naudojamos žymos padės kitiems surasti šį puslapį. Norėdami sukurti naujas žymas, pridėkite tekstą ir paspauskite Enter."
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Nustatykite miniatiūrą, kuri nurodys šį puslapį „ArcGIS Online“, paieškoje ir galerijose."
+      },
+      "categories": {
+        "label": "Kategorijos",
+        "helperText": "Kategorijos naudojamos paieškos kataloguose, kad kiti galėtų rasti šį puslapį. Jas nustato jūsų ArcGIS Online organizacija."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Pavadinimas",
+        "hint": "Glausti pavadinimai pagerins turinio aptikimą.",
+        "requiredError": "Būtina įvesti pavadinimą"
+      },
+      "summary": {
+        "label": "Santrauka",
+        "hint": "Pateikite trumpą turinio santrauką. PASTABA. Pagerinkite SEO, naudodami raktažodžius, kurie skiriasi nuo jūsų „Pavadinimo“ ir „Raktažodžių“."
+      },
+      "description": {
+        "label": "Aprašas",
+        "hint": "Pridėkite papildomą informaciją, kuri paaiškina jūsų turinį. Siekite 7–9 klasei tinkamo vidurkio, kad būtų galima pasiekti plačią auditoriją. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Savo teksto testavimui naudokite nemokamą skaitomumo analizės įrankį</a>."
+      },
+      "tags": {
+        "label": "Raktažodžiai",
+        "hint": "Paieškos kataloguose naudojami raktažodžiai padės kitiems rasti šį turinį. Norėdami sukurti naujas žymas, pridėkite tekstą ir paspauskite Enter."
+      },
+      "categories": {
+        "label": "Kategorijos",
+        "agolHint": "Kategorijos naudojamos paieškos kataloguose, kad kiti galėtų rasti šį turinį. Jas nustato jūsų ArcGIS Online organizacija.",
+        "enterpriseHint": "Kategorijos naudojamos paieškos kataloguose, kad kiti galėtų rasti šį turinį. Jas nustato jūsų „ArcGIS Enterprise“ organizacija.",
+        "agolNoCategoryHint": "Pastaba. Kategorijos galimos, tik jei jas nustato jūsų organizacija „ArcGIS Online“ organizacijoje.",
+        "enterpriseNoCategoryHint": "Pastaba. Kategorijos galimos, tik jei jas nustato jūsų organizacija „ArcGIS Enterprise“ organizacijoje."
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Nustatykite miniatiūrą, kuri nurodys šį elementą „ArcGIS Online“, paieškoje ir galerijose."
+      },
+      "license": {
+        "label": "Naudojimo sąlygos",
+        "helperText": "Mažiau apribojimų skatina pakartotinį naudojimą."
+      },
+      "serverExtractCapability": {
+        "label": "Ištraukimo galimybė (eksportuoti duomenis)",
+        "helperText": "Įgalina „ištraukimo“ galimybę šio elemento paslaugoje. Ištrauka palaiko papildomus formatus."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Talpinami atsisiuntimai",
+        "helperText": "Kurkite atsisiuntimo failus tiesiai iš talpinamos paslaugos. Tai pagerina efektyvumą, kai atsisiunčiate turinį, pvz., funkcijų sluoksnius ir lenteles. Norint įgalinti talpinamus atsisiuntimus, turi būti įjungtos ištraukimo galimybės."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Pagrindinė informacija",
+        "message": "Ši informacija naudojama pildant paieškos rezultatus, galerijų korteles ir rodoma išsamios informacijos peržiūroje."
+      },
+      "about": {
+        "title": "Apie turinį",
+        "message": "Pirmos dvi aprašo eilutės visada rodomos paieškos rezultatuose, tačiau išryškinto turinio rodiniuose bus rodomas visas aprašas."
+      },
+      "image": {
+        "title": "Rodomas paveikslėlis",
+        "message": "Demonstruojant turinį mūsų galerijose ar rodiniuose, kuriuose akcentuojami vaizdai, pavyzdžiui, iniciatyvose, įvykiuose ir apklausose, svarbu pasirinkti tinkamą paveikslėlį ar miniatiūrą. Rekomenduojamas dydis – 760 x 505. Jei tiesiogiai rodomuose maršrutuose jūsų paveikslėliai nėra ryškūs, pabandykite vietoje miniatiūros naudoti didesnį paveikslėlį."
+      },
+      "location": {
+        "label": "Vieta",
+        "helperText": "Pažymėkite geografinę teritoriją, kurioje bus šis turinys (bus pateikta turinio makete)."
+      },
+      "downloads": {
+        "label": "Atsisiuntimai",
+        "helperText": "Konfigūruokite atsisiuntimo formatus, talpykloje esančių failų atnaujinimo tvarkaraštį ir kt. Norėdami gauti daugiau informacijos, žr. <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">Atsisiųsti dokumentaciją</calcite-link>."
+      }
+    },
+    "stringField": {
+      "charCounter": "Liko ženklų: {count}"
+    },
+    "imageThumbnail": {
+      "label": "Miniatiūros vaizdas",
+      "upload": "Įkelti vaizdą",
+      "done": "Atlikta",
+      "editThumbnail": "Redaguoti miniatiūrą",
+      "browse": "Parinkti paveikslėlį",
+      "remove": "Šalinti paveikslėlį",
+      "edit": "Redaguoti paveikslėlį",
+      "defaultHeading": "Įtraukti miniatiūros vaizdą",
+      "dropHeading": "Nuvilkti, kad būtų nusiųstas",
+      "errorHeading": "Bandyti kitą paveikslėlį",
+      "subheading": "Didžiausias dydis: {size}, {types}",
+      "zoomOut": "tolinti",
+      "zoomIn": "artinti",
+      "drag": "Vilkti siekiant pakeisti padėtį",
+      "urlPlaceholder": "Palaikomi tipai: {types}",
+      "browseForImage": "Parinkti paveikslėlį",
+      "aria": {
+        "container": "Paveikslėlio sritis",
+        "crop": "Apkarpymo sritis",
+        "handle": {
+          "top": "Keisti dydį viršuje",
+          "right": "Keisti dydį dešinėje",
+          "left": "Keisti dydį kairėje",
+          "bottom": "Keisti dydį apačioje"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Išsamiau"
+      },
+      "basicInfo": {
+        "label": "Pagrindinė informacija"
+      },
+      "membershipAccess": {
+        "label": "Narystės prieiga"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Grupės pavadinimas",
+        "requiredError": "Grupės pavadinimo lauką privaloma užpildyti"
+      },
+      "summary": {
+        "label": "Santrauka"
+      },
+      "access": {
+        "itemType": "Grupė"
+      },
+      "_thumbnail": {
+        "label": "Miniatiūra",
+        "helperText": "Pasirinkite vaizdą, kuris bus naudojamas jūsų grupei grupės profilyje.",
+        "sizeDescription": "Didžiausias dydis yra 10 mb. Rekomenduojamas dydis: 400 x 400 ar didesnis"
+      },
+      "membershipAccess": {
+        "label": "Kas gali būti šioje grupėje?",
+        "org": "Tik mano organizacijos nariai",
+        "collab": "Tik bendradarbiavimo partneriai ir mano organizacijos nariai",
+        "any": "Bet kuris organizacijos narys"
+      },
+      "contributeContent": {
+        "label": "Kas gali pateikti turinį?",
+        "all": "Visi grupės nariai",
+        "admins": "Tik grupės savininkas ir valdytojai"
+      }
+    }
+  }
+}

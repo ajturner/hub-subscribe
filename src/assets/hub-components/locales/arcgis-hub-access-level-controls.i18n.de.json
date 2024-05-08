@@ -1,0 +1,9 @@
+{
+  "heading": "Freigabeebene",
+  "public": "Öffentlich",
+  "publicInfo": "{itemType} ist für alle Benutzer sichtbar",
+  "organization": "Organisation",
+  "organizationInfo": "{itemType} ist für alle Mitglieder mit einem Konto bei {orgName} und für Gruppen sichtbar",
+  "owner": "Besitzer",
+  "ownerInfo": "{itemType} ist für Besitzer und Gruppen mit Zugriff sichtbar"
+}

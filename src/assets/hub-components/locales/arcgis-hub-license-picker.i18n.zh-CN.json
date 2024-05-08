@@ -1,0 +1,19 @@
+{
+  "chooseButton": "选择使用条款",
+  "editorLabel": "所选使用条款",
+  "editorRemoveWarning": "警告，您即将删除使用条款。",
+  "licenseDescriptionCc0": "此为向公众提供的内容",
+  "licenseDescriptionCcBy": "需要署名",
+  "licenseDescriptionCcByNc": "需要署名，允许重新混合，但禁止商业用途",
+  "licenseDescriptionCcByNcNd": "限制性最高，需要署名，禁止商业用途和重新混合",
+  "licenseDescriptionCcByNcSa": "需要署名，允许重新混合，但禁止商业用途，衍生品必须保持相同的许可",
+  "licenseDescriptionCcByNd": "需要署名，允许商业用途，但禁止共享衍生品",
+  "licenseDescriptionCcBySa": "需要署名，允许重新混合和商业用途",
+  "licenseDescriptionCustom": "详细信息视图",
+  "licenseDescriptionOdbl": "允许共享、创建和调整，需要他人署名、相同方式共享且保持开放",
+  "licenseDescriptionOdcBy": "允许共享、创建和调整，需要他人署名",
+  "licenseDescriptionPddl": "允许共享、创建和调整",
+  "licenseInfoButtonAriaLabel": "使用条款详细信息将在新选项卡中打开",
+  "selectedLicenseLabelFallback": "自定义安装",
+  "selectedLicenseLabelNoLicense": "无使用条款"
+}

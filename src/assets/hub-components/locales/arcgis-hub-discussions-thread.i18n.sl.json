@@ -1,0 +1,10 @@
+{
+  "error": "Nekaj je šlo narobe",
+  "repliesFailure": "Odgovorov na to objavo ni mogoče prikazati.",
+  "thread.deleted.title": "Nit je izbrisana",
+  "thread.deleted.message": "Povezana objava in odgovor sta bila izbrisana in ju ni mogoče prikazati.",
+  "thread.deleted.action": "Ogled vseh objav",
+  "reply.single.title": "Gledate posamezen odgovor",
+  "reply.single.link": "Ogled vseh odgovorov",
+  "loading": "Nalaganje"
+}

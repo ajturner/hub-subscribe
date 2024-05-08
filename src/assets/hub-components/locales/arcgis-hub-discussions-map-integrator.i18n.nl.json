@@ -1,0 +1,16 @@
+{
+  "location.add": "Locatie toevoegen",
+  "location.remove": "Locatie verwijderen",
+  "draw.tip": "Wilt u nog een locatie toevoegen?",
+  "prompt.add.post": "Aan post toevoegen",
+  "prompt.add.reply": "Aan antwoord toevoegen",
+  "prompt.edit.point": "Punt verplaatsen",
+  "prompt.edit.polyline": "Lijn bewerken",
+  "prompt.edit.polygon": "Gebied bewerken",
+  "prompt.remove.point": "Punt verwijderen",
+  "prompt.remove.polyline": "Lijn verwijderen",
+  "prompt.remove.polygon": "Gebied verwijderen",
+  "prompt.remove.existing": "Selectie annuleren",
+  "prompt.location.edit": "Tekening bijwerken",
+  "prompt.location.delete": "Tekening verwijderen"
+}

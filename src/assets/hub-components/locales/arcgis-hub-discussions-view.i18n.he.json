@@ -1,0 +1,17 @@
+{
+  "summary": "סיכום",
+  "description": "תיאור",
+  "details": "פרטים",
+  "metrics": "מדדים",
+  "metricsDisclaimer": "מציג את 30 הימים האחרונים בלבד",
+  "titleOpen": "דיון פתוח",
+  "statusOpen": "פתוח להשתתפות",
+  "titleClosed": "דיון סגור",
+  "statusClosed": "סגור להשתתפות",
+  "tags": "תגים",
+  "categories": "קטגוריות",
+  "metric.pageViews": "צפיות בדפים",
+  "metric.postCount": "ספירת פוסטים",
+  "discussion": "דיון",
+  "discussionBoard": "לוח דיונים"
+}

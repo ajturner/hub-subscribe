@@ -1,0 +1,27 @@
+{
+  "overview": "Tổng quan",
+  "telemetry": {
+    "pageViews": "Số lượt xem trang",
+    "last30days": "30 ngày trước",
+    "lastUpdated": "Cập nhật lần cuối {hoursElapsed} giờ trước"
+  },
+  "newNotice": {
+    "title": "Đây là không gian làm việc của dự án",
+    "message": "Không gian làm việc này được tùy chỉnh để chỉnh sửa dự án. Không gian làm việc cho phép người hợp tác tập trung vào từng mục và liên tục phát triển.",
+    "link": "Tìm hiểu thêm"
+  },
+  "learnAbout": "Tìm hiểu về dự án Hub",
+  "feedbackNotice": {
+    "message": "Bạn thích dự án Hub ở mức độ nào? Chúng tôi muốn biết cách bạn sử dụng tính năng này, do tính năng này vẫn đang ở giai đoạn beta.",
+    "link": "Gửi phản hồi"
+  },
+  "status": {
+    "notStarted": "Chưa bắt đầu",
+    "inProgress": "Đang tiến hành",
+    "onHold": "Đang bị tạm ngưng",
+    "complete": "Hoàn tất"
+  },
+  "editDetails": "Chỉnh sửa thông tin chi tiết",
+  "noPurposeSet": "Không có mục đích nào được thiết lập",
+  "noLocationSet": "Không có vị trí nào được thiết lập"
+}

@@ -1,0 +1,17 @@
+{
+  "summary": "Kokkuvõte",
+  "description": "Kirjeldus",
+  "details": "Üksikasjad",
+  "metrics": "Mõõdikud",
+  "metricsDisclaimer": "Kuvatakse ainult viimased 30 päeva",
+  "titleOpen": "Avatud arutelu",
+  "statusOpen": "Avatud osalemiseks",
+  "titleClosed": "Suletud arutelu",
+  "statusClosed": "Suletud osalemiseks",
+  "tags": "Märksõnad",
+  "categories": "Kategooriad",
+  "metric.pageViews": "Lehe vaatamised",
+  "metric.postCount": "Postituste arv",
+  "discussion": "Arutelu",
+  "discussionBoard": "Arutelutahvel"
+}

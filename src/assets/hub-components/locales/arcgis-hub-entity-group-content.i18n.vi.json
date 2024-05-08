@@ -1,0 +1,50 @@
+{
+  "title": "Nội dung",
+  "facets": {
+    "type": "Loại",
+    "tags": "Từ khóa",
+    "categories": "Thể loại",
+    "sharing": "Chia sẻ",
+    "dateUpdated": "Ngày cập nhật",
+    "map": {
+      "label": "Vị trí",
+      "tooltip": "Áp dụng phạm vi bản đồ làm bộ lọc vị trí"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Thêm nội dung",
+    "catalog": {
+      "myContent": "Nội dung của tôi",
+      "favorites": "Yêu thích",
+      "organization": "Tổ chức của tôi",
+      "world": "Thế giới (Công khai)"
+    },
+    "facets": {
+      "type": "Loại",
+      "sharing": "Chia sẻ"
+    },
+    "collection": {
+      "appsAndMaps": "Ứng dụng & Bản đồ",
+      "dataset": "Dữ liệu",
+      "documents": "Tài liệu",
+      "feedback": "Ý kiến phản hồi",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Thêm nội dung"
+    },
+    "unsharedModal": {
+      "title": "Mục chưa được thêm vào",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "nguy hiểm",
+        "title": "Hành động chưa hoàn tất",
+        "message": "Không thể thêm một số mục. Điều này có thể do mức độ chia sẻ trong nội dung không khớp hoặc do chủ sở hữu mục không phải là thành viên của nhóm.",
+        "linkText": "Đọc thêm về chia sẻ"
+      }
+    },
+    "itemSharedSuccessAlert": "Đã chia sẻ (các) mục thành công"
+  },
+  "close": "Đóng",
+  "newTab": "mở trong tab mới"
+}

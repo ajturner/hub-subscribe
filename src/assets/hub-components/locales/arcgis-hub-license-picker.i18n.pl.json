@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Wybierz warunki użytkowania",
+  "editorLabel": "Wybrane warunki użytkowania",
+  "editorRemoveWarning": "Uwaga, zamierzasz usunąć warunki użytkowania.",
+  "licenseDescriptionCc0": "Ta praca jest przeznaczona dla wszystkich użytkowników",
+  "licenseDescriptionCcBy": "Wymaga atrybucji",
+  "licenseDescriptionCcByNc": "Wymaga atrybucji, umożliwia remiksowanie, ale nie pozwala na użytkowanie komercyjne",
+  "licenseDescriptionCcByNcNd": "Najbardziej restrykcyjna – wymaga atrybucji i nie pozwala na użytkowanie komercyjne i remiksowanie",
+  "licenseDescriptionCcByNcSa": "Wymaga atrybucji, umożliwia remiksowanie, ale nie pozwala na użytkowanie komercyjne — prace pochodne muszą podlegać tej samej licencji",
+  "licenseDescriptionCcByNd": "Wymaga atrybucji, umożliwia użytkowanie komercyjne, ale nie pozwala na udostępnianie elementów pochodnych",
+  "licenseDescriptionCcBySa": "Wymaga atrybucji, umożliwia remiksowanie i użytkowanie komercyjne",
+  "licenseDescriptionCustom": "Wyświetl szczegóły",
+  "licenseDescriptionOdbl": "Umożliwia udostępnianie, tworzenie i adaptowanie pod warunkiem, że inni użytkownicy także zachowują atrybucję, możliwość udostępniania i otwartość",
+  "licenseDescriptionOdcBy": "Umożliwia udostępnianie, tworzenie i adaptowanie pod warunkiem zachowania atrybucji przez innych użytkowników",
+  "licenseDescriptionPddl": "Umożliwia udostępnianie, tworzenie i adaptowanie",
+  "licenseInfoButtonAriaLabel": "Szczegóły warunków użytkowania, otwierają się na nowej karcie",
+  "selectedLicenseLabelFallback": "Niestandardowy",
+  "selectedLicenseLabelNoLicense": "Brak warunków użytkowania"
+}

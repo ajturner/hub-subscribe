@@ -1,0 +1,31 @@
+{
+  "dateRange": "Date Range: {start} - {end}",
+  "pageViews": "Pageviews",
+  "timeOnSite": "Average minutes on site",
+  "users": "Sessions",
+  "viewsOverTime": "Pageviews over time",
+  "disabledTracking": "Activity tracking is disabled",
+  "enableTracking": "Enable Hub Activity tracking in site settings to monitor usage of your site.",
+  "learnMore": "Learn more.",
+  "disabled": "Disabled",
+  "notificationLabel": "Data Updated",
+  "dataUpdated": "Data Updated",
+  "subscribe": "Subscribe",
+  "subscribed": "Subscribed",
+  "weeklyReport": "Weekly report",
+  "timestampTitle": {
+    "hour": "Time of Day",
+    "day": "Date",
+    "week": "Week"
+  },
+  "formAlert": "Form Alert",
+  "success": "Successfully uppdated subscription",
+  "subscriptionActivatedTitle": "Subscription activated",
+  "subscriptionActivatedMessage": "You have registered {email} to receive weekly engagement metrics.",
+  "unsubscribeCompleteTitle": "Unsubscribe complete",
+  "unsubscribeCompleteMessage": "{email} has been successfully unsubscribed from engagement metrics.",
+  "problemSubscribingTitle": "Problem subscribing",
+  "problemSubscribingMessage": "There was a problem subscribing . \n Error: ",
+  "problemUnsubscribingTitle": "Problem unsubscribing",
+  "problemUnsubscribingMessage": "There was a problem unsubscribing . \n Error: "
+}

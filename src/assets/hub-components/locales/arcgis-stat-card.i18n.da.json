@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Serverforbindelsen udløb og kunne ikke vise statistik.",
+    "title": "Udløb for server"
+  },
+  "genericError": {
+    "message": "Statistik kan ikke vises.",
+    "title": "Der gik noget galt"
+  }
+}

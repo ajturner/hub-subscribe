@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Hent",
+  "buttonOptions": "Download-indstillinger",
+  "menuRequest": "Generer ny download med de seneste data",
+  "menuDownload": "Downloadfil blev tidligere genereret den {createdDate}",
+  "fileCreated": "Fil oprettet",
+  "fileSize": "Filstørrelse",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "I/T"
+}

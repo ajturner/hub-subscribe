@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geodatabáza SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Súborová geodatabáza",
+  "featureCollection": "Kolekcia prvkov",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Stiahnuť CSV",
+  "downloadshapefile": "Stiahnuť Shapefile",
+  "downloadsqlite": "Stiahnuť geodatabázu SQLite",
+  "downloadgeoPackage": "Stiahnuť GeoPackage",
+  "downloadfilegdb": "Stiahnuť súborovú geodatabázu",
+  "downloadfeatureCollection": "Stiahnuť kolekciu prvkov",
+  "downloadgeojson": "Stiahnuť GeoJSON",
+  "downloadexcel": "Stiahnuť Excel",
+  "rateLimitMessage": "Ospravedlňujeme sa, limit na sťahovanie bol dosiahnutý. Skúste to znova o hodinu alebo kontaktujte správcu obsahu.",
+  "createReplicaErrorMessage": "Interná chyba vytvárania repliky. Skúste to znova o hodinu alebo kontaktujte správcu obsahu."
+}
