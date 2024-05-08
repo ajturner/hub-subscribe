@@ -1,0 +1,15 @@
+{
+  "new": "Baru",
+  "project": {
+    "title": "Proyek Baru",
+    "description": "Sorot kerja yang memiliki tujuan dan jangka waktu yang jelas"
+  },
+  "initiative": {
+    "title": "Inisiatif Baru",
+    "description": "Sorot kerja yang memiliki tujuan dan jangka waktu yang jelas"
+  },
+  "discussion": {
+    "title": "Forum Diskusi Baru",
+    "description": "Buat forum diskusi baru dengan memasukkan judul yang menggambarkan topiknya."
+  }
+}

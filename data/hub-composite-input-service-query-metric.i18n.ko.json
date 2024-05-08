@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "공유",
+      "myself": "본인",
+      "myOrganization": "내 기관",
+      "public": "전 세계(공개)"
+    },
+    "catalog": {
+      "myContent": "내 콘텐츠",
+      "favorites": "즐겨찾기",
+      "organization": "내 기관",
+      "world": "전 세계(공개)"
+    }
+  },
+  "expression": {
+    "label": "속성 필터"
+  },
+  "field": {
+    "label": "속성"
+  },
+  "layer": "레이어/테이블",
+  "statistic": {
+    "label": "집계"
+  }
+}

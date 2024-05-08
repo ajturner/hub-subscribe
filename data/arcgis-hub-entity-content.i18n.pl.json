@@ -1,0 +1,24 @@
+{
+  "content": "Zasoby",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Zbiory",
+    "catalogConfig": "Konfiguracja katalogu"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Skonfiguruj katalog",
+        "message": "Rozpoczęto tworzenie i konfigurowanie katalogu! Twój katalog składa się z grup i jest wypełniony zasobami, które się w nich znajdują.",
+        "link": "Dowiedz się więcej o katalogach"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalog jest pusty",
+        "message": "Możesz już rozpocząć pracę nad katalogiem! Katalog jest konfigurowany przez dodanie jednej lub większej liczby grup i wypełniany zasobami, które się w nich znajdują.",
+        "link": "Wprowadzenie"
+      }
+    }
+  }
+}

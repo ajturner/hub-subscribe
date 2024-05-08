@@ -1,0 +1,14 @@
+{
+  "createdBy": "创建者：{creator}",
+  "emptyMessage": "未找到版本",
+  "errorMessage": "获取版本时出错",
+  "menuLabel": "显示操作",
+  "publishedBadge": "已发布",
+  "viewingBadge": "查看",
+  "popover.label": "版本操作",
+  "popover.actions.delete": "删除",
+  "popover.actions.edit": "编辑详细信息",
+  "popover.actions.share": "共享",
+  "shareErrorMessage": "将共享 URL 复制到剪贴板时出错。",
+  "shareSuccessMessage": "已将共享 URL 复制到剪贴板。"
+}

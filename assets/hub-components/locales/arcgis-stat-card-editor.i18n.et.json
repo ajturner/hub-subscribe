@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Täpsem konfiguratsioon",
+    "serverTimeout": {
+      "label": "Serveri ajalõpp (sekundites)",
+      "helperText": "Kasulik suuremate teenuste jaoks, mis vajavad vastamiseks rohkem aega."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Nurgad",
+      "enum": {
+        "round": {
+          "label": "Ümar"
+        },
+        "square": {
+          "label": "Ruut"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Varjuefekt",
+      "enum": {
+        "heavy": {
+          "label": "Raske"
+        },
+        "low": {
+          "label": "Madal"
+        },
+        "medium": {
+          "label": "Keskmine"
+        },
+        "none": {
+          "label": "Pole alustatud"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistika paigutus",
+      "enum": {
+        "dataViz": {
+          "label": "Andmete visualiseerimine"
+        },
+        "moreInfo": {
+          "label": "Lisateave"
+        },
+        "simple": {
+          "label": "Lihtne"
+        }
+      }
+    },
+    "popoverTitle": "Hüpiku tiitel",
+    "popoverDescription": "Hüpiku kirjeldus",
+    "sectionTitle": "Väljanägemine",
+    "textAlign": "Joondus",
+    "visualInterest": {
+      "label": "Visuaalne huvi",
+      "enum": {
+        "icon": {
+          "label": "Ikoon"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Puudub"
+        },
+        "sparkline": {
+          "label": "Minigraafik"
+        }
+      }
+    },
+    "valueColor": "Värv (statistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "Lingi URL",
+      "sourceTitle": "Lingi tekst"
+    },
+    "sectionTitle": "Üksikasjad",
+    "subtitle": "Alapealkiri",
+    "title": "Pealkiri",
+    "trailingText": "Tagumine tekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Link on allika kuvamiseks nõutav."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Vormindus",
+    "unit": {
+      "label": "Kuvatavad ühikud",
+      "helperText": "Sisestage oma väärtuse mõõtühik."
+    },
+    "unitPosition": {
+      "label": "Paigutus",
+      "enum": {
+        "after": {
+          "label": "Pärast"
+        },
+        "before": {
+          "label": "Enne"
+        },
+        "below": {
+          "label": "All"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Jagamine",
+    "showShareIcon": "Luba",
+    "shareableByValue": "Luba manused",
+    "shareableOnHover": {
+      "label": "Kuva",
+      "enum": {
+        "always": {
+          "label": "Alati"
+        },
+        "hover": {
+          "label": "Ainult hõljutamine"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Andmeallikas",
+    "displayValue": "Kuva väärtus",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Tüüp",
+      "enum": {
+        "dynamic": {
+          "label": "Dünaamiline",
+          "description": "Valige summeerimiseks olemasolev andmestik (objektiteenus)."
+        },
+        "static": {
+          "label": "Staatiline",
+          "description": "Sisestage oma paigutuse esiletõstmiseks väärtus."
+        }
+      }
+    }
+  }
+}

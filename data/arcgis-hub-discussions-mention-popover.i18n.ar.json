@@ -1,0 +1,11 @@
+{
+  "anonymous": "مجهول",
+  "noUser": "لا يوجد اسم مستخدم",
+  "privateUser": "عضو خاص",
+  "privateOrg": "مؤسسة خاصة",
+  "orgLabel": "المؤسسة",
+  "profile": "انتقال إلى ملف التعريف",
+  "location": "موقع",
+  "information": "معلومات حول المنشور",
+  "mentionedBy": "تمت الإشارة من قبل @{username}"
+}

@@ -1,0 +1,14 @@
+{
+  "createdBy": "Creat de {creator}",
+  "emptyMessage": "Nicio versiune găsită",
+  "errorMessage": "Eroare la extragerea versiunilor",
+  "menuLabel": "afișare versiuni",
+  "publishedBadge": "Publicat",
+  "viewingBadge": "Vizualizare",
+  "popover.label": "Acțiuni versiune",
+  "popover.actions.delete": "Ștergere",
+  "popover.actions.edit": "Editarea detaliilor",
+  "popover.actions.share": "Partajare",
+  "shareErrorMessage": "Eroare la copierea URL-ului de partajare pe clipboard.",
+  "shareSuccessMessage": "Partajați URL-ul copiat pe clipboard."
+}

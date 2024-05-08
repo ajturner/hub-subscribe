@@ -1,0 +1,15 @@
+{
+  "new": "Nowy",
+  "project": {
+    "title": "Nowy projekt",
+    "description": "Wyróżniaj zadania o jasnych celach i ramach czasowych"
+  },
+  "initiative": {
+    "title": "Nowa inicjatywa",
+    "description": "Wyróżniaj zadania o jasnych celach i ramach czasowych"
+  },
+  "discussion": {
+    "title": "Nowy panel dyskusyjny",
+    "description": "Utwórz nowy panel dyskusyjny, wpisując tytuł wskazujący temat."
+  }
+}

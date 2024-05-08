@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "เฉพาะสมาชิกเท่านั้นที่มองเห็น",
+  "visibleOrg": "เฉพาะองค์กรที่มองเห็น",
+  "visibleAll": "ทุกคนสามารถมองเห็นได้",
+  "anonymous": "ไม่ระบุชื่อ",
+  "privateUser": "สมาชิกส่วนบุคคล",
+  "noUser": "ไม่มีชื่อผู้ใช้",
+  "orgLabel": "องค์กร",
+  "privateOrg": "หน่วยงานเอกชน",
+  "location": "ตำแหน่ง",
+  "profile": "ไปที่โปรไฟล์",
+  "postedIn": "โพสต์ไว้ใน {groupName}",
+  "manageChannel": "จัดการแชนเนล",
+  "information": "ข้อมูลเกี่ยวกับโพสต์",
+  "group.deleted": "กลุ่มที่ถูกลบ",
+  "unnamedChannel": "แชนเนลที่ไม่มีชื่อ",
+  "replyingTo": "กำลังตอบกลับ {fullName}",
+  "viewPost": "ดูโพสต์"
+}

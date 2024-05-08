@@ -1,0 +1,1 @@
+function n(n,r){var t;return(null===(t=n.view)||void 0===t?void 0:t.featuredImageUrl)&&((n,r="v")=>{if(!n)return n;const t=n.indexOf("?")>-1?"&":"?";return n+`${t}${r}=${(new Date).getTime()}`})(`${n.view.featuredImageUrl}${r.isAuthenticated?`?token=${r.session.token}`:""}`)}export{n as g}

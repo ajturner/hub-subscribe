@@ -1,0 +1,12 @@
+{
+  "save": "Salvare",
+  "cancel": "Anulare",
+  "undoChanges": "Anulare modificări",
+  "next": "Următorul",
+  "back": "Înapoi",
+  "formAlert": "Alertă formular",
+  "invalidForm": "Vă rugăm să remediați toate erorile.",
+  "saveDisabled": "Salvare dezactivată",
+  "success": "Editările au fost salvate cu succes",
+  "error": "Eroare la salvarea editărilor"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Tilføj vha. URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web-link",
+  "fileTypeSelector": "Manuelt indstillet filtype",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Weblink",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Billede (png, jpg, jpeg)",
+  "invalidFormat": "Fejl: Ugyldigt format",
+  "invalidUrl": "Fejl: Ugyldig URL",
+  "recognizedType": "Manuelt indstillet filtype"
+}

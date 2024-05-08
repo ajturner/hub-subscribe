@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tüüp",
+    "tags": "Märksõna",
+    "categories": "Kategooria",
+    "sharing": "Jagamine",
+    "dateUpdated": "Uuendamise kuupäev",
+    "map": {
+      "label": "Asukoht",
+      "tooltip": "Rakenda kaardiulatus asukohafiltrina"
+    }
+  },
+  "collections": {
+    "all": "Kõik",
+    "dataset": "Andmed",
+    "site": "Saidid",
+    "document": "Dokumendid",
+    "appAndMap": "Rakendused ja kaardid"
+  },
+  "noCollections": {
+    "title": "Kataloog",
+    "message": "Teie kataloog on praegu tühi.",
+    "button": "Konfigureerige kataloog"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Versiedetails bewerken",
+  "save": "Opslaan",
+  "cancel": "Annuleren",
+  "name.label": "Titel",
+  "name.helpText": "Laat de titel leeg als u wilt dat wij de versie identificeren aan de hand van een datum/tijd-stempel.",
+  "description.label": "Beschrijving",
+  "error": "Er is een fout opgetreden bij het bijwerken van de versie."
+}

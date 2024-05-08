@@ -1,0 +1,24 @@
+{
+  "title": "Membri",
+  "facets": {
+    "role": {
+      "label": "Ruolo",
+      "all": "Tutte",
+      "manager": "Gestore",
+      "member": "Membro"
+    },
+    "dateJoined": {
+      "label": "Data di iscrizione"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Totale",
+      "trailingText": "Membri team"
+    },
+    "new": {
+      "title": "Nuovo",
+      "trailingText": "Ultimi 30 giorni"
+    }
+  }
+}

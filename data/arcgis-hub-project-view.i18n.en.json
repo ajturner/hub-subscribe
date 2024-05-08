@@ -1,0 +1,18 @@
+{
+  "purpose": "Purpose",
+  "description": "How we'll get there",
+  "details": "Details",
+  "featuredImageAlt": "Project featured image",
+  "trackProgress": "Track our progress",
+  "participatingGroups": "Participating groups",
+  "whosInvolved": "Who's involved",
+  "tags": "Tags",
+  "status": {
+    "label": "Project status",
+    "notStarted": "Not started",
+    "inProgress": "In progress",
+    "onHold": "On hold",
+    "complete": "Complete"
+  },
+  "featuredContent": "Featured content"
+}

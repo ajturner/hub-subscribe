@@ -1,0 +1,10 @@
+{
+  "true.heading": "Jā, diskusija ir atļauta",
+  "false.heading": "Nē, diskusija bloķēta",
+  "content.label": "Vai atļaut diskutēt par šo jautājumu?",
+  "content.true.description": "Lietotāji par šo vienību var izveidot ziņas.",
+  "content.false.description": "Lietotāji par šo vienību nevar izveidot ziņas.",
+  "group.label": "Vai šī grupa var piedalīties diskusijās?",
+  "group.true.description": "Grupas dalībnieki var skatīt diskusiju kanālus, kuriem grupa var piekļūt, un piedalīties tajos.",
+  "group.false.description": "Grupas dalībnieki nevar skatīt diskusiju kanālus, kuriem grupa var piekļūt, vai piedalīties tajos."
+}

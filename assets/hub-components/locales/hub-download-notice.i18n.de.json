@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Download abgeschlossen",
+  "titleFileGeneration": "Datei wird generiert",
+  "titleFileGenerationFailed": "Fehler beim Generieren der Datei",
+  "titleDatasetNotFound": "Dataset nicht gefunden",
+  "titleApiError": "API-Fehler",
+  "titleFormatDisabled": "Download deaktiviert",
+  "messageFailedStaleAvailable": "Unten können Sie eine frühere Version herunterladen.",
+  "messageUpdatingFile": "Die Datei wird aktualisiert. Dieser Vorgang kann einige Zeit in Anspruch nehmen.",
+  "messageCreatingFile": "Die Datei wird erstellt. Dieser Vorgang kann einige Zeit in Anspruch nehmen.",
+  "messageFileNeedsGenerating": "Das Herunterladen einer aktualisierten Datei kann einige Zeit in Anspruch nehmen.",
+  "messageFormatDisabled": "Der Besitzer hat für dieses Format das Herunterladen deaktiviert."
+}

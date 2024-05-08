@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Megosztva a szervezettel",
+      "private": "Megosztva a tulajdonossal",
+      "public": "Nyilvánosan megosztva",
+      "shared": "Megosztva a tulajdonossal és a csoportokkal"
+    },
+    "editLayout": "Elrendezés szerkesztése",
+    "lastUpdated": "Utolsó frissítés {updated}",
+    "viewSite": "Webhely megtekintése"
+  },
+  "cloneLayoutLabel": "Elrendezés klónozása",
+  "deletePageLabel": "Oldal törlése",
+  "deleteSiteLabel": "Webhely törlése",
+  "editInAgoLabel": "Szerkesztés az ArcGIS Online-ban",
+  "managePage": "Oldal kezelése",
+  "manageSite": "Webhely kezelése",
+  "moreOptionsLabel": "További lehetőségek",
+  "publishLabel": "Közzététel",
+  "saveAsTemplateLabel": "Mentés sablonként",
+  "saveLabel": "Mentés",
+  "sharingLabel": "Megosztás panel megnyitása",
+  "viewLabel": "Megtekintés",
+  "viewPublishedLabel": "Közzétett vázlat megtekintése",
+  "viewUnpublishedLabel": "Nem közzétett vázlat előnézete"
+}

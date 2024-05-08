@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configuration avancée",
+    "serverTimeout": {
+      "label": "Délai d’attente du serveur (secondes)",
+      "helperText": "Utile pour les services volumineux dont le temps de réponse peut être plus long."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Angles",
+      "enum": {
+        "round": {
+          "label": "Arrondis"
+        },
+        "square": {
+          "label": "Carrés"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Ombre portée",
+      "enum": {
+        "heavy": {
+          "label": "Dense"
+        },
+        "low": {
+          "label": "Faible"
+        },
+        "medium": {
+          "label": "Moyenne"
+        },
+        "none": {
+          "label": "Non commencé"
+        }
+      }
+    },
+    "layout": {
+      "label": "Mise en page de la statistique",
+      "enum": {
+        "dataViz": {
+          "label": "Visualisation des données"
+        },
+        "moreInfo": {
+          "label": "Plus d’informations"
+        },
+        "simple": {
+          "label": "Simple"
+        }
+      }
+    },
+    "popoverTitle": "Titre de la fenêtre contextuelle",
+    "popoverDescription": "Description de la fenêtre contextuelle",
+    "sectionTitle": "Apparence",
+    "textAlign": "Alignement",
+    "visualInterest": {
+      "label": "Intérêt visuel",
+      "enum": {
+        "icon": {
+          "label": "Icône"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Aucun"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Couleur (statistique)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Lien",
+      "sourceLink": "URL du lien",
+      "sourceTitle": "Texte du lien"
+    },
+    "sectionTitle": "Détails",
+    "subtitle": "Sous-titre",
+    "title": "Titre",
+    "trailingText": "Texte de fin"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Lien requis pour afficher la source."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Mise en forme",
+    "unit": {
+      "label": "Unités d’affichage",
+      "helperText": "Saisissez l’unité de mesure pour la valeur."
+    },
+    "unitPosition": {
+      "label": "Positionnement",
+      "enum": {
+        "after": {
+          "label": "Après"
+        },
+        "before": {
+          "label": "Avant"
+        },
+        "below": {
+          "label": "En dessous"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Partage",
+    "showShareIcon": "Activer",
+    "shareableByValue": "Activer les intégrations",
+    "shareableOnHover": {
+      "label": "Affichage",
+      "enum": {
+        "always": {
+          "label": "Toujours"
+        },
+        "hover": {
+          "label": "Survol uniquement"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Source de données",
+    "displayValue": "Valeur d’affichage",
+    "sectionTitle": "Statistique",
+    "type": {
+      "label": "Type",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamique",
+          "description": "Sélectionnez un jeu de données (service d’entités) existant à synthétiser."
+        },
+        "static": {
+          "label": "Statique",
+          "description": "Saisissez manuellement une valeur à mettre en évidence dans la mise en page."
+        }
+      }
+    }
+  }
+}

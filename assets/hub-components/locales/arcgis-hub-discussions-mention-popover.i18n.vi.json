@@ -1,0 +1,11 @@
+{
+  "anonymous": "Ẩn danh",
+  "noUser": "Không có Tên người dùng",
+  "privateUser": "Thành viên Riêng tư",
+  "privateOrg": "Tổ chức Riêng tư",
+  "orgLabel": "Tổ chức",
+  "profile": "Vào phần hồ sơ",
+  "location": "Vị trí",
+  "information": "Thông tin về bài đăng",
+  "mentionedBy": "Được đề cập bởi @{username}"
+}

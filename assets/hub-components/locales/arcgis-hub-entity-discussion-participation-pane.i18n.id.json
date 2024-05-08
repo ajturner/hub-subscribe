@@ -1,0 +1,21 @@
+{
+  "title": "Partisipasi",
+  "channelTitle": "Saluran partisipasi",
+  "addChannelsTitle": "Saluran diperlukan untuk item ini; hanya satu yang dapat diatur.",
+  "headingChannelEdit": "Edit saluran",
+  "headingChannelView": "Lihat saluran",
+  "headingChannelCreate": "Buat saluran baru",
+  "buttons": {
+    "browse": "Telusuri semua saluran",
+    "new": "Saluran baru"
+  },
+  "galleryPickerTitle": "Pilih saluran",
+  "channelsLabel": "Saluran",
+  "accessLabel": "Akses",
+  "optionPublicLabel": "Publik",
+  "optionOrganizationLabel": "Organisasi",
+  "optionPrivateLabel": "Pribadi",
+  "viewChannel": "Lihat saluran",
+  "editChannel": "Edit saluran",
+  "save": "Simpan"
+}

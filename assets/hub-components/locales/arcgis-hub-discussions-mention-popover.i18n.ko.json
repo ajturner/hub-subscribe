@@ -1,0 +1,11 @@
+{
+  "anonymous": "익명",
+  "noUser": "사용자 이름 없음",
+  "privateUser": "비공개 구성원",
+  "privateOrg": "비공개 기관",
+  "orgLabel": "기관",
+  "profile": "프로필로 이동",
+  "location": "위치",
+  "information": "게시물에 대한 정보",
+  "mentionedBy": "@{username} 님이 언급함"
+}

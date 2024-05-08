@@ -1,0 +1,19 @@
+{
+  "heading": "เพิ่มโดย URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "ตั้งค่าประเภทไฟล์ด้วยตัวเอง",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS ฟีเจอร์เซอร์วิส",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "เว็บลิงก์",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "รูปภาพ (png, jpg, jpeg)",
+  "invalidFormat": "ข้อผิดพลาด: รูปแบบไม่ถูกต้อง",
+  "invalidUrl": "ข้อผิดพลาด: URL ไม่ถูกต้อง",
+  "recognizedType": "ตั้งค่าประเภทไฟล์ด้วยตัวเอง"
+}

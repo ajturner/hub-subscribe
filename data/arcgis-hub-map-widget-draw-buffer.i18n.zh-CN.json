@@ -1,0 +1,15 @@
+{
+  "panel.heading": "位置过滤器",
+  "panel.reset": "重置过滤器",
+  "distance.title": "距离",
+  "distance.placeholder": "输入数字...",
+  "distance.message": "输入数字以扩展过滤区域。",
+  "system.imperial": "英制",
+  "system.metric": "公制",
+  "units.title": "单位",
+  "units.feet": "英尺",
+  "units.miles": "英里",
+  "units.nauticalmiles": "海里",
+  "units.meters": "米",
+  "units.kilometers": "公里"
+}

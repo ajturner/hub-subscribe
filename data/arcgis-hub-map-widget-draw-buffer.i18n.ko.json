@@ -1,0 +1,15 @@
+{
+  "panel.heading": "위치 필터",
+  "panel.reset": "필터 재설정",
+  "distance.title": "거리",
+  "distance.placeholder": "숫자 입력...",
+  "distance.message": "숫자를 입력하여 필터링된 영역을 확장합니다.",
+  "system.imperial": "야드파운드법",
+  "system.metric": "미터법",
+  "units.title": "단위",
+  "units.feet": "피트",
+  "units.miles": "마일",
+  "units.nauticalmiles": "해리",
+  "units.meters": "미터",
+  "units.kilometers": "킬로미터"
+}

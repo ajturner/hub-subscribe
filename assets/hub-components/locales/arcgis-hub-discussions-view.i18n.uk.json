@@ -1,0 +1,17 @@
+{
+  "summary": "Короткий опис",
+  "description": "Опис",
+  "details": "Детальна інформація",
+  "metrics": "Метрика",
+  "metricsDisclaimer": "Показує лише останні 30 днів",
+  "titleOpen": "Відкрити обговорення",
+  "statusOpen": "Відкритий для участі",
+  "titleClosed": "Закрите обговорення",
+  "statusClosed": "Закритий для участі",
+  "tags": "Теги",
+  "categories": "Категорії",
+  "metric.pageViews": "Перегляди сторінок",
+  "metric.postCount": "Кількість дописів",
+  "discussion": "Обговорення",
+  "discussionBoard": "Дискусійний клуб"
+}

@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Шейп-файл",
+  "sqlite": "База геоданных SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Файловая база геоданных",
+  "featureCollection": "Коллекция объектов",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Скачать"
+}

@@ -1,0 +1,25 @@
+{
+  "moreResults": "Veel tulemusi",
+  "search": "Otsing",
+  "filter": "Filtrid",
+  "viewResults": "Kuva tulemused ({numResults})",
+  "resultsCount": "1–{pageTotal}, kokku {searchTotal}",
+  "backToTop": "Tagasi algusse",
+  "facets": {
+    "access": {
+      "private": "Mina ise",
+      "shared": "Omanik ja grupid",
+      "org": "Organisatsioon",
+      "public": "Avalik"
+    },
+    "license": {
+      "custom": "Kohandatud",
+      "none": "Puudub"
+    }
+  },
+  "layoutOptions": {
+    "list": "Kuva loend",
+    "grid": "Kuva ruudustik"
+  },
+  "galleryActionsLabel": "Lisatoimingud"
+}

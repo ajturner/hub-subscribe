@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Modifica layout",
+  "editContent": "Modifica contenuto",
+  "view": {
+    "project": "Visualizza progetto",
+    "site": "Visualizza sito",
+    "initiative": "Visualizza iniziativa",
+    "discussion": "Visualizza discussione",
+    "content": "Visualizza contenuto",
+    "page": "Visualizza pagina",
+    "group": "Visualizza gruppo"
+  },
+  "label": {
+    "project": "Workspace progetto",
+    "site": "Workspace sito",
+    "initiative": "Workspace iniziativa",
+    "discussion": "Discussione workspace",
+    "content": "Workspace contenuto",
+    "page": "Workspace pagina",
+    "group": "Workspace del gruppo"
+  },
+  "access": {
+    "sharingLevel": "Livello di condivisione",
+    "groupSharing": "Condivisione gruppi",
+    "public": "Pubblico",
+    "org": "Organizzazione",
+    "private": "Proprietario",
+    "shared": "Condiviso privatamente",
+    "disabled": "Non è possibile modificare la condivisione se non si è il proprietario o un amministratore."
+  }
+}

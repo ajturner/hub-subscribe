@@ -1,0 +1,27 @@
+{
+  "overview": "Genel Bakış",
+  "telemetry": {
+    "pageViews": "Sayfa görüntüleme sayısı",
+    "last30days": "Son 30 gün",
+    "lastUpdated": "Son güncelleme {hoursElapsed} saat önce"
+  },
+  "newNotice": {
+    "title": "İşte proje çalışma alanınız burada",
+    "message": "Bu çalışma alanı düzenleme projeleri için özelleştirilmiştir. Çalışma alanları, ortak çalışanların bireysel ögelere odaklanmasına izin verir ve sürekli olarak geliştirilir.",
+    "link": "Daha fazla bilgi edinin"
+  },
+  "learnAbout": "Hub projeleri hakkında daha fazla bilgi edin",
+  "feedbackNotice": {
+    "message": "Hub projeleri hakkında ne düşünüyorsunuz? Bu özellik henüz beta aşamasında olduğundan, onu nasıl kullanabileceğinizi duymak istiyoruz.",
+    "link": "Geri bildirim gönder"
+  },
+  "status": {
+    "notStarted": "Başlatılmadı",
+    "inProgress": "Devam ediyor",
+    "onHold": "Beklemede",
+    "complete": "Tamamla"
+  },
+  "editDetails": "Ayrıntıları düzenle",
+  "noPurposeSet": "Amaç belirlenmedi",
+  "noLocationSet": "Konum ayarlanmadı"
+}

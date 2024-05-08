@@ -1,0 +1,51 @@
+{
+  "title": "Content",
+  "facets": {
+    "type": "Type",
+    "tags": "Tag",
+    "categories": "Category",
+    "sharing": "Sharing",
+    "dateUpdated": "Date updated",
+    "map": {
+      "label": "Location",
+      "tooltip": "Apply the map extent as a location filter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Add content",
+    "catalog": {
+      "myContent": "My content",
+      "favorites": "Favorites",
+      "organization": "My organization",
+      "world": "World (Public)"
+    },
+    "facets": {
+      "type": "Type",
+      "sharing": "Sharing"
+    },
+    "collection": {
+      "appsAndMaps": "Apps & Maps",
+      "dataset": "Data",
+      "documents": "Documents",
+      "feedback": "Feedback",
+      "sites": "Sites",
+      "projects": "Projects"
+    },
+    "modal": {
+      "title": "Add content"
+    },
+    "unsharedModal": {
+      "title": "Items not added",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "danger",
+        "title": "Action incomplete",
+        "message": "Some items could not be added. This may be due to mismatched sharing levels within the content or because the owner of the item is not a member of the group.",
+        "linkText": "Read more about sharing"
+      }
+    },
+    "itemSharedSuccessAlert": "Item(s) successfully shared"
+  },
+  "close": "Close",
+  "newTab": "opens in new tab"
+}

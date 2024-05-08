@@ -1,0 +1,24 @@
+{
+  "title": "الأعضاء",
+  "facets": {
+    "role": {
+      "label": "دور",
+      "all": "الكل",
+      "manager": "مدير",
+      "member": "عضو"
+    },
+    "dateJoined": {
+      "label": "تاريخ الانضمام"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "المجموع",
+      "trailingText": "أعضاء الفريق"
+    },
+    "new": {
+      "title": "جديد",
+      "trailingText": "آخر 30 يومًا"
+    }
+  }
+}

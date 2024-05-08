@@ -1,0 +1,8 @@
+{
+  "header": "Opcije za raspravu",
+  "secondary": "Odustani",
+  "primary": "Spremi promjene",
+  "pending": "Spremanje",
+  "error.title": "Nešto je pošlo po zlu",
+  "error.message": "Pokušajte ponovno da biste spremili promjene."
+}

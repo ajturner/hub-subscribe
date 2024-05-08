@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile datoteka",
+  "sqlite": "SQLite baza geopodataka",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Fajl geobaza",
+  "featureCollection": "Prikupljanje geoobjekata",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Preuzmi CSV",
+  "downloadshapefile": "Preuzmi Shapefile",
+  "downloadsqlite": "Preuzmi SQLite bazu geopodataka",
+  "downloadgeoPackage": "Preuzmi GeoPackage",
+  "downloadfilegdb": "Preuzmi datoteku baze geopodataka",
+  "downloadfeatureCollection": "Preuzmi kolekciju geoobjakta",
+  "downloadgeojson": "Preuzmi GeoJSON",
+  "downloadexcel": "Preuzmi Excel",
+  "rateLimitMessage": "Izvinjavamo se, ograničenje za preuzimanje je dostignuto. Pokušajte ponovo za sat vremena ili kontaktirajte menadžera za sadržaj.",
+  "createReplicaErrorMessage": "Interna greška kreiranja replike. Pokušajte ponovo za sat vremena ili kontaktirajte menadžera za sadržaj."
+}

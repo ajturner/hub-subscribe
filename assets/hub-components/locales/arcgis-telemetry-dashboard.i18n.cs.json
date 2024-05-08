@@ -1,0 +1,31 @@
+{
+  "dateRange": "Rozsah dat: {start} - {end}",
+  "pageViews": "Zobrazení stránek",
+  "timeOnSite": "Průměrná doba v minutách strávená na webu",
+  "users": "Relace",
+  "viewsOverTime": "Zobrazení stránek v průběhu času",
+  "disabledTracking": "Sledování aktivity je zakázáno",
+  "enableTracking": "Povolte sledování aktivity hubu, abyste mohli sledovat používání webu.",
+  "learnMore": "Další informace",
+  "disabled": "Nepovoleno",
+  "notificationLabel": "Data aktualizována",
+  "dataUpdated": "Data aktualizována",
+  "subscribe": "Přihlásit k odběru",
+  "subscribed": "Přihlášeni k odběru",
+  "weeklyReport": "Týdenní zpráva",
+  "timestampTitle": {
+    "hour": "Denní doba",
+    "day": "Datum",
+    "week": "Týden"
+  },
+  "formAlert": "Chyba formuláře",
+  "success": "Odběr úspěšně aktualizován",
+  "subscriptionActivatedTitle": "Odběr aktivován",
+  "subscriptionActivatedMessage": "Zaregistrovali jste adresu {email} k odběru týdenních metrik zapojení.",
+  "unsubscribeCompleteTitle": "Odběr odhlášen",
+  "unsubscribeCompleteMessage": "Adresa {email} byla úspěšně odhlášena z metrik zapojení.",
+  "problemSubscribingTitle": "Problém s přihlášením odběru",
+  "problemSubscribingMessage": "Vyskytl se problém s přihlášením odběru. Chyba: ",
+  "problemUnsubscribingTitle": "Problém s odhlášením odběru",
+  "problemUnsubscribingMessage": "Vyskytl se problém s odhlášením odběru. Chyba: "
+}

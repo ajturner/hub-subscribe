@@ -1,0 +1,14 @@
+{
+  "createdBy": "Được tạo bởi {creator}",
+  "emptyMessage": "Không tìm thấy phiên bản nào",
+  "errorMessage": "Lỗi truy xuất phiên bản",
+  "menuLabel": "hiển thị các hành động",
+  "publishedBadge": "Đã xuất bản",
+  "viewingBadge": "Đang xem",
+  "popover.label": "Thao tác với phiên bản",
+  "popover.actions.delete": "Xóa",
+  "popover.actions.edit": "Chỉnh sửa thông tin chi tiết",
+  "popover.actions.share": "Chia sẻ",
+  "shareErrorMessage": "Có lỗi khi sao chép URL chia sẻ vào bảng ghi tạm.",
+  "shareSuccessMessage": "Đã sao chép url chia sẻ vào bảng ghi tạm."
+}

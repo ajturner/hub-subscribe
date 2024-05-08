@@ -1,0 +1,14 @@
+{
+  "addPost": "Legg til et innlegg",
+  "createPost": "Opprett et innlegg",
+  "emptyHeading": "Start en diskusjon",
+  "emptyMessage": "Vær den første til å foreslå et emne. Det er enkelt å stille et spørsmål eller dele det du vet med andre om noe.",
+  "searchIdeas": "Søk i innlegg",
+  "searchCount": "{start}–{end} av {total}",
+  "orderAsc": "Stigende",
+  "orderDesc": "Synkende",
+  "sortRecent": "Nylig",
+  "sortCreator": "Oppretter",
+  "layoutGrid": "Rutenett",
+  "layoutList": "Liste"
+}

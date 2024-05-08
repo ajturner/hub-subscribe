@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "伺服器連接逾時，無法顯示統計資料。",
+    "title": "伺服器逾時"
+  },
+  "genericError": {
+    "message": "無法顯示統計資料。",
+    "title": "發生錯誤"
+  }
+}

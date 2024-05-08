@@ -1,0 +1,34 @@
+{
+  "settings": "Configurações",
+  "delete": {
+    "project": "Excluir projeto",
+    "initiative": "Excluir iniciativa",
+    "site": "Excluir local",
+    "discussion": "Excluir discussão",
+    "content": "Excluir conteúdo",
+    "page": "Excluir página",
+    "group": "Excluir grupo"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Excluir projeto",
+      "initiative": "Excluir iniciativa",
+      "site": "Excluir local",
+      "discussion": "Excluir discussão",
+      "content": "Excluir conteúdo",
+      "page": "Excluir página",
+      "group": "Excluir grupo"
+    },
+    "content": "Tem certeza que deseja excluir:",
+    "delete": "Excluir",
+    "cancel": "Cancelar"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "O recurso \"Extrair\" altera as configurações do serviço.",
+        "message": "Outros itens que fazem referência ao serviço serão impactados. Para mais detalhes, consulte <docLink>Exportar Dados das Camadas de Feição Hospedadas</docLink>."
+      }
+    }
+  }
+}

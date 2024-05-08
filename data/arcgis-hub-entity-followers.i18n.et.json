@@ -1,0 +1,26 @@
+{
+  "followers": "Jälgijad",
+  "tabs": {
+    "followers": "Jälgijad",
+    "settings": "Seaded"
+  },
+  "addFollowers": {
+    "label": "Lisa jälgijad"
+  },
+  "emptyState": {
+    "message": "Teil ei ole praegu jälgijate gruppi."
+  },
+  "restrictedAccessState": {
+    "message": "Teil puudub juurdepääs."
+  },
+  "stats": {
+    "total": {
+      "title": "Kokku",
+      "trailingText": "Jälgijad"
+    },
+    "new": {
+      "title": "Uus",
+      "trailingText": "Viimased 30 päeva"
+    }
+  }
+}

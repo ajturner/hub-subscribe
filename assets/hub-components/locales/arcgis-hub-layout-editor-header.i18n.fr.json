@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Partagé avec l’organisation",
+      "private": "Partagé avec le propriétaire",
+      "public": "Partagé avec le public",
+      "shared": "Partagé avec le propriétaire et les groupes"
+    },
+    "editLayout": "Modifier la mise en page",
+    "lastUpdated": "Dernière mise à jour : {updated}",
+    "viewSite": "Afficher le site"
+  },
+  "cloneLayoutLabel": "Cloner la mise en page",
+  "deletePageLabel": "Supprimer la page",
+  "deleteSiteLabel": "Supprimer le site",
+  "editInAgoLabel": "Modifier dans ArcGIS Online",
+  "managePage": "Gérer la page",
+  "manageSite": "Gérer le site",
+  "moreOptionsLabel": "Autres options",
+  "publishLabel": "Publier",
+  "saveAsTemplateLabel": "Enregistrer en tant que modèle",
+  "saveLabel": "Enregistrer",
+  "sharingLabel": "Ouvrir le volet de partage",
+  "viewLabel": "Afficher",
+  "viewPublishedLabel": "Afficher le brouillon publié",
+  "viewUnpublishedLabel": "Prévisualiser le brouillon non publié"
+}

@@ -1,0 +1,15 @@
+{
+  "new": "Jauns",
+  "project": {
+    "title": "Jauns projekts",
+    "description": "Akcentējiet darbu, kam ir skaidri mērķi un termiņi"
+  },
+  "initiative": {
+    "title": "Jauna iniciatīva",
+    "description": "Akcentējiet darbu, kam ir skaidri mērķi un termiņi"
+  },
+  "discussion": {
+    "title": "Jauns diskusiju panelis",
+    "description": "Izveidot jaunu diskusiju paneli, ievadot virsrakstu, kas norāda tēmu."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Redigér versionsoplysninger",
+  "save": "Gem",
+  "cancel": "Annullér",
+  "name.label": "Titel",
+  "name.helpText": "Lad titlen stå tom, hvis du vil have os til at identificere versionen med et stempel med dato/klokkeslæt.",
+  "description.label": "Beskrivelse",
+  "error": "Fejl under opdatering af version."
+}

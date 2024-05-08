@@ -1,0 +1,27 @@
+{
+  "overview": "Gambaran umum",
+  "telemetry": {
+    "pageViews": "Tampilan halaman",
+    "last30days": "30 hari terakhir",
+    "lastUpdated": "Terakhir diperbarui {hoursElapsed} jam lalu"
+  },
+  "newNotice": {
+    "title": "Inilah ruang kerja proyek Anda",
+    "message": "Ruang kerja ini disesuaikan untuk mengedit proyek. Ruang kerja memungkinkan kolaborator untuk fokus pada item individual dan yang sedang terus dikembangkan.",
+    "link": "Pelajari lebih lanjut"
+  },
+  "learnAbout": "Pelajari tentang proyek Hub",
+  "feedbackNotice": {
+    "message": "Bagaimana Anda menyukai proyek Hub? Karena fitur ini masih dalam versi beta, kami ingin tahu bagaimana Anda dapat menggunakannya.",
+    "link": "Kirim umpan balik"
+  },
+  "status": {
+    "notStarted": "Belum dimulai",
+    "inProgress": "Dalam proses",
+    "onHold": "Ditahan",
+    "complete": "Selesai"
+  },
+  "editDetails": "Edit detail",
+  "noPurposeSet": "Tidak ada tujuan yang ditetapkan",
+  "noLocationSet": "Tidak ada lokasi yang ditetapkan"
+}

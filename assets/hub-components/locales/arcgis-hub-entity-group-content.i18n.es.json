@@ -1,0 +1,50 @@
+{
+  "title": "Contenido",
+  "facets": {
+    "type": "Tipo",
+    "tags": "Etiqueta",
+    "categories": "Categoría",
+    "sharing": "Uso compartido",
+    "dateUpdated": "Fecha de actualización",
+    "map": {
+      "label": "Ubicación",
+      "tooltip": "Aplicar la extensión del mapa como filtro de ubicación"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Agregar contenido",
+    "catalog": {
+      "myContent": "Mi contenido",
+      "favorites": "Favoritos",
+      "organization": "Mi organización",
+      "world": "Todos (público)"
+    },
+    "facets": {
+      "type": "Tipo",
+      "sharing": "Uso compartido"
+    },
+    "collection": {
+      "appsAndMaps": "Aplicaciones y mapas",
+      "dataset": "Datos",
+      "documents": "Documentos",
+      "feedback": "Comentarios",
+      "sites": "Sitios"
+    },
+    "modal": {
+      "title": "Agregar contenido"
+    },
+    "unsharedModal": {
+      "title": "Elementos no agregados",
+      "notice": {
+        "icon": "triángulo-signo-exclamación",
+        "type": "peligro",
+        "title": "Acción no completada",
+        "message": "No se pudieron agregar algunos elementos. Esto puede deberse a que los niveles de uso compartido del contenido no coinciden o a que el propietario del elemento no es miembro del grupo.",
+        "linkText": "Leer más información sobre el uso compartido"
+      }
+    },
+    "itemSharedSuccessAlert": "Elemento(s) compartido(s) correctamente"
+  },
+  "close": "Cerrar",
+  "newTab": "se abre en una nueva pestaña"
+}

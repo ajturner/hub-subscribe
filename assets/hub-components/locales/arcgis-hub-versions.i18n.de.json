@@ -1,0 +1,14 @@
+{
+  "createdBy": "Erstellt von {creator}",
+  "emptyMessage": "Keine Versionen gefunden",
+  "errorMessage": "Fehler beim Abrufen von Versionen",
+  "menuLabel": "Aktionen anzeigen",
+  "publishedBadge": "Veröffentlicht",
+  "viewingBadge": "Anzeige",
+  "popover.label": "Versionsaktionen",
+  "popover.actions.delete": "Löschen",
+  "popover.actions.edit": "Details bearbeiten",
+  "popover.actions.share": "Freigeben",
+  "shareErrorMessage": "Beim Kopieren der Freigabe-URL in die Zwischenablage ist ein Fehler aufgetreten.",
+  "shareSuccessMessage": "Freigabe-URL wurde in Zwischenablage kopiert."
+}

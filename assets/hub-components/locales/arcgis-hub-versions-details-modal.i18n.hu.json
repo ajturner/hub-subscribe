@@ -1,0 +1,9 @@
+{
+  "title": "Verzióadatok szerkesztése",
+  "save": "Mentés",
+  "cancel": "Mégse",
+  "name.label": "Beosztás",
+  "name.helpText": "Hagyja üresen a címet, ha azt szeretné, hogy a verziót dátum-időbélyeggel azonosítsuk.",
+  "description.label": "Leírás",
+  "error": "Hiba a verzió frissítésekor."
+}

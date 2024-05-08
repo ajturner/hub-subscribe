@@ -1,0 +1,27 @@
+{
+  "overview": "오버뷰",
+  "telemetry": {
+    "pageViews": "페이지 조회수",
+    "last30days": "지난 30일",
+    "lastUpdated": "{hoursElapsed}시간 전에 마지막으로 업데이트됨"
+  },
+  "newNotice": {
+    "title": "프로젝트 작업 영역입니다.",
+    "message": "프로젝트 편집을 위해 사용자 정의된 작업 영역입니다. 작업 영역에서는 협업 기관이 개별 항목에 집중할 수 있으며, 계속해서 발전해 나가고 있습니다.",
+    "link": "더 알아보기"
+  },
+  "learnAbout": "허브 프로젝트에 대해 알아보기",
+  "feedbackNotice": {
+    "message": "허브 프로젝트가 마음에 드시나요? 이 기능은 아직 베타 버전이므로, 기능을 어떻게 사용하시는지 알려주세요.",
+    "link": "피드백 제출"
+  },
+  "status": {
+    "notStarted": "시작되지 않음",
+    "inProgress": "진행 중",
+    "onHold": "대기 중",
+    "complete": "완료"
+  },
+  "editDetails": "세부정보 편집",
+  "noPurposeSet": "목적이 설정되어 있지 않음",
+  "noLocationSet": "위치가 설정되어 있지 않음"
+}

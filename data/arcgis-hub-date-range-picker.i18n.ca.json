@@ -1,0 +1,15 @@
+{
+  "default": "Seleccioneu un interval de dates",
+  "today": "Avui",
+  "yesterday": "Ahir",
+  "last7Days": "7 darrers dies",
+  "last30Days": "30 darrers dies",
+  "thisMonth": "Aquest mes",
+  "lastMonth": "El mes passat",
+  "pastYear": "L'any passat",
+  "custom": "Personalitzat",
+  "nextMonth": "Mes següent",
+  "previousMonth": "Mes anterior",
+  "year": "Any",
+  "title": "Seleccioneu un període de temps"
+}

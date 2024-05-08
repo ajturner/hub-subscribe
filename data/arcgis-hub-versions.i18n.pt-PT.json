@@ -1,0 +1,14 @@
+{
+  "createdBy": "Criado por {creator}",
+  "emptyMessage": "Nenhuma versão encontrada",
+  "errorMessage": "Erro ao obter versões",
+  "menuLabel": "mostrar ações",
+  "publishedBadge": "Publicado",
+  "viewingBadge": "Visualização",
+  "popover.label": "Ações de versão",
+  "popover.actions.delete": "Eliminar",
+  "popover.actions.edit": "Editar detalhes",
+  "popover.actions.share": "Partilhar",
+  "shareErrorMessage": "Erro ao copiar o URL de partilha para a área de transferência.",
+  "shareSuccessMessage": "URL de partilha copiado para a área de transferência."
+}

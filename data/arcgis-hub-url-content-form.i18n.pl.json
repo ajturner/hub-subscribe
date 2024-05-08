@@ -1,0 +1,19 @@
+{
+  "heading": "Dodaj wg adresu URL",
+  "subText": "CSV, SHP, GeoJSON, usługa obiektowa ArcGIS, XLS, PDF, PNG, JPG, łącze internetowe",
+  "fileTypeSelector": "Ręcznie ustawiony typ pliku",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Usługa obiektowa ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Łącze internetowe",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Obraz (png, jpg, jpeg)",
+  "invalidFormat": "Błąd: nieprawidłowy format",
+  "invalidUrl": "Błąd: nieprawidłowy adres URL",
+  "recognizedType": "Ręcznie ustawiony typ pliku"
+}

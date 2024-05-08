@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonymný",
+  "noUser": "Žiadne používateľské meno",
+  "privateUser": "Súkromný člen",
+  "privateOrg": "Súkromná organizácia",
+  "orgLabel": "Organizácia",
+  "profile": "Prejsť na profil",
+  "location": "Poloha",
+  "information": "Informácie o príspevku",
+  "mentionedBy": "Spomenuté @{username}"
+}

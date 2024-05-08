@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "编辑布局",
+  "editContent": "编辑内容",
+  "view": {
+    "project": "查看工程",
+    "site": "查看站点",
+    "initiative": "查看倡议",
+    "discussion": "查看讨论",
+    "content": "查看内容",
+    "page": "查看页面",
+    "group": "查看群组"
+  },
+  "label": {
+    "project": "工程工作空间",
+    "site": "站点工作空间",
+    "initiative": "倡议工作空间",
+    "discussion": "讨论工作空间",
+    "content": "内容工作空间",
+    "page": "页面工作空间",
+    "group": "群组工作空间"
+  },
+  "access": {
+    "sharingLevel": "共享级别",
+    "groupSharing": "群组共享",
+    "public": "公共",
+    "org": "组织",
+    "private": "所有者",
+    "shared": "以私有方式共享",
+    "disabled": "您不是所有者或管理员，因此无法更改共享。"
+  }
+}

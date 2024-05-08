@@ -1,0 +1,9 @@
+{
+  "title": "Upravit podrobnosti o verzi",
+  "save": "Uložit",
+  "cancel": "Storno",
+  "name.label": "Nadpis",
+  "name.helpText": "Pokud chcete, abychom verzi identifikovali podle časového razítka, ponechte název prázdný.",
+  "description.label": "Popis",
+  "error": "Chyba při aktualizaci verze."
+}

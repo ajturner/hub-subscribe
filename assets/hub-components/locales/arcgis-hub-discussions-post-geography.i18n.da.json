@@ -1,0 +1,14 @@
+{
+  "description": "Vælg zoom til position",
+  "displayField.existing": "Eksisterende position",
+  "displayField.added": "Tilføjet position",
+  "displayField.existing.area": "Eksisterende område",
+  "displayField.added.area": "Tilføjet område",
+  "point": "Punkt",
+  "line": "Linje",
+  "area": "Område",
+  "viewAll": "Vis alle positioner",
+  "viewLess": "Vis færre positioner",
+  "action.update": "Opdater placering",
+  "action.remove": "Fjern placering"
+}

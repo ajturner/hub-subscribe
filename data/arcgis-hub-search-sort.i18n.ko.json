@@ -1,0 +1,14 @@
+{
+  "title": "제목",
+  "created": "생성일",
+  "modified": "업데이트일",
+  "updated": "업데이트일",
+  "asc": "오름차순",
+  "desc": "내림차순",
+  "relevance": "관련성",
+  "change-sort-order": "정렬 순서 변경",
+  "sort-by": "정렬 기준 ",
+  "joined": "가입일",
+  "username": "사용자 이름",
+  "membertype": "역할"
+}

@@ -1,0 +1,10 @@
+{
+  "error": "Hiba történt",
+  "repliesFailure": "A hozzászólásra adott válaszok nem jeleníthetők meg.",
+  "thread.deleted.title": "Téma törölve",
+  "thread.deleted.message": "A hivatkozott hozzászólás és a válasz törlésre került, és nem jeleníthető meg.",
+  "thread.deleted.action": "Összes közzététel megtekintése",
+  "reply.single.title": "Ön egy választ tekint meg",
+  "reply.single.link": "Összes válasz megjelenítése",
+  "loading": "Betöltés"
+}

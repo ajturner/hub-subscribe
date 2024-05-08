@@ -1,0 +1,34 @@
+{
+  "settings": "Innstillinger",
+  "delete": {
+    "project": "Slett prosjekt",
+    "initiative": "Slett initiativ",
+    "site": "Slett område",
+    "discussion": "Slett diskusjon",
+    "content": "Slett innhold",
+    "page": "Slett side",
+    "group": "Slett gruppe"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Slett prosjekt",
+      "initiative": "Slett initiativ",
+      "site": "Slett område",
+      "discussion": "Slett diskusjon",
+      "content": "Slett innhold",
+      "page": "Slett side",
+      "group": "Slett gruppe"
+    },
+    "content": "Er du sikker på at du vil slette:",
+    "delete": "Slett",
+    "cancel": "Avbryt"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Trekk ut-funksjonen endrer innstillingene for tjenesten.",
+        "message": "Dette påvirker andre elementer som refererer til tjenesten. Du finner mer informasjon i <docLink>Eksporter data fra hostede geoobjektlag</docLink>"
+      }
+    }
+  }
+}

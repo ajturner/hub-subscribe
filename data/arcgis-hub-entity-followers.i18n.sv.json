@@ -1,0 +1,26 @@
+{
+  "followers": "Följare",
+  "tabs": {
+    "followers": "Följare",
+    "settings": "Inställningar"
+  },
+  "addFollowers": {
+    "label": "Lägg till följare"
+  },
+  "emptyState": {
+    "message": "Du har för närvarande ingen följargrupp."
+  },
+  "restrictedAccessState": {
+    "message": "Du har inte åtkomst."
+  },
+  "stats": {
+    "total": {
+      "title": "Summa",
+      "trailingText": "Följare"
+    },
+    "new": {
+      "title": "Ny",
+      "trailingText": "Senaste 30 dagarna"
+    }
+  }
+}

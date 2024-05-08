@@ -1,0 +1,10 @@
+{
+  "true.heading": "Ja, diskussion är tillåtet",
+  "false.heading": "Nej, diskussion är blockerat",
+  "content.label": "Tillåt att det här ämnet diskuteras?",
+  "content.true.description": "Användare kan skapa inlägg för det här ämnet.",
+  "content.false.description": "Användare kan inte skapa inlägg för det här ämnet.",
+  "group.label": "Kan den här gruppen delta i diskussioner?",
+  "group.true.description": "Gruppmedlemmar kan visa och delta i diskussionskanaler som gruppen har åtkomst till.",
+  "group.false.description": "Gruppmedlemmar kan inte visa eller delta i diskussionskanaler som gruppen har åtkomst till."
+}

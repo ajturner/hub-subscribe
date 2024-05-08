@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Vilkt un nomest augšupielādējamos failus",
+  "imageHeading": "Augšupielādēt attēlu",
+  "selectedHeading": "Atlasīts fails",
+  "maxSizeAndSupportedTypes": "Maks. izmērs ir {maxSize}MB, {fileTypes}",
+  "maxSize": "Maks. izmērs ir {maxSize}MB",
+  "recommendedDimensions": "Ieteicamie izmēri {recommendedDimensions}",
+  "linkText": "Skatīt atbalstīto failu sarakstu",
+  "contentButton": "Pārlūkot failu",
+  "imageButton": "Pārlūkot, lai atrastu attēlu",
+  "clearButton": "Notīrīt izvēlēto",
+  "errorHeading": "Kļūda",
+  "fileTooLargeError": "Fails ir pārāk liels",
+  "multipleFilesError": "Nevar vienlaikus augšupielādēt vairākus failus",
+  "unsupportedFileTypeError": "Šis faila veids netiek atbalstīts"
+}

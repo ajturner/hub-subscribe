@@ -1,0 +1,14 @@
+{
+  "description": "Izvēlieties, lai tuvinātu novietojumu",
+  "displayField.existing": "Esošais novietojums",
+  "displayField.added": "Pievienotais novietojums",
+  "displayField.existing.area": "Esošā teritorija",
+  "displayField.added.area": "Pievienotā teritorija",
+  "point": "Punkts",
+  "line": "Līnija",
+  "area": "Laukums",
+  "viewAll": "Skatīt visus novietojumus",
+  "viewLess": "Skatīt mazāk novietojumu",
+  "action.update": "Novietojuma atjaunināšana",
+  "action.remove": "Novietojuma noņemšana"
+}

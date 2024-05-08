@@ -1,0 +1,15 @@
+{
+  "new": "Novo",
+  "project": {
+    "title": "Novi projekt",
+    "description": "Istaknite posao koji ima jasne ciljeve i vremenske okvire"
+  },
+  "initiative": {
+    "title": "Nova inicijativa",
+    "description": "Istaknite posao koji ima jasne ciljeve i vremenske okvire"
+  },
+  "discussion": {
+    "title": "Nova ploča za raspravu",
+    "description": "Stvorite novu ploču za raspravu unosom naslova koji označava temu."
+  }
+}

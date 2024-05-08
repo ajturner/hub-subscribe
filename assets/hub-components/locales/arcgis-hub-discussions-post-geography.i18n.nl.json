@@ -1,0 +1,14 @@
+{
+  "description": "Selecteer om in te zoomen op locatie",
+  "displayField.existing": "Bestaande locatie",
+  "displayField.added": "Toegevoegde locatie",
+  "displayField.existing.area": "Bestaand gebied",
+  "displayField.added.area": "Toegevoegd gebied",
+  "point": "Punt",
+  "line": "Lijn",
+  "area": "Gebied",
+  "viewAll": "Alle locaties weergeven",
+  "viewLess": "Minder locaties weergeven",
+  "action.update": "Locatie bijwerken",
+  "action.remove": "Locatie verwijderen"
+}

@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoduomenų bazė",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Failinė geoduomenų bazė",
+  "featureCollection": "Elementų rinkinys",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Atsisiųsti"
+}

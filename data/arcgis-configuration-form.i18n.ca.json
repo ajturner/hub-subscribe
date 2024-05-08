@@ -1,0 +1,12 @@
+{
+  "save": "Desa",
+  "cancel": "Cancel·la",
+  "undoChanges": "Desfés els canvis",
+  "next": "Següent",
+  "back": "Enrere",
+  "formAlert": "Alerta del formulari",
+  "invalidForm": "Corregiu tots els errors.",
+  "saveDisabled": "S'ha deshabilitat l'opció Desa",
+  "success": "Els canvis s'han desat correctament",
+  "error": "S'ha produït un error en desar els canvis"
+}

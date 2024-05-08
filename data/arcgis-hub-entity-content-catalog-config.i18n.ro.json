@@ -1,0 +1,30 @@
+{
+  "helperText": "Definiți și configurați catalogul",
+  "sections": {
+    "groups": {
+      "title": "Grupuri",
+      "helperText": "Grupurile de mai jos conțin conținutul in catalogul dvs. de căutare. Selectați un grup pentru a-i vedea setările, conținutul și multe altele.",
+      "createGroup": "Creare grup nou"
+    },
+    "feeds": {
+      "title": "Configurație flux",
+      "helperText": "Faceți datele dvs. deschise public accesibil ușor și reutilizabile cu fluxurile Hub.",
+      "learn": "Aflați despre fluxurile Hub",
+      "toggle": "Activați fluxuri ",
+      "configure": "Configurați alimentările",
+      "notice": "Pentru a activa fluxuri, trebuie să setați mai întâi site-urile Hub la „Publice” în Setări"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "De la",
+    "editGroups": "Editare grupuri",
+    "viewGroups": "Vizualizare grup",
+    "myGroup": "Grupul meu",
+    "myOrganization": "Organizaţia mea",
+    "myCommunity": "Comunitatea mea"
+  },
+  "formAlert": "Alertă formular",
+  "alertMessages": {
+    "error": "Eroare la salvarea editărilor"
+  }
+}

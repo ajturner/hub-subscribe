@@ -1,0 +1,25 @@
+{
+  "moreResults": "更多結果",
+  "search": "搜尋",
+  "filter": "篩選器",
+  "viewResults": "檢視結果 ({numResults})",
+  "resultsCount": "1 - {pageTotal}/{searchTotal}",
+  "backToTop": "返回頂部",
+  "facets": {
+    "access": {
+      "private": "我自己",
+      "shared": "擁有者和群組",
+      "org": "組織",
+      "public": "公共"
+    },
+    "license": {
+      "custom": "自訂",
+      "none": "無"
+    }
+  },
+  "layoutOptions": {
+    "list": "顯示清單",
+    "grid": "顯示網格"
+  },
+  "galleryActionsLabel": "其他動作"
+}

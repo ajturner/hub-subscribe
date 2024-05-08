@@ -1,0 +1,50 @@
+{
+  "title": "Tartalom",
+  "facets": {
+    "type": "Típus",
+    "tags": "Címke",
+    "categories": "Kategória",
+    "sharing": "Megosztás",
+    "dateUpdated": "Frissítés dátuma",
+    "map": {
+      "label": "Helyszín",
+      "tooltip": "Alkalmazza a térképkiterjedést helyszűrőként"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Tartalom hozzáadása",
+    "catalog": {
+      "myContent": "Saját tartalom",
+      "favorites": "Kedvencek",
+      "organization": "Saját szervezet",
+      "world": "Világ (nyilvános)"
+    },
+    "facets": {
+      "type": "Típus",
+      "sharing": "Megosztás"
+    },
+    "collection": {
+      "appsAndMaps": "Alkalmazások és térképek",
+      "dataset": "Adatok",
+      "documents": "Dokumentumok",
+      "feedback": "Visszajelzés",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Tartalom hozzáadása"
+    },
+    "unsharedModal": {
+      "title": "Az elemek nem lettek hozzáadva",
+      "notice": {
+        "icon": "felkiáltójel-háromszög",
+        "type": "veszély",
+        "title": "A művelet nem fejeződött be",
+        "message": "Néhány elem hozzáadása nem sikerült. Ennek oka lehet, hogy a tartalmon belüli megosztási szintek nem egyeznek, vagy az, hogy az elem tulajdonosa nem tagja a csoportnak.",
+        "linkText": "További információ a megosztásról"
+      }
+    },
+    "itemSharedSuccessAlert": "Sikeresen megosztott elem(ek)"
+  },
+  "close": "Bezárás",
+  "newTab": "új fülön nyílik meg"
+}

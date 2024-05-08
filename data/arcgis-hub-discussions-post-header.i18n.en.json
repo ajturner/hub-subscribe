@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Visible to members only",
+  "visibleOrg": "Visible to organization",
+  "visibleAll": "Visible to everyone",
+  "anonymous": "Anonymous",
+  "privateUser": "Private Member",
+  "noUser": "No Username",
+  "orgLabel": "Organization",
+  "privateOrg": "Private Organization",
+  "location": "Location",
+  "profile": "Go to profile",
+  "postedIn": "Posted in {groupName}",
+  "manageChannel": "Manage Channel",
+  "information": "Information about post",
+  "group.deleted": "Deleted group",
+  "unnamedChannel": "Unnamed channel",
+  "replyingTo": "Replying to {fullName}",
+  "viewPost": "View Post"
+}

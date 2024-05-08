@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Content selecteren",
+  "secondStepHeader": "Details instellen",
+  "thirdStepHeader": "Niveau delen en toegang instellen",
+  "next": "Volgende",
+  "back": "Terug",
+  "save": "Opslaan",
+  "cancel": "Annuleren",
+  "divider": "of",
+  "duplicateFileAriaLabel": "dubbele bestandsfout",
+  "duplicateFileError": "Een item met dezelfde bestandsnaam bestaat al. Wijzig de bestandsnaam en probeer het opnieuw of verwijder het <a>dubbele bestand</a> in ArcGIS Online",
+  "uploading": "Uploaden"
+}

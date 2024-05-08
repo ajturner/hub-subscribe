@@ -1,0 +1,34 @@
+{
+  "settings": "Configuració",
+  "delete": {
+    "project": "Suprimeix el projecte",
+    "initiative": "Suprimeix la iniciativa",
+    "site": "Suprimeix el lloc",
+    "discussion": "Suprimeix el debat",
+    "content": "Suprimeix el contingut",
+    "page": "Suprimeix la pàgina",
+    "group": "Suprimeix el grup"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Suprimeix el projecte",
+      "initiative": "Suprimeix la iniciativa",
+      "site": "Suprimeix el lloc",
+      "discussion": "Suprimeix el debat",
+      "content": "Suprimeix el contingut",
+      "page": "Suprimeix la pàgina",
+      "group": "Suprimeix el grup"
+    },
+    "content": "Segur que voleu suprimir:",
+    "delete": "Suprimeix",
+    "cancel": "Cancel·la"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "La capacitat d'\"extracció\" canvia la configuració del servei.",
+        "message": "També es veuran afectats els altres elements que facin referència al servei. Per obtenir més informació, consulteu la secció sobre com <docLink>exportar dades de capes d'entitats allotjades</docLink>"
+      }
+    }
+  }
+}

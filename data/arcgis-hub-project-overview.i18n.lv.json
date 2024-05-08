@@ -1,0 +1,27 @@
+{
+  "overview": "Pārskats",
+  "telemetry": {
+    "pageViews": "Lapas skatījumi",
+    "last30days": "Pēdējās 30 dienas",
+    "lastUpdated": "Pēdējo reizi atjaunināts pirms {hoursElapsed} stundām"
+  },
+  "newNotice": {
+    "title": "Lūk, jūsu projekta darbvieta",
+    "message": "Šī darbvieta ir pielāgota projektu rediģēšanai. Darbvietas ļauj līdzstrādniekiem koncentrēties uz atsevišķām vienībām un nepārtraukti attīstīties.",
+    "link": "Uzzināt vairāk"
+  },
+  "learnAbout": "Uzzināt par Hub projektiem",
+  "feedbackNotice": {
+    "message": "Kā jums patīk Hub projekti? Tā kā šis elements joprojām ir beta versijā, mēs vēlamies dzirdēt, kā jūs to varētu izmantot.",
+    "link": "Iesniegt atsauksmes"
+  },
+  "status": {
+    "notStarted": "Nav sākts",
+    "inProgress": "Notiek izpilde",
+    "onHold": "Atlikts",
+    "complete": "Pabeigts"
+  },
+  "editDetails": "Rediģēt detalizētu informāciju",
+  "noPurposeSet": "Nav iestatīts mērķis",
+  "noLocationSet": "Nav iestatīts novietojums"
+}

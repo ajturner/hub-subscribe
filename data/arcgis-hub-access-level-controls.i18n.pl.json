@@ -1,0 +1,9 @@
+{
+  "heading": "Poziom udostępniania",
+  "public": "Publiczne",
+  "publicInfo": "Wszyscy widzą ten element {itemType}",
+  "organization": "Instytucja",
+  "organizationInfo": "Wszyscy członkowie, którzy mają konto w instytucji {orgName} i grupy widzą ten element {itemType}.",
+  "owner": "Właściciel",
+  "ownerInfo": "Właściciel i grupy z odpowiednimi uprawnieniami widzą ten element {itemType}"
+}

@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal fără nume",
+  "name": {
+    "label": "Nume",
+    "placeholder": "{prefix} canal"
+  },
+  "save": "Salvare",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Grupurile selectate pot participa"
+    },
+    "organization": {
+      "label": "Organizația mea",
+      "description": "Toți membrii cu un cont la {orgName} pot participa",
+      "disabledTooltip": "Numai administratorii organizației pot crea canale de organizație."
+    },
+    "public": {
+      "label": "Public",
+      "description": "Oricine cu un cont poate participa",
+      "disabledTooltip": "Numai administratorii organizației pot crea canale publice."
+    },
+    "allowAnonymous": "Permitere anonim",
+    "confirmation": {
+      "header": "Sunteţi sigur?",
+      "message": "Salvarea acestor modificări va elimina accesul dvs. editat la acest canal. Numai administratorii organizației pot crea edita canale publice sau de organizație.",
+      "secondary": "Anulare",
+      "primary": "Confirmare"
+    }
+  },
+  "participants": {
+    "label": "Participanți",
+    "helperText": "Persoanele care pot vizualiza și contribui la discuție.",
+    "none": "Niciun participant setat",
+    "add": "Adăugare grup de participanți"
+  },
+  "groupPicker": {
+    "title": "Selectare grupuri",
+    "facet": {
+      "label": "De la",
+      "myGroup": "Grupul meu",
+      "myOrganization": "Organizaţia mea",
+      "myCommunity": "Comunitatea mea"
+    }
+  },
+  "blockWords": {
+    "label": "Cuvinte blocate",
+    "helperText": "Listă separată prin virgulă. Postările și răspunsurile care le conțin vor fi ascunse automat."
+  },
+  "manage": {
+    "label": "Gestionare și moderare",
+    "helperText": "Persoanele semnate automat pe baza selecțiilor de participare peste aceste persoane pot participa, ascunde sau afișa postările și gestiona setările canalului."
+  },
+  "manager": "Manager",
+  "admin": "Admin",
+  "viewProfile": "Vizualizare profil",
+  "alerts": {
+    "error": "Eroare la salvarea canalului",
+    "success": "Canal salvat cu succes",
+    "label": "Alertă formular"
+  },
+  "validations": {
+    "minChannelGroups": "Canalele private necesită cel puțin un grup de participanți."
+  },
+  "notices": {
+    "edit": "Editările vor afecta toate locurile în care este utilizat acest canal",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Canalul nu a fost creat",
+          "message": "Există deja un canal cu aceste selecții de acces. Utilizați canalul existent și modificați selecțiile."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Canalul nu a fost actualizat",
+          "message": "Un canal cu aceste selecții de acces există deja, așadar nu putem salva aceste actualizări."
+        }
+      },
+      "action": "Utilizați canalul existent"
+    },
+    "inaccessibleGroups": {
+      "title": "Grupuri indisponibile: {count}",
+      "message": "Nu puteți vizualiza sau gestiona grupuri indisponibile decât dacă sunteți membri."
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Sťahovanie dokončené",
+  "titleFileGeneration": "Prebieha generovanie súboru",
+  "titleFileGenerationFailed": "Generovanie súboru zlyhalo",
+  "titleDatasetNotFound": "Dataset nebol nájdený",
+  "titleApiError": "Chyba API",
+  "titleFormatDisabled": "Sťahovanie deaktivované",
+  "messageFailedStaleAvailable": "Dolu môžete stiahnuť predchádzajúcu verziu.",
+  "messageUpdatingFile": "Aktualizujeme tento súbor. Toto môže nejaký čas trvať.",
+  "messageCreatingFile": "Vytvárame súbor. Toto môže nejaký čas trvať.",
+  "messageFileNeedsGenerating": "Sťahovanie aktualizovaného súboru môže nejaký čas trvať.",
+  "messageFormatDisabled": "Vlastník deaktivoval možnosť sťahovať tento formát."
+}

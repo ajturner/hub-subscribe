@@ -1,0 +1,9 @@
+{
+  "heading": "Úroveň sdílení",
+  "public": "Veřejně",
+  "publicInfo": "Tento {itemType} mohou vidět všichni",
+  "organization": "Organizace",
+  "organizationInfo": "Všichni členové s účtem {orgName} a skupiny mohou vidět tento {itemType}",
+  "owner": "Vlastník",
+  "ownerInfo": "Vlastník a skupiny s přístupem mohou vidět tento {itemType}"
+}

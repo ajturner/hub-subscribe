@@ -1,0 +1,24 @@
+{
+  "content": "Contenuto",
+  "tabs": {
+    "catalog": "Catalogo",
+    "collections": "Raccolte",
+    "catalogConfig": "Configurazione catalogo"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Configura il catalogo",
+        "message": "La creazione e la configurazione del catalogo è iniziata! Il catalogo è formato da gruppi e popolato dal contenuto al loro interno.",
+        "link": "Ulteriori informazioni sui cataloghi"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Il catalogo è vuoto",
+        "message": "Sei pronto per iniziare con il catalogo! Il catalogo è configurato aggiungendo uno o più gruppi ed è popolato dal contenuto al loro interno.",
+        "link": "Introduzione"
+      }
+    }
+  }
+}

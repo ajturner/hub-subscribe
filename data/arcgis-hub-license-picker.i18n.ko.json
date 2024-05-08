@@ -1,0 +1,19 @@
+{
+  "chooseButton": "사용약관 선택",
+  "editorLabel": "선택한 사용약관",
+  "editorRemoveWarning": "경고: 사용약관을 삭제하려고 합니다.",
+  "licenseDescriptionCc0": "이 작업은 대중이 자유롭게 사용할 수 있음",
+  "licenseDescriptionCcBy": "저작자 표시 필수",
+  "licenseDescriptionCcByNc": "저작자 표시 필수, 리믹스 허용, 상업적 이용 금지",
+  "licenseDescriptionCcByNcNd": "제한 수준 최대, 저작자 표시 필수, 상업적 이용 및 리믹스 금지",
+  "licenseDescriptionCcByNcSa": "저작자 표시 필수, 리믹스 허용, 상업적 이용 금지, 파생 저작물이 동일한 라이선스를 공유해야 함",
+  "licenseDescriptionCcByNd": "저작자 표시 필수, 상업적 이용 허용, 파생 저작물 공유 금지",
+  "licenseDescriptionCcBySa": "저작자 표시 필수, 리믹스 및 상업적 이용 허용",
+  "licenseDescriptionCustom": "세부정보 확인",
+  "licenseDescriptionOdbl": "다른 사용자가 저작자를 표시하고, 동일 조건으로 변경하고, 공개 상태를 유지하는 한 공유, 저작, 변경 허용",
+  "licenseDescriptionOdcBy": "다른 사용자가 저작자를 표시하는 한 공유, 저작, 변경 허용",
+  "licenseDescriptionPddl": "공유, 저작, 변경 허용",
+  "licenseInfoButtonAriaLabel": "사용약관 세부정보, 새 탭에서 열림",
+  "selectedLicenseLabelFallback": "사용자 설정",
+  "selectedLicenseLabelNoLicense": "사용약관 없음"
+}

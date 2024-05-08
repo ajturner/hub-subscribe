@@ -1,0 +1,16 @@
+{
+  "post.title": "Redigering av inlägg är blockerad",
+  "post.message": "Redigering är inte tillgänglig när diskussioner är blockerade.",
+  "post.message.item": "Redigering är inte tillgänglig när diskussioner är blockerade för det här ämnet.",
+  "post.message.group": "Redigering är inte tillgänglig när diskussioner är blockerade för den här gruppen.",
+  "reply.title": "Redigering av svar är blockerad",
+  "reply.title.generic": "Diskussion blockerad",
+  "reply.message": "Redigering är inte tillgänglig när diskussioner är blockerade.",
+  "reply.message.generic": "Du kan inte skapa svar just nu.",
+  "reply.message.item": "Redigering är inte tillgänglig när diskussioner är blockerade för det här ämnet.",
+  "reply.message.group": "Redigering är inte tillgänglig när diskussioner är blockerade för den här gruppen.",
+  "item.title": "Ämnesdiskussion är blockerad",
+  "item.message": "Det här ämnet är inte godkänt för diskussion.",
+  "group.title": "Gruppdiskussion är blockerad",
+  "group.message": "Den här gruppen är inte godkänd för diskussion."
+}

@@ -1,0 +1,16 @@
+{
+  "addFilter": "Add filter",
+  "attributeFilter": "Filter",
+  "between": "Between",
+  "deleteFilter": "Delete filter",
+  "endingDate": "Ending date",
+  "endingValue": "Ending value",
+  "expression": "Expression",
+  "filterType": "Filter type",
+  "filterValue": "Filter value",
+  "isExactly": "Is exactly",
+  "like": "Is like",
+  "startingDate": "Starting date",
+  "startingValue": "Starting value",
+  "selectAttribute": "Select attribute"
+}

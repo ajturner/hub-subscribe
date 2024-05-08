@@ -1,0 +1,19 @@
+{
+  "select": "Izaberite",
+  "cancel": "Otkaži",
+  "iconModalTitle": "Selektujte ikonu",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Izaberite iz biblioteke"
+      },
+      "url": {
+        "description": "Obezbedi URL adresu za svoju"
+      }
+    }
+  },
+  "altText": {
+    "label": "Alternativni tekst",
+    "helperText": "Ako se ne doda, ikona će biti označena dekorativno."
+  }
+}

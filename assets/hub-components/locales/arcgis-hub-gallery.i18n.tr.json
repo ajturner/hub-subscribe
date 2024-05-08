@@ -1,0 +1,25 @@
+{
+  "moreResults": "Diğer sonuçlar",
+  "search": "Ara",
+  "filter": "Filtreler",
+  "viewResults": "Sonuçları görüntüle ({numResults})",
+  "resultsCount": "1 - {pageTotal} / {searchTotal}",
+  "backToTop": "Başa dön",
+  "facets": {
+    "access": {
+      "private": "Kendim",
+      "shared": "Sahibi ve gruplar",
+      "org": "Kuruluş",
+      "public": "Genel"
+    },
+    "license": {
+      "custom": "Özel",
+      "none": "Hiçbiri"
+    }
+  },
+  "layoutOptions": {
+    "list": "Listeyi göster",
+    "grid": "Grid’i göster"
+  },
+  "galleryActionsLabel": "Ek işlemler"
+}

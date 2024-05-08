@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dasbor",
+    "details": "Detail",
+    "overview": "Gambaran umum",
+    "metrics": "Metrik",
+    "settings": "Pengaturan",
+    "collaborators": "Kolaborator",
+    "discussion": "Diskusi",
+    "content": "Konten",
+    "members": "Anggota",
+    "participation": "Partisipasi",
+    "followers": "Pengikut"
+  }
+}

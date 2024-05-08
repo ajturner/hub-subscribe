@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Mostrar",
+    "hide": "Ocultar",
+    "rename": "Renomear"
+  },
+  "formAlert": "Alerta de Formulário",
+  "alertMessages": {
+    "success": "Edições salvas com sucesso",
+    "error": "Erro ao salvar edições"
+  },
+  "collectionRenameModal": {
+    "title": "Renomear Coleção",
+    "fieldLabel": "Rótulo da coleção",
+    "requiredMessage": "Rótulo de coleção exigido",
+    "apply": "Aplicar"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dados",
+      "hidden": "Dados (Oculto)"
+    },
+    "site": {
+      "visible": "Sites",
+      "hidden": "Sites (Oculto)"
+    },
+    "document": {
+      "visible": "Documentos",
+      "hidden": "Documentos (Oculto)"
+    },
+    "appAndMap": {
+      "visible": "Aplicativos & Mapas",
+      "hidden": "Aplicativos & Mapas (Oculto)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Oculto)"
+    }
+  },
+  "saveButton": "Salvar"
+}

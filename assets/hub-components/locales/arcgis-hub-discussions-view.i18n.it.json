@@ -1,0 +1,17 @@
+{
+  "summary": "Riepilogo",
+  "description": "Descrizione",
+  "details": "Dettagli",
+  "metrics": "Metriche",
+  "metricsDisclaimer": "Mostra solo gli ultimi 30 giorni",
+  "titleOpen": "Discussione aperta",
+  "statusOpen": "Aperto alla partecipazione",
+  "titleClosed": "Discussione chiusa",
+  "statusClosed": "Chiuso alla partecipazione",
+  "tags": "Tag",
+  "categories": "Categorie",
+  "metric.pageViews": "Viste pagina",
+  "metric.postCount": "Conteggio dei post",
+  "discussion": "Discussione",
+  "discussionBoard": "Pannello di discussione"
+}

@@ -1,0 +1,10 @@
+{
+  "true.heading": "Ja, Diskussionen sind zulässig",
+  "false.heading": "Nein, Diskussionen sind gesperrt",
+  "content.label": "Diskussionen für dieses Element zulassen?",
+  "content.true.description": "Benutzer dürfen für dieses Element Beiträge erstellen.",
+  "content.false.description": "Benutzer dürfen für dieses Element keine Beiträge erstellen.",
+  "group.label": "Darf diese Gruppe an Diskussionen teilnehmen?",
+  "group.true.description": "Gruppenmitglieder dürfen Diskussionskanäle, auf die die Gruppe Zugriff hat, anzeigen und sich daran beteiligen.",
+  "group.false.description": "Gruppenmitglieder dürfen Diskussionskanäle, auf die die Gruppe Zugriff hat, nicht anzeigen und sich nicht daran beteiligen."
+}

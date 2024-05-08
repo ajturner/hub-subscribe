@@ -1,0 +1,10 @@
+{
+  "error": "Hi ha hagut algun problema",
+  "repliesFailure": "No es poden mostrar les respostes a aquesta publicació.",
+  "thread.deleted.title": "Subprocés eliminat",
+  "thread.deleted.message": "La publicació enllaçada i la resposta s'han eliminat i no es poden visualitzar.",
+  "thread.deleted.action": "Visualitzar totes les publicacions",
+  "reply.single.title": "Esteu visualitzant una única resposta",
+  "reply.single.link": "Visualitza totes les respostes",
+  "loading": "S'està carregant"
+}

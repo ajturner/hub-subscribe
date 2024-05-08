@@ -1,0 +1,10 @@
+{
+  "true.heading": "Áno, diskusia je povolená",
+  "false.heading": "Nie, diskusia je zablokovaná",
+  "content.label": "Povoliť diskusiu o tejto položke?",
+  "content.true.description": "Používatelia môžu vytvárať príspevky k tejto položke.",
+  "content.false.description": "Používatelia nemôžu vytvárať príspevky k tejto položke.",
+  "group.label": "Môže sa táto skupina zúčastňovať diskusií?",
+  "group.true.description": "Členovia skupiny si môžu prezerať diskusné kanály, ku ktorým má skupina prístup, a participovať na nich.",
+  "group.false.description": "Členovia skupiny si nemôžu prezerať diskusné kanály, ku ktorým má skupina prístup, ani na nich participovať."
+}

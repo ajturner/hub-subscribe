@@ -1,0 +1,26 @@
+{
+  "followers": "Pratitelji",
+  "tabs": {
+    "followers": "Pratitelji",
+    "settings": "Postavke"
+  },
+  "addFollowers": {
+    "label": "Dodaj pratitelje"
+  },
+  "emptyState": {
+    "message": "Trenutno nemate grupu pratitelja."
+  },
+  "restrictedAccessState": {
+    "message": "Nemate pristup."
+  },
+  "stats": {
+    "total": {
+      "title": "Ukupno",
+      "trailingText": "Pratitelji"
+    },
+    "new": {
+      "title": "Novo",
+      "trailingText": "Posljednjih 30 dana"
+    }
+  }
+}

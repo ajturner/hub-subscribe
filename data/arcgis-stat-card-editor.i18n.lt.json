@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Išplėstinė konfigūracija",
+    "serverTimeout": {
+      "label": "Skirtasis serverio laikas (sekundės)",
+      "helperText": "Naudinga didesnės apimties paslaugoms, kurių atsakymas gali užtrukti ilgiau."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Kampai",
+      "enum": {
+        "round": {
+          "label": "Apskritimas"
+        },
+        "square": {
+          "label": "Kvadratas"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Metamas šešėlis",
+      "enum": {
+        "heavy": {
+          "label": "Labai ryškus"
+        },
+        "low": {
+          "label": "Neryškus"
+        },
+        "medium": {
+          "label": "Vidutinis"
+        },
+        "none": {
+          "label": "Nepradėta"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistikos maketas",
+      "enum": {
+        "dataViz": {
+          "label": "Duomenų vizualizavimas"
+        },
+        "moreInfo": {
+          "label": "Plačiau"
+        },
+        "simple": {
+          "label": "Paprasta"
+        }
+      }
+    },
+    "popoverTitle": "Iškilimo užvedus pavadinimas",
+    "popoverDescription": "Iškilimo užvedus aprašas",
+    "sectionTitle": "Išvaizda",
+    "textAlign": "Lygiuotė",
+    "visualInterest": {
+      "label": "Dominantis vaizdas",
+      "enum": {
+        "icon": {
+          "label": "Piktograma"
+        },
+        "logo": {
+          "label": "Logotipas"
+        },
+        "none": {
+          "label": "Nėra"
+        },
+        "sparkline": {
+          "label": "Miniatiūrinė diagrama"
+        }
+      }
+    },
+    "valueColor": "Spalva (statistinis)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Nuoroda",
+      "sourceLink": "Nuorodos URL",
+      "sourceTitle": "Nuorodos tekstas"
+    },
+    "sectionTitle": "Išsamiau",
+    "subtitle": "Antraštė",
+    "title": "Pavadinimas",
+    "trailingText": "Tekstas pabaigoje"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Kad būtų rodomas šaltinis, būtina nuoroda."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatavimas",
+    "unit": {
+      "label": "Rodymo vienetai:",
+      "helperText": "Įveskite reikšmės matavimo vienetą."
+    },
+    "unitPosition": {
+      "label": "Vieta",
+      "enum": {
+        "after": {
+          "label": "Po"
+        },
+        "before": {
+          "label": "Prieš"
+        },
+        "below": {
+          "label": "Po"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Bendrinimas",
+    "showShareIcon": "Įgalinti",
+    "shareableByValue": "Įgalinti įterptuosius elementus",
+    "shareableOnHover": {
+      "label": "Rodyti",
+      "enum": {
+        "always": {
+          "label": "Visada"
+        },
+        "hover": {
+          "label": "Tik užveskite pelę"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Duomenų šaltinis",
+    "displayValue": "Rodyti reikšmę",
+    "sectionTitle": "Statistinis",
+    "type": {
+      "label": "Tipas",
+      "enum": {
+        "dynamic": {
+          "label": "Dinaminis",
+          "description": "Pasirinkite esamą duomenų rinkinį (elementų tarnybą), kurį norite apibendrinti."
+        },
+        "static": {
+          "label": "Statinis",
+          "description": "Rankiniu būdu įveskite reikšmę, kurią norite paryškinti savo makete."
+        }
+      }
+    }
+  }
+}

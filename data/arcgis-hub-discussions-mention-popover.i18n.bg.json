@@ -1,0 +1,11 @@
+{
+  "anonymous": "Анонимен",
+  "noUser": "Няма потребителско име",
+  "privateUser": "Личен член",
+  "privateOrg": "Частна организация",
+  "orgLabel": "Организация",
+  "profile": "Към профила",
+  "location": "Местоположение",
+  "information": "Информация за публикацията",
+  "mentionedBy": "Споменато от @{username}"
+}

@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Valitse käyttöehdot",
+  "editorLabel": "Valitut käyttöehdot",
+  "editorRemoveWarning": "Varoitus. Olet poistamassa käyttöehdot.",
+  "licenseDescriptionCc0": "Tämä työ on dedikoitu yleisölle",
+  "licenseDescriptionCcBy": "Edellyttää ominaisuustiedon määritystä",
+  "licenseDescriptionCcByNc": "Edellyttää ominaisuustiedon määritystä, sallii sekoituksen, mutta estää kaupallisen käytön",
+  "licenseDescriptionCcByNcNd": "Eniten rajoittava, edellyttää ominaisuustiedon määritystä, estää kaupallisen käytön ja sekoituksen",
+  "licenseDescriptionCcByNcSa": "Edellyttää ominaisuustiedon määritystä, sallii sekoituksen, mutta estää kaupallisen käytön, ja johdetuissa töissä on säilytettävä sama lisenssi",
+  "licenseDescriptionCcByNd": "Edellyttää ominaisuustiedon määritystä, sallii kaupallisen käytön mutta estää johdannaisten jakamisen",
+  "licenseDescriptionCcBySa": "Edellyttää ominaisuustiedon määritystä, sallii sekoituksen ja kaupallisen käytön",
+  "licenseDescriptionCustom": "Näytä tiedot",
+  "licenseDescriptionOdbl": "Salli jakaminen, luominen ja mukauttaminen, kunhan muut osallistuvat, jakavat samankaltaisesti ja pitävät auki",
+  "licenseDescriptionOdcBy": "Salli jakaminen, luominen ja mukauttaminen, kunhan muut osallistuvat",
+  "licenseDescriptionPddl": "Salli jakaminen, luominen ja mukauttaminen",
+  "licenseInfoButtonAriaLabel": "Käyttöehtojen tiedot, avautuu uudelle välilehdelle",
+  "selectedLicenseLabelFallback": "Mukautettu",
+  "selectedLicenseLabelNoLicense": "Ei käyttöehtoja"
+}

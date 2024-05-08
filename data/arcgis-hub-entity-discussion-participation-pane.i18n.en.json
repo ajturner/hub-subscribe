@@ -1,0 +1,34 @@
+{
+  "title": "Participation",
+  "channelTitle": "Participation channel",
+  "addChannelsTitle": "A channel is needed for this item; only one can be set.",
+  "headingChannelEdit": "Edit channel",
+  "headingChannelView": "View channel",
+  "headingChannelCreate": "Create new channel",
+  "buttons": {
+    "browse": "Browse all channels",
+    "new": "New channel"
+  },
+  "alerts": {
+    "label": "Form alert",
+    "set": {
+      "title": "Success. The channel is set."
+    },
+    "removed": {
+      "title": "Channel removed",
+      "message": "Choose or create a channel for participation."
+    },
+    "error": {
+      "title": "Failed. The channel was not set."
+    }
+  },
+  "galleryPickerTitle": "Select a channel",
+  "channelsLabel": "Channels",
+  "accessLabel": "Access",
+  "optionPublicLabel": "Public",
+  "optionOrganizationLabel": "Organization",
+  "optionPrivateLabel": "Private",
+  "viewChannel": "View channel",
+  "editChannel": "Edit channel",
+  "save": "Save"
+}

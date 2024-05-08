@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Tampilkan",
+    "hide": "Sembunyikan",
+    "rename": "Ubah Nama"
+  },
+  "formAlert": "Peringatan formulir",
+  "alertMessages": {
+    "success": "Berhasil menyimpan editan",
+    "error": "Terjadi kesalahan saat menyimpan perubahan"
+  },
+  "collectionRenameModal": {
+    "title": "Ubah Nama Koleksi",
+    "fieldLabel": "Label koleksi",
+    "requiredMessage": "Label koleksi diperlukan",
+    "apply": "Terapkan"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Data",
+      "hidden": "Data (Tersembunyi)"
+    },
+    "site": {
+      "visible": "Situs",
+      "hidden": "Situs (Tersembunyi)"
+    },
+    "document": {
+      "visible": "Dokumen",
+      "hidden": "Dokumen (Tersembunyi)"
+    },
+    "appAndMap": {
+      "visible": "Aplikasi & Peta",
+      "hidden": "Aplikasi & Peta (Tersembunyi)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Tersembunyi)"
+    }
+  },
+  "saveButton": "Simpan"
+}

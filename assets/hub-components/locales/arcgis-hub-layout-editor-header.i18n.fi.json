@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Jaettu organisaatiolle",
+      "private": "Jaettu omistajalle",
+      "public": "Jaettu kaikille",
+      "shared": "Jaettu omistajalle ja ryhmille"
+    },
+    "editLayout": "Muokkaa asettelua",
+    "lastUpdated": "Päivitetty viimeksi {updated}",
+    "viewSite": "Näytä sivusto"
+  },
+  "cloneLayoutLabel": "Kloonaa asettelu",
+  "deletePageLabel": "Poista sivu",
+  "deleteSiteLabel": "Poista sivusto",
+  "editInAgoLabel": "Muokkaa ArcGIS Onlinessa",
+  "managePage": "Hallitse sivua",
+  "manageSite": "Hallitse sivustoa",
+  "moreOptionsLabel": "Lisää asetuksia",
+  "publishLabel": "Julkaise",
+  "saveAsTemplateLabel": "Tallenna mallina",
+  "saveLabel": "Tallenna",
+  "sharingLabel": "Avaa jakoruutu",
+  "viewLabel": "Näytä",
+  "viewPublishedLabel": "Näytä julkaistu luonnos",
+  "viewUnpublishedLabel": "Esikatsele julkaisematonta luonnosta"
+}

@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Parādīt",
+    "hide": "Paslēpt",
+    "rename": "Pārdēvēt"
+  },
+  "formAlert": "Veidlapas brīdinājums",
+  "alertMessages": {
+    "success": "Veiksmīgi saglabāti labojumi",
+    "error": "Kļūda, saglabājot labojumus"
+  },
+  "collectionRenameModal": {
+    "title": "Pārdēvēt kolekciju",
+    "fieldLabel": "Kolekcijas apzīmējums",
+    "requiredMessage": "Kolekcijas apzīmējums jānorāda obligāti",
+    "apply": "Lietot"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dati",
+      "hidden": "Dati (paslēpts)"
+    },
+    "site": {
+      "visible": "Vietnes",
+      "hidden": "Vietnes (paslēpts)"
+    },
+    "document": {
+      "visible": "Dokumenti",
+      "hidden": "Dokumenti (paslēpts)"
+    },
+    "appAndMap": {
+      "visible": "Lietotnes un kartes",
+      "hidden": "Lietotnes un kartes (paslēpts)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (paslēpts)"
+    }
+  },
+  "saveButton": "Saglabāt"
+}

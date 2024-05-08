@@ -1,0 +1,15 @@
+{
+  "done": "Completato",
+  "cancel": "Annulla",
+  "dragDrop": "Trascina e rilascia un file JPG, PNG o GIF.",
+  "browse": "Sfoglia...",
+  "chooseDiff": "Scegli un'immagine diversa",
+  "zoom": "Zoom:",
+  "bestSize": "Per risultati ottimali, l'immagine deve essere di 300 x 300 pixel.",
+  "close": "Chiudi",
+  "or": "oppure",
+  "fromMap": "Crea thumbnail dalla mappa",
+  "fromMapDesc": "Crea una thumbnail personalizzata impostando estensione e livello di zoom",
+  "changeBasemap": "Cambia mappa di base",
+  "loading": "Caricamento"
+}

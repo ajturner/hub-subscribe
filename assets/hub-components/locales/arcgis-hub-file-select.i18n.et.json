@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Üleslaadimiseks lohistage faili",
+  "imageHeading": "Laadi pilt üles",
+  "selectedHeading": "Fail on valitud",
+  "maxSizeAndSupportedTypes": "Maksimummaht on {maxSize} MB, {fileTypes}",
+  "maxSize": "Maksimummaht on {maxSize} MB",
+  "recommendedDimensions": "Soovitatavad mõõtmed {recommendedDimensions}",
+  "linkText": "Kuva toetatud failide loend",
+  "contentButton": "Otsi fail sirvides",
+  "imageButton": "Sirvi pilte",
+  "clearButton": "Eemalda valitud",
+  "errorHeading": "Viga",
+  "fileTooLargeError": "Fail on liiga suur",
+  "multipleFilesError": "Mitut faili ei saa korraga üles laadida",
+  "unsupportedFileTypeError": "Seda failitüüpi ei toetata"
+}

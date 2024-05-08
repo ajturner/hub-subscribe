@@ -1,0 +1,31 @@
+{
+  "dateRange": "Intervallo date: {start} - {end}",
+  "pageViews": "Visualizzazioni pagina",
+  "timeOnSite": "Minuti medi nel sito",
+  "users": "Sessioni",
+  "viewsOverTime": "Visualizzazioni pagina nel tempo",
+  "disabledTracking": "Il monitoraggio attività è disabilitato",
+  "enableTracking": "Abilita monitoraggio Attività hub belle impostazioni del sito per monitorare l'utilizzo del sito.",
+  "learnMore": "Ulteriori informazioni.",
+  "disabled": "Disabilitato",
+  "notificationLabel": "Dati aggiornati",
+  "dataUpdated": "Dati aggiornati",
+  "subscribe": "Sottoscrivi",
+  "subscribed": "Sottoscritto",
+  "weeklyReport": "Report settimanale",
+  "timestampTitle": {
+    "hour": "Ora del giorno",
+    "day": "Data",
+    "week": "Settimana"
+  },
+  "formAlert": "Avviso modulo",
+  "success": "Abbonamento aggiornato con successo",
+  "subscriptionActivatedTitle": "Abbonamento attivato",
+  "subscriptionActivatedMessage": "Hai effettuato la registrazione di {email} per ricevere metriche di partecipazione settimanali.",
+  "unsubscribeCompleteTitle": "Annullamento abbonamento completato",
+  "unsubscribeCompleteMessage": "{email} è stato annullato con successo dall'abbonamento alle metriche di partecipazione.",
+  "problemSubscribingTitle": "Problema di registrazione abbonamento",
+  "problemSubscribingMessage": "Si è verificato un problema durante la registrazione abbonamento Errore: ",
+  "problemUnsubscribingTitle": "Problema durante l'annullamento abbonamento",
+  "problemUnsubscribingMessage": "Si è verificato un problema durante l'annullamento abbonamento. Errore: "
+}

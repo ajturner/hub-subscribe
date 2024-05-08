@@ -1,0 +1,9 @@
+{
+  "startFrom": "ここから開始",
+  "none": "なし",
+  "itemsCurrentExtent": "アイテムの現在の範囲",
+  "save": "保存",
+  "cancel": "キャンセル",
+  "noLocationSet": "場所が設定されていません",
+  "clickEditAndDraw": "編集ペンをクリックして、範囲を描画します"
+}

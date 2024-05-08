@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Φίλτρο τοποθεσίας",
+  "panel.reset": "Επαναφορά φίλτρου",
+  "distance.title": "Απόσταση",
+  "distance.placeholder": "Εισαγωγή αριθμού",
+  "distance.message": "Εισάγετε αριθμό για να επεκτείνετε τη φιλτραρισμένη περιοχή.",
+  "system.imperial": "Βρετανικές μονάδες",
+  "system.metric": "Μετρικό",
+  "units.title": "Μονάδες",
+  "units.feet": "Πόδια",
+  "units.miles": "Μίλια",
+  "units.nauticalmiles": "Ναυτικά μίλια",
+  "units.meters": "Μέτρα",
+  "units.kilometers": "Χιλιόμετρα"
+}

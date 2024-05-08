@@ -1,0 +1,1 @@
+import{s}from"./p-859c5360.js";const a=()=>s.state.context,o=a=>{s.state.context=a},t=()=>s.state.site,c=a=>{s.state.site=a},n=a=>{a.disconnectContext=s.onChange("context",(function(s){a._context=s}))};export{t as a,c as b,n as c,a as g,o as s}

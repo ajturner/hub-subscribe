@@ -1,0 +1,7 @@
+{
+  "title": "Version löschen",
+  "message": "Möchten Sie Folgendes wirklich löschen?",
+  "cancel": "Abbrechen",
+  "delete": "Löschen",
+  "error": "Fehler beim Löschen der Version."
+}

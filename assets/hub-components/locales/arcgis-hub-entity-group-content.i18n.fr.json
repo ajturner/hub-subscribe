@@ -1,0 +1,50 @@
+{
+  "title": "Contenu",
+  "facets": {
+    "type": "Type",
+    "tags": "Balise",
+    "categories": "Catégorie",
+    "sharing": "Partage",
+    "dateUpdated": "Date de mise à jour",
+    "map": {
+      "label": "Localisation",
+      "tooltip": "Appliquer l’étendue de la carte en tant que filtre de localisation"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Ajouter du contenu",
+    "catalog": {
+      "myContent": "Mes contenus",
+      "favorites": "Favoris",
+      "organization": "Mon organisation",
+      "world": "Monde (Public)"
+    },
+    "facets": {
+      "type": "Type",
+      "sharing": "Partage"
+    },
+    "collection": {
+      "appsAndMaps": "Applications et cartes",
+      "dataset": "Données",
+      "documents": "Documents",
+      "feedback": "Commentaires",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Ajouter du contenu"
+    },
+    "unsharedModal": {
+      "title": "Éléments non ajoutés",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "danger",
+        "title": "Action non terminée",
+        "message": "Certains éléments n’ont pas pu être ajoutés. Ce problème peut être dû à des niveaux de partage incompatibles dans le contenu ou au fait que le propriétaire de l’élément n’est pas membre du groupe.",
+        "linkText": "En savoir plus sur le partage"
+      }
+    },
+    "itemSharedSuccessAlert": "Le ou les éléments ont été partagés"
+  },
+  "close": "Fermer",
+  "newTab": "s’ouvre dans un nouvel onglet"
+}

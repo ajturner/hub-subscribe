@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "סוג",
+    "tags": "תגית",
+    "categories": "קטגוריה",
+    "sharing": "שיתוף",
+    "dateUpdated": "תאריך עדכון",
+    "map": {
+      "label": "מיקום",
+      "tooltip": "החל את תיחום הפה כמסנן מיקום"
+    }
+  },
+  "collections": {
+    "all": "הכל",
+    "dataset": "נתונים",
+    "site": "אתרים",
+    "document": "מסמכים",
+    "appAndMap": "יישומים ומפות"
+  },
+  "noCollections": {
+    "title": "קטלוג",
+    "message": "הקטלוג שלך כרגע ריק.",
+    "button": "הגדר קטלוג"
+  }
+}

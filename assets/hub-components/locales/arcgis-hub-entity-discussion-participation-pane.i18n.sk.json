@@ -1,0 +1,21 @@
+{
+  "title": "Spoluúčasť",
+  "channelTitle": "Kanál spoluúčasti",
+  "addChannelsTitle": "Pre túto položku je potrebný kanál; je možné nastaviť len jeden.",
+  "headingChannelEdit": "Editovať kanál",
+  "headingChannelView": "Zobraziť kanál",
+  "headingChannelCreate": "Vytvoriť nový kanál",
+  "buttons": {
+    "browse": "Prehľadávať všetky kanály",
+    "new": "Nový kanál"
+  },
+  "galleryPickerTitle": "Vybrať kanál",
+  "channelsLabel": "Kanály",
+  "accessLabel": "Prístup",
+  "optionPublicLabel": "Verejné",
+  "optionOrganizationLabel": "Organizácia",
+  "optionPrivateLabel": "Súkromné",
+  "viewChannel": "Zobraziť kanál",
+  "editChannel": "Editovať kanál",
+  "save": "Uložiť"
+}

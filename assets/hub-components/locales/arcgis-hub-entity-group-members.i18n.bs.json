@@ -1,0 +1,24 @@
+{
+  "title": "Članovi",
+  "facets": {
+    "role": {
+      "label": "Uloga",
+      "all": "Svi",
+      "manager": "Upravitelj",
+      "member": "Član"
+    },
+    "dateJoined": {
+      "label": "Datum pridruživanja"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Ukupno",
+      "trailingText": "Članovi tima"
+    },
+    "new": {
+      "title": "Novo",
+      "trailingText": "Posljednjih 30 dana"
+    }
+  }
+}

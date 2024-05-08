@@ -1,0 +1,50 @@
+{
+  "title": "Inhalt",
+  "facets": {
+    "type": "Typ",
+    "tags": "Tag",
+    "categories": "Kategorie",
+    "sharing": "Freigeben",
+    "dateUpdated": "Aktualisierungsdatum",
+    "map": {
+      "label": "Position",
+      "tooltip": "Kartenausdehnung als Positionsfilter anwenden"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Inhalt hinzufügen",
+    "catalog": {
+      "myContent": "Eigene Inhalte",
+      "favorites": "Favoriten",
+      "organization": "Eigene Organisation",
+      "world": "Welt (öffentlich)"
+    },
+    "facets": {
+      "type": "Typ",
+      "sharing": "Freigeben"
+    },
+    "collection": {
+      "appsAndMaps": "Apps und Karten",
+      "dataset": "Daten",
+      "documents": "Dokumente",
+      "feedback": "Feedback",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Inhalt hinzufügen"
+    },
+    "unsharedModal": {
+      "title": "Elemente nicht hinzugefügt",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "Gefahr",
+        "title": "Aktion unvollständig",
+        "message": "Einige Elemente konnten nicht hinzugefügt werden. Dies kann darauf zurückzuführen sein, dass Freigabeebenen im Inhalt nicht übereinstimmen oder der Besitzer des Elements kein Mitglied der Gruppe ist.",
+        "linkText": "Weitere Informationen zum Freigeben"
+      }
+    },
+    "itemSharedSuccessAlert": "Element(e) erfolgreich freigegeben"
+  },
+  "close": "Schließen",
+  "newTab": "wird in neuer Registerkarte geöffnet"
+}

@@ -1,0 +1,10 @@
+{
+  "true.heading": "Da, diskusija je dozvoljena",
+  "false.heading": "Ne, diskusija je blokirana",
+  "content.label": "Dozvoli diskusiju za ovu stavku?",
+  "content.true.description": "Korisnici mogu da kreiraju objave za ovu stavku.",
+  "content.false.description": "Korisnici ne mogu da kreiraju objave za ovu stavku.",
+  "group.label": "Može li ova grupa da učestvuje u diskusijama?",
+  "group.true.description": "Članovi grupe mogu da gledaju i učestvuju u kanalima za diskusiju kojima grupa ima pristup.",
+  "group.false.description": "Članovi grupe ne mogu da gledaju ili učestvuju u kanalima za diskusiju kojima grupa ima pristup."
+}

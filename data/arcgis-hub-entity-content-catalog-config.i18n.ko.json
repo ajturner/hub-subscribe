@@ -1,0 +1,30 @@
+{
+  "helperText": "카탈로그 정의 및 구성",
+  "sections": {
+    "groups": {
+      "title": "그룹",
+      "helperText": "다음 그룹에는 검색 카탈로그의 콘텐츠가 포함되어 있습니다. 그룹을 선택하여 해당 설정, 콘텐츠 등을 확인합니다.",
+      "createGroup": "새 그룹 생성"
+    },
+    "feeds": {
+      "title": "피드 구성",
+      "helperText": "허브 피드를 통해 공개 오픈데이터를 쉽게 접근하고 재사용할 수 있게 만드세요.",
+      "learn": "허브 피드에 대해 알아보기",
+      "toggle": "피드 활성화 ",
+      "configure": "피드 구성",
+      "notice": "피드를 활성화하려면 먼저 설정에서 허브 사이트를 '공개'로 설정해야 합니다."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "From",
+    "editGroups": "그룹 편집",
+    "viewGroups": "그룹 보기",
+    "myGroup": "내 그룹",
+    "myOrganization": "내 기관",
+    "myCommunity": "내 커뮤니티"
+  },
+  "formAlert": "양식 알림",
+  "alertMessages": {
+    "error": "편집 내용을 저장하는 중 오류 발생"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "true.heading": "Igen, a megbeszélés engedélyezett",
+  "false.heading": "Nem, a megbeszélés blokkolva",
+  "content.label": "Engedélyezi, hogy ezt az elemet megbeszéljék?",
+  "content.true.description": "A felhasználók hozzászólásokat hozhatnak létre ebben az elemben.",
+  "content.false.description": "A felhasználók nem hozhatnak létre hozzászólásokat ebben az elemben.",
+  "group.label": "Ez a csoport részt tud venni a megbeszéléseken?",
+  "group.true.description": "A csoporttagok megtekinthetik azokat a megbeszélés csatornákat, amelyekhez a csoportnak hozzáférése van, és azokon részt vehetnek.",
+  "group.false.description": "A csoporttagok nem tekinthetik meg azokat a megbeszéléseket, amelyekhez a csoportnak hozzáférése van, és nem vehetnek részt azokon."
+}

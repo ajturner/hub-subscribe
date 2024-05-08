@@ -1,0 +1,17 @@
+{
+  "summary": "Σύνοψη",
+  "description": "Περιγραφή",
+  "details": "Λεπτομέρειες",
+  "metrics": "Μετρικά",
+  "metricsDisclaimer": "Εμφάνιση των τελευταίων 30 ημερών",
+  "titleOpen": "Άνοιγμα συζήτησης",
+  "statusOpen": "Άνοιγμα για συμμετοχή",
+  "titleClosed": "Κλειστή συζήτηση",
+  "statusClosed": "Κλειστό για συμμετοχή",
+  "tags": "Ετικέτες",
+  "categories": "Κατηγορίες",
+  "metric.pageViews": "Προβολές",
+  "metric.postCount": "Αριθμός αναρτήσεων",
+  "discussion": "Συζήτηση",
+  "discussionBoard": "Πίνακας συζήτησης"
+}

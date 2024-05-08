@@ -1,0 +1,52 @@
+{
+  "collaborators": "共同作業者",
+  "editGroupButtonText": "編集グループの追加",
+  "viewGroupButtonText": "表示グループの追加",
+  "groupPicker": {
+    "title": "グループの選択",
+    "facet": {
+      "label": "から",
+      "editGroups": "グループの編集",
+      "viewGroups": "グループの表示",
+      "myGroup": "マイ グループ",
+      "myOrganization": "組織",
+      "myCommunity": "マイ コミュニティ"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "新しい人の追加",
+    "message": "人を追加する必要がある場合、その人をコミュニティに招待するか、<orgOverviewLink>管理者に問い合わせ</orgOverviewLink>ます。"
+  },
+  "editGroupsTitle": "編集可能なグループ",
+  "viewGroupsTitle": "表示可能なグループ",
+  "project": {
+    "description": "このプロジェクトを表示および編集できるユーザーのグループを選択します。",
+    "editGroupsDescription": "これらのグループ内のユーザーがプロジェクト情報を編集できます。",
+    "viewGroupsDescription": "プロジェクトがパブリックに共有されていない場合、これらのグループ内のユーザーがそのプロジェクトを検索して表示できます。",
+    "errorMessage": "プロジェクトの共同作業者の更新中にエラーが発生しました。"
+  },
+  "content": {
+    "description": "このコンテンツを表示および編集できるユーザーのグループを選択します。",
+    "editGroupsDescription": "これらのグループ内のユーザーがコンテンツ情報を編集できます。",
+    "viewGroupsDescription": "コンテンツがパブリックに共有されていない場合、これらのグループ内のユーザーがそのコンテンツを検索して表示できます。",
+    "errorMessage": "コンテンツの共同作業者の更新中にエラーが発生しました。"
+  },
+  "discussion": {
+    "description": "このディスカッションを表示および編集できるユーザーのグループを選択します。",
+    "editGroupsDescription": "これらのグループ内のユーザーがディスカッション情報を編集できます。",
+    "viewGroupsDescription": "ディスカッションがパブリックに共有されていない場合、これらのグループ内のユーザーがそのディスカッションを検索して表示できます。",
+    "errorMessage": "ディスカッションの共同作業者の更新中にエラーが発生しました。"
+  },
+  "site": {
+    "description": "このサイトを表示および編集できるユーザーのグループを選択します。",
+    "editGroupsDescription": "これらのグループ内のユーザーがサイト情報を編集できます。",
+    "viewGroupsDescription": "サイトがパブリックに共有されていない場合、これらのグループ内のユーザーがそのサイトを検索して表示できます。",
+    "errorMessage": "サイトの共同作業者の更新中にエラーが発生しました。"
+  },
+  "newTab": "新しいタブでプロフィールを開く",
+  "supportingTeams": "サポート チーム",
+  "supportingTeamsDesc": "これらのサポート チームは、これまでサイトにリンクされていました。 引き続きそれらを使用して、コンテンツを共同作業者と共有することができます。",
+  "supportTeamsRemove": "チームの削除",
+  "supportingTeamsRemoveError": "チームのリンクを解除中にエラーが発生しました。 管理者にお問い合わせください。",
+  "supportingTeamsRemoveSuccess": "チームが正常にリンク解除されました。"
+}

@@ -1,0 +1,11 @@
+{
+  "anonymous": "匿名",
+  "noUser": "ユーザー名がありません",
+  "privateUser": "プライベート メンバー",
+  "privateOrg": "プライベート組織",
+  "orgLabel": "組織",
+  "profile": "プロファイルへ移動",
+  "location": "位置",
+  "information": "投稿に関する情報",
+  "mentionedBy": "@{username} さんがコメントしました"
+}

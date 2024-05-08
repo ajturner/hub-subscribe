@@ -1,0 +1,7 @@
+{
+  "days": "d.",
+  "hours": "val.",
+  "minutes": "minutės",
+  "seconds": "sek.",
+  "countdownDateMissingError": "Turite nurodyti atgalinio laikmačio datą."
+}

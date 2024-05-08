@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geodatabase SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Coleção de Elementos",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Transferir CSV",
+  "downloadshapefile": "Transferir Shapefile",
+  "downloadsqlite": "Transferir Geodatabase SQLite",
+  "downloadgeoPackage": "Transferir GeoPackage",
+  "downloadfilegdb": "Transferir File Geodatabase",
+  "downloadfeatureCollection": "Transferir Coleção de Elementos",
+  "downloadgeojson": "Transferir GeoJSON",
+  "downloadexcel": "Transferir Excel",
+  "rateLimitMessage": "Lamentamos, mas o limite de transferências foi atingido. Tente novamente dentro de uma hora ou contacte o gestor de conteúdos.",
+  "createReplicaErrorMessage": "Crie um erro interno de réplica. Tente novamente dentro de uma hora ou contacte o gestor de conteúdos."
+}

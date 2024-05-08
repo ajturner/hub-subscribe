@@ -1,0 +1,18 @@
+{
+  "purpose": "Paskirtis",
+  "description": "Kaip mes to pasieksime",
+  "details": "Išsamiau",
+  "featuredImageAlt": "Rekomenduojamas projekto paveikslėlis",
+  "trackProgress": "Sekite mūsų progresą",
+  "participatingGroups": "Dalyvaujančios grupės",
+  "whosInvolved": "Kas dalyvauja",
+  "tags": "Raktažodžiai",
+  "status": {
+    "label": "Projekto būsena",
+    "notStarted": "Nepradėta",
+    "inProgress": "Vykdoma",
+    "onHold": "Sulaikyta",
+    "complete": "Baigta"
+  },
+  "featuredContent": "Rekomenduojamas turinys"
+}

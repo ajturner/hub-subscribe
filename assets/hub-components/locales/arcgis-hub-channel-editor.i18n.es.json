@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal sin nombre",
+  "name": {
+    "label": "Nombre",
+    "placeholder": "Canal {prefix}"
+  },
+  "save": "Guardar",
+  "access": {
+    "private": {
+      "label": "Privado",
+      "description": "Pueden participar grupos selectos"
+    },
+    "organization": {
+      "label": "Mi organización",
+      "description": "Pueden participar todos los miembros que tengan una cuenta de {orgName}",
+      "disabledTooltip": "Solo los administradores de la organización pueden crear canales de organización."
+    },
+    "public": {
+      "label": "Público",
+      "description": "Puede participar cualquiera que tenga una cuenta",
+      "disabledTooltip": "Solo los administradores de la organización pueden crear canales públicos."
+    },
+    "allowAnonymous": "Permitir anónimos",
+    "confirmation": {
+      "header": "¿Está seguro?",
+      "message": "Al guardar estos cambios se eliminará el acceso de edición a este canal. Solo los administradores de la organización pueden editar canales de organización o públicos.",
+      "secondary": "Cancelar",
+      "primary": "Confirmar"
+    }
+  },
+  "participants": {
+    "label": "Participantes",
+    "helperText": "Las personas que pueden ver la discusión y contribuir a ella.",
+    "none": "Ningún participante definido",
+    "add": "Agregar grupo de participantes"
+  },
+  "groupPicker": {
+    "title": "Seleccionar grupos",
+    "facet": {
+      "label": "De",
+      "myGroup": "Mi grupo",
+      "myOrganization": "Mi organización",
+      "myCommunity": "Mi comunidad"
+    }
+  },
+  "blockWords": {
+    "label": "Palabras bloqueadas",
+    "helperText": "Lista de valores separados por comas Las publicaciones y las respuestas que los contengan se ocultarán automáticamente."
+  },
+  "manage": {
+    "label": "Gestionar y moderar",
+    "helperText": "Las selecciones autoasignadas basadas en la participación por encima de estas personas pueden participar, ocultar o mostrar publicaciones y gestionar la configuración del canal."
+  },
+  "manager": "Administrador",
+  "admin": "Admin",
+  "viewProfile": "Ver perfil",
+  "alerts": {
+    "error": "Error al guardar el canal",
+    "success": "Canal guardado correctamente",
+    "label": "Alerta de formulario"
+  },
+  "validations": {
+    "minChannelGroups": "Los canales privados requieren al menos un grupo de participantes."
+  },
+  "notices": {
+    "edit": "Las ediciones afectarán a todos los lugares en los que se utilice este canal",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "El canal no se ha creado",
+          "message": "Ya existe un canal con estas selecciones de acceso. Utilice el canal existente o modifique las selecciones."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "El canal no se ha actualizado",
+          "message": "Ya existe un canal con estas selecciones de acceso, por lo que no podemos guardar estas actualizaciones."
+        }
+      },
+      "action": "Usar canal existente"
+    },
+    "inaccessibleGroups": {
+      "title": "Grupos no disponibles: {count}",
+      "message": "No puede ver ni gestionar grupos no disponibles a menos que sea miembro."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "投稿の追加",
+  "createPost": "投稿の作成",
+  "emptyHeading": "ディスカッションの開始",
+  "emptyMessage": "いち早くトピックを提供しましょう。 コンテンツについて簡単に質問したり、自分の知識を共有したりできます。",
+  "searchIdeas": "投稿の検索",
+  "searchCount": "{start} - {end} / {total}",
+  "orderAsc": "昇順",
+  "orderDesc": "降順",
+  "sortRecent": "最近",
+  "sortCreator": "作成者",
+  "layoutGrid": "グリッド",
+  "layoutList": "リスト"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "הוסף לפי URL",
+  "subText": "CSV‏, SHP‏, GeoJSON, שירות ישויות ArcGIS‏, XLS‏, PDF‏, PNG‏, JPG‏, קישור לאינטרנט",
+  "fileTypeSelector": "הגדר את סוג הקובץ באופן ידני",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "שירות ישויות ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "קישור אינטרנט",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "תמונה (png‏, jpg‏, jpeg)",
+  "invalidFormat": "שגיאה: תבנית לא חוקית",
+  "invalidUrl": "שגיאה: URL לא חוקי",
+  "recognizedType": "הגדר את סוג הקובץ באופן ידני"
+}

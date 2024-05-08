@@ -1,0 +1,7 @@
+{
+  "showMore": "Mostra'n {num} més",
+  "showLess": "Mostra'n menys",
+  "inputPlaceholder": "Filtra les opcions",
+  "noMatchesNotice": "No s'ha trobat cap opció coincident",
+  "inputAriaLabel": "Cerqueu una opció per paraula clau"
+}

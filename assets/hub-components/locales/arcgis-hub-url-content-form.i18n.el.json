@@ -1,0 +1,19 @@
+{
+  "heading": "Προσθήκη ανά URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Χειροκίνητος καθορισμός τύπου αρχείου",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Διαδικτυακός Σύνδεσμος",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Image (png, jpg, jpeg)",
+  "invalidFormat": "Σφάλμα: Μη έγκυρος μορφότυπος",
+  "invalidUrl": "Σφάλμα: Μη έγκυρη διεύθυνση URL",
+  "recognizedType": "Χειροκίνητος καθορισμός τύπου αρχείου"
+}

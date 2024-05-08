@@ -1,0 +1,24 @@
+{
+  "content": "內容",
+  "tabs": {
+    "catalog": "目錄",
+    "collections": "集合",
+    "catalogConfig": "目錄配置"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "設定您的目錄",
+        "message": "開始建立和設定您的目錄! 您的目錄是由群組組成，並填充其中的內容所配置的。",
+        "link": "深入瞭解目錄"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "目錄空白",
+        "message": "您準備好開始使用您的目錄! 您的目錄是透過新增一或多個群組，並填充其中的內容所配置的。",
+        "link": "入門"
+      }
+    }
+  }
+}

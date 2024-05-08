@@ -1,0 +1,9 @@
+{
+  "heading": "Sharing Level",
+  "public": "Public",
+  "publicInfo": "Everyone can see this {itemType}",
+  "organization": "Organization",
+  "organizationInfo": "All members with an account to {orgName} and groups can see this {itemType}",
+  "owner": "Owner",
+  "ownerInfo": "Owner and groups with access can see this {itemType}"
+}

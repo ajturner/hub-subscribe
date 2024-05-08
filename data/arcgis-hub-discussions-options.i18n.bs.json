@@ -1,0 +1,10 @@
+{
+  "true.heading": "Da, rasprava je dopuštena",
+  "false.heading": "Ne, rasprava je blokirana",
+  "content.label": "Omogućiti da ova stavka bude raspravljena?",
+  "content.true.description": "Korisnici mogu stvoriti objave na toj stavci.",
+  "content.false.description": "Korisnici ne mogu stvoriti objave na toj stavci.",
+  "group.label": "Može li ta grupa sudjelovati u raspravama?",
+  "group.true.description": "Članovi grupe mogu vidjeti i sudjelovati u kanalima za raspravu kojima grupa ima pristup.",
+  "group.false.description": "Članovi grupe ne mogu vidjeti niti sudjelovati u kanalima za rasprave kojima grupa ima pristup."
+}

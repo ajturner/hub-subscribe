@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Podijeljeno s organizacijom",
+      "private": "Podijeljeno s vlasnikom",
+      "public": "Podijeljeno s javnosti",
+      "shared": "Podijeljeno s vlasnikom i grupama"
+    },
+    "editLayout": "Uredi izgled",
+    "lastUpdated": "Posljednje ažurirano {updated}",
+    "viewSite": "Prikaži web-mjesto"
+  },
+  "cloneLayoutLabel": "Kloniraj izgled",
+  "deletePageLabel": "Izbriši stranicu",
+  "deleteSiteLabel": "Izbriši web-mjesto",
+  "editInAgoLabel": "Uredi u ArcGIS Online",
+  "managePage": "Upravljanje stranicom",
+  "manageSite": "Upravljanje web-mjestom",
+  "moreOptionsLabel": "Više opcija",
+  "publishLabel": "Objavi",
+  "saveAsTemplateLabel": "Spremi kao predložak",
+  "saveLabel": "Spremi",
+  "sharingLabel": "Otvori ploču za dijeljenje",
+  "viewLabel": "Prikaži",
+  "viewPublishedLabel": "Prikaži objavljeni nacrt",
+  "viewUnpublishedLabel": "Pretpregled neobjavljenog nacrta"
+}

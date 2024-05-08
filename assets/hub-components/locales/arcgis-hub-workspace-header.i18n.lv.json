@@ -1,0 +1,32 @@
+{
+  "beta": "Beta versija",
+  "editLayout": "Rediģēt izkārtojumu",
+  "editContent": "Rediģēt saturu",
+  "view": {
+    "project": "Skatīt projektu",
+    "site": "Skatīt vietni",
+    "initiative": "Skatīt iniciatīvu",
+    "discussion": "Skatīt diskusiju",
+    "content": "Skatīt saturu",
+    "page": "Skatīt lapu",
+    "group": "Skatīt grupu"
+  },
+  "label": {
+    "project": "Projekta darbvieta",
+    "site": "Vietnes darbvieta",
+    "initiative": "Iniciatīvas darbvieta",
+    "discussion": "Diskusijas darbvieta",
+    "content": "Satura darbvieta",
+    "page": "Lapas darbvieta",
+    "group": "Grupas darbvieta"
+  },
+  "access": {
+    "sharingLevel": "Koplietošanas līmenis",
+    "groupSharing": "Grupas koplietošana",
+    "public": "Publisks",
+    "org": "Organizācija",
+    "private": "Īpašnieks",
+    "shared": "Privāta koplietošana",
+    "disabled": "Jūs nevarat mainīt koplietošanu, jo neesat īpašnieks vai administrators."
+  }
+}

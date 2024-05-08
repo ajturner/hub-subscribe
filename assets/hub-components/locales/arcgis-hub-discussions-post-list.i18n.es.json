@@ -1,0 +1,14 @@
+{
+  "addPost": "Agregar una publicación",
+  "createPost": "Crear una publicación",
+  "emptyHeading": "Iniciar un debate",
+  "emptyMessage": "Sea el primero en hablar sobre un tema. Es muy sencillo realizar una pregunta o compartir lo que sabe con otros en relación con algún contenido.",
+  "searchIdeas": "Buscar publicaciones",
+  "searchCount": "{start} - {end} de {total}",
+  "orderAsc": "Ascendente",
+  "orderDesc": "Descendente",
+  "sortRecent": "Reciente",
+  "sortCreator": "Creador",
+  "layoutGrid": "Cuadrícula",
+  "layoutList": "Lista"
+}

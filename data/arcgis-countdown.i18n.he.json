@@ -1,0 +1,7 @@
+{
+  "days": "ימים",
+  "hours": "שעות",
+  "minutes": "דקות",
+  "seconds": "שניות",
+  "countdownDateMissingError": "עליך לספק תאריך ספירה לאחור"
+}

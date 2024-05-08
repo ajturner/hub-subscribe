@@ -1,0 +1,24 @@
+{
+  "content": "Contingut",
+  "tabs": {
+    "catalog": "Catàleg",
+    "collections": "Col·leccions",
+    "catalogConfig": "Configuració de catàlegs"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Configureu el catàleg",
+        "message": "Ja s'ha començat a crear i configurar el vostre catàleg! El catàleg està format per grups i s'emplena amb el contingut d'aquests grups.",
+        "link": "Més informació sobre els catàlegs"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "El catàleg és buit",
+        "message": "Ja podeu començar a treballar en el vostre catàleg! El catàleg es configura afegint un o diversos grups i s'emplena amb el contingut d'aquests grups.",
+        "link": "Introducció"
+      }
+    }
+  }
+}

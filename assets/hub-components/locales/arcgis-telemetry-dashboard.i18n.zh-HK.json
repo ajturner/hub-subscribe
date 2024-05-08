@@ -1,0 +1,31 @@
+{
+  "dateRange": "日期範圍: {start} - {end}",
+  "pageViews": "瀏覽量",
+  "timeOnSite": "網站上的平均分鐘",
+  "users": "工作階段",
+  "viewsOverTime": "隨時間推移的頁面瀏覽量",
+  "disabledTracking": "已停用活動追蹤",
+  "enableTracking": "在網站設定中啟用 Hub 活動追蹤以監控網站的使用情況。",
+  "learnMore": "瞭解詳細資訊。",
+  "disabled": "已停用",
+  "notificationLabel": "資料更新",
+  "dataUpdated": "資料更新",
+  "subscribe": "訂閱",
+  "subscribed": "已訂閱",
+  "weeklyReport": "每週報告",
+  "timestampTitle": {
+    "hour": "時間",
+    "day": "日期",
+    "week": "週"
+  },
+  "formAlert": "表格警示",
+  "success": "已成功更新訂閱",
+  "subscriptionActivatedTitle": "訂閱已啟動",
+  "subscriptionActivatedMessage": "您已註冊 {email} 來接收每週參與指標。",
+  "unsubscribeCompleteTitle": "完成取消訂閱",
+  "unsubscribeCompleteMessage": "{email} 已成功取消訂閱參與指標。",
+  "problemSubscribingTitle": "問題正在訂閱",
+  "problemSubscribingMessage": "問題正在訂閱。 錯誤: ",
+  "problemUnsubscribingTitle": "問題正在取消訂閱",
+  "problemUnsubscribingMessage": "問題正在取消訂閱。 錯誤: "
+}

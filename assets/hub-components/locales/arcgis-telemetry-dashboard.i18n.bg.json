@@ -1,0 +1,31 @@
+{
+  "dateRange": "Диапазон на данни: {start} - {end}",
+  "pageViews": "Прегледи на страница",
+  "timeOnSite": "Средно минути в сайта",
+  "users": "Сесии",
+  "viewsOverTime": "Прегледи на страници с течение на времето",
+  "disabledTracking": "Проследяването на дейността е деактивирано",
+  "enableTracking": "Активирайте Проследяване на дейността на хъба в настройките на сайта, за да наблюдавате използването на Вашия сайт.",
+  "learnMore": "Научете повече.",
+  "disabled": "Деактивирано",
+  "notificationLabel": "Обновяване на данни",
+  "dataUpdated": "Обновяване на данни",
+  "subscribe": "Абонирайте се",
+  "subscribed": "С направен абонамент",
+  "weeklyReport": "Седмичен отчет",
+  "timestampTitle": {
+    "hour": "Час от деня",
+    "day": "Дата",
+    "week": "Седмица"
+  },
+  "formAlert": "Формуляр за аларма",
+  "success": "Успешно актуализиран абонамент",
+  "subscriptionActivatedTitle": "Активиран абонамент",
+  "subscriptionActivatedMessage": "Регистрирахте се {email} , за да получавате седмични показатели за ангажираност на потребителите.",
+  "unsubscribeCompleteTitle": "Прекъсването на абонамента е завършено",
+  "unsubscribeCompleteMessage": "{email} е успешно отписан от показателите за ангажираност на потребителите.",
+  "problemSubscribingTitle": "Проблем с абонирането",
+  "problemSubscribingMessage": "Има проблем с абонирането. Грешка: ",
+  "problemUnsubscribingTitle": "Проблем с прекъсване на абонамента",
+  "problemUnsubscribingMessage": "Има проблем с прекъсване на абонамента . Грешка: "
+}

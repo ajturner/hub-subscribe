@@ -1,0 +1,19 @@
+{
+  "heading": "URL로 추가",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS 피처 서비스, XLS, PDF, PNG, JPG, 웹 링크",
+  "fileTypeSelector": "파일 유형을 수동으로 설정",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS 피처 서비스",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "웹 링크",
+  "microsoftexcel": "Microsoft Excel(xls, xlsx)",
+  "image": "이미지(png, jpg, jpeg)",
+  "invalidFormat": "오류: 유효하지 않은 형식",
+  "invalidUrl": "오류: 유효하지 않은 URL",
+  "recognizedType": "파일 유형을 수동으로 설정"
+}

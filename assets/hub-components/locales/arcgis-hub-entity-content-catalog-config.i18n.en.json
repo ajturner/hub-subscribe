@@ -1,0 +1,43 @@
+{
+  "title": "Catalog Configuration",
+  "helperText": "Define and configure the catalog",
+  "sections": {
+    "groups": {
+      "title": "Groups",
+      "helperText": "Groups below contain the content in your search catalog. Select a group to view it's settings, content, and more.",
+      "createGroup": "Create New Group"
+    },
+    "feeds": {
+      "title": "Feed Configuration",
+      "helperText": "Make your public open data easily accessible and reusable with Hub feeds.",
+      "learn": "Learn about Hub feeds",
+      "toggle": "Enable Feeds ",
+      "configure": "Configure Feeds",
+      "notice": "To enable feeds, you need to first set your Hub sites to \"Public\" in your Settings"
+  }
+  },
+  "groupPickerFacet": {
+    "label": "From",
+    "editGroups": "Edit groups",
+    "viewGroups": "View group",
+    "myGroup": "My group",
+    "myOrganization": "My organization",
+    "myCommunity": "My community"
+  },
+  "formAlert": "Form alert",
+  "configSaveAlert": {
+    "failure": "Error saving edits"
+  },
+  "reharvestCatalogButton": "Check for errors",
+  "reharvestWarningModal": {
+    "title": "Check for errors",
+    "body1": "Running this process rebuilds the public search index and may take several minutes.",
+    "body2": "This option is generally only used in situations when your search page is encountering issues with missing results or metadata.",
+    "primaryButton": "Continue",
+    "secondaryButton": "Cancel"
+  },
+  "reharvestCatalogAlert": {
+    "success": "Checking for errors. Please check back later.",
+    "failure": "Sorry, there was an operational error. Please try agin later."
+  }
+}

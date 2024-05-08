@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Īpašnieks"
+  },
+  "updatedDate": {
+    "description": "Atjaunināšanas datums"
+  },
+  "createdDate": {
+    "description": "Publicēts"
+  },
+  "access": {
+    "label": {
+      "public": "Publisks",
+      "org": "Organizācija",
+      "private": "Īpašnieks",
+      "shared": "Privāta koplietošana"
+    },
+    "description": {
+      "public": {
+        "site": "Ikviens var skatīt šo vietni",
+        "project": "Ikviens var skatīt šo projektu",
+        "initiative": "Ikviens var skatīt šo iniciatīvu",
+        "discussion": "Ikviens var skatīt šo diskusiju",
+        "default": "Ikviens var skatīt šo saturu"
+      },
+      "org": {
+        "site": "Ikviens jūsu organizācijā var skatīt šo vietni",
+        "project": "Ikviens jūsu organizācijā var skatīt šo projektu",
+        "initiative": "Ikviens jūsu organizācijā var skatīt šo iniciatīvu",
+        "discussion": "Ikviens jūsu organizācijā var skatīt šo diskusiju",
+        "default": "Ikviens jūsu organizācijā var skatīt šo saturu"
+      },
+      "private": {
+        "site": "Tikai jūs varat skatīt šo vietni",
+        "project": "Tikai jūs varat skatīt šo projektu",
+        "initiative": "Tikai jūs varat skatīt šo iniciatīvu",
+        "discussion": "Tikai jūs varat skatīt šo diskusiju",
+        "default": "Tikai jūs varat skatīt šo saturu"
+      },
+      "shared": {
+        "site": "Šo vietni var skatīt atlasītās grupas",
+        "project": "Šo projektu var skatīt atlasītas grupas",
+        "initiative": "Šo iniciatīvu var skatīt atlasītās grupas",
+        "discussion": "Atlasītās grupas var skatīt šo diskusiju",
+        "default": "Šo saturu var skatīt atlasītās grupas"
+      }
+    }
+  }
+}

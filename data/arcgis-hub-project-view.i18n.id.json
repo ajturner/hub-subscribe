@@ -1,0 +1,18 @@
+{
+  "purpose": "Tujuan",
+  "description": "Cara kami untuk mewujudkannya",
+  "details": "Detail",
+  "featuredImageAlt": "Gambar unggulan proyek",
+  "trackProgress": "Pantau kemajuan kami",
+  "participatingGroups": "Grup yang berpartisipasi",
+  "whosInvolved": "Pihak yang terlibat",
+  "tags": "Label",
+  "status": {
+    "label": "Status proyek",
+    "notStarted": "Belum dimulai",
+    "inProgress": "Dalam proses",
+    "onHold": "Ditahan",
+    "complete": "Selesai"
+  },
+  "featuredContent": "Konten unggulan"
+}

@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonymt",
+  "noUser": "Inget användarnamn",
+  "privateUser": "Privat medlem",
+  "privateOrg": "Privat organisation",
+  "orgLabel": "Organisation",
+  "profile": "Gå till profilen",
+  "location": "Plats",
+  "information": "Information om inlägg",
+  "mentionedBy": "Omnämns av @{username}"
+}

@@ -1,0 +1,24 @@
+{
+  "content": "Contenu",
+  "tabs": {
+    "catalog": "Catalogue",
+    "collections": "Collections",
+    "catalogConfig": "Configuration du catalogue"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Configurer le catalogue",
+        "message": "La création et la configuration du catalogue ont commencé ! Le catalogue est composé de groupes et alimenté par le contenu de ces derniers.",
+        "link": "En savoir plus sur les catalogues"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Le catalogue est vide",
+        "message": "Vous pouvez commencer à utiliser votre catalogue ! La configuration du catalogue s’effectue en ajoutant un ou plusieurs groupes. Le catalogue est alimenté par le contenu du ou des groupes ajoutés.",
+        "link": "Commencer"
+      }
+    }
+  }
+}

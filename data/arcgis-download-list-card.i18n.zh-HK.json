@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite 地理資料庫",
+  "geoPackage": "GeoPackage",
+  "filegdb": "檔案地理資料庫",
+  "featureCollection": "圖徵採集",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "下載 CSV",
+  "downloadshapefile": "下載 Shapefile",
+  "downloadsqlite": "下載 SQLite 地理資料庫",
+  "downloadgeoPackage": "下載 GeoPackage",
+  "downloadfilegdb": "下載檔案地理資料庫",
+  "downloadfeatureCollection": "下載圖徵集合",
+  "downloadgeojson": "下載 GeoJSON",
+  "downloadexcel": "下載 Excel",
+  "rateLimitMessage": "抱歉，已達到下載限制。 請在一小時後重試或聯絡內容管理員。",
+  "createReplicaErrorMessage": "建立複本內部錯誤。 請在一小時後重試或聯絡內容管理員。"
+}

@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Bộ sưu tập Đối tượng",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Tải xuống CSV",
+  "downloadshapefile": "Tải xuống Shapefile",
+  "downloadsqlite": "Tải xuống SQLite Geodatabase",
+  "downloadgeoPackage": "Tải xuống GeoPackage",
+  "downloadfilegdb": "Tải xuống File Geodatabase",
+  "downloadfeatureCollection": "Tải xuống Feature Collection",
+  "downloadgeojson": "Tải xuống GeoJSON",
+  "downloadexcel": "Tải xuống Excel",
+  "rateLimitMessage": "Rất tiếc, đã đạt đến giới hạn tải xuống. Vui lòng thử lại sau một giờ hoặc liên hệ với người quản lý nội dung.",
+  "createReplicaErrorMessage": "Tạo bản sao lỗi nội bộ. Vui lòng thử lại sau một giờ hoặc liên hệ với người quản lý nội dung."
+}

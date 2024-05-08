@@ -1,0 +1,32 @@
+{
+  "beta": "Beeta",
+  "editLayout": "Muuda paigutust",
+  "editContent": "Muuda sisu",
+  "view": {
+    "project": "Kuva projekt",
+    "site": "Kuva sait",
+    "initiative": "Kuva algatus",
+    "discussion": "Kuva arutelu",
+    "content": "Kuva sisu",
+    "page": "Kuva leht",
+    "group": "Kuva grupp"
+  },
+  "label": {
+    "project": "Projekti tööruum",
+    "site": "Saidi tööruum",
+    "initiative": "Algatuse tööruum",
+    "discussion": "Arutelude tööruum",
+    "content": "Sisu tööruum",
+    "page": "Lehe tööruum",
+    "group": "Grupi tööruum"
+  },
+  "access": {
+    "sharingLevel": "Jagamise tase",
+    "groupSharing": "Grupi ühiskasutus",
+    "public": "Avalik",
+    "org": "Organisatsioon",
+    "private": "Omanik",
+    "shared": "Privaatselt jagatud",
+    "disabled": "Te ei saa jagamist muuta, sest te ei ole omanik ega administraator."
+  }
+}

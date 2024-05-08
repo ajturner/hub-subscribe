@@ -1,0 +1,32 @@
+{
+  "beta": "ベータ版",
+  "editLayout": "レイアウトの編集",
+  "editContent": "コンテンツの編集",
+  "view": {
+    "project": "プロジェクトの表示",
+    "site": "サイトの表示",
+    "initiative": "イニシアティブの表示",
+    "discussion": "ディスカッションの表示",
+    "content": "コンテンツの表示",
+    "page": "ページの表示",
+    "group": "グループの表示"
+  },
+  "label": {
+    "project": "プロジェクト ワークスペース",
+    "site": "サイト ワークスペース",
+    "initiative": "イニシアティブ ワークスペース",
+    "discussion": "ディスカッション ワークスペース",
+    "content": "コンテンツ ワークスペース",
+    "page": "ページのワークスペース",
+    "group": "グループのワークスペース"
+  },
+  "access": {
+    "sharingLevel": "共有レベル",
+    "groupSharing": "グループ共有",
+    "public": "パブリック",
+    "org": "組織",
+    "private": "所有者",
+    "shared": "プライベートに共有",
+    "disabled": "所有者または管理者のいずれでもないユーザーは、共有を変更できません。"
+  }
+}

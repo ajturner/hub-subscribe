@@ -1,0 +1,16 @@
+{
+  "post.title": "帖子编辑被阻止",
+  "post.message": "当讨论被阻止时，编辑不可用。",
+  "post.message.item": "在此项目上的讨论被阻止时，编辑不可用。",
+  "post.message.group": "在此群组中的讨论被阻止时，编辑不可用。",
+  "reply.title": "回复编辑被阻止",
+  "reply.title.generic": "讨论被阻止",
+  "reply.message": "当讨论被阻止时，编辑不可用。",
+  "reply.message.generic": "您目前无法创建回复。",
+  "reply.message.item": "在此项目上的讨论被阻止时，编辑不可用。",
+  "reply.message.group": "在此群组中的讨论被阻止时，编辑不可用。",
+  "item.title": "项目讨论被阻止",
+  "item.message": "此项目未被批准进行讨论。",
+  "group.title": "群组讨论被阻止",
+  "group.message": "此群组未被批准进行讨论。"
+}

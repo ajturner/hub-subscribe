@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Napredna konfiguracija",
+    "serverTimeout": {
+      "label": "Časovna omejitev strežnika (sekunde)",
+      "helperText": "Uporabno za večje storitve, ki lahko za odgovor potrebujejo več časa."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Koti",
+      "enum": {
+        "round": {
+          "label": "Okroglo"
+        },
+        "square": {
+          "label": "Pravokotno"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Zasenči",
+      "enum": {
+        "heavy": {
+          "label": "Močna"
+        },
+        "low": {
+          "label": "Nizko"
+        },
+        "medium": {
+          "label": "Srednje"
+        },
+        "none": {
+          "label": "Ni začeto"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistična postavitev",
+      "enum": {
+        "dataViz": {
+          "label": "Vizualizacija podatkov"
+        },
+        "moreInfo": {
+          "label": "Več informacij"
+        },
+        "simple": {
+          "label": "Enostavno"
+        }
+      }
+    },
+    "popoverTitle": "Pojavno okno z naslovom",
+    "popoverDescription": "Pojavno okno z opisom",
+    "sectionTitle": "Videz",
+    "textAlign": "Poravnava",
+    "visualInterest": {
+      "label": "Vizualni interes",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logotip"
+        },
+        "none": {
+          "label": "Brez"
+        },
+        "sparkline": {
+          "label": "Trendna črta"
+        }
+      }
+    },
+    "valueColor": "Barva (statistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Povezava",
+      "sourceLink": "URL povezave",
+      "sourceTitle": "Besedilo povezave"
+    },
+    "sectionTitle": "Podrobnosti",
+    "subtitle": "Podnaslov",
+    "title": "Naslov",
+    "trailingText": "Zaključno besedilo"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Povezava, ki je potrebna za prikaz vira."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Oblikovanje",
+    "unit": {
+      "label": "Prikaži enote",
+      "helperText": "Vnesite mersko enoto za vašo vrednost."
+    },
+    "unitPosition": {
+      "label": "Postavitev",
+      "enum": {
+        "after": {
+          "label": "Po"
+        },
+        "before": {
+          "label": "Pred"
+        },
+        "below": {
+          "label": "Spodaj"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Deljenje",
+    "showShareIcon": "Omogoči",
+    "shareableByValue": "Omogoči vdelave",
+    "shareableOnHover": {
+      "label": "Prikaz",
+      "enum": {
+        "always": {
+          "label": "Vedno"
+        },
+        "hover": {
+          "label": "Samo lebdenje"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Vir podatkov",
+    "displayValue": "Prikaži vrednost",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Tip",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamično",
+          "description": "Izberite obstoječi sklop podatkov (geoobjektna storitev) za povzetek."
+        },
+        "static": {
+          "label": "Statično",
+          "description": "Ročno vnesite vrednost za označitev v vaši postavitvi."
+        }
+      }
+    }
+  }
+}

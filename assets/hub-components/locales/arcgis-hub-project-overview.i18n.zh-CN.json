@@ -1,0 +1,27 @@
+{
+  "overview": "概览",
+  "telemetry": {
+    "pageViews": "页面浏览量",
+    "last30days": "最近 30 天",
+    "lastUpdated": "最近更新于 {hoursElapsed} 小时前"
+  },
+  "newNotice": {
+    "title": "此处是您的工程工作空间",
+    "message": "此工作空间专为编辑工程而定制。 工作空间允许协作者专注于单个项目，且正在持续开发中。",
+    "link": "了解详细信息"
+  },
+  "learnAbout": "了解有关 Hub 工程的信息",
+  "feedbackNotice": {
+    "message": "您希望如何使用 Hub 工程? 由于此功能仍处于测试阶段，我们非常希望了解您将如何使用它。",
+    "link": "提交反馈"
+  },
+  "status": {
+    "notStarted": "未开始",
+    "inProgress": "进行中",
+    "onHold": "保持",
+    "complete": "完成"
+  },
+  "editDetails": "编辑详细信息",
+  "noPurposeSet": "未设置用途",
+  "noLocationSet": "未设置位置"
+}

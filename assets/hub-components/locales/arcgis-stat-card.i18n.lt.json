@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Baigėsi skirtasis serverio ryšio laikas ir nepavyko rodyti statistikos.",
+    "title": "Baigėsi skirtasis serverio laikas"
+  },
+  "genericError": {
+    "message": "Statistikos parodyti negalima.",
+    "title": "Įvyko klaida"
+  }
+}

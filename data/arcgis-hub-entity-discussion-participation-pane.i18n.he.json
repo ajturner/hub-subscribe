@@ -1,0 +1,21 @@
+{
+  "title": "השתתפות",
+  "channelTitle": "ערוץ השתתפות",
+  "addChannelsTitle": "ערוץ נדרש עבור פריט זה; ניתן להגדיר אחד בלבד.",
+  "headingChannelEdit": "ערוך ערוץ",
+  "headingChannelView": "הצג ערוץ",
+  "headingChannelCreate": "צור ערוץ חדש",
+  "buttons": {
+    "browse": "דפדף בכל הערוצים",
+    "new": "ערוץ חדש"
+  },
+  "galleryPickerTitle": "בחר ערוץ",
+  "channelsLabel": "ערוצים",
+  "accessLabel": "גישה",
+  "optionPublicLabel": "ציבורי",
+  "optionOrganizationLabel": "ארגון",
+  "optionPrivateLabel": "פרטי",
+  "viewChannel": "הצג ערוץ",
+  "editChannel": "ערוך ערוץ",
+  "save": "שמור"
+}

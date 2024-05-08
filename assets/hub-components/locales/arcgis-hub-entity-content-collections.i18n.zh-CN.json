@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "显示",
+    "hide": "隐藏",
+    "rename": "重命名"
+  },
+  "formAlert": "表单警告",
+  "alertMessages": {
+    "success": "成功保存编辑内容",
+    "error": "保存编辑内容时出错"
+  },
+  "collectionRenameModal": {
+    "title": "重命名集合",
+    "fieldLabel": "集合标注",
+    "requiredMessage": "集合标注为必需项",
+    "apply": "应用"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "数据",
+      "hidden": "数据(隐藏)"
+    },
+    "site": {
+      "visible": "站点",
+      "hidden": "站点(隐藏)"
+    },
+    "document": {
+      "visible": "文档",
+      "hidden": "文档(隐藏)"
+    },
+    "appAndMap": {
+      "visible": "应用程序和地图",
+      "hidden": "应用程序和地图(隐藏)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (隐藏)"
+    }
+  },
+  "saveButton": "保存"
+}

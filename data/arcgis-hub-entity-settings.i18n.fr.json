@@ -1,0 +1,34 @@
+{
+  "settings": "Paramètres",
+  "delete": {
+    "project": "Supprimer le projet",
+    "initiative": "Supprimer l’initiative",
+    "site": "Supprimer le site",
+    "discussion": "Supprimer la discussion",
+    "content": "Supprimer le contenu",
+    "page": "Supprimer la page",
+    "group": "Supprimer le groupe"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Supprimer le projet",
+      "initiative": "Supprimer l’initiative",
+      "site": "Supprimer le site",
+      "discussion": "Supprimer la discussion",
+      "content": "Supprimer le contenu",
+      "page": "Supprimer la page",
+      "group": "Supprimer le groupe"
+    },
+    "content": "Voulez-vous vraiment supprimer :",
+    "delete": "Supprimer",
+    "cancel": "Annuler"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "La fonctionnalité \"Extraire\" modifie les paramètres du service.",
+        "message": "Les autres éléments qui référencent le service sont également impactés. Pour plus de détails, consultez la rubrique <docLink>Exporter des données à partir de couches d’entités hébergées</docLink>"
+      }
+    }
+  }
+}

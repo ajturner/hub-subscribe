@@ -1,0 +1,24 @@
+{
+  "title": "Leden",
+  "facets": {
+    "role": {
+      "label": "Rol",
+      "all": "Alle",
+      "manager": "Manager",
+      "member": "Lid"
+    },
+    "dateJoined": {
+      "label": "Deelnemer sinds"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Totaal",
+      "trailingText": "Teamleden"
+    },
+    "new": {
+      "title": "Nieuw",
+      "trailingText": "Afgelopen 30 dagen"
+    }
+  }
+}

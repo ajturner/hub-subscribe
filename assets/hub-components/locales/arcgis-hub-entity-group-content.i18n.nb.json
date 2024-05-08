@@ -1,0 +1,50 @@
+{
+  "title": "Innhold",
+  "facets": {
+    "type": "Type",
+    "tags": "Tagg",
+    "categories": "Kategori",
+    "sharing": "Elementdeling",
+    "dateUpdated": "Oppdateringsdato",
+    "map": {
+      "label": "Lokasjon",
+      "tooltip": "Bruk kartutstrekningen som lokasjonsfilter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Legg til innhold",
+    "catalog": {
+      "myContent": "Mitt innhold",
+      "favorites": "Favoritter",
+      "organization": "Min organisasjon",
+      "world": "Verden (offentlig)"
+    },
+    "facets": {
+      "type": "Type",
+      "sharing": "Deling"
+    },
+    "collection": {
+      "appsAndMaps": "Apper og kart",
+      "dataset": "Data",
+      "documents": "Dokumenter",
+      "feedback": "Tilbakemelding",
+      "sites": "Nettsteder"
+    },
+    "modal": {
+      "title": "Legg til innhold"
+    },
+    "unsharedModal": {
+      "title": "Elementer ikke lagt til",
+      "notice": {
+        "icon": "utropstegn-trekant",
+        "type": "fare",
+        "title": "Handling ufullstendig",
+        "message": "Noen elementer kan ikke legges til. Årsaken kan være manglende samsvar mellom delingsnivåene innen innholdet eller at eieren av elementet ikke er medlem i gruppen.",
+        "linkText": "Les mer om deling"
+      }
+    },
+    "itemSharedSuccessAlert": "Element(er) ble delt"
+  },
+  "close": "Lukk",
+  "newTab": "åpnes i ny fane"
+}

@@ -1,0 +1,15 @@
+{
+  "addFilter": "הוסף מסנן",
+  "attributeFilter": "פילטר",
+  "between": "בין",
+  "deleteFilter": "מחק מסנן",
+  "endingDate": "תאריך סיום",
+  "endingValue": "ערך סיום",
+  "expression": "ביטוי",
+  "filterType": "סוג מסנן",
+  "filterValue": "ערך מסנן",
+  "isExactly": "הוא בדיוק",
+  "startingDate": "תאריך התחלה",
+  "startingValue": "ערך התחלה",
+  "selectAttribute": "בחר מאפיין"
+}

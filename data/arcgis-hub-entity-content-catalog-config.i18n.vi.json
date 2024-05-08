@@ -1,0 +1,30 @@
+{
+  "helperText": "Xác định và định cấu hình danh mục",
+  "sections": {
+    "groups": {
+      "title": "Nhóm",
+      "helperText": "Các nhóm bên dưới chứa nội dung trong danh mục tìm kiếm của bạn. Chọn một nhóm để xem các thiết lập, nội dung và nhiều thông tin khác của nhóm đó.",
+      "createGroup": "Tạo Nhóm Mới"
+    },
+    "feeds": {
+      "title": "Cấu hình Nguồn cấp",
+      "helperText": "Cho phép sử dụng lại và dễ dàng truy cập vào dữ liệu mở công khai của bạn bằng nguồn cấp dữ liệu Hub.",
+      "learn": "Tìm hiểu về nguồn cấp dữ liệu Hub",
+      "toggle": "Bật Nguồn cấp ",
+      "configure": "Cấu hình Nguồn cấp",
+      "notice": "Để bật nguồn cấp, trước tiên bạn cần thiết lập các trang Hub của mình thành \"Công khai\" trong phần Cài đặt"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Từ",
+    "editGroups": "Chỉnh sửa nhóm",
+    "viewGroups": "Xem nhóm",
+    "myGroup": "Nhóm của tôi",
+    "myOrganization": "Tổ chức của tôi",
+    "myCommunity": "Cộng đồng của tôi"
+  },
+  "formAlert": "Cảnh báo mẫu form",
+  "alertMessages": {
+    "error": "Lỗi lưu các chỉnh sửa"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "settings": "Impostazioni",
+  "delete": {
+    "project": "Elimina progetto",
+    "initiative": "Elimina iniziativa",
+    "site": "Elimina sito",
+    "discussion": "Elimina discussione",
+    "content": "Elimina contenuto",
+    "page": "Elimina pagina",
+    "group": "Eliminare gruppo"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Elimina progetto",
+      "initiative": "Elimina iniziativa",
+      "site": "Elimina sito",
+      "discussion": "Elimina discussione",
+      "content": "Elimina contenuto",
+      "page": "Elimina pagina",
+      "group": "Eliminare gruppo"
+    },
+    "content": "Eliminare:",
+    "delete": "Elimina",
+    "cancel": "Annulla"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "La funzionalità \"Estrai\" modifica le impostazioni del servizio.",
+        "message": "Saranno influenzati gli altri elementi che fanno riferimento al servizio. Per maggiori dettagli consultare <docLink>Esportare Dati da Feature Layer Hosted</docLink>"
+      }
+    }
+  }
+}

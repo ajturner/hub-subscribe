@@ -1,0 +1,21 @@
+{
+  "title": "參與",
+  "channelTitle": "參與通道",
+  "addChannelsTitle": "此項目需要一個通道；只能設定一個通道。",
+  "headingChannelEdit": "編輯通道",
+  "headingChannelView": "檢視通道",
+  "headingChannelCreate": "建立新通道",
+  "buttons": {
+    "browse": "瀏覽所有通道",
+    "new": "新增通道"
+  },
+  "galleryPickerTitle": "選擇通道",
+  "channelsLabel": "頻道",
+  "accessLabel": "存取",
+  "optionPublicLabel": "公共",
+  "optionOrganizationLabel": "組織",
+  "optionPrivateLabel": "私有",
+  "viewChannel": "檢視通道",
+  "editChannel": "編輯通道",
+  "save": "儲存"
+}

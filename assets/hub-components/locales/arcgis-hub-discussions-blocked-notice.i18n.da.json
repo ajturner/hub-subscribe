@@ -1,0 +1,16 @@
+{
+  "post.title": "Efterredigering er blokeret",
+  "post.message": "Redigering er ikke tilgængelig, mens diskussioner er blokeret.",
+  "post.message.item": "Redigering er ikke tilgængelig, mens diskussioner er blokeret på dette element.",
+  "post.message.group": "Redigering er ikke tilgængelig, mens diskussioner er blokeret på denne gruppe.",
+  "reply.title": "Svarredigering er blokeret",
+  "reply.title.generic": "Diskussion blokeret",
+  "reply.message": "Redigering er ikke tilgængelig, mens diskussioner er blokeret.",
+  "reply.message.generic": "Du kan ikke oprette svar på nuværende tidspunkt.",
+  "reply.message.item": "Redigering er ikke tilgængelig, mens diskussioner er blokeret på dette element.",
+  "reply.message.group": "Redigering er ikke tilgængelig, mens diskussioner er blokeret på denne gruppe.",
+  "item.title": "Elementdiskussion blokeret",
+  "item.message": "Dette element er ikke godkendt til diskussion.",
+  "group.title": "Gruppediskussion blokeret",
+  "group.message": "Denne gruppe er ikke godkendt til diskussion."
+}

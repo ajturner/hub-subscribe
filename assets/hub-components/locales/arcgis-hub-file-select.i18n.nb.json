@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Dra og slipp filen for å laste opp",
+  "imageHeading": "Last opp et bilde",
+  "selectedHeading": "Finn valgte",
+  "maxSizeAndSupportedTypes": "Maksimumsstørrelse er {maxSize} MB, {fileTypes}",
+  "maxSize": "Maksimumsstørrelse er {maxSize} MB",
+  "recommendedDimensions": "Anbefalte mål {recommendedDimensions}",
+  "linkText": "Vis liste over støttede filer",
+  "contentButton": "Bla etter fil",
+  "imageButton": "Bla etter bilde",
+  "clearButton": "Fjern valgte",
+  "errorHeading": "Feil",
+  "fileTooLargeError": "Filen er for stor",
+  "multipleFilesError": "Kan ikke laste opp flere filer samtidig",
+  "unsupportedFileTypeError": "Denne filtypen støttes ikke"
+}

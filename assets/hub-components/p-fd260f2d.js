@@ -1,0 +1,1 @@
+const n=(n,...t)=>{t.forEach((t=>{if("function"!=typeof n[t])throw new Error(`Cannot bind context. ${t} must be a function`);n[t]=n[t].bind(n)}))};export{n as b}

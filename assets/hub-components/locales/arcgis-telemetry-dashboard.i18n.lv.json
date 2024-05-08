@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datumu diapazons: {start} - {end}",
+  "pageViews": "Lapas skatījumi",
+  "timeOnSite": "Vidēji minūtes, kas pavadītas vietnē",
+  "users": "Sesijas",
+  "viewsOverTime": "Lapas skatījumi laika gaitā",
+  "disabledTracking": "Darbību izsekošana ir atspējota",
+  "enableTracking": "Vietnes iestatījumos iespējojiet Hub darbību izsekošanu, lai pārraudzītu vietnes lietošanu.",
+  "learnMore": "Uzzināt vairāk.",
+  "disabled": "Atspējots",
+  "notificationLabel": "Dati ir atjaunināti",
+  "dataUpdated": "Dati ir atjaunināti",
+  "subscribe": "Abonēt",
+  "subscribed": "Abonēts",
+  "weeklyReport": "Iknedēļas pārskats",
+  "timestampTitle": {
+    "hour": "Dienas laiks",
+    "day": "Datums",
+    "week": "Nedēļa"
+  },
+  "formAlert": "Veidlapas brīdinājums",
+  "success": "Abonements ir sekmīgi atjaunināts",
+  "subscriptionActivatedTitle": "Abonements aktivizēts",
+  "subscriptionActivatedMessage": "Jūs esat reģistrējis {email} iknedēļas iesaistīšanās rādītāju saņemšanai.",
+  "unsubscribeCompleteTitle": "Abonēšanas atcelšana pabeigta",
+  "unsubscribeCompleteMessage": "{email} ir veiksmīgi noņemts no iesaistīšanās rādītāju abonementa.",
+  "problemSubscribingTitle": "Abonēšanas problēma",
+  "problemSubscribingMessage": "Abonējot radās problēma. Kļūda: ",
+  "problemUnsubscribingTitle": "Abonēšanas atcelšanas problēma",
+  "problemUnsubscribingMessage": "Atceļot abonēšanu radās problēma. Kļūda: "
+}

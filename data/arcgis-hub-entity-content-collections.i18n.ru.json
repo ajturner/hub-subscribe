@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Отобразить",
+    "hide": "Скрыть",
+    "rename": "Переименовать"
+  },
+  "formAlert": "Предупреждение формы",
+  "alertMessages": {
+    "success": "Изменения успешно сохранены",
+    "error": "Ошибка при сохранении изменений"
+  },
+  "collectionRenameModal": {
+    "title": "Переименовать коллекцию",
+    "fieldLabel": "Подпись для коллекции",
+    "requiredMessage": "Необходима подпись для коллекции",
+    "apply": "Применить"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Данные",
+      "hidden": "Данные (Скрыто)"
+    },
+    "site": {
+      "visible": "Сайты",
+      "hidden": "Сайты (Скрыто)"
+    },
+    "document": {
+      "visible": "Документы",
+      "hidden": "Документы (Скрыто)"
+    },
+    "appAndMap": {
+      "visible": "Приложения и карты",
+      "hidden": "Приложения и карты (Скрыто)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Скрыто)"
+    }
+  },
+  "saveButton": "Сохранить"
+}

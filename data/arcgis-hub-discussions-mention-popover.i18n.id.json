@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonim",
+  "noUser": "Tidak Ada Nama Pengguna",
+  "privateUser": "Anggota Pribadi",
+  "privateOrg": "Organisasi Pribadi",
+  "orgLabel": "Organisasi",
+  "profile": "Buka profil",
+  "location": "Lokasi",
+  "information": "Informasi tentang post",
+  "mentionedBy": "Disebutkan oleh @{username}"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "参与",
+  "channelTitle": "参与渠道",
+  "addChannelsTitle": "该项目需要一个渠道；只能设置一个渠道。",
+  "headingChannelEdit": "编辑通道",
+  "headingChannelView": "查看通道",
+  "headingChannelCreate": "新建通道",
+  "buttons": {
+    "browse": "浏览所有渠道",
+    "new": "新建渠道"
+  },
+  "galleryPickerTitle": "选择信道",
+  "channelsLabel": "信道",
+  "accessLabel": "访问",
+  "optionPublicLabel": "公共",
+  "optionOrganizationLabel": "组织",
+  "optionPrivateLabel": "私有",
+  "viewChannel": "查看通道",
+  "editChannel": "编辑通道",
+  "save": "保存"
+}

@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Typ",
+    "tags": "Znacznik",
+    "categories": "Kategoria",
+    "sharing": "Udostępnianie",
+    "dateUpdated": "Data aktualizacji",
+    "map": {
+      "label": "Lokalizacja",
+      "tooltip": "Zastosuj zasięg mapy jako filtr lokalizacji"
+    }
+  },
+  "collections": {
+    "all": "Wszyscy",
+    "dataset": "Dane",
+    "site": "Witryny",
+    "document": "Dokumenty",
+    "appAndMap": "Aplikacje i mapy"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Twój katalog jest obecnie pusty.",
+    "button": "Skonfiguruj katalog"
+  }
+}

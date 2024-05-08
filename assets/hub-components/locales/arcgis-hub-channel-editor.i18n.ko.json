@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "이름이 정의되지 않은 채널",
+  "name": {
+    "label": "이름",
+    "placeholder": "{prefix} 채널"
+  },
+  "save": "저장",
+  "access": {
+    "private": {
+      "label": "비공개",
+      "description": "특정 그룹 참여 가능"
+    },
+    "organization": {
+      "label": "내 기관",
+      "description": "{orgName}에 대한 계정이 있는 모든 구성원 참여 가능",
+      "disabledTooltip": "기관 관리자만 기관 채널을 생성할 수 있습니다."
+    },
+    "public": {
+      "label": "공개",
+      "description": "계정이 있는 모든 사용자 참여 가능",
+      "disabledTooltip": "기관 관리자만 공개 채널을 생성할 수 있습니다."
+    },
+    "allowAnonymous": "익명 허용",
+    "confirmation": {
+      "header": "계속하시겠습니까?",
+      "message": "해당 변경 사항을 저장하면 이 채널에 대한 편집 권한이 제거됩니다. 기관 관리자만 공개 또는 기관 채널을 편집할 수 있습니다.",
+      "secondary": "취소",
+      "primary": "확인"
+    }
+  },
+  "participants": {
+    "label": "참여자",
+    "helperText": "토론을 확인하고 토론에 참여할 수 있는 사용자입니다.",
+    "none": "설정된 참여자 없음",
+    "add": "참여자 그룹 추가"
+  },
+  "groupPicker": {
+    "title": "그룹 선택",
+    "facet": {
+      "label": "From",
+      "myGroup": "내 그룹",
+      "myOrganization": "내 기관",
+      "myCommunity": "내 커뮤니티"
+    }
+  },
+  "blockWords": {
+    "label": "차단된 단어",
+    "helperText": "쉼표로 구분된 목록입니다. 해당 단어가 포함된 게시물 및 답글은 자동으로 숨겨집니다."
+  },
+  "manage": {
+    "label": "관리 및 조정",
+    "helperText": "위의 참여 선택을 기반으로 자동 할당된 사용자는 참여, 게시물 숨기기 또는 표시, 채널 설정 관리를 수행할 수 있습니다."
+  },
+  "manager": "관리자",
+  "admin": "관리자",
+  "viewProfile": "프로필 표시",
+  "alerts": {
+    "error": "채널을 저장하는 중 오류 발생",
+    "success": "채널 저장 완료",
+    "label": "양식 알림"
+  },
+  "validations": {
+    "minChannelGroups": "비공개 채널에는 참여자 그룹이 하나 이상 필요합니다."
+  },
+  "notices": {
+    "edit": "편집하는 경우 이 채널이 사용되는 모든 곳에 영향을 미침",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "채널이 생성되지 않음",
+          "message": "이러한 접근 선택 항목이 있는 채널이 이미 존재합니다. 기존 채널을 사용하거나 선택 항목을 수정합니다."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "채널이 업데이트되지 않음",
+          "message": "이러한 접근 선택 항목이 있는 채널이 이미 존재하므로 해당 업데이트를 저장할 수 없습니다."
+        }
+      },
+      "action": "기존 채널 사용"
+    },
+    "inaccessibleGroups": {
+      "title": "사용할 수 없는 그룹: {count}",
+      "message": "구성원이 아닌 경우 사용할 수 없는 그룹을 확인하거나 관리할 수 없습니다."
+    }
+  }
+}

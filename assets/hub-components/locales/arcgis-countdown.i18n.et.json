@@ -1,0 +1,7 @@
+{
+  "days": "päeva",
+  "hours": "tundi",
+  "minutes": "min",
+  "seconds": "sekundit",
+  "countdownDateMissingError": "Peate määrama oma loenduskuupäeva."
+}

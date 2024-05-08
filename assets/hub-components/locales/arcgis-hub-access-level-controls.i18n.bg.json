@@ -1,0 +1,9 @@
+{
+  "heading": "Ниво на споделяне",
+  "public": "Публични",
+  "publicInfo": "Всеки може да види {itemType}",
+  "organization": "Организация",
+  "organizationInfo": "Всички членове с акаунт в {orgName} и групи могат да видят {itemType}",
+  "owner": "Собственик",
+  "ownerInfo": "Собственикът и групите с достъп могат да видят {itemType}"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Uredi pojedinosti verzije",
+  "save": "Spremi",
+  "cancel": "Odustani",
+  "name.label": "Naziv",
+  "name.helpText": "Ostavite naslov prazan ako želite da identificiramo verziju prema oznaci o datumu i vremenu.",
+  "description.label": "Opis",
+  "error": "Pogreška pri ažuriranju verzije."
+}

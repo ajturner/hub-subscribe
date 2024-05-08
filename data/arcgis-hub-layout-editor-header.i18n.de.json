@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Für die Organisation freigegeben",
+      "private": "Für den Besitzer freigegeben",
+      "public": "Für die Öffentlichkeit freigegeben",
+      "shared": "Für den Besitzer und Gruppen freigegeben"
+    },
+    "editLayout": "Layout bearbeiten",
+    "lastUpdated": "Letzte Aktualisierung {updated}",
+    "viewSite": "Site anzeigen"
+  },
+  "cloneLayoutLabel": "Layout klonen",
+  "deletePageLabel": "Seite löschen",
+  "deleteSiteLabel": "Site löschen",
+  "editInAgoLabel": "In ArcGIS Online bearbeiten",
+  "managePage": "Seite verwalten",
+  "manageSite": "Site verwalten",
+  "moreOptionsLabel": "Weitere Optionen",
+  "publishLabel": "Veröffentlichen",
+  "saveAsTemplateLabel": "Als Vorlage speichern",
+  "saveLabel": "Speichern",
+  "sharingLabel": "Freigabefenster öffnen",
+  "viewLabel": "Anzeigen",
+  "viewPublishedLabel": "Veröffentlichten Entwurf anzeigen",
+  "viewUnpublishedLabel": "Vorschau des unveröffentlichten Entwurfs anzeigen"
+}

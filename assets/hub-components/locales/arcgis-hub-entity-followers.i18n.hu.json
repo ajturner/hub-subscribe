@@ -1,0 +1,26 @@
+{
+  "followers": "Követők",
+  "tabs": {
+    "followers": "Követők",
+    "settings": "Beállítások"
+  },
+  "addFollowers": {
+    "label": "Követők hozzáadása"
+  },
+  "emptyState": {
+    "message": "Jelenleg nincs követői csoportja."
+  },
+  "restrictedAccessState": {
+    "message": "Nincs hozzáférése."
+  },
+  "stats": {
+    "total": {
+      "title": "Végösszeg",
+      "trailingText": "Követők"
+    },
+    "new": {
+      "title": "Új",
+      "trailingText": "Az elmúlt 30 nap"
+    }
+  }
+}

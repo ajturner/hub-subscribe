@@ -1,0 +1,19 @@
+{
+  "anonymous": "Ẩn danh",
+  "noUser": "Không có Tên người dùng",
+  "privateUser": "Thành viên Riêng tư",
+  "privateOrg": "Tổ chức Riêng tư",
+  "org": "Tổ chức của tôi",
+  "orgLabel": "Tổ chức",
+  "profile": "Vào phần hồ sơ",
+  "location": "Vị trí",
+  "information": "Thông tin về bài đăng",
+  "postedIn": "Đã đăng trong {groupName}",
+  "replyingTo": "Trả lời cho @{username}",
+  "visiblePrivate": "Chỉ hiển thị cho thành viên",
+  "visibleOrg": "Hiển thị cho tổ chức",
+  "visibleAll": "Hiển thị cho mọi người",
+  "manageChannel": "Quản lý Kênh",
+  "group.deleted": "Nhóm đã xoá",
+  "unnamedChannel": "Kênh không có tên"
+}

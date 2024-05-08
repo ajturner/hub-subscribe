@@ -1,0 +1,16 @@
+{
+  "post.title": "Editácia príspevkov je zablokovaná",
+  "post.message": "Editácia nie je k dispozícii, pokým sú diskusie zablokované.",
+  "post.message.item": "Editácia nie je k dispozícii, pokým sú diskusie o tejto položke zablokované.",
+  "post.message.group": "Editácia nie je k dispozícii, pokým sú diskusie v tejto skupine zablokované.",
+  "reply.title": "Editácia odpovedí je zablokovaná",
+  "reply.title.generic": "Diskusia zablokovaná",
+  "reply.message": "Editácia nie je k dispozícii, pokým sú diskusie zablokované.",
+  "reply.message.generic": "V tejto chvíli nemôžete vytvárať odpovede.",
+  "reply.message.item": "Editácia nie je k dispozícii, pokým sú diskusie o tejto položke zablokované.",
+  "reply.message.group": "Editácia nie je k dispozícii, pokým sú diskusie v tejto skupine zablokované.",
+  "item.title": "Diskusia k položke zablokovaná",
+  "item.message": "Táto položka nie je schválená na diskusiu.",
+  "group.title": "Skupinová diskusia je zablokovaná",
+  "group.message": "Diskusia v tejto skupine nie je schválená."
+}

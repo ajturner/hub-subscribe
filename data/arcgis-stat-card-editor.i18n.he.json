@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "תצורה מתקדמת",
+    "serverTimeout": {
+      "label": "זמן קצוב לשרת (שניות)",
+      "helperText": "שימושי עבור שירותים גדולים שעבורם עשוי להידרש זמן ארוך יותר לתגובה."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "פינות",
+      "enum": {
+        "round": {
+          "label": "עגול"
+        },
+        "square": {
+          "label": "מרובע"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "צל",
+      "enum": {
+        "heavy": {
+          "label": "כבד"
+        },
+        "low": {
+          "label": "נמוך"
+        },
+        "medium": {
+          "label": "בינוני"
+        },
+        "none": {
+          "label": "לא התחיל"
+        }
+      }
+    },
+    "layout": {
+      "label": "פריסת סטטיסטיקה",
+      "enum": {
+        "dataViz": {
+          "label": "הצגה חזותית של נתונים"
+        },
+        "moreInfo": {
+          "label": "מידע נוסף"
+        },
+        "simple": {
+          "label": "פשוט"
+        }
+      }
+    },
+    "popoverTitle": "כותרת popover",
+    "popoverDescription": "תיאור popover",
+    "sectionTitle": "מראה",
+    "textAlign": "יישור",
+    "visualInterest": {
+      "label": "עניין חזותי",
+      "enum": {
+        "icon": {
+          "label": "סמל"
+        },
+        "logo": {
+          "label": "לוגו"
+        },
+        "none": {
+          "label": "ללא"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "צבע (סטטיסטיקה)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "קישור",
+      "sourceLink": "URL קישור",
+      "sourceTitle": "טקסט קישור"
+    },
+    "sectionTitle": "פרטים",
+    "subtitle": "כותרת משנה",
+    "title": "כותרת",
+    "trailingText": "טקסט עוקב"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "דרוש קישור להצגת מקור."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "עיצוב",
+    "unit": {
+      "label": "יחידות תצוגה",
+      "helperText": "הזן את יחידת המדידה עבור הערך שלך."
+    },
+    "unitPosition": {
+      "label": "מיקום",
+      "enum": {
+        "after": {
+          "label": "אחרי"
+        },
+        "before": {
+          "label": "לפני"
+        },
+        "below": {
+          "label": "מתחת"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "שיתוף",
+    "showShareIcon": "אפשר",
+    "shareableByValue": "אפשר הטבעות",
+    "shareableOnHover": {
+      "label": "תצוגה",
+      "enum": {
+        "always": {
+          "label": "תמיד"
+        },
+        "hover": {
+          "label": "ריחוף בלבד"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "מקור נתונים",
+    "displayValue": "ערך תצוגה",
+    "sectionTitle": "סטטיסטיקה",
+    "type": {
+      "label": "סוג",
+      "enum": {
+        "dynamic": {
+          "label": "דינמי",
+          "description": "בחר סט נתונים (שירות ישויות) קיים לסיכום."
+        },
+        "static": {
+          "label": "סטטי",
+          "description": "הזן באופן ידני ערך שתרצה להדגיש בפריסה שלך."
+        }
+      }
+    }
+  }
+}

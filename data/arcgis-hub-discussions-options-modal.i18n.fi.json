@@ -1,0 +1,8 @@
+{
+  "header": "Keskusteluasetukset",
+  "secondary": "Peruuta",
+  "primary": "Tallenna muutokset",
+  "pending": "Tallennetaan",
+  "error.title": "Tapahtui virhe",
+  "error.message": "Yritä tallentaa muutokset uudelleen."
+}

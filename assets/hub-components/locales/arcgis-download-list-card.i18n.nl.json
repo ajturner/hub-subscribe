@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Functieverzameling",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV downloaden",
+  "downloadshapefile": "Shapefile downloaden",
+  "downloadsqlite": "SQLite-geodatabase downloaden",
+  "downloadgeoPackage": "GeoPackage downloaden",
+  "downloadfilegdb": "File Geodatabase downloaden",
+  "downloadfeatureCollection": "Objectverzameling downloaden",
+  "downloadgeojson": "GeoJSON downloaden",
+  "downloadexcel": "Excel downloaden",
+  "rateLimitMessage": "Sorry, de downloadlimiet is bereikt. Probeer het over een uur opnieuw of neem contact op met de contentbeheerder.",
+  "createReplicaErrorMessage": "Interne fout bij maken replica. Probeer het over een uur opnieuw of neem contact op met de contentbeheerder."
+}

@@ -1,0 +1,17 @@
+{
+  "summary": "สรุป",
+  "description": "รายละเอียด",
+  "details": "รายละเอียด",
+  "metrics": "ระบบเมตริก",
+  "metricsDisclaimer": "แสดงเฉพาะ 30 วันล่าสุด",
+  "titleOpen": "การสนทนาที่เปิดอยู่",
+  "statusOpen": "เปิดรับการเข้าร่วม",
+  "titleClosed": "การสนทนาที่ปิดแล้ว",
+  "statusClosed": "ปิดรับการเข้าร่วมแล้ว",
+  "tags": "แท็ก",
+  "categories": "หมวดหมู่",
+  "metric.pageViews": "จำนวนการเข้าชมหน้า",
+  "metric.postCount": "จำนวนโพสต์",
+  "discussion": "การสนทนา",
+  "discussionBoard": "กระดานสนทนา"
+}

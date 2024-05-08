@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "גלוי לחברים בלבד",
+  "visibleOrg": "גלוי לארגון",
+  "visibleAll": "גלוי לכולם",
+  "anonymous": "אנונימי",
+  "privateUser": "חבר פרטי",
+  "noUser": "אין שם משתמש",
+  "orgLabel": "ארגון",
+  "privateOrg": "ארגון פרטי",
+  "location": "מיקום",
+  "profile": "עבור לפרופיל",
+  "postedIn": "פורסם ב-{groupName}",
+  "manageChannel": "נהל ערוץ",
+  "information": "מידע על הפרסום",
+  "group.deleted": "הקבוצה נמחקה",
+  "unnamedChannel": "ערוץ ללא שם",
+  "replyingTo": "משיב ל-{fullName}",
+  "viewPost": "הצג פוסט"
+}

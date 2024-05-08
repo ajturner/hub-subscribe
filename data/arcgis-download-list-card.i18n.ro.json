@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Bază date geo SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "FGDB",
+  "featureCollection": "Colecţie obiecte spaţiale",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Descarcă CSV",
+  "downloadshapefile": "Descărcare Shapefile",
+  "downloadsqlite": "Descărcare bază date geo SQLite",
+  "downloadgeoPackage": "Descărcare pachet geo",
+  "downloadfilegdb": "Descărcare bază date geo de fișiere",
+  "downloadfeatureCollection": "Descărcare colecție de obiecte spațiale",
+  "downloadgeojson": "Descărcare GeoJSON",
+  "downloadexcel": "Descărcare Excel",
+  "rateLimitMessage": "Ne pare rău, limita de descărcare a fost atinsă. Încercați din nou peste o oră sau contactați managerul de conținut.",
+  "createReplicaErrorMessage": "Creați eroarea internă replică. Încercați din nou peste o oră sau contactați managerul de conținut."
+}

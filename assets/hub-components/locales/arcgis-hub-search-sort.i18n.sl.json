@@ -1,0 +1,14 @@
+{
+  "title": "Ime",
+  "created": "Datum ustvarjanja",
+  "modified": "Datum je posodobljen",
+  "updated": "Datum je posodobljen",
+  "asc": "naraščajoče",
+  "desc": "padajoče",
+  "relevance": "Relevantnost",
+  "change-sort-order": "Spremeni vrstni red",
+  "sort-by": "Razvrsti po ",
+  "joined": "Datum pridružitve",
+  "username": "Uporabniško ime",
+  "membertype": "Vloga"
+}

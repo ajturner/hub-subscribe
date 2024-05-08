@@ -1,0 +1,14 @@
+{
+  "description": "Pasirinkite, norėdami pritraukti vietą",
+  "displayField.existing": "Egzistuojanti vieta",
+  "displayField.added": "Pridėta vieta",
+  "displayField.existing.area": "Egzistuojanti teritorija",
+  "displayField.added.area": "Pridėta teritorija",
+  "point": "Taškas",
+  "line": "Linijinė",
+  "area": "Plotas",
+  "viewAll": "Peržiūrėti visas vietas",
+  "viewLess": "Peržiūrėti mažiau vietų",
+  "action.update": "Atnaujinti vietą",
+  "action.remove": "Pašalinti vietą"
+}

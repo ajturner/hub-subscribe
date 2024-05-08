@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "การกำหนดค่าขั้นสูง",
+    "serverTimeout": {
+      "label": "เซิร์ฟเวอร์หมดเวลาแล้ว (วินาที)",
+      "helperText": "จะมีประโยชน์สำหรับบริการขนาดใหญ่ ซึ่งอาจต้องใช้เวลาเพิ่มเติมในการตอบสนอง"
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "มุม",
+      "enum": {
+        "round": {
+          "label": "รอบ ๆ"
+        },
+        "square": {
+          "label": "สี่เหลี่ยม"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "เพิ่มเงา",
+      "enum": {
+        "heavy": {
+          "label": "หนัก"
+        },
+        "low": {
+          "label": "ต่ำ"
+        },
+        "medium": {
+          "label": "กลาง"
+        },
+        "none": {
+          "label": "ยังไม่ได้เริ่ม"
+        }
+      }
+    },
+    "layout": {
+      "label": "โครงร่างสถิติ",
+      "enum": {
+        "dataViz": {
+          "label": "การแสดงข้อมูล"
+        },
+        "moreInfo": {
+          "label": "ข้อมูลเพิ่มเติม"
+        },
+        "simple": {
+          "label": "ธรรมดา"
+        }
+      }
+    },
+    "popoverTitle": "ชื่อป็อปโอเวอร์",
+    "popoverDescription": "คำอธิบายป็อปโอเวอร์",
+    "sectionTitle": "รูปลักษณ์",
+    "textAlign": "การจัดแนว",
+    "visualInterest": {
+      "label": "ความสนใจในการมองเห็น",
+      "enum": {
+        "icon": {
+          "label": "ไอคอน"
+        },
+        "logo": {
+          "label": "โลโก้"
+        },
+        "none": {
+          "label": "ไม่มีเลย"
+        },
+        "sparkline": {
+          "label": "เส้นแบบประกายไฟ"
+        }
+      }
+    },
+    "valueColor": "สี (สถิติ)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "ลิงก์",
+      "sourceLink": "URL ลิงก์",
+      "sourceTitle": "ลิงก์ข้อความ"
+    },
+    "sectionTitle": "รายละเอียด",
+    "subtitle": "คำบรรยาย",
+    "title": "คำนำหน้า",
+    "trailingText": "ข้อความต่อท้าย"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "จำเป็นต้องใช้ลิงก์เพื่อแสดงต้นทาง"
+    }
+  },
+  "formatting": {
+    "sectionTitle": "กำลังจัดทำรูปแบบ",
+    "unit": {
+      "label": "หน่วยการแสดงผล",
+      "helperText": "ป้อนหน่วยวัดสำหรับค่าของคุณ"
+    },
+    "unitPosition": {
+      "label": "ตำแหน่ง",
+      "enum": {
+        "after": {
+          "label": "หลัง"
+        },
+        "before": {
+          "label": "ก่อน"
+        },
+        "below": {
+          "label": "ต่ำกว่า"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "การแชร์",
+    "showShareIcon": "เปิดใช้งาน",
+    "shareableByValue": "เปิดใช้งานการฝังเนื้อหา",
+    "shareableOnHover": {
+      "label": "แสดงผล",
+      "enum": {
+        "always": {
+          "label": "ตลอดไป"
+        },
+        "hover": {
+          "label": "ชี้เท่านั้น"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "แหล่งข้อมูล",
+    "displayValue": "ค่าการแสดงผล",
+    "sectionTitle": "สถิติ",
+    "type": {
+      "label": "ประเภท",
+      "enum": {
+        "dynamic": {
+          "label": "ไดนามิก",
+          "description": "เลือกชุดข้อมูลที่มีอยู่ (ฟีเจอร์เซอร์วิส) เพื่อสรุป"
+        },
+        "static": {
+          "label": "สแตติก",
+          "description": "ป้อนค่าด้วยตัวเองเพื่อไฮไลท์โครงร่างของคุณ"
+        }
+      }
+    }
+  }
+}

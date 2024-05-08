@@ -1,0 +1,26 @@
+{
+  "followers": "Підписники",
+  "tabs": {
+    "followers": "Підписники",
+    "settings": "Налаштування"
+  },
+  "addFollowers": {
+    "label": "Додати підписників"
+  },
+  "emptyState": {
+    "message": "Наразі у вас немає групи підписників."
+  },
+  "restrictedAccessState": {
+    "message": "Ви не маєте доступу."
+  },
+  "stats": {
+    "total": {
+      "title": "Усього",
+      "trailingText": "Підписники"
+    },
+    "new": {
+      "title": "Новий",
+      "trailingText": "Останні 30 днів"
+    }
+  }
+}

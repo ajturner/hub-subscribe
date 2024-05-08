@@ -1,0 +1,12 @@
+{
+  "save": "Simpan",
+  "cancel": "Batalkan",
+  "undoChanges": "Urungkan perubahan",
+  "next": "Selanjutnya",
+  "back": "Kembali",
+  "formAlert": "Peringatan formulir",
+  "invalidForm": "Perbaiki semua kesalahan.",
+  "saveDisabled": "Simpan dinonaktifkan",
+  "success": "Berhasil menyimpan editan",
+  "error": "Terjadi kesalahan saat menyimpan perubahan"
+}

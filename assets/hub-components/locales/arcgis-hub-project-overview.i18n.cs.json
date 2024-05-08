@@ -1,0 +1,27 @@
+{
+  "overview": "Přehled",
+  "telemetry": {
+    "pageViews": "Zobrazení stránek",
+    "last30days": "Posledních 30 dní",
+    "lastUpdated": "Naposledy aktualizováno před {hoursElapsed} hodinami"
+  },
+  "newNotice": {
+    "title": "Zde je pracovní oblast vašeho projektu",
+    "message": "Tato pracovní oblast je přizpůsobena pro úpravy projektů. Pracovní oblasti umožňují spolupracovníkům zaměřit se na jednotlivé položky a neustále se vyvíjejí.",
+    "link": "Další informace"
+  },
+  "learnAbout": "Získat informace o projektech Hub",
+  "feedbackNotice": {
+    "message": "Jak se vám líbí projekty ArcGIS Hub? Protože je tato funkce stále ve fázi beta, rádi bychom věděli, jak byste ji mohli používat.",
+    "link": "Odeslat zpětnou vazbu"
+  },
+  "status": {
+    "notStarted": "Nespuštěno",
+    "inProgress": "Probíhá",
+    "onHold": "Pozdrženo",
+    "complete": "Dokončeno"
+  },
+  "editDetails": "Upravit údaje",
+  "noPurposeSet": "Není nastaven žádný účel",
+  "noLocationSet": "Nebyla nastavena žádná poloha"
+}

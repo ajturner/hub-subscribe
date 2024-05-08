@@ -1,0 +1,25 @@
+{
+  "moreResults": "תוצאות נוספות",
+  "search": "חיפוש",
+  "filter": "מסננים",
+  "viewResults": "הצג תוצאות ({numResults})",
+  "resultsCount": "1 - {pageTotal} מתוך {searchTotal}",
+  "backToTop": "חזרה למעלה",
+  "facets": {
+    "access": {
+      "private": "אני",
+      "shared": "בעלים וקבוצות",
+      "org": "ארגון",
+      "public": "ציבורי"
+    },
+    "license": {
+      "custom": "מותאם אישית",
+      "none": "ללא"
+    }
+  },
+  "layoutOptions": {
+    "list": "הצג רשימה",
+    "grid": "הצג גריד"
+  },
+  "galleryActionsLabel": "פעולות נוספות"
+}

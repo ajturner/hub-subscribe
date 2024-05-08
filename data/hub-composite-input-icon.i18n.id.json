@@ -1,0 +1,19 @@
+{
+  "select": "Pilih",
+  "cancel": "Batalkan",
+  "iconModalTitle": "Pilih ikon",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Pilih dari pustaka"
+      },
+      "url": {
+        "description": "Sediakan URL untuk Anda sendiri"
+      }
+    }
+  },
+  "altText": {
+    "label": "Teks alt",
+    "helperText": "Jika tidak ditambahkan, ikon akan ditandai sebagai dekoratif."
+  }
+}

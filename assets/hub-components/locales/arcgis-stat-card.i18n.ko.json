@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "서버 연결 시간이 초과되어 통계를 표시할 수 없습니다.",
+    "title": "서버 시간 초과"
+  },
+  "genericError": {
+    "message": "통계를 표시할 수 없습니다.",
+    "title": "오류가 발생했습니다."
+  }
+}

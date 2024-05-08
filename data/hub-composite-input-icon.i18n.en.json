@@ -1,0 +1,19 @@
+{
+  "select": "Select",
+  "cancel": "Cancel",
+  "iconModalTitle": "Select an icon",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Choose from library"
+      },
+      "url": {
+        "description": "Provide URL for your own"
+      }
+    }
+  },
+  "altText": {
+    "label": "Alt text",
+    "helperText": "If not added, icon will be marked decorative."
+  }
+}

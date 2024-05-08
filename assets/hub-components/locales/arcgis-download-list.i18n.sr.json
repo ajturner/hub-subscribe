@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile datoteka",
+  "sqlite": "SQLite baza geopodataka",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Fajl geobaza",
+  "featureCollection": "Prikupljanje geoobjekata",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Preuzmi"
+}

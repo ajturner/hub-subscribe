@@ -1,0 +1,14 @@
+{
+  "description": "Izberite za povečavo na lokacijo",
+  "displayField.existing": "Obstoječa lokacija",
+  "displayField.added": "Dodana lokacija",
+  "displayField.existing.area": "Obstoječe območje",
+  "displayField.added.area": "Dodano območje",
+  "point": "Točka",
+  "line": "Linija",
+  "area": "Območje",
+  "viewAll": "Ogled vseh lokacij",
+  "viewLess": "Prikaz manj lokacij",
+  "action.update": "Posodobi lokacijo",
+  "action.remove": "Odstrani lokacijo"
+}

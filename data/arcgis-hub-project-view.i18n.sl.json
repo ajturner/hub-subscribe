@@ -1,0 +1,18 @@
+{
+  "purpose": "Namen",
+  "description": "Kako jo izvesti",
+  "details": "Podrobnosti",
+  "featuredImageAlt": "Predstavitvena slika projekta",
+  "trackProgress": "Sledenje našemu napredku",
+  "participatingGroups": "Sodelujoče skupine",
+  "whosInvolved": "Kdo je vključen",
+  "tags": "Oznake",
+  "status": {
+    "label": "Status projekta",
+    "notStarted": "Ni zagnano",
+    "inProgress": "V teku",
+    "onHold": "Zadržano",
+    "complete": "Dokončano"
+  },
+  "featuredContent": "Izpostavljena vsebina"
+}

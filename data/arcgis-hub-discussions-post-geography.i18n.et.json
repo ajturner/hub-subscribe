@@ -1,0 +1,14 @@
+{
+  "description": "Valige asukohta suumimiseks",
+  "displayField.existing": "Olemasolev asukoht",
+  "displayField.added": "Lisatud asukoht",
+  "displayField.existing.area": "Olemasolev ala",
+  "displayField.added.area": "Lisatud ala",
+  "point": "Punkt",
+  "line": "Joon",
+  "area": "Pind",
+  "viewAll": "Kuva kõik asukohad",
+  "viewLess": "Kuva vähem asukohti",
+  "action.update": "Uuenda asukohta",
+  "action.remove": "Eemalda asukoht"
+}

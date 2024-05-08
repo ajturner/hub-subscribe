@@ -1,0 +1,29 @@
+{
+  "newTab": "open profile in new tab",
+  "noGroups": "No groups",
+  "pickerToggle": "Add groups",
+  "pickerTitle": "Select groups",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "No members",
+      "oneMember": "1 member",
+      "members": "{count} members"
+    },
+    "dateCreated": "Date Created: {localizedDate}",
+    "sharing": "Sharing: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Myself",
+      "shared": "Owner & groups",
+      "org": "Organization",
+      "public": "Public"
+    },
+    "membership": "Membership: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Group Owner",
+      "admin": "Group Manager",
+      "member": "Group Member",
+      "none": "None"
+    }
+  }
+
+}

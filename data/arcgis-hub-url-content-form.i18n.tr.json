@@ -1,0 +1,19 @@
+{
+  "heading": "URL'ye göre ekle",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Detay Servisi, XLS, PDF, PNG, JPG, Web Bağlantısı",
+  "fileTypeSelector": "Dosya türünü manuel olarak ayarlayın",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web Bağlantısı",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Görüntü (png, jpg, jpeg)",
+  "invalidFormat": "Hata: Geçersiz Biçim",
+  "invalidUrl": "Hata: Geçersiz URL",
+  "recognizedType": "Dosya türünü manuel olarak ayarlayın"
+}

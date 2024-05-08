@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Downloaden",
+  "buttonOptions": "Downloadopties",
+  "menuRequest": "Nieuwe download genereren met de laatste data",
+  "menuDownload": "Download bestand eerder gegenereerd op {createdDate}",
+  "fileCreated": "Bestand gemaakt",
+  "fileSize": "Bestandsgrootte",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "NVT"
+}

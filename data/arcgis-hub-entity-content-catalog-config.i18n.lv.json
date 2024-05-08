@@ -1,0 +1,30 @@
+{
+  "helperText": "Definēt un konfigurēt katalogu",
+  "sections": {
+    "groups": {
+      "title": "Grupas",
+      "helperText": "Tālāk esošajās grupās ir ietverts jūsu meklēšanas kataloga saturs. Izvēlieties grupu, lai skatītu tās iestatījumus, saturu un daudz ko citu.",
+      "createGroup": "Izveidot jaunu grupu"
+    },
+    "feeds": {
+      "title": "Plūsmas konfigurācija",
+      "helperText": "Padariet publiski pieejamus datus viegli pieejamus un atkārtoti izmantojamus, izmantojot Hub plūsmas.",
+      "learn": "Uzzināt par Hub plūsmām",
+      "toggle": "Iespējot plūsmas ",
+      "configure": "Konfigurēt plūsmas",
+      "notice": "Lai iespējotu plūsmas, vispirms iestatījumos Hub vietnes ir jāiestata kā Publiskas"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "No",
+    "editGroups": "Rediģēt grupas",
+    "viewGroups": "Skatīt grupu",
+    "myGroup": "Mana grupa",
+    "myOrganization": "Mana organizācija",
+    "myCommunity": "Mana kopiena"
+  },
+  "formAlert": "Veidlapas brīdinājums",
+  "alertMessages": {
+    "error": "Kļūda, saglabājot labojumus"
+  }
+}

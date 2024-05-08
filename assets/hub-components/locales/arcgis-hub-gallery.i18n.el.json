@@ -1,0 +1,25 @@
+{
+  "moreResults": "Περισσότερα αποτελέσματα",
+  "search": "Αναζήτηση",
+  "filter": "Φίλτρα",
+  "viewResults": "Προβολή αποτελεσμάτων ({numResults})",
+  "resultsCount": "1 - {pageTotal} από {searchTotal}",
+  "backToTop": "Επιστροφή στην κορυφή",
+  "facets": {
+    "access": {
+      "private": "Μόνο εγώ",
+      "shared": "Κάτοχος και Ομάδες",
+      "org": "Οργανισμός",
+      "public": "Δημόσιο περιεχόμενο"
+    },
+    "license": {
+      "custom": "Προσαρμοσμένο",
+      "none": "Καθόλου"
+    }
+  },
+  "layoutOptions": {
+    "list": "Εμφάνιση λίστας",
+    "grid": "Παρουσίαση πλέγματος"
+  },
+  "galleryActionsLabel": "Πρόσθετες ενέργειες"
+}

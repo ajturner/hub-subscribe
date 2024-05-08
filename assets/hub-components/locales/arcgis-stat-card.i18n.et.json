@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Serveris ilmnes ajalõpp ja statistikat ei saa kuvada.",
+    "title": "Serveri ajalõpp"
+  },
+  "genericError": {
+    "message": "Statistikat ei saa kuvada.",
+    "title": "Midagi läks valesti"
+  }
+}

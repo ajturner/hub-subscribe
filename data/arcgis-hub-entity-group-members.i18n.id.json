@@ -1,0 +1,24 @@
+{
+  "title": "Anggota",
+  "facets": {
+    "role": {
+      "label": "Peran",
+      "all": "Semua",
+      "manager": "Pengelola",
+      "member": "Anggota"
+    },
+    "dateJoined": {
+      "label": "Tanggal Bergabung"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Anggota tim"
+    },
+    "new": {
+      "title": "Baru",
+      "trailingText": "30 hari terakhir"
+    }
+  }
+}

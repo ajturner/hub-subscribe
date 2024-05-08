@@ -1,0 +1,36 @@
+{
+  "edit": "Muuda",
+  "delete": "Kustuta",
+  "noneMessage": "Asukohta pole määratud",
+  "entityTypes": {
+    "project": "Projitseeri",
+    "site": "Leht",
+    "initiative": "Algatus",
+    "discussion": "Arutelu",
+    "content": "Sisu"
+  },
+  "emptyLocation": {
+    "title": "Asukohta ei ole joonistatud",
+    "message": "{entityType} ei kuvata kaartidel enne, kui asukoht on lisatud"
+  },
+  "populatedLocation": {
+    "title": "Kas lisada teine asukoht?",
+    "message": "Täiednavate asukohtade lisamiseks (kuni {maxLocations}) valige uuesti joonistustööriist."
+  },
+  "maximumPoints": {
+    "title": "Saavutatud punktide maksimaalne arv ({currentCount}/{maxLocations})",
+    "message": "Täiendavate asukohtade lisamiseks: kustutage punkte või redigeerige jooni ja alasid, et kustutada nende punktid (paremklõps)."
+  },
+  "maximumLocations": {
+    "title": "Asukohtade maksimaalne arv on saavutatud",
+    "message": "Kui soovite lisada rohkem asukohti, eemaldage üks asukoht või mitu asukohta või eemaldage kõik asukohad ja kasutage üldisemat ala."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Lisa asukoht",
+    "clear": "Tühista kõik",
+    "extent": "Joonista ristkülik",
+    "point": "Paiguta punkt",
+    "polyline": "Joonista joon",
+    "polygon": "Joonista ala"
+  }
+}

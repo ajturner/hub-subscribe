@@ -1,0 +1,14 @@
+{
+  "description": "Auswählen, um auf Position zu zoomen",
+  "displayField.existing": "Vorhandene Position",
+  "displayField.added": "Hinzugefügte Position",
+  "displayField.existing.area": "Vorhandene Fläche",
+  "displayField.added.area": "Hinzugefügte Fläche",
+  "point": "Punkt",
+  "line": "Linie",
+  "area": "Fläche",
+  "viewAll": "Alle Positionen anzeigen",
+  "viewLess": "Weniger Positionen anzeigen",
+  "action.update": "Position aktualisieren",
+  "action.remove": "Position entfernen"
+}

@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Tartalom kiválasztása",
+  "secondStepHeader": "Részletek beállítása",
+  "thirdStepHeader": "Megosztási szint és Hozzáférés beállítása",
+  "next": "Tovább",
+  "back": "Vissza",
+  "save": "Mentés",
+  "cancel": "Mégse",
+  "divider": "vagy",
+  "duplicateFileAriaLabel": "duplikált fájl hiba",
+  "duplicateFileError": "Már létezik elem ilyen fájlnévvel. Kérjük, módosítsa a fájl nevét, és próbálja meg újra, vagy távolítsa el a <a>duplikált fájlt</a> az ArcGIS Online-ban.",
+  "uploading": "Feltöltés folyamatban"
+}

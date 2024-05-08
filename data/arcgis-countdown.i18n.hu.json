@@ -1,0 +1,7 @@
+{
+  "days": "napok",
+  "hours": "óra",
+  "minutes": "perc",
+  "seconds": "másodperc",
+  "countdownDateMissingError": "Meg kell adnia egy visszaszámlálási dátumot."
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "添加帖子",
+  "createPost": "创建帖子",
+  "emptyHeading": "开始讨论",
+  "emptyMessage": "成为第一个提出话题的人。 提出问题或与他人分享您对某条内容的理解非常简单。",
+  "searchIdeas": "搜索帖子",
+  "searchCount": "{start} - {end}/{total}",
+  "orderAsc": "升序",
+  "orderDesc": "降序",
+  "sortRecent": "最近",
+  "sortCreator": "创建者",
+  "layoutGrid": "格网",
+  "layoutList": "列表"
+}

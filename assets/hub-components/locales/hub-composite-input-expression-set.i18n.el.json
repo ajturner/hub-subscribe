@@ -1,0 +1,15 @@
+{
+  "addFilter": "Προσθήκη φίλτρου",
+  "attributeFilter": "Φίλτρο",
+  "between": "Μεταξύ",
+  "deleteFilter": "Διαγραφή φίλτρου",
+  "endingDate": "Ημ/νία λήξης",
+  "endingValue": "Τιμή λήξης",
+  "expression": "Έκφραση",
+  "filterType": "Τύπος φίλτρου",
+  "filterValue": "Τιμή φίλτρου",
+  "isExactly": "Είναι ακριβώς",
+  "startingDate": "Ημερομηνία έναρξης",
+  "startingValue": "Τιμή έναρξης",
+  "selectAttribute": "Επιλογή γνωρίσματος"
+}

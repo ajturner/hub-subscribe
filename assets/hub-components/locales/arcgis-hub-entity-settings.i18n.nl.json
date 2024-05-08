@@ -1,0 +1,34 @@
+{
+  "settings": "Instellingen",
+  "delete": {
+    "project": "Project verwijderen",
+    "initiative": "Initiatief verwijderen",
+    "site": "Site verwijderen",
+    "discussion": "Discussie verwijderen",
+    "content": "Content verwijderen",
+    "page": "Pagina verwijderen",
+    "group": "Groep verwijderen"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Project verwijderen",
+      "initiative": "Initiatief verwijderen",
+      "site": "Site verwijderen",
+      "discussion": "Discussie verwijderen",
+      "content": "Content verwijderen",
+      "page": "Pagina verwijderen",
+      "group": "Groep verwijderen"
+    },
+    "content": "Weet u zeker dat u dit wilt verwijderen:",
+    "delete": "Verwijderen",
+    "cancel": "Annuleren"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "De \"Extractiemogelijkheid\" wijzigt de service-instellingen.",
+        "message": "Dit zal van invloed zijn op andere items die gebruik maken van de service. Zie <docLink>Gegevens uit gehoste feature layers exporteren</docLink> voor meer details"
+      }
+    }
+  }
+}

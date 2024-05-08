@@ -1,0 +1,28 @@
+{
+  "newTab": "отваряне на профил в нов раздел",
+  "noGroups": "Няма групи",
+  "pickerToggle": "Добавяне на групи",
+  "pickerTitle": "Избиране на групи",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Няма членове",
+      "oneMember": "1 член",
+      "members": "{count} членове"
+    },
+    "dateCreated": "Дата на създаване: {localizedDate}",
+    "sharing": "Споделяне: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Себе си",
+      "shared": "Собственик и групи",
+      "org": "Организация",
+      "public": "Публични"
+    },
+    "membership": "Членство: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Собственик на групата",
+      "admin": "Управител на групата",
+      "member": "Член на групата",
+      "none": "Няма"
+    }
+  }
+}

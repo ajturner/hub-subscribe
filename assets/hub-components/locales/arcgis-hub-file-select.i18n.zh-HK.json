@@ -1,0 +1,16 @@
+{
+  "contentHeading": "拖放要上傳的檔案",
+  "imageHeading": "上傳圖片",
+  "selectedHeading": "選擇的檔案",
+  "maxSizeAndSupportedTypes": "檔案大小為 {maxSize}MB，{fileTypes}",
+  "maxSize": "檔案大小為 {maxSize}MB",
+  "recommendedDimensions": "建議的維度　{recommendedDimensions}",
+  "linkText": "檢視支援的檔案清單",
+  "contentButton": "瀏覽檔案",
+  "imageButton": "瀏覽圖片",
+  "clearButton": "清除所選",
+  "errorHeading": "錯誤",
+  "fileTooLargeError": "檔案太大",
+  "multipleFilesError": "無法一次上傳多個檔案",
+  "unsupportedFileTypeError": "此檔案類型不被支援"
+}

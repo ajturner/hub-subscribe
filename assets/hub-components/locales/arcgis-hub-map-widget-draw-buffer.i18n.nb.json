@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Posisjonsfilter",
+  "panel.reset": "Tilbakestill filter",
+  "distance.title": "Avstand",
+  "distance.placeholder": "Skriv inn et tall ...",
+  "distance.message": "Skriv inn et tall for å utvide det filtrerte området.",
+  "system.imperial": "Britiske målenheter",
+  "system.metric": "Metrisk",
+  "units.title": "Enheter",
+  "units.feet": "Fot",
+  "units.miles": "Miles",
+  "units.nauticalmiles": "Nautiske mil",
+  "units.meters": "Meter",
+  "units.kilometers": "Kilometer"
+}

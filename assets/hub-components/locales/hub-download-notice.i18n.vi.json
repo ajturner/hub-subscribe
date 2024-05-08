@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Tải xong",
+  "titleFileGeneration": "Đang trong quá trình tạo tệp",
+  "titleFileGenerationFailed": "Tạo tệp thất bại",
+  "titleDatasetNotFound": "Không tìm thấy bộ dữ liệu",
+  "titleApiError": "Lỗi API",
+  "titleFormatDisabled": "Chức năng tải xuống bị vô hiệu hóa",
+  "messageFailedStaleAvailable": "Bạn có thể tải xuống phiên bản trước dưới đây.",
+  "messageUpdatingFile": "Chúng tôi đang cập nhật tệp. Việc này có thể mất vài phút.",
+  "messageCreatingFile": "Chúng tôi đang tạo tệp. Việc này có thể mất vài phút.",
+  "messageFileNeedsGenerating": "Quá trình tải xuống tệp cập nhật có thể mất vài phút.",
+  "messageFormatDisabled": "Chủ sở hữu đã tắt chức năng tải xuống đối với định dạng này."
+}

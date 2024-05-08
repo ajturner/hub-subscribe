@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Typ",
+    "tags": "Tag",
+    "categories": "Kategorie",
+    "sharing": "Freigeben",
+    "dateUpdated": "Aktualisierungsdatum",
+    "map": {
+      "label": "Position",
+      "tooltip": "Kartenausdehnung als Positionsfilter anwenden"
+    }
+  },
+  "collections": {
+    "all": "Alle",
+    "dataset": "Daten",
+    "site": "Sites",
+    "document": "Dokumente",
+    "appAndMap": "Apps und Karten"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Ihr Katalog ist aktuell noch leer.",
+    "button": "Katalog konfigurieren"
+  }
+}

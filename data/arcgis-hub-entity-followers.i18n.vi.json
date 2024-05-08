@@ -1,0 +1,26 @@
+{
+  "followers": "Người theo dõi",
+  "tabs": {
+    "followers": "Người theo dõi",
+    "settings": "Thiết lập"
+  },
+  "addFollowers": {
+    "label": "Thêm người theo dõi"
+  },
+  "emptyState": {
+    "message": "Bạn hiện không có nhóm người theo dõi."
+  },
+  "restrictedAccessState": {
+    "message": "Bạn không có quyền truy cập."
+  },
+  "stats": {
+    "total": {
+      "title": "Tổng",
+      "trailingText": "Người theo dõi"
+    },
+    "new": {
+      "title": "Mới",
+      "trailingText": "30 ngày trước"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "new": "Nové",
+  "project": {
+    "title": "Nový projekt",
+    "description": "Zdôraznite činnosť, ktorá má jasné ciele a časový rámec"
+  },
+  "initiative": {
+    "title": "Nová iniciatíva",
+    "description": "Zdôraznite činnosť, ktorá má jasné ciele a časový rámec"
+  },
+  "discussion": {
+    "title": "Nové diskusné fórum",
+    "description": "Vytvorte nové diskusné fórum zadaním názvu, ktorý indikuje tému."
+  }
+}

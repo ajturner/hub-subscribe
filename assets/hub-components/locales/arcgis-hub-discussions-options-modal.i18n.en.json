@@ -1,0 +1,8 @@
+{
+  "header": "Discussion Options",
+  "secondary": "Cancel",
+  "primary": "Save Changes",
+  "pending": "Saving",
+  "error.title": "Something went wrong",
+  "error.message": "Please try again to save changes."
+}

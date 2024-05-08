@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Izberi vsebino",
+  "secondStepHeader": "Nastavi podrobnosti",
+  "thirdStepHeader": "Nastavi stopnjo deljenja in dostop",
+  "next": "Naprej",
+  "back": "Nazaj",
+  "save": "Shrani",
+  "cancel": "Prekliči",
+  "divider": "ali",
+  "duplicateFileAriaLabel": "podvoji napako datoteke",
+  "duplicateFileError": "Element z istim imenom datoteke že obstaja. Spremenite ime datoteke in poskusite znova, ali odstranite <a>podvojeno datoteko</a> v ArcGIS Online",
+  "uploading": "Nalaganje"
+}

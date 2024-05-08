@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Töölaud",
+    "details": "Üksikasjad",
+    "overview": "Ülevaade",
+    "metrics": "Mõõdikud",
+    "settings": "Sätted",
+    "collaborators": "Kaastöötajad",
+    "discussion": "Arutelu",
+    "content": "Sisu",
+    "members": "Liikmed",
+    "participation": "Osalemine",
+    "followers": "Jälgijad"
+  }
+}

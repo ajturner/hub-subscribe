@@ -1,0 +1,19 @@
+{
+  "heading": "Lisää URL-osoitteella",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS-kohdepalvelu, XLS, PDF, PNG, JPG, web-linkki",
+  "fileTypeSelector": "Määritä tietostotyyppi manuaalisesti",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS-kohdepalvelu",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web-linkki",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Kuva (png, jpg, jpeg)",
+  "invalidFormat": "Virhe: virheellinen muoto",
+  "invalidUrl": "Virhe: virheellinen URL-osoite",
+  "recognizedType": "Määritä tietostotyyppi manuaalisesti"
+}

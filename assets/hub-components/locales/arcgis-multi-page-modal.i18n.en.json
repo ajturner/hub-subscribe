@@ -1,0 +1,6 @@
+{
+    "pageCounter": "{currentPage} / {numPages}",
+    "acceptButton": "Okay",
+    "nextButton": "Next",
+    "previousButton": "Previous"
+}

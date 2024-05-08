@@ -1,0 +1,12 @@
+{
+  "save": "Spara",
+  "cancel": "Avbryt",
+  "undoChanges": "Ångra ändringar",
+  "next": "Nästa",
+  "back": "Tillbaka",
+  "formAlert": "Formulärvarning",
+  "invalidForm": "Åtgärda alla fel.",
+  "saveDisabled": "Spara inaktiverat",
+  "success": "Ändringarna har sparats",
+  "error": "Fel när ändringarna sparades"
+}

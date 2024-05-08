@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Last ned",
+  "buttonOptions": "Nedlastingsalternativer",
+  "menuRequest": "Generer ny nedlasting med de nyeste dataene",
+  "menuDownload": "Last ned fil som tidligere ble generert den {createdDate}",
+  "fileCreated": "Fil opprettet",
+  "fileSize": "Filstørrelse",
+  "bytes": "B",
+  "kb": "kB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Ikke tilgjengelig"
+}

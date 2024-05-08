@@ -1,0 +1,10 @@
+{
+  "error": "Aconteceu algo errado",
+  "repliesFailure": "As respostas a esta postagem não podem ser exibidas.",
+  "thread.deleted.title": "Tópico Excluído",
+  "thread.deleted.message": "A postagem e a resposta vinculadas foram excluídas e não podem ser exibidas.",
+  "thread.deleted.action": "Visualizar todas as postagens",
+  "reply.single.title": "Você está visualizando uma única resposta",
+  "reply.single.link": "Visualizar todas as respostas",
+  "loading": "Carregando"
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "profili yeni sekmede aç",
+  "noGroups": "Grup yok",
+  "pickerToggle": "Grup ekle",
+  "pickerTitle": "Grupları seç",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Üye yok",
+      "oneMember": "1 üye",
+      "members": "{count} üye"
+    },
+    "dateCreated": "Oluşturulma Tarihi: {localizedDate}",
+    "sharing": "Paylaşım: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Kendim",
+      "shared": "Sahibi ve gruplar",
+      "org": "Kuruluş",
+      "public": "Genel"
+    },
+    "membership": "Üyelik: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Grup Sahibi",
+      "admin": "Grup Yöneticisi",
+      "member": "Grup Üyesi",
+      "none": "Hiçbiri"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "Mērķis",
+  "description": "Kā mēs tur nokļūsim",
+  "details": "Papildinformācija",
+  "featuredImageAlt": "Projekta piedāvātais attēls",
+  "trackProgress": "Sekot līdzi mūsu progresam",
+  "participatingGroups": "Iesaistītās grupas",
+  "whosInvolved": "Kurš ir iesaistīts",
+  "tags": "Atslēgvārdi",
+  "status": {
+    "label": "Projekta statuss",
+    "notStarted": "Nav sākts",
+    "inProgress": "Notiek izpilde",
+    "onHold": "Atlikts",
+    "complete": "Pabeigts"
+  },
+  "featuredContent": "Saistītais saturs"
+}

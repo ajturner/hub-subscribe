@@ -1,0 +1,14 @@
+{
+  "createdBy": "Автор: {creator}",
+  "emptyMessage": "Версій не знайдено",
+  "errorMessage": "Помилка отримання версій",
+  "menuLabel": "показати дії",
+  "publishedBadge": "Опубліковані",
+  "viewingBadge": "Переглядають",
+  "popover.label": "Дії версії",
+  "popover.actions.delete": "Видалити",
+  "popover.actions.edit": "Редагувати відомості",
+  "popover.actions.share": "Поділитися",
+  "shareErrorMessage": "Помилка копіювання URL-адреси спільного доступу до буфера обміну.",
+  "shareSuccessMessage": "URL-адресу спільного доступу скопійовано в буфер обміну."
+}

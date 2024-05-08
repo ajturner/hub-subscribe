@@ -1,0 +1,52 @@
+{
+  "collaborators": "Collaborateurs",
+  "editGroupButtonText": "Ajouter des groupes de modification",
+  "viewGroupButtonText": "Ajouter des groupes de consultation",
+  "groupPicker": {
+    "title": "Sélectionner des groupes",
+    "facet": {
+      "label": "De",
+      "editGroups": "Modifier les groupes",
+      "viewGroups": "Afficher le groupe",
+      "myGroup": "Mon groupe",
+      "myOrganization": "Mon organisation",
+      "myCommunity": "Ma communauté"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Ajouter de nouvelles personnes",
+    "message": "Si vous avez besoin d’ajouter des personnes, vous pouvez les inviter à rejoindre la communauté ou <orgOverviewLink>contacter votre administrateur</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Groupes dotés de capacités de modification",
+  "viewGroupsTitle": "Groupes dotés de capacités de consultation",
+  "project": {
+    "description": "Choisissez les groupes d’utilisateurs qui peuvent afficher et modifier ce projet.",
+    "editGroupsDescription": "Les membres de ces groupes peuvent modifier les informations du projet.",
+    "viewGroupsDescription": "Les membres de ces groupes peuvent rechercher et afficher le projet s’il n’est pas partagé avec le public.",
+    "errorMessage": "Une erreur s’est produite lors de la mise à jour des collaborateurs du projet."
+  },
+  "content": {
+    "description": "Choisissez les groupes d’utilisateurs qui peuvent afficher et modifier ce contenu.",
+    "editGroupsDescription": "Les membres de ces groupes peuvent modifier les informations du contenu.",
+    "viewGroupsDescription": "Les membres de ces groupes peuvent rechercher et afficher le contenu s’il n’est pas partagé avec le public.",
+    "errorMessage": "Une erreur s’est produite lors de la mise à jour des collaborateurs du contenu."
+  },
+  "discussion": {
+    "description": "Choisissez les groupes d’utilisateurs qui peuvent afficher et modifier cette discussion.",
+    "editGroupsDescription": "Les membres de ces groupes peuvent modifier les informations de la discussion.",
+    "viewGroupsDescription": "Les membres de ces groupes peuvent rechercher et afficher la discussion si elle n’est pas partagée avec le public.",
+    "errorMessage": "Une erreur s’est produite lors de la mise à jour des collaborateurs de la discussion."
+  },
+  "site": {
+    "description": "Choisissez les groupes d’utilisateurs qui peuvent afficher et modifier ce site.",
+    "editGroupsDescription": "Les membres de ces groupes peuvent modifier les informations du site.",
+    "viewGroupsDescription": "Les membres de ces groupes peuvent rechercher et afficher le site s’il n’est pas partagé avec le public.",
+    "errorMessage": "Une erreur s’est produite lors de la mise à jour des collaborateurs du site."
+  },
+  "newTab": "Ouvrir le profil dans un nouvel onglet",
+  "supportingTeams": "Équipes secondaires",
+  "supportingTeamsDesc": "Ces équipes secondaires étaient précédemment liées à votre site. Vous pouvez continuer à les utiliser pour partager du contenu avec des collaborateurs.",
+  "supportTeamsRemove": "Supprimer l’équipe",
+  "supportingTeamsRemoveError": "Erreur lors de la dissociation de l’équipe. Contactez un administrateur.",
+  "supportingTeamsRemoveSuccess": "L’équipe a été dissociée."
+}

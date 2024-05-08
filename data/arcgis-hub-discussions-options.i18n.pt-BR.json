@@ -1,0 +1,10 @@
+{
+  "true.heading": "Sim, a discussão é permitida",
+  "false.heading": "Não, a discussão está bloqueada",
+  "content.label": "Permitir que este item seja discutido?",
+  "content.true.description": "Os usuários podem criar postagens neste item.",
+  "content.false.description": "Os usuários não podem criar postagens neste item.",
+  "group.label": "Este grupo pode participar das discussões?",
+  "group.true.description": "Os membros do grupo podem visualizar e participar dos canais de discussão aos quais o grupo tem acesso.",
+  "group.false.description": "Os membros do grupo não podem visualizar ou participar dos canais de discussão aos quais o grupo tem acesso."
+}

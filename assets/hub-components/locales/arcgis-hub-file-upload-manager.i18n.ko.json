@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "콘텐츠 선택",
+  "secondStepHeader": "세부정보 설정",
+  "thirdStepHeader": "공유 수준 및 접근 설정",
+  "next": "다음",
+  "back": "뒤로",
+  "save": "저장",
+  "cancel": "취소",
+  "divider": "또는",
+  "duplicateFileAriaLabel": "중복 파일 오류",
+  "duplicateFileError": "파일 이름이 동일한 항목이 이미 있습니다. 파일 이름을 수정하고 다시 시도하거나 ArcGIS Online에서 <a>중복 파일</a>을 제거하세요.",
+  "uploading": "업로드 중"
+}

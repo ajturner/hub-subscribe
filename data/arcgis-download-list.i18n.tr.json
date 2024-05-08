@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Coğrafi Veritabanı",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Dosya Coğrafi Veri Tabanı",
+  "featureCollection": "Detay Toplama",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "İndir"
+}

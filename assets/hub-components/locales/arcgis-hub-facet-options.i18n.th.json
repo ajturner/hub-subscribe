@@ -1,0 +1,7 @@
+{
+  "showMore": "แสดงเพิ่มอีก {num}",
+  "showLess": "แสดงน้อยลง",
+  "inputPlaceholder": "ตัวเลือกการกรอง",
+  "noMatchesNotice": "ไม่พบตัวเลือกที่ตรงกัน",
+  "inputAriaLabel": "ค้นหาตัวเลือกด้วยคีย์เวิร์ด"
+}

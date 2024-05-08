@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Chia sẻ",
+      "myself": "Chính tôi",
+      "myOrganization": "Tổ chức của tôi",
+      "public": "Thế giới (Công khai)"
+    },
+    "catalog": {
+      "myContent": "Nội dung của tôi",
+      "favorites": "Yêu thích",
+      "organization": "Tổ chức của tôi",
+      "world": "Thế giới (Công khai)"
+    }
+  },
+  "expression": {
+    "label": "Bộ lọc thuộc tính"
+  },
+  "field": {
+    "label": "Thuộc tính"
+  },
+  "layer": "Lớp / bảng",
+  "statistic": {
+    "label": "Tổng hợp"
+  }
+}

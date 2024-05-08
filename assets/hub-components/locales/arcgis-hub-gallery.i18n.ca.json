@@ -1,0 +1,25 @@
+{
+  "moreResults": "Més resultats",
+  "search": "Cerca",
+  "filter": "Filtres",
+  "viewResults": "Mostra els resultats ({numResults})",
+  "resultsCount": "1 - {pageTotal} de {searchTotal}",
+  "backToTop": "Torna a dalt",
+  "facets": {
+    "access": {
+      "private": "Jo",
+      "shared": "Propietari i grups",
+      "org": "Organització",
+      "public": "Públic"
+    },
+    "license": {
+      "custom": "Personalitzat",
+      "none": "Cap"
+    }
+  },
+  "layoutOptions": {
+    "list": "Mostra la llista",
+    "grid": "Mostra la quadrícula"
+  },
+  "galleryActionsLabel": "Accions addicionals"
+}

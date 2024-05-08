@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Descărcare",
+  "buttonOptions": "Opțiuni de descărcare",
+  "menuRequest": "Generați o nouă descărcare cu cele mai recente date",
+  "menuDownload": "Descărcați fișierul generat anterior la {createdDate}",
+  "fileCreated": "Fișier creat",
+  "fileSize": "Dimensiune fişier",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

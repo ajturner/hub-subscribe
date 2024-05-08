@@ -1,0 +1,52 @@
+{
+  "collaborators": "Yhteistyötahot",
+  "editGroupButtonText": "Lisää muokkausryhmiä",
+  "viewGroupButtonText": "Lisää näyttöryhmiä",
+  "groupPicker": {
+    "title": "Valitse ryhmät",
+    "facet": {
+      "label": "Lähtien",
+      "editGroups": "Muokkaa ryhmiä",
+      "viewGroups": "Näytä ryhmä",
+      "myGroup": "Oma ryhmä",
+      "myOrganization": "Organisaationi",
+      "myCommunity": "Oma yhteisö"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Lisää uusia henkilöitä",
+    "message": "Jos sinun on lisättävä henkilöitä, voit kutsua heidät liittymään yhteisöön tai voit <orgOverviewLink>ottaa yhteyttä pääkäyttäjään</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Ryhmät, jotka voivat muokata",
+  "viewGroupsTitle": "Ryhmät, jotka voivat näyttää",
+  "project": {
+    "description": "Valitse käyttäjäryhmät, jotka voivat näyttää ja muokata tätä projektia.",
+    "editGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat muokata projektin tietoja.",
+    "viewGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat etsiä ja näyttää projektin, jos sitä ei jaeta yleisölle.",
+    "errorMessage": "Projektisi avustajien päivityksessä tapahtui virhe."
+  },
+  "content": {
+    "description": "Valitse käyttäjäryhmät, jotka voivat näyttää ja muokata tätä sisältöä.",
+    "editGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat muokata sisällön tietoja.",
+    "viewGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat etsiä ja näyttää sisältöä, jos sitä ei jaeta yleisölle.",
+    "errorMessage": "Sisältösi avustajien päivityksessä tapahtui virhe."
+  },
+  "discussion": {
+    "description": "Valitse käyttäjäryhmät, jotka voivat katsella ja muokata tätä keskustelua.",
+    "editGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat muokata keskustelun tietoja.",
+    "viewGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat etsiä ja katsoa sisältöä, jos sitä ei jaeta yleisölle.",
+    "errorMessage": "Keskustelusi avustajien päivityksessä tapahtui virhe."
+  },
+  "site": {
+    "description": "Valitse käyttäjäryhmät, jotka voivat näyttää ja muokata tätä sivustoa.",
+    "editGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat muokata sivuston tietoja.",
+    "viewGroupsDescription": "Näihin ryhmiin kuuluvat henkilöt voivat etsiä ja katsella sivustoa, jos sitä ei jaeta yleisölle.",
+    "errorMessage": "Sivustosi yhteiskäyttäjien päivityksessä tapahtui virhe."
+  },
+  "newTab": "avaa profiili uudessa välilehdessä",
+  "supportingTeams": "Tukitiimit",
+  "supportingTeamsDesc": "Nämä tukitiimit oli aiemmin liitetty sivustoosi. Voit jatkaa niiden käyttämistä jakaaksesi sisältöä yhteiskäyttäjien kanssa.",
+  "supportTeamsRemove": "Poista tiimi",
+  "supportingTeamsRemoveError": "Virhe tiimin linkityksen poistamisessa. Ota yhteyttä pääkäyttäjään.",
+  "supportingTeamsRemoveSuccess": "Tiimin linkityksen poistaminen onnistui."
+}

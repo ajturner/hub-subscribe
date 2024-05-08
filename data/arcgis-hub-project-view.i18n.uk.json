@@ -1,0 +1,18 @@
+{
+  "purpose": "Призначення",
+  "description": "Тепер ми направимося туди",
+  "details": "Детальна інформація",
+  "featuredImageAlt": "Вибране зображення проєкту",
+  "trackProgress": "Відстежувати наш прогрес",
+  "participatingGroups": "Групи-учасники",
+  "whosInvolved": "Хто залучений",
+  "tags": "Теги",
+  "status": {
+    "label": "Статус проекту",
+    "notStarted": "Не запущено",
+    "inProgress": "Виконується...",
+    "onHold": "Уточнюється",
+    "complete": "Виконати"
+  },
+  "featuredContent": "Обраний вміст"
+}

@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Napredna konfiguracija",
+    "serverTimeout": {
+      "label": "Istek veze s poslužiteljem (sekunde)",
+      "helperText": "Korisno za velike usluge kojima može trebati dulje da odgovore."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Kutovi",
+      "enum": {
+        "round": {
+          "label": "Zaokruženo"
+        },
+        "square": {
+          "label": "Kvadrat"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Sjena",
+      "enum": {
+        "heavy": {
+          "label": "Teško"
+        },
+        "low": {
+          "label": "Nisko"
+        },
+        "medium": {
+          "label": "Srednja"
+        },
+        "none": {
+          "label": "Nije pokrenuto"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistički izgled",
+      "enum": {
+        "dataViz": {
+          "label": "Vizualizacija podataka"
+        },
+        "moreInfo": {
+          "label": "Više informacija"
+        },
+        "simple": {
+          "label": "Jednostavno"
+        }
+      }
+    },
+    "popoverTitle": "Popover naslov",
+    "popoverDescription": "Popover opis",
+    "sectionTitle": "Izgled",
+    "textAlign": "Poravnanje",
+    "visualInterest": {
+      "label": "Vizualni interes",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logotip"
+        },
+        "none": {
+          "label": "Nema"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Boja (statistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Poveznica",
+      "sourceLink": "URL poveznice",
+      "sourceTitle": "Tekst poveznice"
+    },
+    "sectionTitle": "Pojedinosti",
+    "subtitle": "Podnaslov",
+    "title": "Naziv",
+    "trailingText": "Prateći tekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Poveznica potrebna za prikaz izvora"
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatiranje",
+    "unit": {
+      "label": "Jedinice prikaza",
+      "helperText": "Unesite mjernu jedinicu za svoju vrijednost."
+    },
+    "unitPosition": {
+      "label": "Raspored",
+      "enum": {
+        "after": {
+          "label": "Poslije"
+        },
+        "before": {
+          "label": "Prije"
+        },
+        "below": {
+          "label": "Ispod"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Dijeljenje",
+    "showShareIcon": "Omogući",
+    "shareableByValue": "Omogući umetanje",
+    "shareableOnHover": {
+      "label": "Prikaži",
+      "enum": {
+        "always": {
+          "label": "Uvijek"
+        },
+        "hover": {
+          "label": "Samo s lebdenjem"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Izvor podataka",
+    "displayValue": "Prikaži vrijednost",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Vrsta",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamičko",
+          "description": "Odaberite postojeći skup podataka (usluga geoobjekta) za sažetak."
+        },
+        "static": {
+          "label": "Statičko",
+          "description": "Ručno unesite vrijednost koju želite istaknuti u svom izgledu."
+        }
+      }
+    }
+  }
+}

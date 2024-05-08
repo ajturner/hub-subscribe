@@ -1,0 +1,14 @@
+{
+  "title": "Tiêu đề",
+  "created": "Ngày tạo",
+  "modified": "Ngày đã cập nhật",
+  "updated": "Ngày đã cập nhật",
+  "asc": "tăng dần",
+  "desc": "giảm dần",
+  "relevance": "Liên quan",
+  "change-sort-order": "Thay đổi thứ tự sắp xếp",
+  "sort-by": "Sắp xếp theo ",
+  "joined": "Ngày gia nhập",
+  "username": "Tên người dùng",
+  "membertype": "Vai trò"
+}

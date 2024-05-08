@@ -1,0 +1,37 @@
+{
+  "beta": "Beta",
+  "editLayout": "Edit layout",
+  "editContent": "Edit content",
+  "editAdvancedJson": "Edit advanced JSON",
+  "view": {
+    "project": "View project",
+    "site": "View site",
+    "initiative": "View initiative",
+    "discussion": "View discussion",
+    "content": "View content",
+    "page": "View page",
+    "group": "View group",
+    "initiativeTemplate": "View initiative template",
+    "template": "View template"
+  },
+  "label": {
+    "project": "Project workspace",
+    "site": "Site workspace",
+    "initiative": "Initiative workspace",
+    "discussion": "Discussion workspace",
+    "content": "Content workspace",
+    "page": "Page workspace",
+    "group": "Group workspace",
+    "initiativeTemplate": "Initiative Template workspace",
+    "template": "Template workspace"
+  },
+  "access": {
+    "sharingLevel": "Sharing level",
+    "groupSharing": "Group sharing",
+    "public": "Public",
+    "org": "Organization",
+    "private": "Owner",
+    "shared": "Privately shared",
+    "disabled": "You cannot change sharing because you are not the owner or an administrator."
+  }
+}

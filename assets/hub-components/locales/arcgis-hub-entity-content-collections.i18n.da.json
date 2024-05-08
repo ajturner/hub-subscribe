@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Vis",
+    "hide": "Skjul",
+    "rename": "Omdøb"
+  },
+  "formAlert": "Formularadvarsel",
+  "alertMessages": {
+    "success": "Redigeringer er blevet gemt",
+    "error": "Fejl under lagring af redigeringer"
+  },
+  "collectionRenameModal": {
+    "title": "Omdøb samling",
+    "fieldLabel": "Etiket til samling",
+    "requiredMessage": "Der kræves en etiket til samling",
+    "apply": "Anvend"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Data",
+      "hidden": "Data (skjult)"
+    },
+    "site": {
+      "visible": "Websteder",
+      "hidden": "Websteder (skjult)"
+    },
+    "document": {
+      "visible": "Dokumenter",
+      "hidden": "Dokumenter (skjult)"
+    },
+    "appAndMap": {
+      "visible": "Apps og kort",
+      "hidden": "Apps og kort (skjult)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (skjult)"
+    }
+  },
+  "saveButton": "Gem"
+}

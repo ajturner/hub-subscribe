@@ -1,0 +1,19 @@
+{
+  "select": "選擇",
+  "cancel": "取消",
+  "iconModalTitle": "選擇圖示",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "從圖庫選擇"
+      },
+      "url": {
+        "description": "為您自己提供 URL"
+      }
+    }
+  },
+  "altText": {
+    "label": "更改文字",
+    "helperText": "若未新增，會將圖示標記為裝飾性圖示。"
+  }
+}

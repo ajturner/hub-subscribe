@@ -1,0 +1,15 @@
+{
+  "new": "Uusi",
+  "project": {
+    "title": "Uusi projekti",
+    "description": "Korosta työ, johon liittyy selkeitä tavoitteita ja aikavälejä"
+  },
+  "initiative": {
+    "title": "Uusi aloite",
+    "description": "Korosta työ, johon liittyy selkeitä tavoitteita ja aikavälejä"
+  },
+  "discussion": {
+    "title": "Uusi keskustelupalsta",
+    "description": "Luo uusi keskustelupalsta antamalla aihetta kuvaava nimi."
+  }
+}

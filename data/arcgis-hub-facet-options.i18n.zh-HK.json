@@ -1,0 +1,7 @@
+{
+  "showMore": "再顯示 {num} 個",
+  "showLess": "顯示較少",
+  "inputPlaceholder": "篩選器選項",
+  "noMatchesNotice": "找不到相符的選項",
+  "inputAriaLabel": "按關鍵字尋找選項"
+}

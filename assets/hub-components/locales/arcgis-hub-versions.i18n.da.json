@@ -1,0 +1,14 @@
+{
+  "createdBy": "Oprettet af {creator}",
+  "emptyMessage": "Der blev ikke fundet nogen versioner",
+  "errorMessage": "Fejl under hentning af versioner",
+  "menuLabel": "vis handlinger",
+  "publishedBadge": "Udgivet",
+  "viewingBadge": "Viser",
+  "popover.label": "Versionshandlinger",
+  "popover.actions.delete": "Slet",
+  "popover.actions.edit": "Redigér oplysninger",
+  "popover.actions.share": "Del",
+  "shareErrorMessage": "Fejl under kopiering af delings-URL til udklipsholder.",
+  "shareSuccessMessage": "Delings-URL kopieret til udklipsholderen."
+}

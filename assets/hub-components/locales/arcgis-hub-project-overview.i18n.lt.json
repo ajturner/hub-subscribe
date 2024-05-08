@@ -1,0 +1,27 @@
+{
+  "overview": "Apžvalga",
+  "telemetry": {
+    "pageViews": "Puslapio peržiūros",
+    "last30days": "30 dienų",
+    "lastUpdated": "Paskutinį kartą atnaujinta prieš {hoursElapsed} valandas"
+  },
+  "newNotice": {
+    "title": "Štai jūsų projekto darbo erdvė",
+    "message": "Ši darbo erdvė pritaikyta projektams redaguoti. Darbo erdvės leidžia bendradarbiams sutelkti dėmesį į atskirus elementus ir yra nuolat tobulinamos.",
+    "link": "Sužinoti daugiau"
+  },
+  "learnAbout": "Sužinokite daugiau apie Hub projektus",
+  "feedbackNotice": {
+    "message": "Kaip jums patinka Hub projektai? Kadangi šis elementas vis dar yra beta versijoje, norime sužinoti, kaip juo naudojatės.",
+    "link": "Pateikti atsiliepimą"
+  },
+  "status": {
+    "notStarted": "Nepradėta",
+    "inProgress": "Vykdoma",
+    "onHold": "Sulaikyta",
+    "complete": "Baigta"
+  },
+  "editDetails": "Redaguoti informaciją",
+  "noPurposeSet": "Paskirtis nenustatyta",
+  "noLocationSet": "Vieta nenustatyta"
+}

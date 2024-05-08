@@ -1,0 +1,1 @@
+const e=e=>{let a;switch(e){case"public":a="globe";break;case"org":a="organization";break;case"shared":a="users";break;case"private":a="user"}return a};export{e as g}

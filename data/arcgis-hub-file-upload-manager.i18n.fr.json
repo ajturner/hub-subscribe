@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Sélectionner du contenu",
+  "secondStepHeader": "Définir les détails",
+  "thirdStepHeader": "Définir le niveau de partage et l’accès",
+  "next": "Suivant",
+  "back": "Retour",
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "divider": "ou",
+  "duplicateFileAriaLabel": "erreur de fichier dupliqué",
+  "duplicateFileError": "Un élément portant le même nom de fichier existe déjà. Modifiez le nom du fichier et réessayez, ou supprimez le <a>fichier en double</a> dans ArcGIS Online.",
+  "uploading": "Chargement"
+}

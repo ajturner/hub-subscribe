@@ -1,0 +1,16 @@
+{
+  "location.add": "Lisää sijainti",
+  "location.remove": "Poista sijainti",
+  "draw.tip": "Lisätäänkö toinen sijainti?",
+  "prompt.add.post": "Lisää julkaisuun",
+  "prompt.add.reply": "Lisää vastaukseen",
+  "prompt.edit.point": "Siirrä pistettä",
+  "prompt.edit.polyline": "Muokkaa viivaa",
+  "prompt.edit.polygon": "Muokkaa aluetta",
+  "prompt.remove.point": "Poista piste",
+  "prompt.remove.polyline": "Poista viiva",
+  "prompt.remove.polygon": "Poista alue",
+  "prompt.remove.existing": "Peruuta valinta",
+  "prompt.location.edit": "Päivitä piirustus",
+  "prompt.location.delete": "Poista piirustus"
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "mở hồ sơ trong tab mới",
+  "noGroups": "Không có nhóm nào",
+  "pickerToggle": "Thêm nhóm",
+  "pickerTitle": "Chọn nhóm",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Không có thành viên nào",
+      "oneMember": "1 thành viên",
+      "members": "{count} thành viên"
+    },
+    "dateCreated": "Ngày tạo: {localizedDate}",
+    "sharing": "Chia sẻ: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Chính tôi",
+      "shared": "Chủ sở hữu & nhóm",
+      "org": "Tổ chức",
+      "public": "Công khai"
+    },
+    "membership": "Quyền thành viên: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Chủ sở hữu Nhóm",
+      "admin": "Quản lý Nhóm",
+      "member": "Thành viên Nhóm",
+      "none": "Không có"
+    }
+  }
+}

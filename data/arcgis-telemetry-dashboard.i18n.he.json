@@ -1,0 +1,31 @@
+{
+  "dateRange": "טווח תאריכים: {start} - {end}",
+  "pageViews": "צפיות בדף",
+  "timeOnSite": "ממוצע דקות באתר",
+  "users": "הפעלות",
+  "viewsOverTime": "צפיות בדף לאורך זמן",
+  "disabledTracking": "מעקב אחר פעילות מושבת",
+  "enableTracking": "הפעל מעקב אחר פעילות Hub בהגדרות האתר כדי לנטר שימוש באתר.",
+  "learnMore": "קבל מידע נוסף.",
+  "disabled": "מושבת",
+  "notificationLabel": "הנתונים עודכנו",
+  "dataUpdated": "הנתונים עודכנו",
+  "subscribe": "הירשם כמנוי",
+  "subscribed": "רשום כמינוי",
+  "weeklyReport": "דוח שבועי",
+  "timestampTitle": {
+    "hour": "שעה ביום",
+    "day": "תאריך",
+    "week": "שבוע"
+  },
+  "formAlert": "התראת צורה",
+  "success": "המינוי עודכן בהצלחה",
+  "subscriptionActivatedTitle": "המינוי הופעל",
+  "subscriptionActivatedMessage": "רשמת את {email} לקבלת מדדי מעורבות שבועיים.",
+  "unsubscribeCompleteTitle": "ביטול ההרשמה הושלם",
+  "unsubscribeCompleteMessage": "הרישום של {email} לקבלת מדדי מעורבות בוטל בהצלחה.",
+  "problemSubscribingTitle": "בעיה ברישום",
+  "problemSubscribingMessage": "אירעה בעיה ברישום. שגיאה: ",
+  "problemUnsubscribingTitle": "בעיה בביטול הרישום",
+  "problemUnsubscribingMessage": "אירעה בעיה בביטול הרישום. שגיאה: "
+}

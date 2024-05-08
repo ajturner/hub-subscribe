@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geobase de dades de l'SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Geobase de dades de fitxers",
+  "featureCollection": "Col·lecció de característiques",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Baixa el CSV",
+  "downloadshapefile": "Baixa el shapefile",
+  "downloadsqlite": "Baixa la geobase de dades de l'SQLite",
+  "downloadgeoPackage": "Baixa el GeoPackage",
+  "downloadfilegdb": "Baixa la geobase de dades de fitxers",
+  "downloadfeatureCollection": "Baixa la col·lecció d'entitats",
+  "downloadgeojson": "Baixa el GeoJSON",
+  "downloadexcel": "Baixa l'Excel",
+  "rateLimitMessage": "S'ha arribat al límit de baixada. Torneu-ho a provar d'aquí a una hora o poseu-vos en contacte amb l'administrador de contingut.",
+  "createReplicaErrorMessage": "S'ha produït un error intern en crear la rèplica. Torneu-ho a provar d'aquí a una hora o poseu-vos en contacte amb l'administrador de contingut."
+}

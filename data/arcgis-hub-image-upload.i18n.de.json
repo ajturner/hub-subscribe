@@ -1,0 +1,15 @@
+{
+  "done": "Fertig",
+  "cancel": "Abbrechen",
+  "dragDrop": "Eine JPG-, PNG- oder GIF-Datei per Drag & Drop hier ablegen.",
+  "browse": "Durchsuchen...",
+  "chooseDiff": "Anderes Bild auswählen",
+  "zoom": "Zoom:",
+  "bestSize": "Für optimale Ergebnisse sollte das Bild eine Größe von 300 x 300 Pixel haben.",
+  "close": "Schließen",
+  "or": "oder",
+  "fromMap": "Miniaturansicht aus Karte erstellen",
+  "fromMapDesc": "Benutzerdefinierte Miniaturansicht durch Festlegen der Ausdehnung und Zoomstufe erstellen",
+  "changeBasemap": "Grundkarte ändern",
+  "loading": "Wird geladen"
+}

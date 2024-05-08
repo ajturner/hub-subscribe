@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Фільтр місця розташування",
+  "panel.reset": "Скинути фільтр",
+  "distance.title": "Відстань",
+  "distance.placeholder": "Ввести число...",
+  "distance.message": "Введіть номер для розширення відфільтрованої області.",
+  "system.imperial": "Британська система",
+  "system.metric": "Метричний",
+  "units.title": "Одиниці",
+  "units.feet": "Фути",
+  "units.miles": "Милі",
+  "units.nauticalmiles": "Морські милі",
+  "units.meters": "Метри",
+  "units.kilometers": "Кілометри"
+}

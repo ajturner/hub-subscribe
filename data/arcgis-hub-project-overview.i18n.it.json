@@ -1,0 +1,27 @@
+{
+  "overview": "Panoramica",
+  "telemetry": {
+    "pageViews": "Visualizzazioni pagina",
+    "last30days": "Ultimi 30 giorni",
+    "lastUpdated": "Ultimo aggiornamento {hoursElapsed} ore fa"
+  },
+  "newNotice": {
+    "title": "Questo è il tuo workspace di progetto",
+    "message": "Questo workspace è personalizzato per la modifica dei progetti. I workspace consentono ai collaboratori di concentrarsi su singoli elementi e sono in continuo sviluppo.",
+    "link": "Ulteriori informazioni"
+  },
+  "learnAbout": "Informazioni sui progetti Hub",
+  "feedbackNotice": {
+    "message": "Ti piacciono i progetti Hub? Poiché questa feature è ancora in fase beta, vogliamo sapere come la utilizzi.",
+    "link": "Invia feedback"
+  },
+  "status": {
+    "notStarted": "Non avviato",
+    "inProgress": "In corso",
+    "onHold": "In sospeso",
+    "complete": "Completo"
+  },
+  "editDetails": "Modificare i dettagli",
+  "noPurposeSet": "Nessuno scopo impostato",
+  "noLocationSet": "Nessuna posizione impostata"
+}

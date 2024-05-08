@@ -1,0 +1,7 @@
+{
+  "showMore": "Afișează mai mult {num}",
+  "showLess": "Afișează mai puțin",
+  "inputPlaceholder": "Opţiuni de filtrare",
+  "noMatchesNotice": "Nu s-au găsit opțiuni corespunzătoare",
+  "inputAriaLabel": "Găsiți o opțiune după cuvinte cheie"
+}

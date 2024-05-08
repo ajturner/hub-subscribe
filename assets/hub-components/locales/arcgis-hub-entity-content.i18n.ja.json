@@ -1,0 +1,24 @@
+{
+  "content": "コンテンツ",
+  "tabs": {
+    "catalog": "カタログ",
+    "collections": "コレクション",
+    "catalogConfig": "カタログ構成"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "カタログの構成",
+        "message": "カタログの構築と構成が開始されました。 カタログはグループから構成され、その中にコンテンツが設定されています。",
+        "link": "カタログの詳細"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "カタログが空です",
+        "message": "カタログを開始する準備ができています。 カタログを構成するには、1 つ以上のグループを追加し、その中にコンテンツを設定します。",
+        "link": "はじめに"
+      }
+    }
+  }
+}

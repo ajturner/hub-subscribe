@@ -1,0 +1,19 @@
+{
+  "anonymous": "مجهول",
+  "noUser": "لا يوجد اسم مستخدم",
+  "privateUser": "عضو خاص",
+  "privateOrg": "مؤسسة خاصة",
+  "org": "المنظمة",
+  "orgLabel": "المؤسسة",
+  "profile": "انتقال إلى ملف التعريف",
+  "location": "موقع",
+  "information": "معلومات حول المنشور",
+  "postedIn": "تم النشر في {groupName}",
+  "replyingTo": "الرد على @{username}",
+  "visiblePrivate": "مرئي للأعضاء فقط",
+  "visibleOrg": "مرئي للمؤسسة",
+  "visibleAll": "مرئي للجميع",
+  "manageChannel": "إدارة القناة",
+  "group.deleted": "المجموعة المحذوفة",
+  "unnamedChannel": "قناة بدون اسم"
+}

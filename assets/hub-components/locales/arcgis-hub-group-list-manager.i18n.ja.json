@@ -1,0 +1,28 @@
+{
+  "newTab": "新しいタブでプロフィールを開く",
+  "noGroups": "グループがありません",
+  "pickerToggle": "グループの追加",
+  "pickerTitle": "グループの選択",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "メンバーが存在しません",
+      "oneMember": "1 人のメンバー",
+      "members": "{count} 人のメンバー"
+    },
+    "dateCreated": "作成日: {localizedDate}",
+    "sharing": "共有: {sharingLevel}",
+    "sharingLevels": {
+      "private": "自分",
+      "shared": "所有者とグループ",
+      "org": "組織",
+      "public": "パブリック"
+    },
+    "membership": "メンバーシップ: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "グループの所有者",
+      "admin": "グループ マネージャー",
+      "member": "グループ メンバー",
+      "none": "なし"
+    }
+  }
+}

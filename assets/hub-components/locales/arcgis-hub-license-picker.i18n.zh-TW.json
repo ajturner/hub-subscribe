@@ -1,0 +1,19 @@
+{
+  "chooseButton": "選擇使用條款",
+  "editorLabel": "已選擇使用條款",
+  "editorRemoveWarning": "警告，您即將刪除使用條款。",
+  "licenseDescriptionCc0": "這項工作公眾專有",
+  "licenseDescriptionCcBy": "需要屬性指派",
+  "licenseDescriptionCcByNc": "需要屬性指派，允許重新混合，但禁止商業用途",
+  "licenseDescriptionCcByNcNd": "最嚴格，需要屬性指派，禁止商業用途和重新混合",
+  "licenseDescriptionCcByNcSa": "需要屬性指派，允許重新混合，但禁止商業用途，且衍生作品必須保持相同授權",
+  "licenseDescriptionCcByNd": "需要屬性指派，允許商業用途，但禁止分享衍生品",
+  "licenseDescriptionCcBySa": "需要屬性指派，允許重新混合和商業用途",
+  "licenseDescriptionCustom": "詳細資訊的視圖",
+  "licenseDescriptionOdbl": "只要其他人具有屬性、類似分享並保持開放，則允許分享、建立和調整",
+  "licenseDescriptionOdcBy": "只要其他人具有屬性，則允許分享、建立和調整",
+  "licenseDescriptionPddl": "允許分享、建立和調整",
+  "licenseInfoButtonAriaLabel": "使用條款詳細資訊，在新頁籤中開啟",
+  "selectedLicenseLabelFallback": "自訂",
+  "selectedLicenseLabelNoLicense": "無使用條款"
+}

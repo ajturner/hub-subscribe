@@ -1,0 +1,30 @@
+{
+  "helperText": "定义和配置目录",
+  "sections": {
+    "groups": {
+      "title": "群组",
+      "helperText": "下面的群组包含搜索目录中的内容。 选择一个群组以查看其设置、内容等。",
+      "createGroup": "新建群组"
+    },
+    "feeds": {
+      "title": "源配置",
+      "helperText": "通过 Hub 源，使您的公共开放数据易于访问和重复使用。",
+      "learn": "了解有关 Hub 源的信息",
+      "toggle": "启用源 ",
+      "configure": "配置源",
+      "notice": "要启用源，首先需要在设置中将您的 Hub 站点设置为“公开”。"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "自",
+    "editGroups": "编辑群组",
+    "viewGroups": "查看群组",
+    "myGroup": "我的群组",
+    "myOrganization": "我的组织",
+    "myCommunity": "我的社区"
+  },
+  "formAlert": "表单警告",
+  "alertMessages": {
+    "error": "保存编辑内容时出错"
+  }
+}

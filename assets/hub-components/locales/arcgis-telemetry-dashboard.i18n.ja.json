@@ -1,0 +1,31 @@
+{
+  "dateRange": "日付範囲: {start} ～ {end}",
+  "pageViews": "ページビュー",
+  "timeOnSite": "サイト滞在の平均時間 (分)",
+  "users": "セッション",
+  "viewsOverTime": "一定期間のページビュー数",
+  "disabledTracking": "アクティビティの追跡が無効になっています",
+  "enableTracking": "サイト設定で Hub アクティビティの追跡を有効化して、サイトの使用状況を監視します。",
+  "learnMore": "詳細を見る。",
+  "disabled": "無効",
+  "notificationLabel": "データが更新されました",
+  "dataUpdated": "データが更新されました",
+  "subscribe": "登録",
+  "subscribed": "購読済み",
+  "weeklyReport": "週次レポート",
+  "timestampTitle": {
+    "hour": "時刻",
+    "day": "日付",
+    "week": "週"
+  },
+  "formAlert": "フォームの通知",
+  "success": "サブスクリプションが正常に更新されました",
+  "subscriptionActivatedTitle": "サブスクリプションが有効化されました",
+  "subscriptionActivatedMessage": "週次のエンゲージメント メトリクスを受信する電子メール ({email}) を登録しました。",
+  "unsubscribeCompleteTitle": "登録解除が完了しました",
+  "unsubscribeCompleteMessage": "{email} がエンゲージメント メトリクスから正常に登録解除されました。",
+  "problemSubscribingTitle": "登録できません",
+  "problemSubscribingMessage": "登録時に問題が発生しました。 エラー: ",
+  "problemUnsubscribingTitle": "登録解除できません",
+  "problemUnsubscribingMessage": "登録解除時に問題が発生しました。 エラー: "
+}

@@ -1,0 +1,10 @@
+{
+  "error": "Niečo sa pokazilo",
+  "repliesFailure": "Odpovede na tento príspevok nie je možné zobraziť.",
+  "thread.deleted.title": "Vlákno odstránené",
+  "thread.deleted.message": "Odkazovaný príspevok a odpoveď boli odstránené a nie je možné ich zobraziť.",
+  "thread.deleted.action": "Zobraziť všetky príspevky",
+  "reply.single.title": "Zobrazujete jednu odpoveď",
+  "reply.single.link": "Zobraziť všetky odpovede",
+  "loading": "Načítava sa"
+}

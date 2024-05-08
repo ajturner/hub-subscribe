@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Informācijas panelis",
+    "details": "Papildinformācija",
+    "overview": "Pārskats",
+    "metrics": "Rādītāji",
+    "settings": "Iestatījumi",
+    "collaborators": "Līdzautori",
+    "discussion": "Diskusija",
+    "content": "Saturs",
+    "members": "Dalībnieki",
+    "participation": "Dalība",
+    "followers": "Sekotāji"
+  }
+}

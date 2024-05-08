@@ -1,0 +1,14 @@
+{
+  "createdBy": "Creato da {creator}",
+  "emptyMessage": "Nessuna versione trovata",
+  "errorMessage": "Errore nel recupero versioni",
+  "menuLabel": "mostra azioni",
+  "publishedBadge": "Pubblicato",
+  "viewingBadge": "Visualizzazione",
+  "popover.label": "Azioni versione",
+  "popover.actions.delete": "Elimina",
+  "popover.actions.edit": "Modificare i dettagli",
+  "popover.actions.share": "Condividi",
+  "shareErrorMessage": "Errore nella copia dell'URL della condivisione negli appunti.",
+  "shareSuccessMessage": "L'URL della condivisione è stato copiato negli appunti."
+}

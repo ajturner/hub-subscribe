@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Arraste e solte o ficheiro para carregar",
+  "imageHeading": "Carregar uma Imagem",
+  "selectedHeading": "Ficheiro Selecionado",
+  "maxSizeAndSupportedTypes": "O Tamanho Máx. é de {maxSize} MB, {fileTypes}",
+  "maxSize": "O Tamanho Máx. é de {maxSize} MB",
+  "recommendedDimensions": "Dimensões recomendadas: {recommendedDimensions}",
+  "linkText": "Ver Lista de Ficheiros Suportados",
+  "contentButton": "Procurar Ficheiro",
+  "imageButton": "Procurar Imagem",
+  "clearButton": "Limpar Seleção",
+  "errorHeading": "Erro",
+  "fileTooLargeError": "Ficheiro demasiado grande",
+  "multipleFilesError": "Não é possível carregar vários ficheiros em simultâneo",
+  "unsupportedFileTypeError": "Este tipo de ficheiro não é suportado"
+}

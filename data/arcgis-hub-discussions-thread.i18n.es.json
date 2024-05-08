@@ -1,0 +1,10 @@
+{
+  "error": "Se ha producido un error",
+  "repliesFailure": "No se pueden mostrar las respuestas a esta publicación.",
+  "thread.deleted.title": "Subproceso eliminado",
+  "thread.deleted.message": "La publicación y la respuesta vinculadas se han eliminado y no se pueden mostrar.",
+  "thread.deleted.action": "Ver todas las publicaciones",
+  "reply.single.title": "Está visualizando una sola respuesta",
+  "reply.single.link": "Ver todas las respuestas",
+  "loading": "Cargando"
+}

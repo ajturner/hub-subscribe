@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "אוסף ישויות",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "הורד"
+}

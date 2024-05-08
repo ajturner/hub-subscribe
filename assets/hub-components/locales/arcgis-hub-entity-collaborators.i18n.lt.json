@@ -1,0 +1,52 @@
+{
+  "collaborators": "Bendradarbiai",
+  "editGroupButtonText": "Pridėti redagavimo grupes",
+  "viewGroupButtonText": "Pridėti peržiūros grupes",
+  "groupPicker": {
+    "title": "Pasirinkti grupes",
+    "facet": {
+      "label": "Nuo",
+      "editGroups": "Redaguoti grupes",
+      "viewGroups": "Peržiūrėti grupę",
+      "myGroup": "Mano grupė",
+      "myOrganization": "Mano organizacija",
+      "myCommunity": "Mano bendruomenė"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Pridėti naujus žmones",
+    "message": "Jei norite pridėti žmonių, galite pakviesti juos prisijungti prie bendruomenės arba </orgOverviewLink>susisiekti su administratoriumi<orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupės, kurios gali redaguoti",
+  "viewGroupsTitle": "Grupės, kurios gali peržiūrėti",
+  "project": {
+    "description": "Pasirinkite, kurios naudotojų grupės galės peržiūrėti ir redaguoti šį projektą.",
+    "editGroupsDescription": "Šiose grupėse esantys žmonės galės redaguoti projekto informaciją.",
+    "viewGroupsDescription": "Šiose grupėse esantys žmonės galės ieškoti ir peržiūrėti projektą, jei juo nėra viešai pasidalinta.",
+    "errorMessage": "Atnaujinant jūsų projekto bendradarbius, įvyko klaida."
+  },
+  "content": {
+    "description": "Pasirinkite naudotojų grupes, kurios galės peržiūrėti ir redaguoti šį turinį.",
+    "editGroupsDescription": "Šiose grupėse esantys žmonės galės redaguoti turinio informaciją.",
+    "viewGroupsDescription": "Šiose grupėse esantys žmonės galės ieškoti ir peržiūrėti turinį, jei juo nėra viešai pasidalinta.",
+    "errorMessage": "Atnaujinant jūsų turinio bendradarbius, įvyko klaida."
+  },
+  "discussion": {
+    "description": "Pasirinkite naudotojų grupes, kurios galės peržiūrėti ir redaguoti šią diskusiją.",
+    "editGroupsDescription": "Šiose grupėse esantys žmonės galės redaguoti diskusijos informaciją.",
+    "viewGroupsDescription": "Šiose grupėse esantys žmonės galės ieškoti ir peržiūrėti diskusiją, jei ja nėra viešai pasidalinta.",
+    "errorMessage": "Atnaujinant jūsų diskusijos bendradarbius, įvyko klaida."
+  },
+  "site": {
+    "description": "Pasirinkite naudotojų grupes, kurios galės peržiūrėti ir redaguoti šią svetainę.",
+    "editGroupsDescription": "Šiose grupėse esantys žmonės galės redaguoti svetainės informaciją.",
+    "viewGroupsDescription": "Šiose grupėse esantys žmonės galės ieškoti ir peržiūrėti svetainę, jei ji nėra viešai pasidalinta.",
+    "errorMessage": "Atnaujinant jūsų svetainės bendradarbius, įvyko klaida."
+  },
+  "newTab": "atidaryti profilį naujame skirtuke",
+  "supportingTeams": "Palaikymo komandos",
+  "supportingTeamsDesc": "Šios palaikymo komandos anksčiau buvo susietos su jūsų svetaine. Galite ir toliau jas naudoti bendrindami turinį su bendradarbiais.",
+  "supportTeamsRemove": "Pašalinti komandą",
+  "supportingTeamsRemoveError": "Atsiejant komandą, įvyko klaida. Susisiekite su administratoriumi.",
+  "supportingTeamsRemoveSuccess": "Komanda atsieta sėkmingai."
+}

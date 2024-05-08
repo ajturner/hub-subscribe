@@ -1,0 +1,19 @@
+{
+  "chooseButton": "בחר תנאי שימוש",
+  "editorLabel": "תנאי שימוש שנבחרו",
+  "editorRemoveWarning": "אזהרה, אתה עומד למחוק את תנאי השימוש.",
+  "licenseDescriptionCc0": "עבודה זו מוקדשת לציבור",
+  "licenseDescriptionCcBy": "מחייב שיוך",
+  "licenseDescriptionCcByNc": "מחייב שיוך, מתיר ערבוב מחדש, אך אוסר שימוש מסחרי",
+  "licenseDescriptionCcByNcNd": "המגביל ביותר, מחייב שיוך, אוסר שימוש מסחרי וערבוב מחדש",
+  "licenseDescriptionCcByNcSa": "מחייב שיוך, מתיר ערבוב מחדש, אך אוסר שימוש מסחרי ועבודות נגזרות חייבות להשאיר את אותו רישיון",
+  "licenseDescriptionCcByNd": "מחייב שיוך, מתיר שימוש מסחרי, אך אוסר שיתוף של עבודות נגזרות",
+  "licenseDescriptionCcBySa": "מחייב שיוך, מתיר ערבוב מחדש ושימוש מסחרי",
+  "licenseDescriptionCustom": "הצג לקבלת פרטים",
+  "licenseDescriptionOdbl": "התר שיתוף, יצירה והתאמה כל עוד אחרים משייכים, משתפים-דומה ומשאירים פתוח",
+  "licenseDescriptionOdcBy": "התר שיתוף, יצירה והתאמה כל עוד אחרים משייכים",
+  "licenseDescriptionPddl": "התר שיתוף, יצירה והתאמה",
+  "licenseInfoButtonAriaLabel": "פרטי תנאי שימוש, נפתח בכרטיסייה חדשה",
+  "selectedLicenseLabelFallback": "מותאם אישית",
+  "selectedLicenseLabelNoLicense": "אין תנאי שימוש"
+}

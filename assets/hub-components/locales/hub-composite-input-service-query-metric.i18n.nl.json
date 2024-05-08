@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Delen",
+      "myself": "Ikzelf",
+      "myOrganization": "Mijn organisatie",
+      "public": "Wereld (openbaar)"
+    },
+    "catalog": {
+      "myContent": "Mijn Content",
+      "favorites": "Favorieten",
+      "organization": "Mijn organisatie",
+      "world": "Wereld (openbaar)"
+    }
+  },
+  "expression": {
+    "label": "Attribuutfilters"
+  },
+  "field": {
+    "label": "Attribuut"
+  },
+  "layer": "Laag / Tabel",
+  "statistic": {
+    "label": "Aggregatie"
+  }
+}

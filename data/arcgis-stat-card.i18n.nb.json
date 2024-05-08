@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Serverforbindelsen fikk tidsavbrudd og kunne ikke vise statistikken.",
+    "title": "Serveren fikk tidsavbrudd"
+  },
+  "genericError": {
+    "message": "Statistikk kan ikke vises.",
+    "title": "Noe gikk galt"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Prikaži",
+    "hide": "Sakrij",
+    "rename": "Preimenuj"
+  },
+  "formAlert": "Formiraj upozorenje",
+  "alertMessages": {
+    "success": "Uspešno sačuvana uređivanja",
+    "error": "Greška u čuvanju uređivanja"
+  },
+  "collectionRenameModal": {
+    "title": "Promeni naziv kolekcije",
+    "fieldLabel": "Oznaka kolekcije",
+    "requiredMessage": "Oznaka kolekcije je obavezna",
+    "apply": "Primeni"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Podaci",
+      "hidden": "Podaci (Sakriveno)"
+    },
+    "site": {
+      "visible": "Sajtovi",
+      "hidden": "Sajtovi (Sakriveno)"
+    },
+    "document": {
+      "visible": "Dokumenti",
+      "hidden": "Dokumenta (Sakriveno)"
+    },
+    "appAndMap": {
+      "visible": "Aplikacije i mape",
+      "hidden": "Aplikacije i mape (Sakriveno)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Sakriveno)"
+    }
+  },
+  "saveButton": "Sačuvaj"
+}

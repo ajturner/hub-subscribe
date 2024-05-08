@@ -1,0 +1,24 @@
+{
+  "title": "Μέλη",
+  "facets": {
+    "role": {
+      "label": "Ρόλος",
+      "all": "Όλες",
+      "manager": "Διαχειριστής",
+      "member": "Μέλος"
+    },
+    "dateJoined": {
+      "label": "Ημερομηνία εγγραφής μέλους"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Σύνολο",
+      "trailingText": "Μέλη ομάδας"
+    },
+    "new": {
+      "title": "Νέο",
+      "trailingText": "Τελευταίες 30 ημέρες"
+    }
+  }
+}

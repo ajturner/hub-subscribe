@@ -1,0 +1,9 @@
+{
+  "title": "버전 세부정보 편집",
+  "save": "저장",
+  "cancel": "취소",
+  "name.label": "제목",
+  "name.helpText": "Esri에서 날짜-타임스탬프로 버전을 식별하도록 하려면 제목을 비워 둡니다.",
+  "description.label": "설명",
+  "error": "버전을 업데이트하는 동안 오류가 발생했습니다."
+}

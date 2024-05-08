@@ -1,0 +1,15 @@
+{
+  "panel.heading": "位置篩選器",
+  "panel.reset": "重設篩選器",
+  "distance.title": "距離",
+  "distance.placeholder": "輸入數字...",
+  "distance.message": "輸入數字以展開篩選的區域。",
+  "system.imperial": "英制",
+  "system.metric": "公制",
+  "units.title": "單位",
+  "units.feet": "英呎",
+  "units.miles": "英里",
+  "units.nauticalmiles": "海浬",
+  "units.meters": "公尺",
+  "units.kilometers": "公里"
+}

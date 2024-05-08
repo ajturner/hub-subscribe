@@ -1,0 +1,12 @@
+{
+  "save": "Kaydet",
+  "cancel": "İptal",
+  "undoChanges": "Değişiklikleri geri al",
+  "next": "İleri",
+  "back": "Geri",
+  "formAlert": "Biçim uyarısı",
+  "invalidForm": "Lütfen tüm hataları düzeltin.",
+  "saveDisabled": "Kaydetme devre dışı",
+  "success": "Düzenlemeler başarıyla kaydedildi",
+  "error": "Düzenlemeler kaydedilirken hata oluştu"
+}

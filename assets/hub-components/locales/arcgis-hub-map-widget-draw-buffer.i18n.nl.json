@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Locatiefilter",
+  "panel.reset": "Filter resetten",
+  "distance.title": "Afstand",
+  "distance.placeholder": "Voer een getal in...",
+  "distance.message": "Voer een getal in om het gefilterde gebied uit te breiden.",
+  "system.imperial": "Brits",
+  "system.metric": "Metrisch",
+  "units.title": "Eenheden",
+  "units.feet": "Voet",
+  "units.miles": "Mijl",
+  "units.nauticalmiles": "Zeemijl",
+  "units.meters": "Meter",
+  "units.kilometers": "Kilometer"
+}

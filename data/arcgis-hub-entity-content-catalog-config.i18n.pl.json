@@ -1,0 +1,30 @@
+{
+  "helperText": "Zdefiniuj i skonfiguruj katalog",
+  "sections": {
+    "groups": {
+      "title": "Grupy",
+      "helperText": "Poniższe grupy zawierają zasoby katalogu wyszukiwania. Wybierz grupę, aby wyświetlić jej ustawienia, zasoby i nie tylko.",
+      "createGroup": "Utwórz nową grupę"
+    },
+    "feeds": {
+      "title": "Konfiguracja kanału",
+      "helperText": "Zapewnij łatwy dostęp do otwartych danych publicznych i możliwość ich ponownego wykorzystania dzięki kanałom Centrum.",
+      "learn": "Dowiedz się więcej na temat kanałów Centrum",
+      "toggle": "Włącz kanały ",
+      "configure": "Konfiguruj źródła",
+      "notice": "Aby włączyć kanały, należy najpierw ustawić witryny Centrum jako „Publiczne” w Ustawieniach"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Od",
+    "editGroups": "Edytuj grupy",
+    "viewGroups": "Wyświetl grupę",
+    "myGroup": "Moja grupa",
+    "myOrganization": "Moja instytucja",
+    "myCommunity": "Moja społeczność"
+  },
+  "formAlert": "Alert dotyczący formularza",
+  "alertMessages": {
+    "error": "Błąd podczas zapisywania zmian"
+  }
+}

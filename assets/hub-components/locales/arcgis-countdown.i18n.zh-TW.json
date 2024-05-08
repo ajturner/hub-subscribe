@@ -1,0 +1,7 @@
+{
+  "days": "天",
+  "hours": "小時",
+  "minutes": "分鐘",
+  "seconds": "秒",
+  "countdownDateMissingError": "您必須提供倒數日期"
+}

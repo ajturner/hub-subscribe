@@ -1,0 +1,24 @@
+{
+  "content": "Sisältö",
+  "tabs": {
+    "catalog": "Luettelo",
+    "collections": "Kokoelmat",
+    "catalogConfig": "Luettelon määritys"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Määritä luettelosi",
+        "message": "Luettelosi luonti ja määritys aloitettiin. Luettelosi laaditaan ryhmistä, ja niihin lisätään sisältöä.",
+        "link": "Lue lisää luetteloista"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Luettelo on tyhjä",
+        "message": "Olet valmis aloittamaan luettelosi käytön. Luettelosi määritetään lisäämällä vähintään yksi ryhmä ja niihin sisältöä.",
+        "link": "Aloita käyttö"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Medlemmar",
+  "facets": {
+    "role": {
+      "label": "Roll",
+      "all": "Alla",
+      "manager": "Ledare",
+      "member": "Medlem"
+    },
+    "dateJoined": {
+      "label": "Anslutningsdatum"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Summa",
+      "trailingText": "Teammedlemmar"
+    },
+    "new": {
+      "title": "Ny",
+      "trailingText": "Senaste 30 dagarna"
+    }
+  }
+}

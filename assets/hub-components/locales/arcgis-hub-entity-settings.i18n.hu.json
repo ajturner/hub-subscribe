@@ -1,0 +1,34 @@
+{
+  "settings": "Beállítások",
+  "delete": {
+    "project": "Projekt törlése",
+    "initiative": "Kezdeményezés törlése",
+    "site": "Hely törlése",
+    "discussion": "Vita törlése",
+    "content": "Tartalom törlése",
+    "page": "Oldal törlése",
+    "group": "Csoport törlése"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Projekt törlése",
+      "initiative": "Kezdeményezés törlése",
+      "site": "Hely törlése",
+      "discussion": "Vita törlése",
+      "content": "Tartalom törlése",
+      "page": "Oldal törlése",
+      "group": "Csoport törlése"
+    },
+    "content": "Biztos, hogy törli:",
+    "delete": "Törlés",
+    "cancel": "Mégse"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "A „Kinyerési” képesség megváltoztatja a szolgáltatás beállításait.",
+        "message": "A szolgáltatásra hivatkozó egyéb elemek is érintettek lesznek. További részletekért lásd: <docLink>Adatok exportálása központilag tárolt vektoros rétegekből</docLink>"
+      }
+    }
+  }
+}

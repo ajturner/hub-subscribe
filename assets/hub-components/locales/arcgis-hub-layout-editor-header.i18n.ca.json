@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Compartit amb l'organització",
+      "private": "Compartit amb el propietari",
+      "public": "Compartit amb el públic",
+      "shared": "Compartit amb el propietari i amb grups"
+    },
+    "editLayout": "Edita el disseny",
+    "lastUpdated": "Darrera actualització: {updated}",
+    "viewSite": "Mostra el lloc"
+  },
+  "cloneLayoutLabel": "Clona el disseny",
+  "deletePageLabel": "Suprimeix la pàgina",
+  "deleteSiteLabel": "Suprimeix el lloc",
+  "editInAgoLabel": "Edita a l'ArcGIS Online",
+  "managePage": "Administra la pàgina",
+  "manageSite": "Administra el lloc",
+  "moreOptionsLabel": "Més opcions",
+  "publishLabel": "Publica",
+  "saveAsTemplateLabel": "Desa com a plantilla",
+  "saveLabel": "Desa",
+  "sharingLabel": "Obre la subfinestra d'ús compartit",
+  "viewLabel": "Visualització",
+  "viewPublishedLabel": "Mostra l'esbós publicat",
+  "viewUnpublishedLabel": "Mostra una visualització prèvia de l'esbós no publicat"
+}

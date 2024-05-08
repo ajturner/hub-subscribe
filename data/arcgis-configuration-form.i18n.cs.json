@@ -1,0 +1,12 @@
+{
+  "save": "Uložit",
+  "cancel": "Storno",
+  "undoChanges": "Vrátit změny",
+  "next": "Další",
+  "back": "Zpět",
+  "formAlert": "Chyba formuláře",
+  "invalidForm": "Prosím opravte všechny chyby.",
+  "saveDisabled": "Ukládání zakázáno",
+  "success": "Úpravy byly úspěšně uloženy",
+  "error": "Chyba při ukládání úprav"
+}

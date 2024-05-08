@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoandmebaas",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Objektide kogum",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV allalaadimine",
+  "downloadshapefile": "Shapefile'i allalaadimine",
+  "downloadsqlite": "SQLite-Geodatabase allalaadimine",
+  "downloadgeoPackage": "GeoPackage'i allalaadimine",
+  "downloadfilegdb": "File Geodatabase allalaadimine",
+  "downloadfeatureCollection": "Objektide kogumi allalaadimine",
+  "downloadgeojson": "GeoJSONi allalaadimine",
+  "downloadexcel": "Exceli allalaadimine",
+  "rateLimitMessage": "Kahjuks on allalaadimislimiit täis. Proovige tunni aja pärast uuesti või võtke ühendust sisu halduriga.",
+  "createReplicaErrorMessage": "Koopia loomisel tekkis sisemine tõrge. Proovige tunni aja pärast uuesti või võtke ühendust sisu halduriga."
+}

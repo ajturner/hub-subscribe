@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "ฐานข้อมูลทางภูมิศาสตร์ SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "ไฟล์ฐานข้อมูลภูมิศาสตร์",
+  "featureCollection": "ฟีเจอร์ที่เก็บ",
+  "geojson": "GeoJSON",
+  "excel": "เอกซ์เซล",
+  "downloadcsv": "ดาวน์โหลด CSV",
+  "downloadshapefile": "ดาวน์โหลด Shapefile",
+  "downloadsqlite": "ดาวน์โหลด SQLite Geodatabase",
+  "downloadgeoPackage": "ดาวน์โหลด GeoPackage",
+  "downloadfilegdb": "ดาวน์โหลด File Geodatabase",
+  "downloadfeatureCollection": "ดาวน์โหลดฟีเจอร์คอลเลกชัน",
+  "downloadgeojson": "ดาวน์โหลด GeoJSON",
+  "downloadexcel": "ดาวน์โหลด Excel",
+  "rateLimitMessage": "ขออภัย คุณใช้งานจนถึงขีดจำกัดการดาวน์โหลดแล้ว โปรดลองอีกครั้งในหนึ่งชั่วโมง หรือติดต่อผู้จัดการเนื้อหา",
+  "createReplicaErrorMessage": "สร้างแบบจำลองข้อผิดพลาดภายใน โปรดลองอีกครั้งในหนึ่งชั่วโมง หรือติดต่อผู้จัดการเนื้อหา"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Participação",
+  "channelTitle": "Canal de participação",
+  "addChannelsTitle": "É necessário um canal para este item: só pode ser definido um.",
+  "headingChannelEdit": "Editar canal",
+  "headingChannelView": "Ver canal",
+  "headingChannelCreate": "Criar novo canal",
+  "buttons": {
+    "browse": "Procurar todos os canais",
+    "new": "Novo canal"
+  },
+  "galleryPickerTitle": "Selecione um canal",
+  "channelsLabel": "Canais",
+  "accessLabel": "Acesso",
+  "optionPublicLabel": "Público",
+  "optionOrganizationLabel": "Organização",
+  "optionPrivateLabel": "Privado",
+  "viewChannel": "Ver canal",
+  "editChannel": "Editar canal",
+  "save": "Guardar"
+}

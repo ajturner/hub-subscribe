@@ -1,0 +1,10 @@
+{
+  "true.heading": "Da, razprava je dovoljena",
+  "false.heading": "Ne, razprava je blokirana",
+  "content.label": "Želite omogočiti razpravo tega elementa?",
+  "content.true.description": "Uporabniki lahko ustvarjajo objave o tem elementu.",
+  "content.false.description": "Uporabniki ne morejo ustvarjati objav o tem elementu.",
+  "group.label": "Lahko ta skupina sodeluje v razpravi?",
+  "group.true.description": "Uporabniki skupine lahko vidijo in sodelujejo v kanalih razprave, ki so dostopni skupini.",
+  "group.false.description": "Uporabniki skupine ne morejo videti ali sodelovati v kanalih razprave, ki so dostopni skupini."
+}

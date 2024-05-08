@@ -1,0 +1,10 @@
+{
+  "error": "Wystąpiły problemy",
+  "repliesFailure": "Nie można wyświetlić odpowiedzi na ten wpis.",
+  "thread.deleted.title": "Wątek usunięty",
+  "thread.deleted.message": "Powiązany wpis i odpowiedź zostały usunięte i nie można ich wyświetlić.",
+  "thread.deleted.action": "Wyświetl wszystkie wpisy",
+  "reply.single.title": "Wyświetlasz jedną odpowiedź",
+  "reply.single.link": "Wyświetl wszystkie odpowiedzi",
+  "loading": "Wczytywanie"
+}

@@ -1,0 +1,15 @@
+{
+  "default": "تحديد نطاق التاريخ",
+  "today": "اليوم",
+  "yesterday": "أمس",
+  "last7Days": "آخر 7 أيام",
+  "last30Days": "آخر 30 يومًا",
+  "thisMonth": "هذا الشهر",
+  "lastMonth": "آخر شهر",
+  "pastYear": "السنة الماضية",
+  "custom": "تخصيص",
+  "nextMonth": "الشهر التالي",
+  "previousMonth": "الشهر السابق",
+  "year": "سنة",
+  "title": "تحديد الفترة الزمنية"
+}

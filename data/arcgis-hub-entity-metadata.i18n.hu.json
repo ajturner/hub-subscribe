@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Tulajdonos"
+  },
+  "updatedDate": {
+    "description": "Frissítés dátuma"
+  },
+  "createdDate": {
+    "description": "Közzétéve"
+  },
+  "access": {
+    "label": {
+      "public": "Nyilvános",
+      "org": "Szervezet",
+      "private": "Tulajdonos",
+      "shared": "Magánjellegűként megosztva"
+    },
+    "description": {
+      "public": {
+        "site": "Bárki láthatja ezt a webhelyet",
+        "project": "Bárki megtekintheti ezt a projektet",
+        "initiative": "A projekt bárki számára látható",
+        "discussion": "A vitafórum bárki számára látható",
+        "default": "Bárki láthatja ezt a tartalmat"
+      },
+      "org": {
+        "site": "Szervezetéből bárki láthatja ezt a webhelyet",
+        "project": "Szervezetéből bárki láthatja ezt a projektet",
+        "initiative": "Szervezetéből bárki láthatja ezt a kezdeményezést",
+        "discussion": "Szervezetéből bárki láthatja ezt a vitafórumot",
+        "default": "Szervezetének bármely tagja láthatja ezt a tartalmat"
+      },
+      "private": {
+        "site": "A webhely csak az Ön számára látható",
+        "project": "Csak Ön láthatja ezt a projektet",
+        "initiative": "A projekt csak az Ön számára látható",
+        "discussion": "Csak Ön láthatja ezt a vitafórumot",
+        "default": "Csak Ön láthatja ezt a tartalmat"
+      },
+      "shared": {
+        "site": "Válassza ki azokat a csoportokat, amelyek láthatják a webhelyet",
+        "project": "A kiválasztott csoportok láthatják ezt a projektet",
+        "initiative": "A kiválasztott csoportok láthatják ezt a kezdeményezést",
+        "discussion": "Válassza ki azokat a csoportokat, amelyek láthatják a vitafórumot",
+        "default": "A kiválasztott csoportok láthatják ezt a tartalmat"
+      }
+    }
+  }
+}

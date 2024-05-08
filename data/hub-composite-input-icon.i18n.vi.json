@@ -1,0 +1,19 @@
+{
+  "select": "Chọn",
+  "cancel": "Hủy",
+  "iconModalTitle": "Chọn một biểu tượng",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Chọn từ thư viện"
+      },
+      "url": {
+        "description": "Cung cấp URL cho riêng bạn"
+      }
+    }
+  },
+  "altText": {
+    "label": "Văn bản thay thế",
+    "helperText": "Nếu không được thêm thì biểu tượng sẽ được đánh dấu để trang trí."
+  }
+}

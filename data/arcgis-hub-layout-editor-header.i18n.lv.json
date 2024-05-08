@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Koplietots organizācijā",
+      "private": "Koplietots ar īpašnieku",
+      "public": "Koplietots publiski",
+      "shared": "Koplietots ar īpašnieku un grupām"
+    },
+    "editLayout": "Rediģēt izkārtojumu",
+    "lastUpdated": "Pēdējoreiz atjaunināts {updated}",
+    "viewSite": "Skatīt vietni"
+  },
+  "cloneLayoutLabel": "Klonēt izkārtojumu",
+  "deletePageLabel": "Dzēst lapu",
+  "deleteSiteLabel": "Dzēst vietni",
+  "editInAgoLabel": "Rediģēt ArcGIS Online",
+  "managePage": "Pārvaldīt lapu",
+  "manageSite": "Pārvaldīt vietni",
+  "moreOptionsLabel": "Vairāk opciju",
+  "publishLabel": "Publicēt",
+  "saveAsTemplateLabel": "Saglabāt kā veidni",
+  "saveLabel": "Saglabāt",
+  "sharingLabel": "Atvērt koplietošanas paneli",
+  "viewLabel": "Skatīt",
+  "viewPublishedLabel": "Skatīt publicēto melnrakstu",
+  "viewUnpublishedLabel": "Priekšskatīt nepublicētu melnrakstu"
+}

@@ -1,0 +1,15 @@
+{
+  "done": "Selesai",
+  "cancel": "Batalkan",
+  "dragDrop": "Seret dan lepaskan file JPG, PNG, atau GIF.",
+  "browse": "Telusuri...",
+  "chooseDiff": "Pilih gambar lain",
+  "zoom": "Pembesaran:",
+  "bestSize": "Untuk hasil terbaik, gambar harus berukuran 300 x 300 piksel.",
+  "close": "Tutup",
+  "or": "atau",
+  "fromMap": "Buat thumbnail dari peta",
+  "fromMapDesc": "Buat thumbnail kustom dengan mengatur ukuran dan level pembesaran",
+  "changeBasemap": "Ubah peta dasar",
+  "loading": "Memuat"
+}

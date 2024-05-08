@@ -1,0 +1,30 @@
+{
+  "helperText": "Tentukan dan konfigurasikan katalog",
+  "sections": {
+    "groups": {
+      "title": "Grup",
+      "helperText": "Grup di bawah berisi konten dalam katalog pencarian Anda. Pilih grup untuk melihat pengaturan, konten, dan lainnya.",
+      "createGroup": "Buat Grup Baru"
+    },
+    "feeds": {
+      "title": "Konfigurasi Feed",
+      "helperText": "Jadikan open data publik Anda mudah diakses dan digunakan kembali dengan feed Hub.",
+      "learn": "Pelajari tentang feed Hub",
+      "toggle": "Aktifkan Feed ",
+      "configure": "Konfigurasikan Umpan",
+      "notice": "Untuk mengaktifkan feed, Anda harus terlebih dahulu mengatur situs Hub Anda ke \"Publik\" di Pengaturan Anda"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Dari",
+    "editGroups": "Edit grup",
+    "viewGroups": "Lihat grup",
+    "myGroup": "Grup saya",
+    "myOrganization": "Organisasi saya",
+    "myCommunity": "Komunitas saya"
+  },
+  "formAlert": "Peringatan formulir",
+  "alertMessages": {
+    "error": "Terjadi kesalahan saat menyimpan perubahan"
+  }
+}

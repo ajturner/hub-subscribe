@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Zobraziť",
+    "hide": "Skryť",
+    "rename": "Premenovať"
+  },
+  "formAlert": "Upozornenie na formulár",
+  "alertMessages": {
+    "success": "Editácie úspešne uložené",
+    "error": "Chyba pri ukladaní editácií"
+  },
+  "collectionRenameModal": {
+    "title": "Premenovať kolekciu",
+    "fieldLabel": "Označenie kolekcie",
+    "requiredMessage": "Vyžaduje sa označenie kolekcie",
+    "apply": "Použiť"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dáta",
+      "hidden": "Dáta (Skryté)"
+    },
+    "site": {
+      "visible": "Lokality",
+      "hidden": "Lokality (Skryté)"
+    },
+    "document": {
+      "visible": "Dokumenty",
+      "hidden": "Dokumenty (Skryté)"
+    },
+    "appAndMap": {
+      "visible": "Aplikácie a Mapy",
+      "hidden": "Aplikácie a Mapy (Skryté)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Skryté)"
+    }
+  },
+  "saveButton": "Uložiť"
+}

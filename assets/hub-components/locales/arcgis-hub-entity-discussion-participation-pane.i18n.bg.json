@@ -1,0 +1,21 @@
+{
+  "title": "Участие",
+  "channelTitle": "Канал за участие",
+  "addChannelsTitle": "За този елемент е необходим канал; може да се зададе само един.",
+  "headingChannelEdit": "Редактиране на канал",
+  "headingChannelView": "Преглед на канал",
+  "headingChannelCreate": "Създаване на нов канал",
+  "buttons": {
+    "browse": "Преглед на всички канали",
+    "new": "Нов канал"
+  },
+  "galleryPickerTitle": "Избор на канал",
+  "channelsLabel": "Канали",
+  "accessLabel": "Достъп",
+  "optionPublicLabel": "Публични",
+  "optionOrganizationLabel": "Организация",
+  "optionPrivateLabel": "Лични",
+  "viewChannel": "Преглед на канал",
+  "editChannel": "Редактиране на канал",
+  "save": "Запазване"
+}

@@ -1,0 +1,14 @@
+{
+  "description": "선택하여 위치 확대",
+  "displayField.existing": "기존 위치",
+  "displayField.added": "추가된 위치",
+  "displayField.existing.area": "기존 영역",
+  "displayField.added.area": "추가된 영역",
+  "point": "포인트",
+  "line": "선",
+  "area": "면적",
+  "viewAll": "모든 위치 보기",
+  "viewLess": "위치 간단히 보기",
+  "action.update": "위치 업데이트",
+  "action.remove": "위치 제거"
+}

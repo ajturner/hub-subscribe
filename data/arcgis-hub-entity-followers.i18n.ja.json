@@ -1,0 +1,26 @@
+{
+  "followers": "フォロワー",
+  "tabs": {
+    "followers": "フォロワー",
+    "settings": "設定"
+  },
+  "addFollowers": {
+    "label": "フォロワーの追加"
+  },
+  "emptyState": {
+    "message": "現在、フォロワー グループはありません。"
+  },
+  "restrictedAccessState": {
+    "message": "アクセス権がありません。"
+  },
+  "stats": {
+    "total": {
+      "title": "合計",
+      "trailingText": "フォロワー"
+    },
+    "new": {
+      "title": "新規",
+      "trailingText": "過去 30 日間"
+    }
+  }
+}

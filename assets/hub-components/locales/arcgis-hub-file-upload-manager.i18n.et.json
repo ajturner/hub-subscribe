@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Vali sisu",
+  "secondStepHeader": "Detailide määramine",
+  "thirdStepHeader": "Määra jagamise tase ja juurdepääs",
+  "next": "Edasi",
+  "back": "Tagasi",
+  "save": "Salvesta",
+  "cancel": "Tühista",
+  "divider": "või",
+  "duplicateFileAriaLabel": "Dubleeritud failiga seotud viga",
+  "duplicateFileError": "Sama failinimega üksus on juba olemas. Muutke failinime ja proovige uuesti või eemaldage <a>dubleeritud fail</a> ArcGIS Online'ist",
+  "uploading": "Üleslaadimine"
+}

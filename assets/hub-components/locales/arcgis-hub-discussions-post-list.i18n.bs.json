@@ -1,0 +1,14 @@
+{
+  "addPost": "Dodaj objavu",
+  "createPost": "Stvori objavu",
+  "emptyHeading": "Započni raspravu",
+  "emptyMessage": "Budite prvi koji će pokrenuti temu. Lako je postaviti pitanje ili podijeliti ono što znate s drugima o nekom sadržaju.",
+  "searchIdeas": "Pretraži objave",
+  "searchCount": "{start} - {end} od {total}",
+  "orderAsc": "Uzlazno",
+  "orderDesc": "Silazno",
+  "sortRecent": "Nedavno",
+  "sortCreator": "Creator",
+  "layoutGrid": "Mreža",
+  "layoutList": "Popis"
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "Adicionar uma Postagem",
+  "createPost": "Criar uma Postagem",
+  "emptyHeading": "Iniciar uma discussão",
+  "emptyMessage": "Seja o primeiro a iniciar um tópico. É fácil fazer uma pergunta ou compartilhar o que você sabe com outras pessoas sobre um conteúdo.",
+  "searchIdeas": "Procurar postagens",
+  "searchCount": "{start} - {end} de {total}",
+  "orderAsc": "Crescente",
+  "orderDesc": "Decrescente",
+  "sortRecent": "Recente",
+  "sortCreator": "Criador",
+  "layoutGrid": "Grade",
+  "layoutList": "Lista"
+}

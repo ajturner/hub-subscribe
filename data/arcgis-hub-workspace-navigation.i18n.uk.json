@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Детальна інформація",
+    "overview": "Огляд",
+    "metrics": "Метрика",
+    "settings": "Налаштування",
+    "collaborators": "Колеги",
+    "discussion": "Обговорення",
+    "content": "Зміст",
+    "members": "Учасники",
+    "participation": "Участь",
+    "followers": "Підписники"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "เลือกเพื่อซูมไปยังตำแหน่งที่ตั้ง",
+  "displayField.existing": "ตำแหน่งที่ตั้งที่มีอยู่",
+  "displayField.added": "ตำแหน่งที่ตั้งที่เพิ่ม",
+  "displayField.existing.area": "พื้นที่ที่มีอยู่",
+  "displayField.added.area": "พื้นที่ที่เพิ่ม",
+  "point": "จุด",
+  "line": "เส้น",
+  "area": "พื้นที่",
+  "viewAll": "ดูตำแหน่งที่ตั้งทั้งหมด",
+  "viewLess": "ดูตำแหน่งที่ตั้งน้อยลง",
+  "action.update": "อัปเดตตำแหน่ง",
+  "action.remove": "ลบตำแหน่ง"
+}

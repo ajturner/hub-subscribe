@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "เลือกเนื้อหา",
+  "secondStepHeader": "ตั้งค่ารายละเอียด",
+  "thirdStepHeader": "ตั้งค่าระดับการแชร์และการเข้าใช้งาน",
+  "next": "ถัดไป",
+  "back": "กลับ",
+  "save": "จัดเก็บ",
+  "cancel": "ยกเลิก",
+  "divider": "หรือ",
+  "duplicateFileAriaLabel": "ข้อผิดพลาดไฟล์ซ้ำ",
+  "duplicateFileError": "มีไอเท็มที่ใช้ชื่อไฟล์เดียวกันอยู่แล้ว โปรดแก้ไขชื่อไฟล์แล้วลองใหม่อีกครั้ง หรือลบ <a>ไฟล์ซ้ำ</a> ใน ArcGIS Online ออก",
+  "uploading": "กำลังอัปโหลด"
+}

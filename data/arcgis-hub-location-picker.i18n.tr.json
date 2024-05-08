@@ -1,0 +1,36 @@
+{
+  "edit": "Düzenle",
+  "delete": "Sil",
+  "noneMessage": "Konum ayarlanmadı",
+  "entityTypes": {
+    "project": "Proje",
+    "site": "Site",
+    "initiative": "İnisiyatif",
+    "discussion": "Tartışma",
+    "content": "İçerik"
+  },
+  "emptyLocation": {
+    "title": "Herhangi bir konum çizilmedi",
+    "message": "Konum eklenene kadar {entityType} haritalarda görüntülenmeyecek"
+  },
+  "populatedLocation": {
+    "title": "Başka bir konum eklensin mi?",
+    "message": "Daha fazla konum (en fazla {maxLocations}) eklemek için tekrar çizim aracını seçin."
+  },
+  "maximumPoints": {
+    "title": "Maksimum noktaya ulaşıldı ({currentCount}/{maxLocations})",
+    "message": "Daha fazla konum eklemek için: noktaları silin veya noktalarını silmek için çizgileri ve alanları düzenleyin (sağ tıklayın)."
+  },
+  "maximumLocations": {
+    "title": "Maksimum konuma ulaşıldı",
+    "message": "Başka konum eklemek için bir veya daha fazla konumu veya tüm konumları kaldırın ve daha genel bir alan kullanın."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Konum ekle",
+    "clear": "Tümünü sil",
+    "extent": "Bir dikdörtgen çiz",
+    "point": "Bir nokta bırak",
+    "polyline": "Bir çizgi çiz",
+    "polygon": "Bir alan çizin"
+  }
+}

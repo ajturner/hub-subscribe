@@ -1,0 +1,17 @@
+{
+  "summary": "Samenvatting",
+  "description": "Beschrijving",
+  "details": "Details",
+  "metrics": "Cijfers",
+  "metricsDisclaimer": "Alleen de laatste 30 dagen weergeven",
+  "titleOpen": "Discussie openen",
+  "statusOpen": "Open voor deelname",
+  "titleClosed": "Gesloten discussie",
+  "statusClosed": "Gesloten voor deelname",
+  "tags": "Tags",
+  "categories": "Categorieën",
+  "metric.pageViews": "Paginaweergaven",
+  "metric.postCount": "Aantal posts",
+  "discussion": "Discussie",
+  "discussionBoard": "Discussiebord"
+}

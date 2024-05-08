@@ -1,0 +1,27 @@
+{
+  "overview": "Überblick",
+  "telemetry": {
+    "pageViews": "Seitenaufrufe",
+    "last30days": "Letzte 30 Tage",
+    "lastUpdated": "Vor {hoursElapsed} Stunden zuletzt aktualisiert"
+  },
+  "newNotice": {
+    "title": "Hier ist Ihr Projekt-Workspace",
+    "message": "Dieser Workspace ist für die Bearbeitung von Projekten vorgesehen. Workspaces ermöglichen es den Projektbeteiligten, sich auf bestimmte Elemente zu fokussieren, und werden kontinuierlich weiterentwickelt.",
+    "link": "Weitere Informationen"
+  },
+  "learnAbout": "Informationen zu Hub-Projekten",
+  "feedbackNotice": {
+    "message": "Wie gefällt Ihnen Hub Projects? Da sich dieses Feature noch in der Beta-Phase befindet, würden wir gerne von Ihnen erfahren, wie Sie es einsetzen würden.",
+    "link": "Feedback senden"
+  },
+  "status": {
+    "notStarted": "Nicht gestartet",
+    "inProgress": "In Bearbeitung",
+    "onHold": "Zurückgestellt",
+    "complete": "Abgeschlossen"
+  },
+  "editDetails": "Details bearbeiten",
+  "noPurposeSet": "Kein Zweck festgelegt",
+  "noLocationSet": "Keine Position festgelegt"
+}

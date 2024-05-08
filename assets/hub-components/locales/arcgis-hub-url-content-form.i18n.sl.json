@@ -1,0 +1,19 @@
+{
+  "heading": "Dodaj z URL",
+  "subText": "CSV, SHP, GeoJSON, geoobjektna storitev ArcGIS, XLS, PDF, PNG, JPG, spletna povezava",
+  "fileTypeSelector": "Ročno določi vrsto datoteke",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Geoobjektna storitev ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Spletna povezava",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Slika (png, jpg, jpeg)",
+  "invalidFormat": "Napaka: neveljaven format",
+  "invalidUrl": "Napaka: neveljaven URL",
+  "recognizedType": "Ročno določi vrsto datoteke"
+}

@@ -1,0 +1,7 @@
+{
+  "days": "dage",
+  "hours": "timer",
+  "minutes": "minutter",
+  "seconds": "sekunder",
+  "countdownDateMissingError": "Du skal angive en nedtællingsdato"
+}

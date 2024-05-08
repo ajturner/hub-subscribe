@@ -1,0 +1,19 @@
+{
+  "heading": "Add by URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Manually set file type",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web Link",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Image (png, jpg, jpeg)",
+  "invalidFormat": "Error: Invalid Format",
+  "invalidUrl": "Error: Invalid URL",
+  "recognizedType": "Manually set file type"
+}

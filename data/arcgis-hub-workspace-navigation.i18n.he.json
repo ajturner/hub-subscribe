@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "לוח בקרה",
+    "details": "פרטים",
+    "overview": "סקירה כללית",
+    "metrics": "מדדים",
+    "settings": "הגדרות",
+    "collaborators": "שיתופי פעולה",
+    "discussion": "דיון",
+    "content": "תוכן",
+    "members": "חברים",
+    "participation": "השתתפות",
+    "followers": "עוקבים"
+  }
+}

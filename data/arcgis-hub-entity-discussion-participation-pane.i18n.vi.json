@@ -1,0 +1,21 @@
+{
+  "title": "Tham gia",
+  "channelTitle": "Kênh tham gia",
+  "addChannelsTitle": "Cần có một kênh cho mục này; chỉ có thể thiết lập một kênh.",
+  "headingChannelEdit": "Chính sửa kênh",
+  "headingChannelView": "Xem kênh",
+  "headingChannelCreate": "Tạo kênh mới",
+  "buttons": {
+    "browse": "Duyệt tìm tất cả các kênh",
+    "new": "Kênh mới"
+  },
+  "galleryPickerTitle": "Chọn một kênh",
+  "channelsLabel": "Các kênh",
+  "accessLabel": "Truy cập",
+  "optionPublicLabel": "Công khai",
+  "optionOrganizationLabel": "Tổ chức",
+  "optionPrivateLabel": "Riêng tư",
+  "viewChannel": "Xem kênh",
+  "editChannel": "Chính sửa kênh",
+  "save": "Lưu"
+}

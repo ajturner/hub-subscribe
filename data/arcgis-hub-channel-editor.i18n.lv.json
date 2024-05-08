@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Nenosaukts kanāls",
+  "name": {
+    "label": "Nosaukums",
+    "placeholder": "{prefix} kanāls"
+  },
+  "save": "Saglabāt",
+  "access": {
+    "private": {
+      "label": "Privāts",
+      "description": "Piedalīties var izvēlētās grupas"
+    },
+    "organization": {
+      "label": "Mana organizācija",
+      "description": "Var piedalīties visi dalībnieki ar {orgName} kontu",
+      "disabledTooltip": "Organizācijas kanālus var izveidot tikai organizācijas administratori."
+    },
+    "public": {
+      "label": "Publisks",
+      "description": "Ikviens, kam ir konts, var piedalīties",
+      "disabledTooltip": "Publiskos kanālus var izveidot tikai organizāciju administratori."
+    },
+    "allowAnonymous": "Atļaut anonimitāti",
+    "confirmation": {
+      "header": "Vai esat pārliecināts?",
+      "message": "Saglabājot šīs izmaiņas, tiks noņemta rediģēšanas piekļuve šim kanālam. Publiskos vai organizācijas kanālus var rediģēt tikai organizācijas administratori.",
+      "secondary": "Atcelt",
+      "primary": "Apstiprināt"
+    }
+  },
+  "participants": {
+    "label": "Dalībnieki",
+    "helperText": "Cilvēki, kas var skatīt un līdzdarboties diskusijā.",
+    "none": "Nav iestatīts neviens dalībnieks",
+    "add": "Pievienot dalībnieku grupu"
+  },
+  "groupPicker": {
+    "title": "Izvēlēties grupas",
+    "facet": {
+      "label": "No",
+      "myGroup": "Mana grupa",
+      "myOrganization": "Mana organizācija",
+      "myCommunity": "Mana kopiena"
+    }
+  },
+  "blockWords": {
+    "label": "Bloķēti vārdi",
+    "helperText": "Komatatdalīto vērtību saraksts. Ziņas un atbildes, kurās tie ir iekļauti, tiks automātiski paslēptas."
+  },
+  "manage": {
+    "label": "Pārvaldīt un moderēt",
+    "helperText": "Automātiski piešķirts, pamatojoties uz iepriekš norādīto dalības izvēli, šīs personas var piedalīties, slēpt vai rādīt ziņas un pārvaldīt kanāla iestatījumus."
+  },
+  "manager": "Pārvaldnieks",
+  "admin": "Administrators",
+  "viewProfile": "Skatīt profilu",
+  "alerts": {
+    "error": "Saglabājot kanālu, radās kļūda",
+    "success": "Kanāls ir sekmīgi saglabāts",
+    "label": "Veidlapas brīdinājums"
+  },
+  "validations": {
+    "minChannelGroups": "Privātajiem kanāliem ir nepieciešama vismaz viena dalībnieku grupa."
+  },
+  "notices": {
+    "edit": "Rediģējumi ietekmēs visu, kur šis kanāls tiek izmantots",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanāls netika izveidots",
+          "message": "Kanāls ar šīm piekļuves izvēlēm jau pastāv. Izmantojiet esošo kanālu vai modificējiet izvēli."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanāls netika atjaunināts",
+          "message": "Kanāls ar šīm piekļuves izvēlēm jau pastāv, tāpēc mēs nevaram saglabāt šos atjauninājumus."
+        }
+      },
+      "action": "Izmantot esošo kanālu"
+    },
+    "inaccessibleGroups": {
+      "title": "Nepieejamas grupas: {count}",
+      "message": "Jūs nevarat skatīt vai pārvaldīt nepieejamas grupas, ja neesat dalībnieks."
+    }
+  }
+}

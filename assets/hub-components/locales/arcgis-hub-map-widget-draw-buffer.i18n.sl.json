@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Lokacijski filter",
+  "panel.reset": "Ponastavi filter",
+  "distance.title": "Razdalja",
+  "distance.placeholder": "Vnesi število...",
+  "distance.message": "Vnesite številko, da razširite filtrirano območje.",
+  "system.imperial": "Anglosaški merski sistem",
+  "system.metric": "Metrični merski sistem",
+  "units.title": "Enote",
+  "units.feet": "Čevlji",
+  "units.miles": "Milje",
+  "units.nauticalmiles": "Morske milje",
+  "units.meters": "Metri",
+  "units.kilometers": "Kilometri"
+}

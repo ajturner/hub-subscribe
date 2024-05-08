@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Bộ lọc Vị trí",
+  "panel.reset": "Thiết lập lại bộ lọc",
+  "distance.title": "Khoảng cách",
+  "distance.placeholder": "Nhập số...",
+  "distance.message": "Nhập một số để mở rộng khu vực đã lọc.",
+  "system.imperial": "Hệ đo lường Anh",
+  "system.metric": "Hệ mét",
+  "units.title": "Đơn vị",
+  "units.feet": "Feet",
+  "units.miles": "Dặm",
+  "units.nauticalmiles": "Hải lý",
+  "units.meters": "Mét",
+  "units.kilometers": "Kilômét"
+}

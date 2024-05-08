@@ -1,0 +1,10 @@
+{
+  "error": "Tapahtui virhe",
+  "repliesFailure": "Tämän julkaisun vastauksia ei voi näyttää.",
+  "thread.deleted.title": "Säie poistettu",
+  "thread.deleted.message": "Linkitetty julkaisu ja vastaus on poistettu, eikä niitä voi näyttää.",
+  "thread.deleted.action": "Näytä kaikki julkaisut",
+  "reply.single.title": "Tarkastelet yhtä vastausta",
+  "reply.single.link": "Näytä kaikki vastaukset",
+  "loading": "Ladataan"
+}

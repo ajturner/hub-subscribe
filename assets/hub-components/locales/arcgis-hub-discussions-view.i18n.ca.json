@@ -1,0 +1,17 @@
+{
+  "summary": "Resum",
+  "description": "Descripció",
+  "details": "Detalls",
+  "metrics": "Mètriques",
+  "metricsDisclaimer": "Només es mostren els darrers 30 dies",
+  "titleOpen": "Debat obert",
+  "statusOpen": "Obert a la participació",
+  "titleClosed": "Debat tancat",
+  "statusClosed": "Tancat a la participació",
+  "tags": "Etiquetes",
+  "categories": "Categories",
+  "metric.pageViews": "Visualitzacions de les pàgines",
+  "metric.postCount": "Recompte de publicacions",
+  "discussion": "Debat",
+  "discussionBoard": "Tauler de debat"
+}

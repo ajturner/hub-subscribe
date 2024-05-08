@@ -1,0 +1,52 @@
+{
+  "collaborators": "Współpracownicy",
+  "editGroupButtonText": "Dodaj grupy edycji",
+  "viewGroupButtonText": "Dodaj grupy wyświetlania",
+  "groupPicker": {
+    "title": "Wybierz grupy",
+    "facet": {
+      "label": "Od",
+      "editGroups": "Edytuj grupy",
+      "viewGroups": "Wyświetl grupę",
+      "myGroup": "Moja grupa",
+      "myOrganization": "Moja instytucja",
+      "myCommunity": "Moja społeczność"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Dodaj nowe osoby",
+    "message": "Jeśli chcesz dodać osoby, możesz zaprosić je do dołączenia do społeczności lub <orgOverviewLink>skontaktować się z administratorem</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupy, które mogą edytować",
+  "viewGroupsTitle": "Grupy, które mogą wyświetlać",
+  "project": {
+    "description": "Wybierz grupy użytkowników, które mogą wyświetlać i edytować ten projekt.",
+    "editGroupsDescription": "Osoby w tych grupach będą mogły edytować informacje o projekcie.",
+    "viewGroupsDescription": "Osoby w tych grupach będą mogły wyszukiwać i wyświetlać projekt, jeśli nie udostępniono go publicznie.",
+    "errorMessage": "Wystąpił błąd podczas aktualizowania współtwórców Twojego projektu."
+  },
+  "content": {
+    "description": "Wybierz grupy użytkowników, które mogą wyświetlać i edytować te zasoby.",
+    "editGroupsDescription": "Osoby w tych grupach będą mogły edytować informacje o zasobach.",
+    "viewGroupsDescription": "Osoby w tych grupach będą mogły wyszukiwać i wyświetlać zasoby, jeśli nie udostępniono ich publicznie.",
+    "errorMessage": "Wystąpił błąd podczas aktualizowania współtwórców Twoich zasobów."
+  },
+  "discussion": {
+    "description": "Wybierz grupy użytkowników, które mogą wyświetlać i edytować tę dyskusję.",
+    "editGroupsDescription": "Osoby w tych grupach będą mogły edytować informacje dotyczące dyskusji.",
+    "viewGroupsDescription": "Osoby w tych grupach będą mogły wyszukiwać i wyświetlać dyskusję, jeśli nie udostępniono jej publicznie.",
+    "errorMessage": "Wystąpił błąd podczas aktualizowania współuczestników Twojej dyskusji."
+  },
+  "site": {
+    "description": "Wybierz grupy użytkowników, które mogą wyświetlać i edytować tę witrynę.",
+    "editGroupsDescription": "Osoby w tych grupach będą mogły edytować informacje o witrynie.",
+    "viewGroupsDescription": "Osoby w tych grupach będą mogły wyszukiwać i wyświetlać tę witrynę, jeśli nie udostępniono jej publicznie.",
+    "errorMessage": "Wystąpił błąd podczas aktualizowania współtwórców Twojej witryny."
+  },
+  "newTab": "otwórz profil w nowej karcie",
+  "supportingTeams": "Zespoły pomocnicze",
+  "supportingTeamsDesc": "Te zespoły pomocnicze były wcześniej powiązane z Twoją witryną. Możesz nadal używać ich do udostępniania treści współpracownikom.",
+  "supportTeamsRemove": "Usuń zespół",
+  "supportingTeamsRemoveError": "Błąd odłączania zespołu. Skontaktuj się z administratorem.",
+  "supportingTeamsRemoveSuccess": "Pomyślnie odłączono zespół."
+}

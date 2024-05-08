@@ -1,0 +1,18 @@
+{
+  "purpose": "Amaç",
+  "description": "Oraya nasıl varacağız",
+  "details": "Ayrıntılar",
+  "featuredImageAlt": "Projede öne çıkan görüntü",
+  "trackProgress": "İlerleyişimizi izleyin",
+  "participatingGroups": "Katılan gruplar",
+  "whosInvolved": "Katılanlar",
+  "tags": "Etiketler",
+  "status": {
+    "label": "Proje durumu",
+    "notStarted": "Başlatılmadı",
+    "inProgress": "Devam ediyor",
+    "onHold": "Beklemede",
+    "complete": "Tamamla"
+  },
+  "featuredContent": "Öne çıkan içerik"
+}

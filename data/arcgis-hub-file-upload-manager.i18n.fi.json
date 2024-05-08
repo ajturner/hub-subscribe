@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Valitse sisältö",
+  "secondStepHeader": "Määritä tiedot",
+  "thirdStepHeader": "Määritä jakamistaso ja käyttöoikeudet",
+  "next": "Seuraava",
+  "back": "Takaisin",
+  "save": "Tallenna",
+  "cancel": "Peruuta",
+  "divider": "tai",
+  "duplicateFileAriaLabel": "tiedostovirheen kaksoiskappale",
+  "duplicateFileError": "Kohde, jolla on sama tiedostonimi, on jo käytössä. Muokkaa tiedostonimeä ja yritä uudelleen tai poista <a>tiedoston kaksoiskappale</a> ArcGIS Onlinessa",
+  "uploading": "Ladataan"
+}

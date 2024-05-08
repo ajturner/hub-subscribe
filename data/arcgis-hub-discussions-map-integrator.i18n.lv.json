@@ -1,0 +1,16 @@
+{
+  "location.add": "Pievienot novietojumu",
+  "location.remove": "Noņemt novietojumu",
+  "draw.tip": "Vai pievienot citu novietojumu?",
+  "prompt.add.post": "Pievienot ziņojumam",
+  "prompt.add.reply": "Pievienot atbildei",
+  "prompt.edit.point": "Pārvietot punktu",
+  "prompt.edit.polyline": "Rediģēt līniju",
+  "prompt.edit.polygon": "Rediģēt teritoriju",
+  "prompt.remove.point": "Dzēst punktu",
+  "prompt.remove.polyline": "Dzēst līniju",
+  "prompt.remove.polygon": "Dzēst teritoriju",
+  "prompt.remove.existing": "Atcelt izvēli",
+  "prompt.location.edit": "Atjaunot zīmējumu",
+  "prompt.location.delete": "Dzēst zīmējumu"
+}

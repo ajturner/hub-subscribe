@@ -1,0 +1,26 @@
+{
+  "moreResults": "More results",
+  "search": "Search",
+  "filter": "Filters",
+  "viewResults": "View results ({numResults})",
+  "resultsCount": "1 - {pageTotal} of {searchTotal}",
+  "backToTop": "Back to top",
+  "facets": {
+    "access": {
+      "private": "Myself",
+      "shared": "Owner & groups",
+      "org": "Organization",
+      "public": "Public"
+    },
+    "license": {
+      "custom": "Custom",
+      "none": "None"
+    }
+  },
+  "layoutOptions": {
+    "list": "Display list",
+    "grid": "Display grid"
+  },
+  "galleryActionsLabel": "Additional actions",
+  "selected": "{count} selected"
+}

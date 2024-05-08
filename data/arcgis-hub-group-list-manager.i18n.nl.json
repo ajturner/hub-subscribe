@@ -1,0 +1,28 @@
+{
+  "newTab": "profiel in nieuw tabblad openen",
+  "noGroups": "Geen groepen",
+  "pickerToggle": "Groepen toevoegen",
+  "pickerTitle": "Groepen selecteren",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Geen leden",
+      "oneMember": "1 lid",
+      "members": "{count} leden"
+    },
+    "dateCreated": "Aanmaakdatum: {localizedDate}",
+    "sharing": "Delen: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Ikzelf",
+      "shared": "Eigenaar & groepen",
+      "org": "Organisatie",
+      "public": "Openbaar"
+    },
+    "membership": "Lidmaatschap: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Eigenaar groep",
+      "admin": "Manager groep",
+      "member": "Groepslid",
+      "none": "Geen"
+    }
+  }
+}

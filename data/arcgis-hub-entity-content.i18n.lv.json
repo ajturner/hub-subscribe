@@ -1,0 +1,24 @@
+{
+  "content": "Saturs",
+  "tabs": {
+    "catalog": "Katalogs",
+    "collections": "Kolekcijas",
+    "catalogConfig": "Kataloga konfigurācija"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigurēt savu katalogu",
+        "message": "Jūsu kataloga veidošana un konfigurēšana ir sākta! Jūsu katalogs ir veidots no grupām, un katalogu aizpilda to saturs.",
+        "link": "Uzzināt vairāk par katalogiem"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalogs ir tukšs",
+        "message": "Viss ir gatavs, lai jūs varētu sākt darbu savā katalogā! Jūsu katalogs ir konfigurēts, pievienojot vienu vai vairākas grupas, un tiks aizpildīts ar tajās esošo saturu.",
+        "link": "Sākt"
+      }
+    }
+  }
+}

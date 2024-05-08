@@ -1,0 +1,18 @@
+{
+  "purpose": "Doel",
+  "description": "Zo komen we er",
+  "details": "Details",
+  "featuredImageAlt": "Uitgelichte afbeelding project",
+  "trackProgress": "Volg onze voortgang",
+  "participatingGroups": "Deelnemende groepen",
+  "whosInvolved": "Wie is erbij betrokken?",
+  "tags": "Tags",
+  "status": {
+    "label": "Projectstatus",
+    "notStarted": "Niet gestart",
+    "inProgress": "In uitvoering",
+    "onHold": "Tijdelijk stopgezet",
+    "complete": "Voltooid"
+  },
+  "featuredContent": "Uitgelichte content"
+}

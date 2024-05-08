@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Ägare"
+  },
+  "updatedDate": {
+    "description": "Datum uppdaterat"
+  },
+  "createdDate": {
+    "description": "Publicerad"
+  },
+  "access": {
+    "label": {
+      "public": "Offentlig",
+      "org": "Organisation",
+      "private": "Ägare",
+      "shared": "Privat delad"
+    },
+    "description": {
+      "public": {
+        "site": "Alla kan se den här webbplatsen",
+        "project": "Alla kan se det här projektet",
+        "initiative": "Alla kan se det här initiativet",
+        "discussion": "Alla kan se den här diskussionen",
+        "default": "Alla kan se det här innehållet"
+      },
+      "org": {
+        "site": "Alla i din organisation kan se den här webbplatsen",
+        "project": "Alla i din organisationen kan se det här projektet",
+        "initiative": "Alla i din organisation kan se det här initiativet",
+        "discussion": "Alla i din organisation kan se den här diskussionen",
+        "default": "Alla i din organisation kan se det här innehållet"
+      },
+      "private": {
+        "site": "Bara du kan se den här webbplatsen",
+        "project": "Endast du kan se det här projektet",
+        "initiative": "Bara du kan se det här initiativet",
+        "discussion": "Bara du kan se denna diskussion",
+        "default": "Bara du kan se det här innehållet"
+      },
+      "shared": {
+        "site": "Valda grupper kan se den här webbplatsen",
+        "project": "Valda grupper kan se det här projektet",
+        "initiative": "Valda grupper kan se det här initiativet",
+        "discussion": "Valda grupper kan se den här diskussionen",
+        "default": "Valda grupper kan se det här innehållet"
+      }
+    }
+  }
+}

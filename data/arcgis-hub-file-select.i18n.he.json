@@ -1,0 +1,16 @@
+{
+  "contentHeading": "גרור ושחרר קובץ כדי להעלות",
+  "imageHeading": "העלה תמונה",
+  "selectedHeading": "קובץ נבחר",
+  "maxSizeAndSupportedTypes": "גודל מקסימלי {maxSize}MB, {fileTypes}",
+  "maxSize": "גודל מקסימלי {maxSize}MB",
+  "recommendedDimensions": "גדלים מומלצים {recommendedDimensions}",
+  "linkText": "הצג רשימה של קבצים נתמכים",
+  "contentButton": "עיין לאיתור הקובץ",
+  "imageButton": "עיין לאיתור תמונה",
+  "clearButton": "נקה פריטים שנבחרו",
+  "errorHeading": "שגיאה",
+  "fileTooLargeError": "הקובץ גדול מדי",
+  "multipleFilesError": "לא ניתן להעלות מספר קבצים בו זמנית",
+  "unsupportedFileTypeError": "סוג קובץ זה אינו נתמך"
+}

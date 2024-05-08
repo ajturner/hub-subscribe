@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Wybierz zasoby",
+  "secondStepHeader": "Skonfiguruj szczegóły",
+  "thirdStepHeader": "Skonfiguruj poziom udostępniania i dostęp",
+  "next": "Dalej",
+  "back": "Powrót",
+  "save": "Zapisz",
+  "cancel": "Anuluj",
+  "divider": "lub",
+  "duplicateFileAriaLabel": "błąd zduplikowanego pliku",
+  "duplicateFileError": "Element o tej samej nazwie pliku już istnieje. Zmień nazwę pliku i spróbuj jeszcze raz lub usuń <a>zduplikowany plik</a> w usłudze ArcGIS Online",
+  "uploading": "Przesyłanie"
+}

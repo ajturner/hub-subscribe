@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Type",
+    "tags": "Nøgleord",
+    "categories": "Kategori",
+    "sharing": "Deling",
+    "dateUpdated": "Dato for opdatering",
+    "map": {
+      "label": "Position",
+      "tooltip": "Anvend kortudstrækningen som et positionsfilter"
+    }
+  },
+  "collections": {
+    "all": "Alle",
+    "dataset": "Data",
+    "site": "Websteder",
+    "document": "Dokumenter",
+    "appAndMap": "Apps og kort"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Dit katalog er tomt i øjeblikket.",
+    "button": "Konfigurer katalog"
+  }
+}

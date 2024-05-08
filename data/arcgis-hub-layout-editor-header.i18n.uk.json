@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Опубліковано для організації",
+      "private": "Опубліковано для власника",
+      "public": "Опубліковано для громадськості",
+      "shared": "Опубліковано для власника та груп"
+    },
+    "editLayout": "Редагувати компонування",
+    "lastUpdated": "Останнє оновлення {updated}",
+    "viewSite": "Переглянути сайт"
+  },
+  "cloneLayoutLabel": "Клонувати компонування",
+  "deletePageLabel": "Видалити сторінку",
+  "deleteSiteLabel": "Видалити сайт",
+  "editInAgoLabel": "Редагувати в ArcGIS Online",
+  "managePage": "Керування сторінкою",
+  "manageSite": "Керування сайтом",
+  "moreOptionsLabel": "Більше опцій",
+  "publishLabel": "Публікувати",
+  "saveAsTemplateLabel": "Зберегти як шаблон",
+  "saveLabel": "Зберегти",
+  "sharingLabel": "Відкрити панель спільного доступу",
+  "viewLabel": "Перегляд",
+  "viewPublishedLabel": "Перегляд опублікованої чернетки",
+  "viewUnpublishedLabel": "Попередній перегляд неопублікованої чернетки"
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "Účel",
+  "description": "Jak toho dosáhneme",
+  "details": "Podrobnosti",
+  "featuredImageAlt": "Vybraný obrázek projektu",
+  "trackProgress": "Sledujte náš pokrok",
+  "participatingGroups": "Zúčastněné skupiny",
+  "whosInvolved": "Kdo je zapojen",
+  "tags": "Klíčová slova",
+  "status": {
+    "label": "Stav projektu",
+    "notStarted": "Nespuštěno",
+    "inProgress": "Probíhá",
+    "onHold": "Pozdrženo",
+    "complete": "Dokončeno"
+  },
+  "featuredContent": "Vybraný obsah"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Editar detalhes da versão",
+  "save": "Salvar",
+  "cancel": "Cancelar",
+  "name.label": "Título",
+  "name.helpText": "Deixe o título vazio se desejar que identifiquemos a versão por um carimbo de data e hora.",
+  "description.label": "Descrição",
+  "error": "Erro ao atualizar versão."
+}

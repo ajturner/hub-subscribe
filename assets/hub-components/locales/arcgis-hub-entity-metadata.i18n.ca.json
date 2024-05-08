@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Propietari"
+  },
+  "updatedDate": {
+    "description": "Data d'actualització"
+  },
+  "createdDate": {
+    "description": "Publicat"
+  },
+  "access": {
+    "label": {
+      "public": "Públic",
+      "org": "Organització",
+      "private": "Propietari",
+      "shared": "S'ha compartit de manera privada"
+    },
+    "description": {
+      "public": {
+        "site": "Tothom pot veure aquest lloc",
+        "project": "Tothom pot veure aquest projecte",
+        "initiative": "Tothom pot veure aquesta iniciativa",
+        "discussion": "Tothom pot veure aquest debat",
+        "default": "Tothom pot veure aquest contingut"
+      },
+      "org": {
+        "site": "Qualsevol persona de la vostra organització pot veure aquest lloc",
+        "project": "Qualsevol persona de la vostra organització pot veure aquest projecte",
+        "initiative": "Qualsevol persona de la vostra organització pot veure aquesta iniciativa",
+        "discussion": "Qualsevol persona de la vostra organització pot veure aquest debat",
+        "default": "Qualsevol persona de la vostra organització pot veure aquest contingut"
+      },
+      "private": {
+        "site": "Ningú més no pot veure aquest lloc",
+        "project": "Ningú més no pot veure aquest projecte",
+        "initiative": "Ningú més no pot veure aquesta iniciativa",
+        "discussion": "Sou l’única persona que pot veure aquest debat",
+        "default": "Ningú més no pot veure aquest contingut"
+      },
+      "shared": {
+        "site": "Els grups seleccionats poden veure aquest lloc",
+        "project": "Els grups seleccionats poden veure aquest projecte",
+        "initiative": "Els grups seleccionats poden veure aquesta iniciativa",
+        "discussion": "Els grups seleccionats poden veure aquest debat",
+        "default": "Els grups seleccionats poden veure aquest contingut"
+      }
+    }
+  }
+}

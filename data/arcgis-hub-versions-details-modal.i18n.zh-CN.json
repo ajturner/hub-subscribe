@@ -1,0 +1,9 @@
+{
+  "title": "编辑版本详细信息",
+  "save": "保存",
+  "cancel": "取消",
+  "name.label": "标题",
+  "name.helpText": "如果您希望我们通过日期时间戳识别版本，请将标题留空。",
+  "description.label": "描述",
+  "error": "更新版本时出错。"
+}

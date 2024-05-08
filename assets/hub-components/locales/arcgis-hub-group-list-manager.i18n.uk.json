@@ -1,0 +1,28 @@
+{
+  "newTab": "відкрити профіль у новій вкладці",
+  "noGroups": "Немає груп",
+  "pickerToggle": "Додати групи",
+  "pickerTitle": "Вибрати групи",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Немає учасників",
+      "oneMember": "1 учасник",
+      "members": "{count} учасники(-ів)"
+    },
+    "dateCreated": "Дата створення: {localizedDate}",
+    "sharing": "Спільний доступ: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Я",
+      "shared": "Власник і групи",
+      "org": "Організація",
+      "public": "Публічний"
+    },
+    "membership": "Членство: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Власник групи",
+      "admin": "Менеджер групи",
+      "member": "Учасник групи",
+      "none": "Немає"
+    }
+  }
+}

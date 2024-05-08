@@ -1,0 +1,14 @@
+{
+  "title": "Název",
+  "created": "Datum vytvoření",
+  "modified": "Datum aktualizace",
+  "updated": "Datum aktualizace",
+  "asc": "vzestupně",
+  "desc": "sestupně",
+  "relevance": "Relevance",
+  "change-sort-order": "Změnit pořadí třídění",
+  "sort-by": "Seřadit dle ",
+  "joined": "Datum připojení",
+  "username": "Uživatelské jméno",
+  "membertype": "Role"
+}

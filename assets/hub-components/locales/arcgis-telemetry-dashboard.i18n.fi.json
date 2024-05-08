@@ -1,0 +1,31 @@
+{
+  "dateRange": "Päivämääräalue: {start}–{end}",
+  "pageViews": "Sivun katselukerrat",
+  "timeOnSite": "Keskimääräiset minuutit sivulla",
+  "users": "Istunnot",
+  "viewsOverTime": "Sivun katselukerrat ajan kuluessa",
+  "disabledTracking": "Toiminnan seuraaminen on poistettu käytöstä",
+  "enableTracking": "Ota Hub-toimintojen seuraamisen sivustokohtaiset asetukset käyttöön, jotta voit seurata sivustosi käyttöä.",
+  "learnMore": "Lue lisää.",
+  "disabled": "Poistettu käytöstä",
+  "notificationLabel": "Aineisto päivitetty",
+  "dataUpdated": "Aineisto päivitetty",
+  "subscribe": "Tilaa",
+  "subscribed": "Tilattu",
+  "weeklyReport": "Viikkoraportti",
+  "timestampTitle": {
+    "hour": "Kellonaika",
+    "day": "Päivämäärä",
+    "week": "Viikko"
+  },
+  "formAlert": "Lomakevaroitus",
+  "success": "Tilauksen päivitys onnistui",
+  "subscriptionActivatedTitle": "Tilaus aktivoitu",
+  "subscriptionActivatedMessage": "Olet rekisteröinyt sähköpostiosoitteen {email}, jotta voit vastaanottaa viikoittain osallistumistietoja.",
+  "unsubscribeCompleteTitle": "Tilaus on lopetettu",
+  "unsubscribeCompleteMessage": "{email} on lopettanut osallistumistietojen tilauksen onnistuneesti.",
+  "problemSubscribingTitle": "Virhe tilauksessa",
+  "problemSubscribingMessage": "Tilauksessa tapahtui jokin virhe. Virhe: ",
+  "problemUnsubscribingTitle": "Virhe tilauksen lopettamisessa",
+  "problemUnsubscribingMessage": "Tilauksen lopettamisessa tapahtui virhe. Virhe: "
+}

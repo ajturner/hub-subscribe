@@ -1,0 +1,28 @@
+{
+  "newTab": "öppna profilen i ny flik",
+  "noGroups": "Inga grupper",
+  "pickerToggle": "Lägg till grupper",
+  "pickerTitle": "Välj grupper",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Inga medlemmar",
+      "oneMember": "1 medlem",
+      "members": "{count} medlemmar"
+    },
+    "dateCreated": "Skapad den: {localizedDate}",
+    "sharing": "Delning: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Mig själv",
+      "shared": "Ägare och grupper",
+      "org": "Organisation",
+      "public": "Offentlig"
+    },
+    "membership": "Medlemskap: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Gruppägare",
+      "admin": "Gruppledare",
+      "member": "Gruppmedlem",
+      "none": "Inga"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "Chọn để thu phóng đến vị trí",
+  "displayField.existing": "Vị trí hiện tại",
+  "displayField.added": "Vị trí đã thêm",
+  "displayField.existing.area": "Diện tích hiện tại",
+  "displayField.added.area": "Diện tích đã thêm",
+  "point": "Điểm",
+  "line": "Đường",
+  "area": "Diện tích",
+  "viewAll": "Xem tất cả các vị trí",
+  "viewLess": "Xem ít vị trí hơn",
+  "action.update": "Cập nhật vị trí",
+  "action.remove": "Xóa vị trí"
+}

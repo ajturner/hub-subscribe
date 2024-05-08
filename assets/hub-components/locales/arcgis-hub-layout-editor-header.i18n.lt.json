@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Bendrinta su organizacija",
+      "private": "Bendrinta su savininku",
+      "public": "Bendrinta viešai",
+      "shared": "Bendrinta su savininku ir grupėmis"
+    },
+    "editLayout": "Redaguoti maketą",
+    "lastUpdated": "Paskutinį kartą atnaujinta {updated}",
+    "viewSite": "Peržiūrėti svetainę"
+  },
+  "cloneLayoutLabel": "Klonuoti maketą",
+  "deletePageLabel": "Ištrinti puslapį",
+  "deleteSiteLabel": "Ištrinti svetainę",
+  "editInAgoLabel": "Redaguoti naudojant ArcGIS Online",
+  "managePage": "Tvarkyti puslapį",
+  "manageSite": "Tvarkyti svetainę",
+  "moreOptionsLabel": "Daugiau parinkčių",
+  "publishLabel": "Publikuoti",
+  "saveAsTemplateLabel": "Įrašyti kaip šabloną",
+  "saveLabel": "Įrašyti",
+  "sharingLabel": "Atidaryti bendrinimo skydelį",
+  "viewLabel": "Peržiūra",
+  "viewPublishedLabel": "Peržiūrėti publikuotą versiją",
+  "viewUnpublishedLabel": "Peržiūrėti nepublikuotą versiją"
+}

@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Télécharger",
+  "buttonOptions": "Options de téléchargement",
+  "menuRequest": "Générer un nouveau téléchargement avec les données les plus récentes",
+  "menuDownload": "Fichier de téléchargement précédemment généré le {createdDate}",
+  "fileCreated": "Fichier créé",
+  "fileSize": "Taille de fichier",
+  "bytes": "Octet(s)",
+  "kb": "Ko",
+  "mb": "Mo",
+  "gb": "Go",
+  "tb": "To",
+  "n/a": "N/D"
+}

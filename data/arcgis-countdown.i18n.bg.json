@@ -1,0 +1,7 @@
+{
+  "days": "дни",
+  "hours": "часове",
+  "minutes": "минути",
+  "seconds": "секунди",
+  "countdownDateMissingError": "Трябва да посочите дата на отчитане"
+}

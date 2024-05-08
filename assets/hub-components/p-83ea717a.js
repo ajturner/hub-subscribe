@@ -1,0 +1,1 @@
+function n(n){return n.reduce(((n,e)=>{var o;const i=e.capabilities.includes("updateitemcontrol"),r=null===(o=e.userMembership)||void 0===o?void 0:o.memberType;return(!e.isViewOnly||e.isViewOnly&&["owner","admin"].includes(r))&&n.push({value:e.id,label:e.title,icon:i?"unlock":"view-mixed"}),n}),[])}export{n as g}

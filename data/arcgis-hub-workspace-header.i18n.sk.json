@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Editovať rozloženie",
+  "editContent": "Upraviť obsah",
+  "view": {
+    "project": "Zobraziť projekt",
+    "site": "Zobraziť lokalitu",
+    "initiative": "Zobraziť iniciatívu",
+    "discussion": "Zobraziť diskusiu",
+    "content": "Zobraziť obsah",
+    "page": "Zobraziť stránku",
+    "group": "Zobraziť skupinu"
+  },
+  "label": {
+    "project": "Pracovný priestor projektu",
+    "site": "Pracovná oblasť lokality",
+    "initiative": "Pracovná oblasť iniciatívy",
+    "discussion": "Pracovná oblasť diskusií",
+    "content": "Pracovná oblasť obsahu",
+    "page": "Pracovný priestor stránky",
+    "group": "Pracovný priestor skupiny"
+  },
+  "access": {
+    "sharingLevel": "Úroveň zdieľania",
+    "groupSharing": "Skupinové zdieľanie",
+    "public": "Verejné",
+    "org": "Organizácia",
+    "private": "Vlastník",
+    "shared": "Súkromne zdieľané",
+    "disabled": "Zdieľanie nemôžete zmeniť pretože nie ste vlastníkom alebo administrátorom."
+  }
+}

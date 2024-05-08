@@ -1,0 +1,9 @@
+{
+  "heading": "Уровень доступа",
+  "public": "Публичный",
+  "publicInfo": "Все могут видеть этот {itemType}",
+  "organization": "Организация",
+  "organizationInfo": "Все участники с учетной записью {orgName} и группы могут видеть этот {itemType}",
+  "owner": "Владелец",
+  "ownerInfo": "Владелец и группы с доступом могут видеть этот {itemType}"
+}

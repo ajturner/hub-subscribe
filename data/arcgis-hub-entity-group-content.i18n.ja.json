@@ -1,0 +1,50 @@
+{
+  "title": "コンテンツ",
+  "facets": {
+    "type": "タイプ",
+    "tags": "タグ",
+    "categories": "カテゴリ",
+    "sharing": "共有",
+    "dateUpdated": "更新日",
+    "map": {
+      "label": "位置",
+      "tooltip": "マップ範囲を位置フィルターとして適用"
+    }
+  },
+  "shareContent": {
+    "buttonText": "コンテンツの追加",
+    "catalog": {
+      "myContent": "マイ コンテンツ",
+      "favorites": "お気に入り",
+      "organization": "組織",
+      "world": "世界 (パブリック)"
+    },
+    "facets": {
+      "type": "タイプ",
+      "sharing": "共有"
+    },
+    "collection": {
+      "appsAndMaps": "アプリおよびマップ",
+      "dataset": "データ",
+      "documents": "ドキュメント",
+      "feedback": "フィードバック",
+      "sites": "サイト"
+    },
+    "modal": {
+      "title": "コンテンツの追加"
+    },
+    "unsharedModal": {
+      "title": "アイテムは追加されませんでした",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "危険",
+        "title": "アクションが未完了",
+        "message": "一部のアイテムを追加できませんでした。 これは、コンテンツ内で共有レベルが一致しないか、アイテムの所有者がグループのメンバーでないことが原因である可能性があります。",
+        "linkText": "共有の詳細"
+      }
+    },
+    "itemSharedSuccessAlert": "アイテムが正常に共有されました"
+  },
+  "close": "閉じる",
+  "newTab": "新しいタブで開きます"
+}

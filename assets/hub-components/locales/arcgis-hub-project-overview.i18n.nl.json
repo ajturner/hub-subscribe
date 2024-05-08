@@ -1,0 +1,27 @@
+{
+  "overview": "Overzicht",
+  "telemetry": {
+    "pageViews": "Paginaweergaven",
+    "last30days": "Afgelopen 30 dagen",
+    "lastUpdated": "{hoursElapsed} uur geleden voor het laatst bijgewerkt"
+  },
+  "newNotice": {
+    "title": "Hier is uw project-werkruimte",
+    "message": "Deze werkruimte is aangepast voor het bewerken van projecten. Werkruimtes bieden personen die samenwerken de mogelijkheid zich op afzonderlijke items te focussen; ze worden voortdurend verder ontwikkeld.",
+    "link": "Meer weten"
+  },
+  "learnAbout": "Meer over Hub-projecten",
+  "feedbackNotice": {
+    "message": "Wat denkt u van Hub-projecten? Aangezien deze functionaliteit nog in bèta is, zouden we graag van u horen hoe u denkt dat u het gaat gebruiken.",
+    "link": "Feedback sturen"
+  },
+  "status": {
+    "notStarted": "Niet gestart",
+    "inProgress": "In uitvoering",
+    "onHold": "Tijdelijk stopgezet",
+    "complete": "Voltooid"
+  },
+  "editDetails": "Details bewerken",
+  "noPurposeSet": "Er is geen doel ingesteld",
+  "noLocationSet": "Er is geen locatie ingesteld"
+}

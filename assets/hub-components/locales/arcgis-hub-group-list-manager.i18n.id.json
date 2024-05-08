@@ -1,0 +1,28 @@
+{
+  "newTab": "buka profil di tab baru",
+  "noGroups": "Tidak ada grup",
+  "pickerToggle": "Tambahkan grup",
+  "pickerTitle": "Pilih grup",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Tidak ada anggota",
+      "oneMember": "1 anggota",
+      "members": "{count} anggota"
+    },
+    "dateCreated": "Tanggal Dibuat: {localizedDate}",
+    "sharing": "Berbagi: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Diri Sendiri",
+      "shared": "Pemilik & grup",
+      "org": "Organisasi",
+      "public": "Publik"
+    },
+    "membership": "Keanggotaan: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Pemilik Grup",
+      "admin": "Pengelola Grup",
+      "member": "Anggota Grup",
+      "none": "Tidak Ada"
+    }
+  }
+}

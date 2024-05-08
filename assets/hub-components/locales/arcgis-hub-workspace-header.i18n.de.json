@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Layout bearbeiten",
+  "editContent": "Inhalt bearbeiten",
+  "view": {
+    "project": "Projekt anzeigen",
+    "site": "Site anzeigen",
+    "initiative": "Initiative anzeigen",
+    "discussion": "Diskussion anzeigen",
+    "content": "Inhalt anzeigen",
+    "page": "Seite anzeigen",
+    "group": "Gruppe anzeigen"
+  },
+  "label": {
+    "project": "Projekt-Workspace",
+    "site": "Site-Workspace",
+    "initiative": "Initiativen-Workspace",
+    "discussion": "Diskussions-Workspace",
+    "content": "Inhalts-Workspace",
+    "page": "Seiten-Workspace",
+    "group": "Workspace \"Gruppe\""
+  },
+  "access": {
+    "sharingLevel": "Freigabeebene",
+    "groupSharing": "Gruppenfreigabe",
+    "public": "Öffentlich",
+    "org": "Organisation",
+    "private": "Besitzer",
+    "shared": "Privat freigegeben",
+    "disabled": "Sie können die Freigabe nicht ändern, weil Sie weder der Besitzer noch ein Administrator sind."
+  }
+}

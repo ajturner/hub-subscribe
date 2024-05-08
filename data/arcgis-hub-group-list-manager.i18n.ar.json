@@ -1,0 +1,28 @@
+{
+  "newTab": "فتح ملف التعريف في علامة تبويب جديدة",
+  "noGroups": "لا توجد مجموعات",
+  "pickerToggle": "إضافة مجموعات",
+  "pickerTitle": "تحديد المجموعات",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "لا يوجد أعضاء",
+      "oneMember": "عضو واحد",
+      "members": "{count} من الأعضاء"
+    },
+    "dateCreated": "تاريخ الإنشاء: {localizedDate}",
+    "sharing": "المشاركة: {sharingLevel}",
+    "sharingLevels": {
+      "private": "نفسي",
+      "shared": "المالك والمجموعات",
+      "org": "المؤسسة",
+      "public": "عام"
+    },
+    "membership": "العضوية: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "مالك المجموعة",
+      "admin": "مدير المجموعة",
+      "member": "عضو بالمجموعة",
+      "none": "لا شيء"
+    }
+  }
+}

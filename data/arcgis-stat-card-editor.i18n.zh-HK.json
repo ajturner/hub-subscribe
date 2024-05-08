@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "進階配置",
+    "serverTimeout": {
+      "label": "伺服器逾時(秒)",
+      "helperText": "對於可能需要更多時間回應的大型服務很有用。"
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "拐角",
+      "enum": {
+        "round": {
+          "label": "圓化"
+        },
+        "square": {
+          "label": "正方形"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "陰影",
+      "enum": {
+        "heavy": {
+          "label": "重"
+        },
+        "low": {
+          "label": "低"
+        },
+        "medium": {
+          "label": "中"
+        },
+        "none": {
+          "label": "未啟動"
+        }
+      }
+    },
+    "layout": {
+      "label": "統計資訊版面配置",
+      "enum": {
+        "dataViz": {
+          "label": "資料視覺化"
+        },
+        "moreInfo": {
+          "label": "詳細資訊"
+        },
+        "simple": {
+          "label": "簡易"
+        }
+      }
+    },
+    "popoverTitle": "浮動提示標題",
+    "popoverDescription": "浮動提示描述",
+    "sectionTitle": "外觀",
+    "textAlign": "對齊",
+    "visualInterest": {
+      "label": "視覺興趣",
+      "enum": {
+        "icon": {
+          "label": "圖示"
+        },
+        "logo": {
+          "label": "標誌"
+        },
+        "none": {
+          "label": "無"
+        },
+        "sparkline": {
+          "label": "迷你"
+        }
+      }
+    },
+    "valueColor": "顏色 (統計資料)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "連結",
+      "sourceLink": "連結 URL",
+      "sourceTitle": "連結文字"
+    },
+    "sectionTitle": "詳細資訊",
+    "subtitle": "副標題",
+    "title": "標題",
+    "trailingText": "尾端文字"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "顯示來源的必要連結。"
+    }
+  },
+  "formatting": {
+    "sectionTitle": "正在設定格式",
+    "unit": {
+      "label": "顯示單位",
+      "helperText": "輸入您的值的測量單位。"
+    },
+    "unitPosition": {
+      "label": "位置",
+      "enum": {
+        "after": {
+          "label": "之後"
+        },
+        "before": {
+          "label": "之前"
+        },
+        "below": {
+          "label": "低於"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "分享",
+    "showShareIcon": "啟用",
+    "shareableByValue": "啟用嵌入內容",
+    "shareableOnHover": {
+      "label": "顯示",
+      "enum": {
+        "always": {
+          "label": "一律"
+        },
+        "hover": {
+          "label": "僅懸停"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "資料來源",
+    "displayValue": "顯示值",
+    "sectionTitle": "統計資訊",
+    "type": {
+      "label": "類型",
+      "enum": {
+        "dynamic": {
+          "label": "動態",
+          "description": "選擇要摘要的現有資料集 (圖徵服務)。"
+        },
+        "static": {
+          "label": "靜態",
+          "description": "手動輸入要在版面配置中突顯的值。"
+        }
+      }
+    }
+  }
+}

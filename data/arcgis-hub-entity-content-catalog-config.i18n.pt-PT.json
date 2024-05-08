@@ -1,0 +1,30 @@
+{
+  "helperText": "Definir e configurar o catálogo",
+  "sections": {
+    "groups": {
+      "title": "Grupos",
+      "helperText": "Os grupos abaixo contêm o conteúdo do seu catálogo de pesquisa. Selecione um grupo para ver as suas definições, conteúdos e muito mais.",
+      "createGroup": "Criar Novo Grupo"
+    },
+    "feeds": {
+      "title": "Configuração de Feed",
+      "helperText": "Torne os seus dados públicos abertos facilmente acessíveis e reutilizáveis com os feeds do Hub.",
+      "learn": "Saiba mais sobre os feeds do Hub",
+      "toggle": "Ativar Feeds ",
+      "configure": "Configurar Feeds",
+      "notice": "Para ativar os feeds, tem de definir primeiro os seus sites do Hub como \"Público\" nas suas Definições"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "De",
+    "editGroups": "Editar grupos",
+    "viewGroups": "Ver grupo",
+    "myGroup": "O meu grupo",
+    "myOrganization": "A minha organização",
+    "myCommunity": "A minha comunidade"
+  },
+  "formAlert": "Alerta de formulário",
+  "alertMessages": {
+    "error": "Erro ao guardar edições"
+  }
+}

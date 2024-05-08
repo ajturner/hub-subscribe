@@ -1,0 +1,25 @@
+{
+  "moreResults": "Još rezultata",
+  "search": "Pretraži",
+  "filter": "Filteri",
+  "viewResults": "Pogledaj rezultate ({numResults})",
+  "resultsCount": "1 - {pageTotal} od {searchTotal}",
+  "backToTop": "Nazad na vrh",
+  "facets": {
+    "access": {
+      "private": "Ja",
+      "shared": "Vlasnik i grupe",
+      "org": "Organizacija",
+      "public": "Javni"
+    },
+    "license": {
+      "custom": "Prilagođeno",
+      "none": "Ništa"
+    }
+  },
+  "layoutOptions": {
+    "list": "Prikaži listu",
+    "grid": "Prikaži mrežu"
+  },
+  "galleryActionsLabel": "Dodatne akcije"
+}

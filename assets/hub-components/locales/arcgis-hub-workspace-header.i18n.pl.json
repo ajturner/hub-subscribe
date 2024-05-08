@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Edytuj kompozycję",
+  "editContent": "Edytuj zasoby",
+  "view": {
+    "project": "Wyświetl projekt",
+    "site": "Wyświetl witrynę",
+    "initiative": "Wyświetl inicjatywę",
+    "discussion": "Wyświetl dyskusję",
+    "content": "Wyświetlanie zasobu",
+    "page": "Wyświetl stronę",
+    "group": "Wyświetl grupę"
+  },
+  "label": {
+    "project": "Przestrzeń robocza projektu",
+    "site": "Przestrzeń robocza witryny",
+    "initiative": "Przestrzeń robocza inicjatywy",
+    "discussion": "Przestrzeń robocza dyskusji",
+    "content": "Przestrzeń robocza zasobów",
+    "page": "Przestrzeń robocza strony",
+    "group": "Przestrzeń robocza grupy"
+  },
+  "access": {
+    "sharingLevel": "Poziom udostępniania",
+    "groupSharing": "Udostępnianie grupie",
+    "public": "Publiczny",
+    "org": "Instytucja",
+    "private": "Właściciel",
+    "shared": "Udostępnione prywatnie",
+    "disabled": "Nie można zmienić opcji udostępniania, ponieważ użytkownik nie jest właścicielem ani administratorem."
+  }
+}

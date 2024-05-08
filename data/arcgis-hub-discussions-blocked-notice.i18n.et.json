@@ -1,0 +1,16 @@
+{
+  "post.title": "Postituse muutmine on blokeeritud",
+  "post.message": "Muutmine pole võimalik, kui arutelud on blokeeritud.",
+  "post.message.item": "Muutmine pole saadaval, kui arutelud on selle üksuse puhul blokeeritud.",
+  "post.message.group": "Muutmine pole võimalik, kui arutelud on selle grupi puhul blokeeritud.",
+  "reply.title": "Vastuse muutmine on blokeeritud",
+  "reply.title.generic": "Arutelu blokeeritud",
+  "reply.message": "Muutmine pole võimalik, kui arutelud on blokeeritud.",
+  "reply.message.generic": "Vastuseid ei saa praegu luua.",
+  "reply.message.item": "Muutmine pole võimalik, kui arutelud on selle üksuse puhul blokeeritud.",
+  "reply.message.group": "Muutmine pole võimalik, kui arutelud on selle grupi puhul blokeeritud.",
+  "item.title": "Üksuse arutelu on blokeeritud",
+  "item.message": "See üksus pole aruteluks heaks kiidetud.",
+  "group.title": "Grupi arutelu on blokeeritud",
+  "group.message": "See grupp pole aruteluks heaks kiidetud."
+}

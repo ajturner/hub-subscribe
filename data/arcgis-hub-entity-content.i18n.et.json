@@ -1,0 +1,24 @@
+{
+  "content": "Sisu",
+  "tabs": {
+    "catalog": "Kataloog",
+    "collections": "Kogud",
+    "catalogConfig": "Kataloog konfigureerimine"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Konfigureerige oma kataloog",
+        "message": "Alustati teie kataloogi koostamist ja konfigureerimist! Teie kataloog koosneb rühmadest ja on täidetud nende sisuga.",
+        "link": "Lisateave kataloogide kohta"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Kataloog on tühi",
+        "message": "Olete valmis oma kataloogiga alustama! Teie kataloog konfigureeritakse ühe või mitme grupi lisamisega ja täidetakse nende sisuga.",
+        "link": "Alusta"
+      }
+    }
+  }
+}

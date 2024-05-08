@@ -1,0 +1,1 @@
+import{g as t}from"./p-75d6da59.js";const e=["site","project","initiative","initiativeTemplate","page","discussion","content","org","group","template"],i=(i,o)=>{let s="/";const n=t({type:i});if((t=>e.includes(t))(n)){let t=n;"content"!==t&&(t=`${t}s`),s=`/workspace/${t}/${o}`}return s};export{i as g}

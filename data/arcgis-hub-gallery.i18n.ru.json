@@ -1,0 +1,25 @@
+{
+  "moreResults": "Больше результатов",
+  "search": "Поиск",
+  "filter": "Фильтры",
+  "viewResults": "Просмотр результатов ({numResults})",
+  "resultsCount": "1 - {pageTotal} из {searchTotal}",
+  "backToTop": "Наверх",
+  "facets": {
+    "access": {
+      "private": "Для себя",
+      "shared": "Владелец и группы",
+      "org": "Организация",
+      "public": "Для всех"
+    },
+    "license": {
+      "custom": "Пользовательский",
+      "none": "Нет"
+    }
+  },
+  "layoutOptions": {
+    "list": "Показать список",
+    "grid": "Показать сетку"
+  },
+  "galleryActionsLabel": "Дополнительные действия"
+}

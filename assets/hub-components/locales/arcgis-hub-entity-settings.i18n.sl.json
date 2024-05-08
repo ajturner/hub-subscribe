@@ -1,0 +1,34 @@
+{
+  "settings": "Nastavitve",
+  "delete": {
+    "project": "Izbriši projekt",
+    "initiative": "Izbriši iniciativo",
+    "site": "Izbriši spletno mesto",
+    "discussion": "Izbriši razpravo",
+    "content": "Izbriši vsebino",
+    "page": "Izbriši stran",
+    "group": "Izbriši skupino"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Izbriši projekt",
+      "initiative": "Izbriši iniciativo",
+      "site": "Izbriši spletno mesto",
+      "discussion": "Izbriši razpravo",
+      "content": "Izbriši vsebino",
+      "page": "Izbriši stran",
+      "group": "Izbriši skupino"
+    },
+    "content": "Ste prepričani, da želite izbrisati:",
+    "delete": "Izbriši",
+    "cancel": "Prekliči"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Možnost \"ekstrakcije\" spremeni nastavitve storitve.",
+        "message": "To bo vplivalo na druge elemente, ki se nanašajo na storitev. Za več podrobnosti glejte <docLink>Izvoz podatkov iz gostujočih geoobjektnih slojev</docLink>"
+      }
+    }
+  }
+}

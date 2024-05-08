@@ -1,0 +1,50 @@
+{
+  "title": "Conteúdo",
+  "facets": {
+    "type": "Tipo",
+    "tags": "Tag",
+    "categories": "Categoria",
+    "sharing": "Compartilhamento",
+    "dateUpdated": "Data atualizada",
+    "map": {
+      "label": "Local",
+      "tooltip": "Aplicar a extensão do mapa como um filtro de localização"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Adicionar conteúdo",
+    "catalog": {
+      "myContent": "Meu conteúdo",
+      "favorites": "Favoritos",
+      "organization": "Minha organização",
+      "world": "Mundo (Público)"
+    },
+    "facets": {
+      "type": "Tipo",
+      "sharing": "Compartilhamento"
+    },
+    "collection": {
+      "appsAndMaps": "Aplicativos & Mapas",
+      "dataset": "Dados",
+      "documents": "Documentos",
+      "feedback": "Comentário",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Adicionar conteúdo"
+    },
+    "unsharedModal": {
+      "title": "itens não adicionados",
+      "notice": {
+        "icon": "triângulo-marca-exclamação",
+        "type": "perigo",
+        "title": "Ação incompleta",
+        "message": "Alguns itens não puderam ser adicionados. Isso pode ocorrer devido a níveis de compartilhamento incompatíveis no conteúdo ou devido ao proprietário do item não ser membro do grupo.",
+        "linkText": "Leia mais sobre compartilhamento"
+      }
+    },
+    "itemSharedSuccessAlert": "Itens compartilhados com sucesso"
+  },
+  "close": "Fechar",
+  "newTab": "abre em uma nova guia"
+}

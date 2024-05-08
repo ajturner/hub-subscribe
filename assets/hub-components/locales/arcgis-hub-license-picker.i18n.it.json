@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Scegli condizioni d'uso",
+  "editorLabel": "Condizioni d'uso selezionate",
+  "editorRemoveWarning": "Attenzione, stai per eliminare le condizioni d'uso.",
+  "licenseDescriptionCc0": "Questo lavoro è dedicato al pubblico",
+  "licenseDescriptionCcBy": "Richiede l'attribuzione",
+  "licenseDescriptionCcByNc": "Richiede l'attribuzione, consente il remix ma vieta l'uso commerciale",
+  "licenseDescriptionCcByNcNd": "Più restrittiva, richiede l'attribuzione, vieta l'uso commerciale e il remix",
+  "licenseDescriptionCcByNcSa": "Richiede l'attribuzione, consente il remix ma vieta l'uso commerciale e i lavori derivati devono mantenere la stessa licenza",
+  "licenseDescriptionCcByNd": "Richiede l'attribuzione, consente l'uso commerciale ma vieta la condivisione di derivati",
+  "licenseDescriptionCcBySa": "Richiede l'attribuzione, consente il remix e l'uso commerciale",
+  "licenseDescriptionCustom": "Visualizza dettagli",
+  "licenseDescriptionOdbl": "Consenti condivisione, creazione e adattamento purché altri attribuiscano, condividano e mantengano l'apertura",
+  "licenseDescriptionOdcBy": "Consenti condivisione, creazione e adattamento purché altri attribuiscano",
+  "licenseDescriptionPddl": "Consenti condivisione, creazione e adattamento",
+  "licenseInfoButtonAriaLabel": "I dettagli delle condizioni d'uso sono visualizzati in una nuova scheda",
+  "selectedLicenseLabelFallback": "Personalizzata",
+  "selectedLicenseLabelNoLicense": "Non ci sono condizioni d'uso"
+}

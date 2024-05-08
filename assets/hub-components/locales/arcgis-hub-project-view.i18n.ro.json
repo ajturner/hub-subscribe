@@ -1,0 +1,18 @@
+{
+  "purpose": "Scop",
+  "description": "Cum o vom îndeplini",
+  "details": "Detalii",
+  "featuredImageAlt": "Imagine prezentată în proiect",
+  "trackProgress": "Urmăriți progresul nostru",
+  "participatingGroups": "Grupuri participante",
+  "whosInvolved": "Cine este implicat",
+  "tags": "Etichete",
+  "status": {
+    "label": "Stare proiect",
+    "notStarted": "Nepornit",
+    "inProgress": "În progres",
+    "onHold": "În așteptare",
+    "complete": "Finalizată"
+  },
+  "featuredContent": "Conținut promovat"
+}

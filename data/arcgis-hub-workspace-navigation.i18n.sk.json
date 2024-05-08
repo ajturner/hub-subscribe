@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Podrobnosti",
+    "overview": "Prehľad",
+    "metrics": "Metriky",
+    "settings": "Nastavenia",
+    "collaborators": "Spolupracovníci",
+    "discussion": "Diskusia",
+    "content": "Obsah",
+    "members": "Členovia",
+    "participation": "Spoluúčasť",
+    "followers": "Sledujúci"
+  }
+}

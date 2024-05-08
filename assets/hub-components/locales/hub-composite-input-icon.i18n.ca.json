@@ -1,0 +1,19 @@
+{
+  "select": "Selecciona",
+  "cancel": "Cancel·la",
+  "iconModalTitle": "Seleccioneu una icona",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Trieu de la biblioteca"
+      },
+      "url": {
+        "description": "Proporcioneu un URL per al vostre propi ús"
+      }
+    }
+  },
+  "altText": {
+    "label": "Text alternatiu",
+    "helperText": "Si no s'afegeix, la icona es marcarà com a decorativa."
+  }
+}

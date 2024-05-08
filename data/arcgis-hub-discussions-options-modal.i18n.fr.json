@@ -1,0 +1,8 @@
+{
+  "header": "Options de discussion",
+  "secondary": "Annuler",
+  "primary": "Enregistrer les modifications",
+  "pending": "Enregistrement",
+  "error.title": "Un problème est survenu",
+  "error.message": "Réessayez pour enregistrer les modifications."
+}

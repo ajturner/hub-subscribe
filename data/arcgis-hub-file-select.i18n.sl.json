@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Povlecite in spustite datoteko, da jo naložite",
+  "imageHeading": "Naloži sliko",
+  "selectedHeading": "Datoteka je izbrana",
+  "maxSizeAndSupportedTypes": "Največja dovoljena velikost je {maxSize} MB, {fileTypes}",
+  "maxSize": "Največja dovoljena velikost je {maxSize} MB",
+  "recommendedDimensions": "Priporočene dimenzije {recommendedDimensions}",
+  "linkText": "Ogled seznama podprtih datotek",
+  "contentButton": "Izberi datoteko",
+  "imageButton": "Izberi sliko",
+  "clearButton": "Počisti izbrano",
+  "errorHeading": "Napaka",
+  "fileTooLargeError": "Datoteka je prevelika",
+  "multipleFilesError": "Ni mogoče naložiti več datotek hkrati",
+  "unsupportedFileTypeError": "Ta tip datoteke ni podprt"
+}

@@ -1,0 +1,10 @@
+{
+  "error": "Įvyko klaida",
+  "repliesFailure": "Atsakymai į šį įrašą nerodomi.",
+  "thread.deleted.title": "Gija panaikinta",
+  "thread.deleted.message": "Susietas įrašas ir atsakymas buvo panaikinti ir jų parodyti negalima.",
+  "thread.deleted.action": "Peržiūrėti visus įrašus",
+  "reply.single.title": "Peržiūrite vieną atsakymą",
+  "reply.single.link": "Peržiūrėti visus atsakymus",
+  "loading": "Kraunama"
+}

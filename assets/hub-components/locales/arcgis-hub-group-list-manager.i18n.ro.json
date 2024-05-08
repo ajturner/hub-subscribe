@@ -1,0 +1,28 @@
+{
+  "newTab": "deschidere profil în filă nouă",
+  "noGroups": "Nu există grupuri",
+  "pickerToggle": "Adăugare grupuri",
+  "pickerTitle": "Selectare grupuri",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Niciun membru",
+      "oneMember": "1 membru",
+      "members": "{count} membri"
+    },
+    "dateCreated": "Data creării: {localizedDate}",
+    "sharing": "Partajare: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Eu",
+      "shared": "Proprietar și grupuri",
+      "org": "Organizaţie",
+      "public": "Public"
+    },
+    "membership": "Apartenență: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Proprietar grup",
+      "admin": "Manager grup",
+      "member": "Membru grup",
+      "none": "Niciunul"
+    }
+  }
+}

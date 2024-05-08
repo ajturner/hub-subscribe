@@ -1,0 +1,494 @@
+{
+  "success": "A módosítások mentése sikerült",
+  "error": "Nem sikerült a módosítások mentése",
+  "create": "Létrehozás",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nincs hely",
+        "org": "Szervezet kiterjedése",
+        "custom": "Egyéni hely",
+        "customDescription": "Rajzoljon egy vagy több helyet",
+        "itemExtent": "Elem aktuális kiterjedése"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Típus",
+          "sharing": "Megosztás"
+        },
+        "catalog": {
+          "myContent": "Saját tartalom",
+          "favorites": "Kedvencek",
+          "organization": "Szervezet",
+          "world": "Világ (Nyilvános)"
+        },
+        "collection": {
+          "appsAndMaps": "Alkalmazások és térképek",
+          "dataset": "Adatok",
+          "documents": "Dokumentumok",
+          "feedback": "Visszajelzés",
+          "sites": "Webhelyek"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Részletek"
+      },
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "location": {
+        "label": "Helyszín",
+        "helperText": "Mutassa meg azt a földrajzi területet, ahol a projekt megvalósul (a projekt térképi kimenetén)."
+      },
+      "status": {
+        "label": "Állapot"
+      },
+      "sharing": {
+        "label": "Megosztás"
+      },
+      "timeline": {
+        "label": "Idővonal"
+      },
+      "searchDiscoverability": {
+        "label": "Keresés és felfedezhetőség"
+      },
+      "featuredContent": {
+        "label": "Kiemelt tartalom",
+        "helperText": "Kiemelheti a projektjéhez kapcsolódó konkrét dokumentumokat, alkalmazásokat és adatokat. Legfeljebb 4 elemet mutathat be."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projektnév",
+        "requiredError": "A projektnév mező kitöltése kötelező"
+      },
+      "description": {
+        "label": "Leírás",
+        "helperText": "Adja meg, hogy a projekt hogyan fogja elérni a célkitűzéseit. Fontolja meg a vonatkozó háttérinformációk és a projekt eredményeként várható változások feltüntetését."
+      },
+      "summary": {
+        "label": "Cél",
+        "helperText": "Röviden összegezze a projekt célkitűzéseit."
+      },
+      "access": {
+        "itemType": "Projekt"
+      },
+      "groups": {
+        "label": "Megosztás a következővel:",
+        "viewGroup": "(Csoport megtekintése)",
+        "editGroup": "(Csoport szerkesztése)"
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Állítson be egy miniatűr képet, amely ezt a projektet az ArcGIS Online-ban, a keresésben és a galériákban ábrázolja.",
+        "sizeDescription": "Javasolt méretek: 760 x 505 vagy nagyobb"
+      },
+      "featuredImage": {
+        "label": "Kiemelt kép",
+        "helperText": "Válasszon ki egy képet, amely a projekttervben a munkáját ábrázolja.",
+        "sizeDescription": "A fájl mérete legfeljebb 10 MB lehet. Javasolt méretek: 718 x 478 vagy nagyobb",
+        "altText": {
+          "label": "Összes szöveg",
+          "helperText": "Adjon rövid leírást a képhez a képernyőolvasót használók számára. Hagyja üresen, ha a kép dekorációs jellegű."
+        }
+      },
+      "tags": {
+        "label": "Címkék",
+        "helperText": "A címkéket a keresőkatalógusokban használják, hogy segítsenek másoknak megtalálni ezt a projektet. Adjon hozzá szöveget, és nyomja le az Enter gombot az új címkék létrehozásához."
+      },
+      "categories": {
+        "label": "Szabványok",
+        "helperText": "A kategóriákat a keresőkatalógusokban használják, hogy segítsenek másoknak megtalálni ezt a projektet. Ezeket az Ön ArcGIS Online szervezete állítja be."
+      },
+      "status": {
+        "label": "Projektállapot",
+        "enum": {
+          "notStarted": {
+            "label": "Nem kezdődött el"
+          },
+          "inProgress": {
+            "label": "Folyamatban"
+          },
+          "onHold": {
+            "label": "Várakozik"
+          },
+          "complete": {
+            "label": "Befejeződött"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Típus",
+          "sharing": "Megosztás"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Részletek"
+      },
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "location": {
+        "label": "Helyszín",
+        "helperText": "Mutassa meg azt a földrajzi területet, ahol a kezdeményezés megvalósul (a kezdeményezés térképi kimenetén)."
+      },
+      "sharing": {
+        "label": "Megosztás"
+      },
+      "featuredContent": {
+        "label": "Kiemelt tartalom",
+        "helperText": "Kiemelheti a projektjéhez kapcsolódó konkrét dokumentumokat, alkalmazásokat és adatokat. Legfeljebb 4 elemet mutathat be."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Kezdeményezés neve",
+        "requiredError": "A kezdeményezés neve mező kitöltése kötelező."
+      },
+      "summary": {
+        "label": "Cél",
+        "helperText": "Röviden összegezze a kezdeményezés célkitűzéseit."
+      },
+      "access": {
+        "itemType": "Kezdeményezés"
+      },
+      "description": {
+        "label": "Leírás",
+        "helperText": "Adjon meg több kontextust, ami hasznos lehet a kezdeményezés keresésekor."
+      },
+      "tags": {
+        "label": "Címkék",
+        "helperText": "A címkéket a keresőkatalógusokban használják, hogy segítsenek másoknak megtalálni ezt a kezdeményezést. Adjon hozzá szöveget, és nyomja le az Enter gombot az új címkék létrehozásához."
+      },
+      "categories": {
+        "label": "Szabványok",
+        "helperText": "A kategóriákat a keresőkatalógusokban használják, hogy segítsenek másoknak megtalálni ezt a kezdeményezést. Ezeket az Ön ArcGIS Online szervezete állítja be."
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Állítson be egy miniatűr képet, amely ezt a kezdeményezést az ArcGIS Online-ban, a keresésben és a galériákban ábrázolja."
+      },
+      "groups": {
+        "label": "Megosztás a következővel:",
+        "viewGroup": "(Csoport megtekintése)",
+        "editGroup": "(Csoport szerkesztése)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Típus",
+          "sharing": "Megosztás"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Részletek"
+      },
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "location": {
+        "label": "Helyszín"
+      },
+      "settings": {
+        "label": "Beszélgetés beállításai"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Beosztás",
+        "requiredError": "A vitafórum nevét meg kell adni."
+      },
+      "prompt": {
+        "label": "Emlékeztető",
+        "helperText": "Röviden írja le, hogy a résztvevők mit küldjenek be ezen a vitafórumon.",
+        "requiredError": "Az Emlékeztető mezőt ki kell tölteni"
+      },
+      "description": {
+        "label": "Leírás",
+        "helperText": "Adjon meg több kontextust, ami hasznos lehet a fórum keresésekor."
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Válasszon ki egy képet, amely a vitafórumot képviseli."
+      },
+      "summary": {
+        "label": "Cél",
+        "helperText": "Röviden írja le a vitafórum célját, ami hasznos lehet, amikor megosztja a linket másokkal."
+      },
+      "featuredImage": {
+        "label": "Kiemelt kép",
+        "sizeDescription": "Maximális méret 10 MB, JPEG, JPG vagy PNG",
+        "altText": {
+          "label": "Összes szöveg",
+          "helperText": "Adjon rövid leírást a képhez a képernyőolvasót használók számára. Hagyja üresen, ha a kép dekorációs jellegű."
+        },
+        "name": {
+          "label": "Kép neve"
+        }
+      },
+      "tags": {
+        "label": "Címkék"
+      },
+      "categories": {
+        "label": "Szabványok"
+      },
+      "discussable": {
+        "label": "Engedélyezett a beszélgetés?",
+        "enabled": {
+          "label": "Igen, a megbeszélés engedélyezett",
+          "description": "A résztvevők bejegyzéseket, válaszokat és reakciókat fűzhetnek ehhez a vitafórumhoz."
+        },
+        "disabled": {
+          "label": "Nem, a megbeszélés blokkolva",
+          "description": "Eltávolítja az új bejegyzések, válaszok és reakciók hozzáadásának lehetőségét. Nem törli az előző részvételt."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "location": {
+        "label": "Helyszín",
+        "helperText": "Mutassa meg azt a földrajzi területet, amelyre ez a webhely vonatkozik."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Webhely neve",
+        "requiredError": "A Webhely neve mező kitöltése kötelező"
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Állítson be egy miniatűr képet, amely ezt a webhelyet az ArcGIS Online-ban, a keresésben és a galériákban ábrázolja."
+      },
+      "description": {
+        "label": "Leírás",
+        "helperText": "A webhely leírása."
+      },
+      "summary": {
+        "label": "Összefoglalás",
+        "helperText": "Foglalja össze röviden a webhely tartalmát."
+      },
+      "tags": {
+        "label": "Címkék",
+        "helperText": "A címkék a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt a webhelyet. Adjon hozzá szöveget, és nyomja le az Enter gombot az új címkék létrehozásához."
+      },
+      "categories": {
+        "label": "Szabványok",
+        "helperText": "A kategóriák a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt a webhelyet. Ezeket az Ön ArcGIS Online szervezete állítja be."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Láthatóság beállítása",
+          "helperText": "Szabályozhatja, hogy ki láthatja a követés gombokat. Ez a beállítás mind a lapon belüli követés gombra, mind a közvetlenül az elrendezésbe ágyazott követés gombra vonatkozik.",
+          "private": {
+            "label": "Magánjellegű",
+            "description": "A követés gombokat a webhely tulajdonosa mellett a hozzáféréssel rendelkező csoportok láthatják"
+          },
+          "org": {
+            "label": "Szervezet",
+            "description": "A követés gombokat az oldalhoz tartozó szervezetnél fiókkal rendelkező tagok és a hozzáféréssel rendelkező csoportok láthatják"
+          },
+          "public": {
+            "label": "Nyilvános",
+            "description": "Mindenki láthatja a követés gombokat"
+          }
+        },
+        "showFollowAction": {
+          "label": "Követés művelet",
+          "helperText": "Adjon hozzá egy követés gombot a lapon belüli műveletek menüjéhez, amely akkor is látható marad, amikor a felhasználók görgetik az elrendezést."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "location": {
+        "label": "Helyszín",
+        "helperText": "Mutassa meg azt a földrajzi területet, amelyre ez az oldal vonatkozik."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Oldal neve",
+        "requiredError": "Az Oldal neve mező kitöltése kötelező"
+      },
+      "description": {
+        "label": "Leírás",
+        "helperText": "Az oldal leírása."
+      },
+      "summary": {
+        "label": "Összefoglalás",
+        "helperText": "Foglalja össze röviden az oldal tartalmát"
+      },
+      "tags": {
+        "label": "Címkék",
+        "helperText": "A címkék a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt az oldalt. Adjon hozzá szöveget, és nyomja le az Enter gombot az új címkék létrehozásához."
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Állítson be egy miniatűr képet, amely ezt az Oldalt az ArcGIS Online-ban, a keresésben és a galériákban ábrázolja."
+      },
+      "categories": {
+        "label": "Szabványok",
+        "helperText": "A kategóriák a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt az oldalt. Ezeket az Ön ArcGIS Online szervezete állítja be."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Beosztás",
+        "hint": "A tömör címek használata növeli a tartalom megtalálásának esélyét.",
+        "requiredError": "A cím mező kitöltése kötelező"
+      },
+      "summary": {
+        "label": "Összefoglalás",
+        "hint": "Foglalja össze röviden a tartalmat. TIPP: Fejlessze a SEO-t a „Cím”-től vagy „Címke”-től eltérő kulcsszavak használatával."
+      },
+      "description": {
+        "label": "Leírás",
+        "hint": "A tartalom magyarázatához adjon hozzá további részleteket. Cél a 7-9. osztályos olvasási szint elérése, hogy széles közönséghez eljusson. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>A szöveg teszteléséhez használjon ingyenes olvashatósági elemzőeszközt</a>."
+      },
+      "tags": {
+        "label": "Címkék",
+        "hint": "A címkék a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt a tartalmat. Adjon hozzá szöveget, és nyomja le az Enter gombot az új címkék létrehozásához."
+      },
+      "categories": {
+        "label": "Szabványok",
+        "agolHint": "A kategóriák a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt a tartalmat. Ezeket az Ön ArcGIS Online szervezete állítja be.",
+        "enterpriseHint": "A kategóriák a keresőkatalógusokban használatosak: segítenek másoknak megtalálni ezt a tartalmat. Ezeket a saját ArcGIS Enterprise-szervezete állítja be.",
+        "agolNoCategoryHint": "Tipp: a kategóriák csak akkor állnak rendelkezésre, ha szervezete állítottas be őket az ArcGIS Online szervezetben.",
+        "enterpriseNoCategoryHint": "Tipp: a kategóriák csak akkor állnak rendelkezésre, ha szervezete állítottas be őket az ArcGIS Enterprise szervezetben."
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Állítson be egy miniatűr képet, amely ezt az elemet az ArcGIS Online-ban, a keresésben és a galériákban ábrázolja."
+      },
+      "license": {
+        "label": "Használati feltételek",
+        "helperText": "A kevesebb korlátozások több újrafelhasználást tesznek lehetővé."
+      },
+      "serverExtractCapability": {
+        "label": "Kinyerési lehetőség (adatok exportálása)",
+        "helperText": "Engedélyezi a „kinyerés” funkciót az adott elem szolgáltatásán. A kinyerés további formátumokat támogat."
+      },
+      "hostedDownloads": {
+        "label": "(Béta) Központilag tárolt letöltések",
+        "helperText": "Letöltési fájlok létrehozása közvetlenül egy központilag tárolt szolgáltatásból. Ez javítja a teljesítményt az olyan tartalmak letöltésekor, mint a vektoros rétegek és a táblák. A központilag tárolt letöltések engedélyezéséhez engedélyezni kell a Kinyerési képességeket."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Alapszintű adatok",
+        "message": "Ez az információ a keresési eredmények és a galériakártyák kitöltésére lesz felhasználva, és a részletes nézetben fog megjelenni."
+      },
+      "about": {
+        "title": "A tartalomról",
+        "message": "A leírás első két sora jelenik meg a találatok között, de a tartalmak célzott megtekintésekor a teljes leírás látható lesz."
+      },
+      "image": {
+        "title": "Kiemelt kép",
+        "message": "Fontos, hogy egy jó kiemelt képpel vagy bélyegképpel rendelkezzen, amikor a galériáinkban mutatja be a tartalmát, illetve a képeket kiemelő nézetekben, például a kezdeményezésekben, eseményekben és felmérésekben. Az ajánlott méret 760 × 505. Ha a kép homályosan jelenik meg az élő útvonalakon, akkor próbálja meg kicserélni a bélyegképet egy nagyobb képre."
+      },
+      "location": {
+        "label": "Helyszín",
+        "helperText": "Mutassa meg azt a földrajzi területet, ahol a tartalom megvalósul (a tartalom térképi kimenetén)."
+      },
+      "downloads": {
+        "label": "Fájlletöltések",
+        "helperText": "A letöltési formátumok, a gyorsítótárazott fájlok frissítési ütemezése és egyebek konfigurálása. További részletekért lásd a <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">letöltési dokumentációt.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} karakter van hátra"
+    },
+    "imageThumbnail": {
+      "label": "Bélyegkép",
+      "upload": "Kép feltöltése",
+      "done": "Kész",
+      "editThumbnail": "Bélyegkép szerkesztése",
+      "browse": "Kép keresése",
+      "remove": "Kép eltávolítása",
+      "edit": "Kép szerkesztése",
+      "defaultHeading": "Bélyegkép hozzáadása",
+      "dropHeading": "A feltöltéshez húzza ide egérrel",
+      "errorHeading": "Próbáljon meg egy másik képet",
+      "subheading": "Max. méret {size}, {types}",
+      "zoomOut": "kicsinyítés",
+      "zoomIn": "nagyítás",
+      "drag": "Húzza arrébb az áthelyezéshez",
+      "urlPlaceholder": "Támogatott típusok: {types}",
+      "browseForImage": "Kép keresése",
+      "aria": {
+        "container": "Kép területe",
+        "crop": "Kivágott terület",
+        "handle": {
+          "top": "Átméretezés felfelé",
+          "right": "Átméretezés jobbra",
+          "left": "Átméretezés balra",
+          "bottom": "Átméretezés lefelé"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Részletek"
+      },
+      "basicInfo": {
+        "label": "Alapszintű adatok"
+      },
+      "membershipAccess": {
+        "label": "Tagsági hozzáférés"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Csoport neve",
+        "requiredError": "A csoport neve kötelezően kitöltendő mező"
+      },
+      "summary": {
+        "label": "Összefoglalás"
+      },
+      "access": {
+        "itemType": "Csoportosítás"
+      },
+      "_thumbnail": {
+        "label": "Bélyegkép",
+        "helperText": "Válasszon ki egy képet, amely a csoport profiljában a csoportját képviseli.",
+        "sizeDescription": "A maximális méret legfeljebb 10 MB lehet. Ajánlott méret: 400 x 400 vagy nagyobb"
+      },
+      "membershipAccess": {
+        "label": "Ki tartozhat ehhez a csoporthoz?",
+        "org": "Csak a saját szervezetem tagjai",
+        "collab": "Csak a partneri együttműködés és a saját szervezetem tagjai",
+        "any": "Bármelyik szervezet tagja"
+      },
+      "contributeContent": {
+        "label": "Ki lehet tartalmi közreműködő?",
+        "all": "Összes csoporttag",
+        "admins": "Csoporttulajdonos és felelősök"
+      }
+    }
+  }
+}

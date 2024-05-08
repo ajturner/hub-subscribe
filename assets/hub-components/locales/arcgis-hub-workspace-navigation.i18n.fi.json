@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Koontinäyttö",
+    "details": "Yksityiskohdat",
+    "overview": "Yleiskuvaus",
+    "metrics": "Mittatiedot",
+    "settings": "Asetukset",
+    "collaborators": "Yhteistyötahot",
+    "discussion": "Keskustelu",
+    "content": "Sisältö",
+    "members": "Jäsenet",
+    "participation": "Osallistuminen",
+    "followers": "Seuraajat"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "error": "Nešto nije u redu",
+  "repliesFailure": "Odgovori na ovu objavu ne mogu da se prikažu.",
+  "thread.deleted.title": "Programska nit obrisana",
+  "thread.deleted.message": "Povezana objava i odgovor su izbrisani i ne mogu se prikazati.",
+  "thread.deleted.action": "Prikaži sve objave",
+  "reply.single.title": "Gledate samo jedan odgovor",
+  "reply.single.link": "Prikaži sve odgovore",
+  "loading": "Učitavanje"
+}

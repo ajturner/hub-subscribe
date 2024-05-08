@@ -1,0 +1,14 @@
+{
+  "createdBy": "Sukūrė {creator}",
+  "emptyMessage": "Versijų nerasta",
+  "errorMessage": "Gaunant versijas įvyko klaida",
+  "menuLabel": "rodyti veiksmus",
+  "publishedBadge": "Publikuota",
+  "viewingBadge": "Peržiūrima",
+  "popover.label": "Versijos veiksmai",
+  "popover.actions.delete": "Pašalinti",
+  "popover.actions.edit": "Redaguoti informaciją",
+  "popover.actions.share": "Bendrinti",
+  "shareErrorMessage": "Kopijuojant bendrintą url į iškarpinę įvyko klaida.",
+  "shareSuccessMessage": "Bendrintas URL nukopijuotas į iškarpinę."
+}

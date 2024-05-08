@@ -1,0 +1,17 @@
+{
+  "summary": "Yhteenveto",
+  "description": "Kuvaus",
+  "details": "Yksityiskohdat",
+  "metrics": "Mittatiedot",
+  "metricsDisclaimer": "Näytetään vain edelliset 30 päivää",
+  "titleOpen": "Avoin keskustelu",
+  "statusOpen": "Osallistuminen avoin",
+  "titleClosed": "Suljettu keskustelu",
+  "statusClosed": "Osallistuminen päättynyt",
+  "tags": "Tunnisteet",
+  "categories": "Luokat",
+  "metric.pageViews": "Sivun katselukerrat",
+  "metric.postCount": "Julkaisujen määrä",
+  "discussion": "Keskustelu",
+  "discussionBoard": "Keskustelupalsta"
+}

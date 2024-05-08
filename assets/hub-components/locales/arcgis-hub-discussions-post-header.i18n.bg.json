@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Видимо само за членовете",
+  "visibleOrg": "Видимо за организацията",
+  "visibleAll": "Видимо за всички",
+  "anonymous": "Анонимен",
+  "privateUser": "Личен член",
+  "noUser": "Няма потребителско име",
+  "orgLabel": "Организация",
+  "privateOrg": "Частна организация",
+  "location": "Местоположение",
+  "profile": "Към профила",
+  "postedIn": "Публикувано в {groupName}",
+  "manageChannel": "Управление на канал",
+  "information": "Информация за публикацията",
+  "group.deleted": "Изтрита група",
+  "unnamedChannel": "Канал без име",
+  "replyingTo": "Отговаряйки на {fullName}",
+  "viewPost": "Изглед на публикация"
+}

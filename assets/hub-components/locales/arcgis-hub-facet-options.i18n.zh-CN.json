@@ -1,0 +1,7 @@
+{
+  "showMore": "显示另外 {num} 个",
+  "showLess": "显示更少",
+  "inputPlaceholder": "过滤器选项",
+  "noMatchesNotice": "未找到匹配的选项",
+  "inputAriaLabel": "按关键字查找选项"
+}

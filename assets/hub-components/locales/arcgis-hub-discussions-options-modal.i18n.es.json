@@ -1,0 +1,8 @@
+{
+  "header": "Opciones de debate",
+  "secondary": "Cancelar",
+  "primary": "Guardar cambios",
+  "pending": "Guardando",
+  "error.title": "Se ha producido un error",
+  "error.message": "Intente de nuevo para guardar los cambios."
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "目的",
+  "description": "達成方法",
+  "details": "詳細",
+  "featuredImageAlt": "プロジェクトの注目の画像",
+  "trackProgress": "進捗の追跡",
+  "participatingGroups": "参加しているグループ",
+  "whosInvolved": "参加者",
+  "tags": "タグ",
+  "status": {
+    "label": "プロジェクト ステータス",
+    "notStarted": "開始していません",
+    "inProgress": "進行中",
+    "onHold": "保留中",
+    "complete": "完了"
+  },
+  "featuredContent": "注目のコンテンツ"
+}

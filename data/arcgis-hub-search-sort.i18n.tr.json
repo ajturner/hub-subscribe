@@ -1,0 +1,14 @@
+{
+  "title": "Unvan",
+  "created": "Oluşturma tarihi",
+  "modified": "Güncellenme tarihi",
+  "updated": "Güncellenme tarihi",
+  "asc": "artan",
+  "desc": "azalan",
+  "relevance": "İlgi derecesi",
+  "change-sort-order": "Sıralama düzenini değiştir",
+  "sort-by": "Sırala ",
+  "joined": "Katıldığı tarih",
+  "username": "Kullanıcı adı",
+  "membertype": "Rol"
+}

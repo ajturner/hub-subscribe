@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Sdíleno s organizací",
+      "private": "Sdíleno s vlastníkem",
+      "public": "Sdíleno s veřejností",
+      "shared": "Sdíleno s vlastníkem a skupinami"
+    },
+    "editLayout": "Upravit rozvržení",
+    "lastUpdated": "Poslední aktualizace {updated}",
+    "viewSite": "Zobrazit web"
+  },
+  "cloneLayoutLabel": "Klonovat rozvržení",
+  "deletePageLabel": "Smazat stránku",
+  "deleteSiteLabel": "Odstranit web",
+  "editInAgoLabel": "Upravit v ArcGIS Online",
+  "managePage": "Spravovat stránku",
+  "manageSite": "Spravovat web",
+  "moreOptionsLabel": "Více možností",
+  "publishLabel": "Publikovat",
+  "saveAsTemplateLabel": "Uložit jako šablonu",
+  "saveLabel": "Uložit",
+  "sharingLabel": "Otevřít panel sdílení",
+  "viewLabel": "Zobrazit",
+  "viewPublishedLabel": "Zobrazit publikovaný koncept",
+  "viewUnpublishedLabel": "Náhled nepublikovaného konceptu"
+}

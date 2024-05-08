@@ -1,0 +1,9 @@
+{
+  "heading": "Delingsnivå",
+  "public": "Alle (offentlig)",
+  "publicInfo": "Alle kan se denne {itemType}",
+  "organization": "Organisasjon",
+  "organizationInfo": "Alle medlemmer med konto i {orgName} og grupper kan se denne {itemType}",
+  "owner": "Eier",
+  "ownerInfo": "Eieren og grupper med tilgang kan se denne {itemType}"
+}

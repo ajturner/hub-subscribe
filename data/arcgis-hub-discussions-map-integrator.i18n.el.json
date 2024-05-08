@@ -1,0 +1,16 @@
+{
+  "location.add": "Προσθήκη τοποθεσίας",
+  "location.remove": "Κατάργηση τοποθεσίας",
+  "draw.tip": "Προσθήκη άλλης τοποθεσίας;",
+  "prompt.add.post": "Προσθήκη στην ανάρτηση",
+  "prompt.add.reply": "Προσθήκη στην απάντηση",
+  "prompt.edit.point": "Μετακίνηση σημείου",
+  "prompt.edit.polyline": "Επεξεργασία γραμμής",
+  "prompt.edit.polygon": "Επεξεργασία περιοχής",
+  "prompt.remove.point": "Διαγραφή σημείου",
+  "prompt.remove.polyline": "Διαγραφή γραμμής",
+  "prompt.remove.polygon": "Διαγραφή περιοχής",
+  "prompt.remove.existing": "Ακύρωση επιλογής",
+  "prompt.location.edit": "Ενημέρωση σχεδίασης",
+  "prompt.location.delete": "Διαγραφή σχεδίασης"
+}

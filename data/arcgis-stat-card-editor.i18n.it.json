@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Configurazione avanzata",
+    "serverTimeout": {
+      "label": "Timeout server (secondi)",
+      "helperText": "Utile per servizi più grandi che potrebbero richiedere più tempo per rispondere."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Angoli",
+      "enum": {
+        "round": {
+          "label": "Arrotondato"
+        },
+        "square": {
+          "label": "Quadrati"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Ombreggiatura",
+      "enum": {
+        "heavy": {
+          "label": "Alto"
+        },
+        "low": {
+          "label": "Basso"
+        },
+        "medium": {
+          "label": "Media"
+        },
+        "none": {
+          "label": "Non iniziato"
+        }
+      }
+    },
+    "layout": {
+      "label": "Layout statistico",
+      "enum": {
+        "dataViz": {
+          "label": "Visualizzazione dati"
+        },
+        "moreInfo": {
+          "label": "Ulteriori informazioni"
+        },
+        "simple": {
+          "label": "Semplice"
+        }
+      }
+    },
+    "popoverTitle": "Titolo popover",
+    "popoverDescription": "Descrizione popover",
+    "sectionTitle": "Aspetto",
+    "textAlign": "Allineamento",
+    "visualInterest": {
+      "label": "Interesse visivo",
+      "enum": {
+        "icon": {
+          "label": "Icona"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Nessuno"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Colore (statistica)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Collega",
+      "sourceLink": "URL collegamento",
+      "sourceTitle": "Testo collegamento"
+    },
+    "sectionTitle": "Dettagli",
+    "subtitle": "Sottotitolo",
+    "title": "Titolo",
+    "trailingText": "Testo finale"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "È necessario il link per mostrare l'origine."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formattazione",
+    "unit": {
+      "label": "Unità di visualizzazione",
+      "helperText": "Immettere l'unità di misura del valore."
+    },
+    "unitPosition": {
+      "label": "Posizionamento",
+      "enum": {
+        "after": {
+          "label": "Dopo"
+        },
+        "before": {
+          "label": "Prima"
+        },
+        "below": {
+          "label": "Sotto"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Condivisione",
+    "showShareIcon": "Abilita",
+    "shareableByValue": "Abilita incorporamenti",
+    "shareableOnHover": {
+      "label": "Visualizza",
+      "enum": {
+        "always": {
+          "label": "Sempre"
+        },
+        "hover": {
+          "label": "Solo al passaggio del mouse"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Origine dati",
+    "displayValue": "Valore visualizzato",
+    "sectionTitle": "Statistica",
+    "type": {
+      "label": "Tipo",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamico",
+          "description": "Selezionare un dataset esistente (feature service) per riepilogare."
+        },
+        "static": {
+          "label": "Statico",
+          "description": "Immettere manualmente un valore da evidenziare nel layout."
+        }
+      }
+    }
+  }
+}

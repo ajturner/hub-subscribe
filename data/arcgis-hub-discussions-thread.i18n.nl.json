@@ -1,0 +1,10 @@
+{
+  "error": "Er is iets fout gegaan",
+  "repliesFailure": "Kan antwoorden op deze post niet weergeven.",
+  "thread.deleted.title": "Draad verwijderd",
+  "thread.deleted.message": "De gekoppelde post en antwoord zijn verwijderd en kunnen niet worden weergegeven.",
+  "thread.deleted.action": "Alle posts weergeven",
+  "reply.single.title": "U bekijkt een enkel antwoord",
+  "reply.single.link": "Alle antwoorden weergeven",
+  "loading": "Laden"
+}

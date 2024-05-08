@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Geopodatkovna baza SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Zbirka geoobjektov",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Prenos datoteke CSV",
+  "downloadshapefile": "Prenos datoteke Shapefile",
+  "downloadsqlite": "Prenos geopodatkovne baze SQLite",
+  "downloadgeoPackage": "Prenos paketa GeoPackage",
+  "downloadfilegdb": "Prenos datoteke File Geodatabase",
+  "downloadfeatureCollection": "Prenos zbirke geoobjektov",
+  "downloadgeojson": "Prenos datoteke GeoJSON",
+  "downloadexcel": "Prenos datoteke Excel",
+  "rateLimitMessage": "Žal ste dosegli omejitev prenosov. Poskusite znova v roku ene ure ali se obrnite na upravitelja vsebin.",
+  "createReplicaErrorMessage": "Ustvarite replike notranja napaka. Poskusite znova v roku ene ure ali se obrnite na upravitelja vsebin."
+}

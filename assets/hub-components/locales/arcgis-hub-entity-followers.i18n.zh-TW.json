@@ -1,0 +1,26 @@
+{
+  "followers": "追隨者",
+  "tabs": {
+    "followers": "追隨者",
+    "settings": "設定"
+  },
+  "addFollowers": {
+    "label": "新增追隨者"
+  },
+  "emptyState": {
+    "message": "您目前沒有追隨者群組。"
+  },
+  "restrictedAccessState": {
+    "message": "您沒有存取權。"
+  },
+  "stats": {
+    "total": {
+      "title": "總計",
+      "trailingText": "追隨者"
+    },
+    "new": {
+      "title": "新建",
+      "trailingText": "最近 30 天"
+    }
+  }
+}

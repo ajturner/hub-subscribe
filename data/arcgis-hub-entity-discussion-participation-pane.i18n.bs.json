@@ -1,0 +1,21 @@
+{
+  "title": "Sudjelovanje",
+  "channelTitle": "Kanal za sudjelovanje",
+  "addChannelsTitle": "Za ovu stavku potreban je kanal; može se postaviti samo jedan.",
+  "headingChannelEdit": "Uredi kanal",
+  "headingChannelView": "Prikaži kanal",
+  "headingChannelCreate": "Stvori novi kanal",
+  "buttons": {
+    "browse": "Pregledaj sve kanale",
+    "new": "Novi kanal"
+  },
+  "galleryPickerTitle": "Odaberite kanal",
+  "channelsLabel": "Kanali",
+  "accessLabel": "Pristup",
+  "optionPublicLabel": "Javno",
+  "optionOrganizationLabel": "Organizacija",
+  "optionPrivateLabel": "Privatno",
+  "viewChannel": "Prikaži kanal",
+  "editChannel": "Uredi kanal",
+  "save": "Spremi"
+}

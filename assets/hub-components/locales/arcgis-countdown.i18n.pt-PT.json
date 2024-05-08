@@ -1,0 +1,7 @@
+{
+  "days": "dias",
+  "hours": "horas",
+  "minutes": "minutos",
+  "seconds": "segundos",
+  "countdownDateMissingError": "Tem de fornecer uma data de contagem decrescente"
+}

@@ -1,0 +1,30 @@
+{
+  "helperText": "Määritä ja konfiguroi luettelo",
+  "sections": {
+    "groups": {
+      "title": "Ryhmät",
+      "helperText": "Alla olevat ryhmät sisältävät hakuluettelossasi olevan sisällön. Valitse ryhmä näyttääksesi sen asetukset, sisällön ynnä muuta.",
+      "createGroup": "Luo uusi ryhmä"
+    },
+    "feeds": {
+      "title": "Syötteen määritys",
+      "helperText": "Hub-syötteillä julkista Open Data -aineistoa on helppo käsitellä ja käyttää uudelleen.",
+      "learn": "Lisätietoja Hub-syötteistä",
+      "toggle": "Ota syötteet käyttöön ",
+      "configure": "Määritä syötteet",
+      "notice": "Jos haluat ottaa syötteet käyttöön, määritä asetuksista Hub-sivustojen asetukseksi Julkinen"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Lähtien",
+    "editGroups": "Muokkaa ryhmiä",
+    "viewGroups": "Näytä ryhmä",
+    "myGroup": "Oma ryhmä",
+    "myOrganization": "Organisaationi",
+    "myCommunity": "Oma yhteisö"
+  },
+  "formAlert": "Lomakevaroitus",
+  "alertMessages": {
+    "error": "Virhe muokkausten tallennuksessa"
+  }
+}

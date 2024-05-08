@@ -1,0 +1,24 @@
+{
+  "title": "Nariai",
+  "facets": {
+    "role": {
+      "label": "Rolė",
+      "all": "Viskas",
+      "manager": "Valdytojas",
+      "member": "Narys"
+    },
+    "dateJoined": {
+      "label": "Prisijungimo data"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Iš viso",
+      "trailingText": "Komandos nariai"
+    },
+    "new": {
+      "title": "Nauja",
+      "trailingText": "30 dienų"
+    }
+  }
+}

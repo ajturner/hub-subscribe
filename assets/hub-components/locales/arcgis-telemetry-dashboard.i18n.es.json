@@ -1,0 +1,31 @@
+{
+  "dateRange": "Intervalo de fechas: {start} - {end}",
+  "pageViews": "Vistas de página",
+  "timeOnSite": "Media de minutos en el sitio",
+  "users": "Sesiones",
+  "viewsOverTime": "Vistas de página a lo largo del tiempo",
+  "disabledTracking": "El rastreo de actividad está deshabilitado",
+  "enableTracking": "Habilite Rastreo de actividad de Hub en la configuración del sitio para supervisar el uso de este.",
+  "learnMore": "Más información.",
+  "disabled": "Deshabilitado",
+  "notificationLabel": "Datos actualizados",
+  "dataUpdated": "Datos actualizados",
+  "subscribe": "Suscribirse",
+  "subscribed": "Suscrito",
+  "weeklyReport": "Informe semanal",
+  "timestampTitle": {
+    "hour": "Hora del día",
+    "day": "Fecha",
+    "week": "Semana"
+  },
+  "formAlert": "Alerta de formulario",
+  "success": "Suscripción actualizada correctamente",
+  "subscriptionActivatedTitle": "Suscripción activada",
+  "subscriptionActivatedMessage": "Has registrado {email} para recibir métricas de participación semanales.",
+  "unsubscribeCompleteTitle": "Anular suscripción completado",
+  "unsubscribeCompleteMessage": "{email} ha anulado correctamente la suscripción de las métricas de participación.",
+  "problemSubscribingTitle": "Problema al suscribirse",
+  "problemSubscribingMessage": "Se ha producido un problema al suscribirse. Error: ",
+  "problemUnsubscribingTitle": "Problema al anular la suscripción",
+  "problemUnsubscribingMessage": "Se ha producido un problema al anular la suscripción. Error: "
+}

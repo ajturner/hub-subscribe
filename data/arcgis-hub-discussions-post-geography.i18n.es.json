@@ -1,0 +1,14 @@
+{
+  "description": "Seleccionar para zoom a ubicación",
+  "displayField.existing": "Ubicación existente",
+  "displayField.added": "Ubicación agregada",
+  "displayField.existing.area": "Área existente",
+  "displayField.added.area": "Área agregada",
+  "point": "Punto",
+  "line": "Línea",
+  "area": "Área",
+  "viewAll": "Ver todas las ubicaciones",
+  "viewLess": "Ver menos ubicaciones",
+  "action.update": "Actualizar ubicación",
+  "action.remove": "Eliminar ubicación"
+}

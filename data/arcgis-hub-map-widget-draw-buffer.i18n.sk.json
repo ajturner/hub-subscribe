@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filter lokality",
+  "panel.reset": "Resetovať filter",
+  "distance.title": "Vzdialenosť",
+  "distance.placeholder": "Zadajte číslo...",
+  "distance.message": "Zadajte číslo pre rozšírenie filtrovanej oblasti.",
+  "system.imperial": "Anglické",
+  "system.metric": "Metrické",
+  "units.title": "Jednotky",
+  "units.feet": "Stopy",
+  "units.miles": "Míle",
+  "units.nauticalmiles": "Námorné míle",
+  "units.meters": "Metre",
+  "units.kilometers": "Kilometre"
+}

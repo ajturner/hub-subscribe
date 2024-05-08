@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Спільне використання",
+      "myself": "Я",
+      "myOrganization": "Моя організація",
+      "public": "World (Публічний)"
+    },
+    "catalog": {
+      "myContent": "Мій зміст",
+      "favorites": "Обране",
+      "organization": "Моя організація",
+      "world": "World (Публічний)"
+    }
+  },
+  "expression": {
+    "label": "Фільтри атрибутів"
+  },
+  "field": {
+    "label": "Атрибут"
+  },
+  "layer": "Шар/таблиця",
+  "statistic": {
+    "label": "Агрегування"
+  }
+}

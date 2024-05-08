@@ -1,0 +1,6 @@
+{
+  "pageCounter": "{currentPage} / {numPages}",
+  "acceptButton": "确定",
+  "nextButton": "下一步",
+  "previousButton": "上一步"
+}

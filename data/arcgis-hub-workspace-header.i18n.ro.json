@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Editare structură",
+  "editContent": "Editare conținut",
+  "view": {
+    "project": "Vizualizare proiect",
+    "site": "Vizualizare site",
+    "initiative": "Vizualizare inițiativă",
+    "discussion": "Vizualizare discuție",
+    "content": "Vizualizare conținut",
+    "page": "Vizualizare pagină",
+    "group": "Vizualizare grup"
+  },
+  "label": {
+    "project": "Spațiu de lucru proiect",
+    "site": "Spațiu de lucru site",
+    "initiative": "Spațiu de lucru inițiativă",
+    "discussion": "Spațiu de lucru pentru discuții",
+    "content": "Spațiu de lucru conținut",
+    "page": "Spațiu de lucru pagină",
+    "group": "Spațiul de lucru al grupului"
+  },
+  "access": {
+    "sharingLevel": "Nivel de partajare",
+    "groupSharing": "Partajare cu un grup",
+    "public": "Public",
+    "org": "Organizaţie",
+    "private": "Proprietar",
+    "shared": "Partajat privat",
+    "disabled": "Nu puteți modifica setările de partajare, deoarece nu sunteți proprietarul sau un administrator."
+  }
+}

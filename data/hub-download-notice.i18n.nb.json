@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Nedlasting fullført",
+  "titleFileGeneration": "Filgenerering pågår",
+  "titleFileGenerationFailed": "Filgenerering mislyktes",
+  "titleDatasetNotFound": "Finner ikke datasett",
+  "titleApiError": "API-feil",
+  "titleFormatDisabled": "Nedlasting deaktivert",
+  "messageFailedStaleAvailable": "Du kan laste ned en tidligere versjon nedenfor.",
+  "messageUpdatingFile": "Vi oppdaterer filen. Det kan ta litt tid.",
+  "messageCreatingFile": "Vi oppretter filen. Det kan ta litt tid.",
+  "messageFileNeedsGenerating": "Nedlastingen av en oppdatert fil kan ta noe tid.",
+  "messageFormatDisabled": "Eieren har deaktivert nedlasting for dette formatet."
+}

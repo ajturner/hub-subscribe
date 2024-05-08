@@ -1,0 +1,26 @@
+{
+  "followers": "Sekotāji",
+  "tabs": {
+    "followers": "Sekotāji",
+    "settings": "Iestatījumi"
+  },
+  "addFollowers": {
+    "label": "Pievienot sekotājus"
+  },
+  "emptyState": {
+    "message": "Jums pašlaik nav sekotāju grupas."
+  },
+  "restrictedAccessState": {
+    "message": "Jums nav piekļuves."
+  },
+  "stats": {
+    "total": {
+      "title": "Kopā",
+      "trailingText": "Sekotāji"
+    },
+    "new": {
+      "title": "Jauns",
+      "trailingText": "Pēdējās 30 dienas"
+    }
+  }
+}

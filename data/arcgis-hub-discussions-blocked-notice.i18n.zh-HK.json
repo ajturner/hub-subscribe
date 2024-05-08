@@ -1,0 +1,16 @@
+{
+  "post.title": "已封鎖張貼編輯",
+  "post.message": "禁止討論時無法進行編輯。",
+  "post.message.item": "禁止討論此項目時，無法進行編輯。",
+  "post.message.group": "禁止討論此群組時，無法進行編輯。",
+  "reply.title": "已封鎖回覆編輯",
+  "reply.title.generic": "已封鎖討論",
+  "reply.message": "禁止討論時無法進行編輯。",
+  "reply.message.generic": "您目前無法建立回覆。",
+  "reply.message.item": "禁止討論此項目時，無法進行編輯。",
+  "reply.message.group": "禁止討論此群組時，無法進行編輯。",
+  "item.title": "已封鎖項目討論",
+  "item.message": "此項目禁止討論。",
+  "group.title": "已封鎖群組討論",
+  "group.message": "此群組禁止討論。"
+}

@@ -1,0 +1,17 @@
+{
+  "summary": "الملخص",
+  "description": "الوصف",
+  "details": "التفاصيل",
+  "metrics": "متري",
+  "metricsDisclaimer": "عرض آخر 30 يومًا فقط",
+  "titleOpen": "مناقشة مفتوحة",
+  "statusOpen": "المشاركة مفتوحة",
+  "titleClosed": "مناقشة مغلقة",
+  "statusClosed": "المشاركة مغلقة",
+  "tags": "العلامات",
+  "categories": "الفئات",
+  "metric.pageViews": "عروض الصفحة",
+  "metric.postCount": "عدد المشاركات",
+  "discussion": "مناقشة",
+  "discussionBoard": "لوحة المناقشة"
+}

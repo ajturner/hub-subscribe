@@ -1,0 +1,15 @@
+{
+  "addFilter": "添加过滤器",
+  "attributeFilter": "过滤器",
+  "between": "之间",
+  "deleteFilter": "删除过滤器",
+  "endingDate": "结束日期",
+  "endingValue": "结束值",
+  "expression": "表达式",
+  "filterType": "过滤器类型",
+  "filterValue": "过滤值",
+  "isExactly": "精确匹配",
+  "startingDate": "开始日期",
+  "startingValue": "起始值",
+  "selectAttribute": "选择属性"
+}

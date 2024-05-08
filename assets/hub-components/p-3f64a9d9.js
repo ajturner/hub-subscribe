@@ -1,0 +1,1 @@
+import{g as t}from"./p-377e1b5e.js";function r(e){if("string"==typeof e)return e.replace(/\/sharing\/rest\/?$/,"");if("object"==typeof e){const t=e.portalSelf||e,{portalHostname:r,urlKey:s,customBaseUrl:o}=t;if(r||s&&o)return t.isPortal?`https://${t.portalHostname}`:`https://${t.urlKey}.${t.customBaseUrl}`}return r(t(e))}export{r as g}

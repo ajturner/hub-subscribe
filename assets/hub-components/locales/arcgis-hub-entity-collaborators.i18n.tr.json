@@ -1,0 +1,52 @@
+{
+  "collaborators": "İş birlikçiler",
+  "editGroupButtonText": "Düzenleme gruplarını ekle",
+  "viewGroupButtonText": "Görüntüleme gruplarını ekle",
+  "groupPicker": {
+    "title": "Grupları seç",
+    "facet": {
+      "label": "Kaynak",
+      "editGroups": "Grupları düzenle",
+      "viewGroups": "Grubu görüntüle",
+      "myGroup": "Grubum",
+      "myOrganization": "Kuruluşum",
+      "myCommunity": "Topluluğum"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Yeni insanlar ekle",
+    "message": "Kişi eklemeniz gerekiyorsa, bu kişileri topluluğa katılmaya davet edebilir veya <orgOverviewLink>yöneticinizle iletişime geçebilirsiniz</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Düzenlenebilen gruplar",
+  "viewGroupsTitle": "Görüntülenebilen gruplar",
+  "project": {
+    "description": "Bu projeyi hangi kullanıcı gruplarının görüntüleyebileceğini ve düzenleyebileceğini seçin.",
+    "editGroupsDescription": "Bu gruplardaki kişiler proje bilgilerini düzenleyebilecek.",
+    "viewGroupsDescription": "Bu gruplardaki kişiler, halka açık değilse projeyi aratıp görüntüleyebilecekler.",
+    "errorMessage": "Projenizin ortak çalışanları güncellenirken bir hata oluştu."
+  },
+  "content": {
+    "description": "Bu içeriği hangi kullanıcı gruplarının görüntüleyebileceğini ve düzenleyebileceğini seçin.",
+    "editGroupsDescription": "Bu gruplardaki kişiler içerik bilgilerini düzenleyebilecek.",
+    "viewGroupsDescription": "Bu gruplardaki kişiler, halka açık değilse içeriği aratıp görüntüleyebilecekler.",
+    "errorMessage": "İçeriğinizin ortak çalışanları güncellenirken bir hata oluştu."
+  },
+  "discussion": {
+    "description": "Tartışmayı hangi grupların görüntüleyebileceğini ve düzenleyebileceğini seçin.",
+    "editGroupsDescription": "Bu gruplardaki insanlar, tartışma bilgilerini düzenleyebilecektir.",
+    "viewGroupsDescription": "Bu gruplardaki insanlar, halka açık olarak paylaşılmamışsa tartışmayı arayabilecek ve görüntüleyebilecektir.",
+    "errorMessage": "Tartışmanızın ortak çalışanlarını güncellerken bir hata oluştu."
+  },
+  "site": {
+    "description": "Bu siteyi hangi kullanıcı gruplarının görüntüleyebileceğini ve düzenleyebileceğini seçin.",
+    "editGroupsDescription": "Bu gruplardaki kişiler site bilgilerini düzenleyebilecek.",
+    "viewGroupsDescription": "Bu gruplardaki kişiler, halka açık değilse siteyi aratıp görüntüleyebilecekler.",
+    "errorMessage": "Sitenizin ortak çalışanları güncellenirken bir hata oluştu."
+  },
+  "newTab": "profili yeni sekmede aç",
+  "supportingTeams": "Destek ekipleri",
+  "supportingTeamsDesc": "Bu destek ekipleri daha önce siteniz ile bağlantılıydı. Ortak çalışanlarla içerik paylaşmak için bunları kullanmaya devam edebilirsiniz.",
+  "supportTeamsRemove": "Ekibi kaldır",
+  "supportingTeamsRemoveError": "Ekibin bağlantısı kaldırılırken hata oluştu. Bir yöneticiyle iletişime geçin.",
+  "supportingTeamsRemoveSuccess": "Ekibin bağlantısı başarıyla kaldırıldı."
+}

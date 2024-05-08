@@ -1,0 +1,21 @@
+{
+  "title": "Dalība",
+  "channelTitle": "Līdzdalības kanāls",
+  "addChannelsTitle": "Šai vienībai ir nepieciešams kanāls; var iestatīt tikai vienu.",
+  "headingChannelEdit": "Rediģēt kanālu",
+  "headingChannelView": "Skatīt kanālu",
+  "headingChannelCreate": "Izveidot jaunu kanālu",
+  "buttons": {
+    "browse": "Pārlūkot visus kanālus",
+    "new": "Jauns kanāls"
+  },
+  "galleryPickerTitle": "Izvēlieties kanālu",
+  "channelsLabel": "Kanāli",
+  "accessLabel": "Piekļuve",
+  "optionPublicLabel": "Publisks",
+  "optionOrganizationLabel": "Organizācija",
+  "optionPrivateLabel": "Privāts",
+  "viewChannel": "Skatīt kanālu",
+  "editChannel": "Rediģēt kanālu",
+  "save": "Saglabāt"
+}

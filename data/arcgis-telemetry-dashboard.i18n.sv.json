@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datumintervall: {start} - {end}",
+  "pageViews": "Sidvisningar",
+  "timeOnSite": "Genomsnittligt antal minuter på webbplats",
+  "users": "Sessioner",
+  "viewsOverTime": "Sidvisningar över tid",
+  "disabledTracking": "Aktivitetsspårning har inaktiverats",
+  "enableTracking": "Aktivera hub-aktivitetsspårning i webbplatsinställningar för att övervaka användningen av din webbplats.",
+  "learnMore": "Lär dig mer.",
+  "disabled": "Inaktiverad",
+  "notificationLabel": "Data uppdaterade",
+  "dataUpdated": "Data uppdaterade",
+  "subscribe": "Abonnera",
+  "subscribed": "Abonnent",
+  "weeklyReport": "Veckorapport",
+  "timestampTitle": {
+    "hour": "Klockslag",
+    "day": "Datum",
+    "week": "Vecka"
+  },
+  "formAlert": "Formulärvarning",
+  "success": "Abonnemanget har uppdaterats",
+  "subscriptionActivatedTitle": "Abonnemanget aktiverat",
+  "subscriptionActivatedMessage": "Du har registrerat {email} för att få veckovisa mätvärden för engagemang.",
+  "unsubscribeCompleteTitle": "Abonnemanget har avbrutits",
+  "unsubscribeCompleteMessage": "{email} har sagt upp abonnemanget på mätvärden för engagemang.",
+  "problemSubscribingTitle": "Problem med abonnemanget",
+  "problemSubscribingMessage": "Det uppstod ett problem med abonnemanget. Fel: ",
+  "problemUnsubscribingTitle": "Problem med att avbryta abonnemanget",
+  "problemUnsubscribingMessage": "Det uppstod ett problem när abonnemanget skulle avbrytas. Fel: "
+}

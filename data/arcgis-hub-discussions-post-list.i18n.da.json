@@ -1,0 +1,14 @@
+{
+  "addPost": "Tilføj opslag",
+  "createPost": "Opret et opslag",
+  "emptyHeading": "Start en diskussion",
+  "emptyMessage": "Vær den første til at tage et emne op. Det er nemt at stille et spørgsmål eller dele din viden om noget indhold med andre.",
+  "searchIdeas": "Søg opslag",
+  "searchCount": "{start} - {end} af {total}",
+  "orderAsc": "Stigende",
+  "orderDesc": "Faldende",
+  "sortRecent": "Nylig",
+  "sortCreator": "Creator",
+  "layoutGrid": "Gitter",
+  "layoutList": "Liste"
+}

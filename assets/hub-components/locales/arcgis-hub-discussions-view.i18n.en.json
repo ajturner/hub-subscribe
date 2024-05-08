@@ -1,0 +1,18 @@
+{
+  "summary": "Summary",
+  "description": "Description",
+  "details": "Details",
+  "metrics": "Metrics",
+  "metricsDisclaimer": "Only showing last 30 days",
+  "titleOpen": "Open Discussion",
+  "statusOpen": "Open for participation",
+  "titleClosed": "Closed Discussion",
+  "statusClosed": "Closed for participation",
+  "tags": "Tags",
+  "categories": "Categories",
+  "metric.pageViews": "Page Views",
+  "metric.postCount": "Posts Count",
+  "discussion": "Discussion",
+  "discussionBoard": "Discussion Board",
+  "image": "Discussion Board Thumbnail"
+}

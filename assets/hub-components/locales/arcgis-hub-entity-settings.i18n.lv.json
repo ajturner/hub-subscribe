@@ -1,0 +1,34 @@
+{
+  "settings": "Iestatījumi",
+  "delete": {
+    "project": "Dzēst projektu",
+    "initiative": "Dzēst iniciatīvu",
+    "site": "Dzēst vietni",
+    "discussion": "Dzēst diskusiju",
+    "content": "Dzēst saturu",
+    "page": "Dzēst lapu",
+    "group": "Dzēst grupu"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Dzēst projektu",
+      "initiative": "Dzēst iniciatīvu",
+      "site": "Dzēst vietni",
+      "discussion": "Dzēst diskusiju",
+      "content": "Dzēst saturu",
+      "page": "Dzēst lapu",
+      "group": "Dzēst grupu"
+    },
+    "content": "Vai tiešām vēlaties dzēst:",
+    "delete": "Dzēst",
+    "cancel": "Atcelt"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "''Izvilkšanas'' spēja maina servisa iestatījumus.",
+        "message": "Tiks ietekmētas citas vienības, kas atsaucas uz servisu. Plašāku informāciju skatiet sadaļā <docLink>Datu eksportēšana no viesotiem elementu slāņiem</docLink>"
+      }
+    }
+  }
+}

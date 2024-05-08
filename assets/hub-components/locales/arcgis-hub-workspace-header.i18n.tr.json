@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Çıktı düzenini düzenle",
+  "editContent": "İçeriği düzenle",
+  "view": {
+    "project": "Projeyi görüntüle",
+    "site": "Tesisi görüntüle",
+    "initiative": "İnisiyatifi görüntüle",
+    "discussion": "Tartışmayı görüntüle",
+    "content": "İçeriği görüntüle",
+    "page": "Sayfayı görüntüle",
+    "group": "Grubu görüntüle"
+  },
+  "label": {
+    "project": "Proje çalışma alanı",
+    "site": "Tesis çalışma alanı",
+    "initiative": "İnisiyatif çalışma alanı",
+    "discussion": "Tartışma çalışma alanı",
+    "content": "İçerik çalışma alanı",
+    "page": "Sayfa çalışma alanı",
+    "group": "Grup çalışma alanı"
+  },
+  "access": {
+    "sharingLevel": "Paylaşım seviyesi",
+    "groupSharing": "Grup paylaşımı",
+    "public": "Genel",
+    "org": "Kuruluş",
+    "private": "Sahip",
+    "shared": "Özel olarak paylaşılmış",
+    "disabled": "Bir yönetici veya sahibi olmadığınız için paylaşımı değiştiremezsiniz."
+  }
+}

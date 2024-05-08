@@ -1,0 +1,19 @@
+{
+  "anonymous": "匿名",
+  "noUser": "無使用者名稱",
+  "privateUser": "私有成員",
+  "privateOrg": "私人組織",
+  "org": "我的組織",
+  "orgLabel": "組織",
+  "profile": "移至設定檔",
+  "location": "位置",
+  "information": "發佈的相關資訊",
+  "postedIn": "在 {groupName} 中發佈",
+  "replyingTo": "正在回覆至 @{username}",
+  "visiblePrivate": "僅成員可見",
+  "visibleOrg": "組織可見",
+  "visibleAll": "所有人皆可見",
+  "manageChannel": "管理通道",
+  "group.deleted": "已刪除群組",
+  "unnamedChannel": "未指定的通道"
+}

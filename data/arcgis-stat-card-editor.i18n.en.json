@@ -1,0 +1,148 @@
+{
+  "advancedConfig": {
+    "label": "Advanced configuration",
+    "serverTimeout": {
+      "label": "Server timeout (seconds)",
+      "helperText": "Useful for larger services which may take more time to respond.",
+      "errors": {
+        "type": "Please enter a server timeout configuration.",
+        "minimum": "The server timeout value must be at least 5.",
+        "maximum": "The server timeout value must be at most 95."
+      }
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Corners",
+      "enum": {
+        "round": {
+          "label": "Round"
+        },
+        "square": {
+          "label": "Square"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Drop Shadow",
+      "enum": {
+        "heavy": {
+          "label": "Heavy"
+        },
+        "low": {
+          "label": "Low"
+        },
+        "medium": {
+          "label": "Medium"
+        },
+        "none": {
+          "label": "Not Started"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistic Layout",
+      "enum": {
+        "dataViz": {
+          "label": "Data Visualization"
+        },
+        "moreInfo": {
+          "label": "More Info"
+        },
+        "simple": {
+          "label": "Simple"
+        }
+      }
+    },
+    "popoverTitle": "Popover Title",
+    "popoverDescription": "Popover Description",
+    "sectionTitle": "Appearance",
+    "textAlign": "Alignment",
+    "visualInterest": {
+      "label": "Visual Interest",
+      "enum": {
+        "icon": {
+          "label": "Icon"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "None"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Color (Statistic)"
+  },
+  "details": {
+    "allowDynamicLink": "Display source link",
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "Link URL",
+      "sourceTitle": "Link text"
+    },
+    "sectionTitle": "Details",
+    "subtitle": "Subtitle",
+    "title": "Title",
+    "trailingText": "Trailing text"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Link required to display source."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formatting",
+    "unit": {
+      "label": "Display units",
+      "helperText": "Enter the unit of measurement for your value."
+    },
+    "unitPosition": {
+      "label": "Placement",
+      "enum": {
+        "after": {
+          "label": "After"
+        },
+        "before": {
+          "label": "Before"
+        },
+        "below": {
+          "label": "Below"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Sharing",
+    "showShareIcon": "Enable sharing",
+    "showShareIconHelperText": "Allow users to copy a direct link to this card on this page.",
+    "shareableByValue": "Enable Embeds",
+    "shareableOnHover": {
+      "label": "Display",
+      "helperText": {
+        "label": "Share button will display on hover. Disabling hover will keep button always visible."
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Data source",
+    "displayValue": "Display value",
+    "sectionTitle": "Statistic",
+    "type": {
+      "label": "Type",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamic",
+          "description": "Select an existing dataset (feature service) to summarize."
+        },
+        "static": {
+          "label": "Static",
+          "description": "Manually enter a value to highlight in your layout."
+        }
+      }
+    }
+  }
+}

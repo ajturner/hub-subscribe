@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Διαδικασία κοινοποίησης",
+      "myself": "Μόνο εγώ",
+      "myOrganization": "Ο οργανισμός μου",
+      "public": "Σε όλους (Δημοσίως)"
+    },
+    "catalog": {
+      "myContent": "Περιεχόμενο",
+      "favorites": "Αγαπημένα",
+      "organization": "Ο οργανισμός μου",
+      "world": "Σε όλους (Δημοσίως)"
+    }
+  },
+  "expression": {
+    "label": "Φίλτρα γνωρισμάτων"
+  },
+  "field": {
+    "label": "Γνώρισμα"
+  },
+  "layer": "Θεματικό επίπεδο / πίνακας",
+  "statistic": {
+    "label": "Συνάθροιση"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "description": "בחר לבצע זום למיקום",
+  "displayField.existing": "מיקום קיים",
+  "displayField.added": "מיקום שנוסף",
+  "displayField.existing.area": "אזור קיים",
+  "displayField.added.area": "אזור שנוסף",
+  "point": "נקודה",
+  "line": "קו",
+  "area": "אזור",
+  "viewAll": "הצג את כל המיקומים",
+  "viewLess": "הצג פחות מיקומים",
+  "action.update": "עדכן מיקום",
+  "action.remove": "הסר מיקום"
+}

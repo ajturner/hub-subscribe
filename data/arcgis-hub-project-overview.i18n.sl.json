@@ -1,0 +1,27 @@
+{
+  "overview": "Pregled",
+  "telemetry": {
+    "pageViews": "Število ogledov strani",
+    "last30days": "Zadnjih 30 dni",
+    "lastUpdated": "Nazadnje posodobljeno pred {hoursElapsed} urami"
+  },
+  "newNotice": {
+    "title": "Tu je vaš delovni prostor projekta",
+    "message": "Ta delovni prostor je prilagojen urejanju projektov. Delovni prostori sodelavcem omogočajo, da se osredotočijo na posamezne elemente in se nenehno razvijajo.",
+    "link": "Več"
+  },
+  "learnAbout": "Izvedite več o Hub Projects",
+  "feedbackNotice": {
+    "message": "Ali so vam všeč projekti v stičišču? Ker je ta geoobjekt še vedno v različici beta, nas zanima, kako ga lahko uporabljate.",
+    "link": "Pošlji povratne informacije"
+  },
+  "status": {
+    "notStarted": "Ni zagnano",
+    "inProgress": "V teku",
+    "onHold": "Zadržano",
+    "complete": "Dokončano"
+  },
+  "editDetails": "Uredi podrobnosti",
+  "noPurposeSet": "Namen ni nastavljen",
+  "noLocationSet": "Lokacija ni nastavljena"
+}

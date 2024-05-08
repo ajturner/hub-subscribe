@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Kênh không có tên",
+  "name": {
+    "label": "Tên",
+    "placeholder": "Kênh {prefix}"
+  },
+  "save": "Lưu",
+  "access": {
+    "private": {
+      "label": "Riêng tư",
+      "description": "Nhóm đã chọn không thể tham gia"
+    },
+    "organization": {
+      "label": "Tổ chức của tôi",
+      "description": "Tất cả các thành viên có tài khoản vào {orgName} có thể tham gia",
+      "disabledTooltip": "Chỉ quản trị viên tổ chức mới có thể tạo kênh tổ chức."
+    },
+    "public": {
+      "label": "Công khai",
+      "description": "Bất kỳ ai có tài khoản đều có thể tham gia",
+      "disabledTooltip": "Chỉ quản trị viên tổ chức mới có thể tạo kênh công khai."
+    },
+    "allowAnonymous": "Cho phép ẩn danh",
+    "confirmation": {
+      "header": "Bạn có chắc không?",
+      "message": "Lưu các thay đổi này sẽ xóa quyền chỉnh sửa kênh này của bạn. Chỉ quản trị viên tổ chức mới có thể chỉnh sửa kênh tổ chức hoặc kênh công khai.",
+      "secondary": "Hủy",
+      "primary": "Xác nhận"
+    }
+  },
+  "participants": {
+    "label": "Người tham gia",
+    "helperText": "Những người được xem và đóng góp vào cuộc thảo luận.",
+    "none": "Chưa thiết lập người tham gia",
+    "add": "Thêm nhóm người tham gia"
+  },
+  "groupPicker": {
+    "title": "Chọn nhóm",
+    "facet": {
+      "label": "Từ",
+      "myGroup": "Nhóm của tôi",
+      "myOrganization": "Tổ chức của tôi",
+      "myCommunity": "Cộng đồng của tôi"
+    }
+  },
+  "blockWords": {
+    "label": "Từ bị chặn",
+    "helperText": "Danh sách được phân tách bằng dấu phẩy bài đăng và câu trả lời chứa chúng sẽ tự động bị ẩn."
+  },
+  "manage": {
+    "label": "Quản lý và điều tiết",
+    "helperText": "Được tự động chỉ định dựa trên các lựa chọn tham gia ở trên, những người này có thể tham gia, ẩn hoặc hiển thị bài đăng và quản lý cài đặt kênh."
+  },
+  "manager": "Người quản lý",
+  "admin": "Quản trị",
+  "viewProfile": "Xem thông tin",
+  "alerts": {
+    "error": "Lỗi khi lưu kênh",
+    "success": "Đã lưu kênh thành công",
+    "label": "Cảnh báo mẫu form"
+  },
+  "validations": {
+    "minChannelGroups": "Các kênh riêng tư cần có ít nhất một nhóm người tham gia."
+  },
+  "notices": {
+    "edit": "Các chỉnh sửa sẽ ảnh hưởng đến mọi nơi sử dụng kênh này",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Chưa tạo kênh",
+          "message": "Kênh có các lựa chọn truy cập này đã tồn tại. Sử dụng kênh hiện có hoặc sửa đổi các lựa chọn."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Chưa cập nhật kênh",
+          "message": "Kênh có các lựa chọn truy cập này đã tồn tại nên chúng tôi không thể lưu những cập nhật này."
+        }
+      },
+      "action": "Sử dụng kênh hiện có"
+    },
+    "inaccessibleGroups": {
+      "title": "Nhóm không khả dụng: {count}",
+      "message": "Bạn không thể xem hoặc quản lý các nhóm không khả dụng trừ khi bạn là thành viên."
+    }
+  }
+}

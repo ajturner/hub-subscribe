@@ -1,0 +1,16 @@
+{
+  "location.add": "Position hinzufügen",
+  "location.remove": "Position entfernen",
+  "draw.tip": "Weitere Position hinzufügen?",
+  "prompt.add.post": "Zum Beitrag hinzufügen",
+  "prompt.add.reply": "Zur Antwort hinzufügen",
+  "prompt.edit.point": "Punkt verschieben",
+  "prompt.edit.polyline": "Linie bearbeiten",
+  "prompt.edit.polygon": "Fläche bearbeiten",
+  "prompt.remove.point": "Punkt löschen",
+  "prompt.remove.polyline": "Linie löschen",
+  "prompt.remove.polygon": "Fläche löschen",
+  "prompt.remove.existing": "Auswahl abbrechen",
+  "prompt.location.edit": "Zeichnung aktualisieren",
+  "prompt.location.delete": "Zeichnung löschen"
+}

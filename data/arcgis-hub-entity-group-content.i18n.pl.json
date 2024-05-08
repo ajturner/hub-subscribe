@@ -1,0 +1,50 @@
+{
+  "title": "Zasoby",
+  "facets": {
+    "type": "Typ",
+    "tags": "Znacznik",
+    "categories": "Kategoria",
+    "sharing": "Udostępnianie",
+    "dateUpdated": "Data aktualizacji",
+    "map": {
+      "label": "Lokalizacja",
+      "tooltip": "Zastosuj zasięg mapy jako filtr lokalizacji"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Dodaj zasoby",
+    "catalog": {
+      "myContent": "Moje zasoby",
+      "favorites": "Ulubione",
+      "organization": "Moja instytucja",
+      "world": "Świat (publiczne)"
+    },
+    "facets": {
+      "type": "Typ",
+      "sharing": "Udostępnianie"
+    },
+    "collection": {
+      "appsAndMaps": "Aplikacje i mapy",
+      "dataset": "Dane",
+      "documents": "Dokumenty",
+      "feedback": "Opinia",
+      "sites": "Witryny"
+    },
+    "modal": {
+      "title": "Dodaj zasoby"
+    },
+    "unsharedModal": {
+      "title": "Nie dodano elementów",
+      "notice": {
+        "icon": "trójkąt z wykrzyknikiem",
+        "type": "zagrożenie",
+        "title": "Działanie nie zostało wykonane",
+        "message": "Nie udało się dodać niektórych elementów. Może to być spowodowane niedopasowanymi poziomami udostępniania w ramach zasobów lub tym, że właściciel elementu nie jest członkiem tej grupy.",
+        "linkText": "Dowiedz się więcej na temat udostępniania"
+      }
+    },
+    "itemSharedSuccessAlert": "Pomyślnie udostępniono elementy"
+  },
+  "close": "Zamknij",
+  "newTab": "otwiera się na nowej karcie"
+}

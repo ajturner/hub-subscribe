@@ -1,0 +1,28 @@
+{
+  "newTab": "otevřít profil na nové kartě",
+  "noGroups": "Žádné skupiny",
+  "pickerToggle": "Přidat skupiny",
+  "pickerTitle": "Vybrat skupiny",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Žádní členové",
+      "oneMember": "1 člen",
+      "members": "{count} členů"
+    },
+    "dateCreated": "Datum vytvoření: {localizedDate}",
+    "sharing": "Sdílení: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Moje",
+      "shared": "Majitel a skupiny",
+      "org": "Organizace",
+      "public": "Veřejné"
+    },
+    "membership": "Členství: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Vlastník skupiny",
+      "admin": "Správce skupiny",
+      "member": "Člen skupiny",
+      "none": "Žádný"
+    }
+  }
+}

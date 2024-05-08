@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Typ",
+    "tags": "Tagg",
+    "categories": "Kategori",
+    "sharing": "Delning",
+    "dateUpdated": "Uppdaterad den",
+    "map": {
+      "label": "Plats",
+      "tooltip": "Tillämpa kartutbredningen som ett platsfilter"
+    }
+  },
+  "collections": {
+    "all": "Alla",
+    "dataset": "Data",
+    "site": "Webbplatser",
+    "document": "Dokument",
+    "appAndMap": "Appar och kartor"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Din katalog är för närvarande tom.",
+    "button": "Konfigurera katalog"
+  }
+}

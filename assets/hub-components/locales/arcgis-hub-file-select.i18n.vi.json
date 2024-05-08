@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Kéo và thả tệp để tải lên",
+  "imageHeading": "Tải Hình ảnh lên",
+  "selectedHeading": "Tệp đã chọn",
+  "maxSizeAndSupportedTypes": "Kích thước Tối đa là {maxSize}MB, {fileTypes}",
+  "maxSize": "Kích thước Tối đa là {maxSize}MB",
+  "recommendedDimensions": "Kích thước được khuyến nghị {recommendedDimensions}",
+  "linkText": "Xem Danh sách Tệp được Hỗ trợ",
+  "contentButton": "Duyệt tìm Tệp",
+  "imageButton": "Duyệt tìm Hình ảnh",
+  "clearButton": "Xóa Mục đã chọn",
+  "errorHeading": "Lỗi",
+  "fileTooLargeError": "Tệp quá lớn",
+  "multipleFilesError": "Không thể tải lên nhiều tệp cùng lúc",
+  "unsupportedFileTypeError": "Loại tệp này không được hỗ trợ"
+}

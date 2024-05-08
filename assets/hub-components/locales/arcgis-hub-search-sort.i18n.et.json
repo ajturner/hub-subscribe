@@ -1,0 +1,14 @@
+{
+  "title": "Pealkiri",
+  "created": "Loomise kuupäev",
+  "modified": "Uuendamise kuupäev",
+  "updated": "Uuendamise kuupäev",
+  "asc": "kasvav",
+  "desc": "kahanev",
+  "relevance": "Asjakohasus",
+  "change-sort-order": "Muuda sortimisjärjestust",
+  "sort-by": "Sorteeri ",
+  "joined": "Liitumise kuupäev",
+  "username": "Kasutajanimi",
+  "membertype": "Roll"
+}

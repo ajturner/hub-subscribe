@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "A kiszolgáló kapcsolatának időtúllépése miatt nem sikerült megjeleníteni a statisztikát.",
+    "title": "Kiszolgáló időtúllépése"
+  },
+  "genericError": {
+    "message": "A statisztika nem jeleníthető meg.",
+    "title": "Hiba történt"
+  }
+}

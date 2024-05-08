@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Saluran tanpa nama",
+  "name": {
+    "label": "Nama",
+    "placeholder": "Saluran {prefix}"
+  },
+  "save": "Simpan",
+  "access": {
+    "private": {
+      "label": "Pribadi",
+      "description": "Grup terpilih dapat berpartisipasi"
+    },
+    "organization": {
+      "label": "Organisasi Saya",
+      "description": "Semua anggota dengan akun {orgName} dapat berpartisipasi",
+      "disabledTooltip": "Hanya administrator organisasi yang dapat membuat saluran organisasi."
+    },
+    "public": {
+      "label": "Publik",
+      "description": "Siapa pun yang memiliki akun dapat berpartisipasi",
+      "disabledTooltip": "Hanya administrator organisasi yang dapat membuat saluran publik."
+    },
+    "allowAnonymous": "Izinkan anonim",
+    "confirmation": {
+      "header": "Apakah Anda yakin?",
+      "message": "Menyimpan perubahan ini akan menghapus akses edit Anda ke saluran ini. Hanya administrator organisasi yang dapat mengedit saluran publik atau organisasi.",
+      "secondary": "Batalkan",
+      "primary": "Konfirmasi"
+    }
+  },
+  "participants": {
+    "label": "Peserta",
+    "helperText": "Orang-orang yang dapat melihat dan berkontribusi dalam diskusi.",
+    "none": "Tidak ada peserta yang ditetapkan",
+    "add": "Tambahkan grup peserta"
+  },
+  "groupPicker": {
+    "title": "Pilih grup",
+    "facet": {
+      "label": "Dari",
+      "myGroup": "Grup saya",
+      "myOrganization": "Organisasi saya",
+      "myCommunity": "Komunitas saya"
+    }
+  },
+  "blockWords": {
+    "label": "Kata-kata yang diblokir",
+    "helperText": "Daftar yang dipisahkan koma. Postingan dan balasan yang memuatnya akan disembunyikan secara otomatis."
+  },
+  "manage": {
+    "label": "Kelola dan moderasi",
+    "helperText": "Ditugaskan secara otomatis berdasarkan pilihan partisipasi di atas, orang-orang ini dapat berpartisipasi, menyembunyikan atau menampilkan postingan, serta mengelola pengaturan saluran."
+  },
+  "manager": "Pengelola",
+  "admin": "Admin",
+  "viewProfile": "Lihat profil",
+  "alerts": {
+    "error": "Terjadi kesalahan saat menyimpan saluran",
+    "success": "Saluran berhasil disimpan",
+    "label": "Peringatan formulir"
+  },
+  "validations": {
+    "minChannelGroups": "Saluran pribadi memerlukan setidaknya satu grup peserta."
+  },
+  "notices": {
+    "edit": "Pengeditan akan memengaruhi di mana pun saluran ini digunakan",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Saluran belum dibuat",
+          "message": "Saluran dengan pilihan akses ini sudah ada. Gunakan saluran yang ada atau ubah pilihan."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Saluran belum diperbarui",
+          "message": "Saluran dengan pilihan akses ini sudah ada sehingga kami tidak dapat menyimpan pembaruan ini."
+        }
+      },
+      "action": "Gunakan saluran yang ada"
+    },
+    "inaccessibleGroups": {
+      "title": "Grup tidak tersedia: {count}",
+      "message": "Anda tidak dapat melihat atau mengelola grup yang tidak tersedia kecuali Anda adalah anggotanya."
+    }
+  }
+}

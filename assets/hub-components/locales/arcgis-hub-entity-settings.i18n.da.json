@@ -1,0 +1,34 @@
+{
+  "settings": "Indstillinger",
+  "delete": {
+    "project": "Slet projekt",
+    "initiative": "Slet initiativ",
+    "site": "Slet sted",
+    "discussion": "Slet diskussion",
+    "content": "Slet indhold",
+    "page": "Slet side",
+    "group": "Slet gruppe"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Slet projekt",
+      "initiative": "Slet initiativ",
+      "site": "Slet sted",
+      "discussion": "Slet diskussion",
+      "content": "Slet indhold",
+      "page": "Slet side",
+      "group": "Slet gruppe"
+    },
+    "content": "Er du sikker på, at du vil slette:",
+    "delete": "Slet",
+    "cancel": "Annullér"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Funktionen Udtræk ændrer indstillingerne for tjenester.",
+        "message": "Andre elementer, der henviser til tjenesten, vil blive påvirket. Der er flere oplysninger under <docLink>Eksporter data fra hostede vektorlag</docLink>"
+      }
+    }
+  }
+}

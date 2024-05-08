@@ -1,0 +1,14 @@
+{
+  "description": "位置を選択してズーム",
+  "displayField.existing": "既存の位置",
+  "displayField.added": "追加された位置",
+  "displayField.existing.area": "既存のエリア",
+  "displayField.added.area": "追加されたエリア",
+  "point": "ポイント",
+  "line": "ライン",
+  "area": "エリア",
+  "viewAll": "すべての位置の表示",
+  "viewLess": "位置の表示を減らす",
+  "action.update": "場所の更新",
+  "action.remove": "場所の削除"
+}

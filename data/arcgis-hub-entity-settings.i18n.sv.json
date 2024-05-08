@@ -1,0 +1,34 @@
+{
+  "settings": "Inställningar",
+  "delete": {
+    "project": "Radera projekt",
+    "initiative": "Ta bort initiativ",
+    "site": "Ta bort webbplats",
+    "discussion": "Ta bort diskussion",
+    "content": "Ta bort innehåll",
+    "page": "Ta bort sidan",
+    "group": "Ta bort grupp"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Radera projekt",
+      "initiative": "Ta bort initiativ",
+      "site": "Ta bort webbplats",
+      "discussion": "Ta bort diskussion",
+      "content": "Ta bort innehåll",
+      "page": "Ta bort sidan",
+      "group": "Ta bort grupp"
+    },
+    "content": "Vill du ta bort:",
+    "delete": "Ta bort",
+    "cancel": "Avbryt"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Funktionen \"Extrahera\" ändrar serviceinställningarna.",
+        "message": "Andra objekt som refererar tjänsten påverkas. För mer information, se <docLink>Exportera data från driftat geoobjektlager</docLink>"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "content": "Content",
+    "tabs" : {
+      "catalog": "Catalog",
+      "collections": "Collections",
+      "catalogConfig": "Catalog Configuration"
+    },
+    "sidePanels": {
+      "catalogConfig": {
+        "configureCatalogNotice": {
+          "title": "Configure your catalog",
+          "message": "Started building and configuring your catalog! Your catalog is made of groups and populated by the content within them.",
+          "link": "Learn more about catalogs"
+        }
+      },
+      "catalog": {
+        "catalogNotice": {
+          "title": "Catalog is empty",
+          "message": "You are ready to get started on your catalog! Your catalog is configured by adding one or more groups and populated by the content within them.",
+          "link": "Get started"
+        }
+      }
+    }
+}

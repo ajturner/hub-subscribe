@@ -1,0 +1,9 @@
+{
+  "heading": "Bendrinimo lygis",
+  "public": "Viešas",
+  "publicInfo": "Visi gali matyti šį {itemType}",
+  "organization": "Organizacija",
+  "organizationInfo": "Visi nariai su {orgName} paskyromis ir grupės gali matyti šį {itemType}",
+  "owner": "Savininkas",
+  "ownerInfo": "Savininkas ir prieigą turinčios grupės gali matyti šį {itemType}"
+}

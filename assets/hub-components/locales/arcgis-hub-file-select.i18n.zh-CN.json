@@ -1,0 +1,16 @@
+{
+  "contentHeading": "拖放文件以上传",
+  "imageHeading": "上传图像",
+  "selectedHeading": "已选择文件",
+  "maxSizeAndSupportedTypes": "最大大小为 {maxSize} MB，{fileTypes}",
+  "maxSize": "最大大小为 {maxSize} MB",
+  "recommendedDimensions": "建议尺寸：{recommendedDimensions}",
+  "linkText": "查看受支持文件列表",
+  "contentButton": "浏览文件",
+  "imageButton": "浏览图像",
+  "clearButton": "清除已选内容",
+  "errorHeading": "错误",
+  "fileTooLargeError": "文件过大",
+  "multipleFilesError": "无法同时上传多个文件",
+  "unsupportedFileTypeError": "此文件类型不受支持"
+}

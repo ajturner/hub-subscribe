@@ -1,0 +1,21 @@
+{
+  "title": "Dalyvavimas",
+  "channelTitle": "Dalyvavimo kanalas",
+  "addChannelsTitle": "Šiam elementui reikalingas kanalas; galima nustatyti tik vieną.",
+  "headingChannelEdit": "Redaguoti kanalą",
+  "headingChannelView": "Peržiūrėti kanalą",
+  "headingChannelCreate": "Kurti naują kanalą",
+  "buttons": {
+    "browse": "Peržiūrėti visus kanalus",
+    "new": "Naujas kanalas"
+  },
+  "galleryPickerTitle": "Pasirinkite kanalą",
+  "channelsLabel": "Kanalai",
+  "accessLabel": "Prieiga",
+  "optionPublicLabel": "Vieša",
+  "optionOrganizationLabel": "Organizacija",
+  "optionPrivateLabel": "Privati",
+  "viewChannel": "Peržiūrėti kanalą",
+  "editChannel": "Redaguoti kanalą",
+  "save": "Įrašyti"
+}

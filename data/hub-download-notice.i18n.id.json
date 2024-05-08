@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Unduhan selesai",
+  "titleFileGeneration": "Pembuatan file sedang dalam proses",
+  "titleFileGenerationFailed": "Pembuatan file gagal",
+  "titleDatasetNotFound": "Kumpulan data tidak ditemukan",
+  "titleApiError": "Kesalahan API",
+  "titleFormatDisabled": "Unduhan dinonaktifkan",
+  "messageFailedStaleAvailable": "Anda dapat mengunduh versi sebelumnya di bawah.",
+  "messageUpdatingFile": "Kami sedang memperbarui file. Prosesnya mungkin perlu waktu.",
+  "messageCreatingFile": "Kami membuat file. Prosesnya mungkin perlu waktu.",
+  "messageFileNeedsGenerating": "Mengunduh file yang diperbarui mungkin perlu beberapa saat.",
+  "messageFormatDisabled": "Pemilik telah menonaktifkan pengunduhan untuk format ini."
+}

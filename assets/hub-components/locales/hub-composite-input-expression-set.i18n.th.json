@@ -1,0 +1,15 @@
+{
+  "addFilter": "เพิ่มตัวกรอง",
+  "attributeFilter": "ตัวกรอง",
+  "between": "ระหว่าง",
+  "deleteFilter": "ลบตัวกรอง",
+  "endingDate": "วันที่สิ้นสุด",
+  "endingValue": "ค่าสิ้นสุด",
+  "expression": "สูตรคำนวณ",
+  "filterType": "ประเภทตัวกรอง",
+  "filterValue": "ค่าตัวกรอง",
+  "isExactly": "ตรงกันทั้งหมด",
+  "startingDate": "วันที่เริ่มต้น",
+  "startingValue": "ค่าเริ่มต้น",
+  "selectAttribute": "เลือกแอตทริบิวต์"
+}

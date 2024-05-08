@@ -1,0 +1,30 @@
+{
+  "helperText": "Definiraj i konfiguriraj katalog",
+  "sections": {
+    "groups": {
+      "title": "Grupe",
+      "helperText": "Grupe u nastavku sadrže sadržaj u vašem katalogu pretraživanja. Odaberite grupu da biste vidjeli njezine postavke, sadržaj i ostalo.",
+      "createGroup": "Stvori novu grupu"
+    },
+    "feeds": {
+      "title": "Konfiguracija izvora sadržaja",
+      "helperText": "Učinite svoje javne otvorene podatke lako dostupnima i ponovno upotrebljivima uz Hub feeds.",
+      "learn": "Saznajte više o Hub feeds",
+      "toggle": "Omogući izvore sadržaja ",
+      "configure": "Konfiguriraj izvore sadržaja",
+      "notice": "Da biste omogućili izvore sadržaja, najprije trebate postaviti svoje Hub stranice na \"Javno\" u postavkama"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Šalje",
+    "editGroups": "Uredi grupe",
+    "viewGroups": "Prikaži grupu",
+    "myGroup": "Moja grupa",
+    "myOrganization": "Moja organizacija",
+    "myCommunity": "Moja zajednica"
+  },
+  "formAlert": "Stvori upozorenje",
+  "alertMessages": {
+    "error": "Pogreška pri spremanju uređivanja"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "addFilter": "Adicionar filtro",
+  "attributeFilter": "Filtrar",
+  "between": "Entre",
+  "deleteFilter": "Eliminar filtro",
+  "endingDate": "Data de fim",
+  "endingValue": "Valor de fim",
+  "expression": "Expressão",
+  "filterType": "Tipo de filtro",
+  "filterValue": "Valor de filtro",
+  "isExactly": "É exatamente",
+  "startingDate": "Data de início",
+  "startingValue": "Valor de início",
+  "selectAttribute": "Selecionar atributo"
+}

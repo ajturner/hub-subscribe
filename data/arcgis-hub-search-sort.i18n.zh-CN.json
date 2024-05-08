@@ -1,0 +1,14 @@
+{
+  "title": "标题",
+  "created": "创建日期",
+  "modified": "更新日期",
+  "updated": "更新日期",
+  "asc": "升序",
+  "desc": "降序",
+  "relevance": "相关度",
+  "change-sort-order": "更改排序顺序",
+  "sort-by": "排序方式 ",
+  "joined": "加入日期",
+  "username": "用户名",
+  "membertype": "角色"
+}

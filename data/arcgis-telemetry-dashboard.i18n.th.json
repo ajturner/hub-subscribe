@@ -1,0 +1,31 @@
+{
+  "dateRange": "ช่วงวันที่: {start} - {end}",
+  "pageViews": "จำนวนการเข้าชมหน้า",
+  "timeOnSite": "นาทีโดยเฉลี่ยที่ใช้งานไซต์",
+  "users": "เซสชัน",
+  "viewsOverTime": "จำนวนการเข้าชมหน้าเมื่อเวลาผ่านไป",
+  "disabledTracking": "การติดตามกิจกรรมถูกปิดใช้งานไว้",
+  "enableTracking": "เปิดใช้งานการติดตามกิจกรรม Hub ในการตั้งค่าไซต์ เพื่อตรวจสอบการใช้งานไซต์ของคุณ",
+  "learnMore": "ศึกษาเพิ่มเติม",
+  "disabled": "ถูกปิดใช้งาน",
+  "notificationLabel": "อัปเดตข้อมูลแล้ว",
+  "dataUpdated": "อัปเดตข้อมูลแล้ว",
+  "subscribe": "สมัครสมาชิก",
+  "subscribed": "ติดตามแล้ว",
+  "weeklyReport": "รายงานประจำสัปดาห์",
+  "timestampTitle": {
+    "hour": "เวลาของวัน",
+    "day": "วันที่",
+    "week": "สัปดาห์"
+  },
+  "formAlert": "การแจ้งเตือนแบบฟอร์ม",
+  "success": "อัปเดตการสมัครสมาชิกสำเร็จแล้ว",
+  "subscriptionActivatedTitle": "เปิดใช้งานการสมัครสมาชิกแล้ว",
+  "subscriptionActivatedMessage": "คุณลงทะเบียน {email} เพื่อรับเมตริกการมีส่วนร่วมรายสัปดาห์แล้ว",
+  "unsubscribeCompleteTitle": "ยกเลิกการสมัครสมาชิกเสร็จแล้ว",
+  "unsubscribeCompleteMessage": "{email} ยกเลิกการสมัครสมาชิกจากเมตริกการมีส่วนร่วมสำเร็จแล้ว",
+  "problemSubscribingTitle": "พบปัญหาในการสมัครสมาชิก",
+  "problemSubscribingMessage": "เกิดปัญหาเกี่ยวกับการสมัครสมาชิก ข้อผิดพลาด: ",
+  "problemUnsubscribingTitle": "พบปัญหาในการยกเลิกการสมัครสมาชิก",
+  "problemUnsubscribingMessage": "เกิดปัญหาเกี่ยวกับการยกเลิกการสมัครสมาชิก ข้อผิดพลาด: "
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Muokkaa version tietoja",
+  "save": "Tallenna",
+  "cancel": "Peruuta",
+  "name.label": "Otsikko",
+  "name.helpText": "Jätä otsikko tyhjäksi, jos haluat, että tunnistamme version päivämäärä-aikaleiman mukaan.",
+  "description.label": "Kuvaus",
+  "error": "Version päivityksessä tapahtui virhe."
+}

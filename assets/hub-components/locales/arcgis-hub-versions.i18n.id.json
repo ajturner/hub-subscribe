@@ -1,0 +1,14 @@
+{
+  "createdBy": "Dibuat oleh {creator}",
+  "emptyMessage": "Versi tidak ditemukan",
+  "errorMessage": "Terjadi kesalahan saat mengambil versi",
+  "menuLabel": "tampilkan tindakan",
+  "publishedBadge": "Dipublikasikan",
+  "viewingBadge": "Menampilkan",
+  "popover.label": "Tindakan versi",
+  "popover.actions.delete": "Hapus",
+  "popover.actions.edit": "Edit detail",
+  "popover.actions.share": "Bagikan",
+  "shareErrorMessage": "Terjadi kesalahan saat menyalin url berbagi ke papan klip.",
+  "shareSuccessMessage": "Bagikan url yang disalin ke papan klip."
+}

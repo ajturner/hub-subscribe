@@ -1,0 +1,30 @@
+{
+  "helperText": "Katalog definieren und konfigurieren",
+  "sections": {
+    "groups": {
+      "title": "Gruppen",
+      "helperText": "Die folgenden Gruppen enthalten die Inhalte Ihres Suchkatalogs. Wählen Sie eine Gruppe aus, um die zugehörigen Einstellungen, Inhalte und mehr anzuzeigen.",
+      "createGroup": "Neue Gruppe erstellen"
+    },
+    "feeds": {
+      "title": "Feed-Konfiguration",
+      "helperText": "Machen Sie Ihre öffentlichen Open Data mit Hub-Feeds leicht zugänglich und wiederverwendbar.",
+      "learn": "Informationen zu Hub-Feeds",
+      "toggle": "Feeds aktivieren ",
+      "configure": "Feeds konfigurieren",
+      "notice": "Um Feeds zu aktivieren, müssen Sie zunächst Ihre Hub-Sites in den Einstellungen auf \"Öffentlich\" festlegen."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Von",
+    "editGroups": "Gruppen bearbeiten",
+    "viewGroups": "Gruppe anzeigen",
+    "myGroup": "Eigene Gruppe",
+    "myOrganization": "Eigene Organisation",
+    "myCommunity": "Eigene Community"
+  },
+  "formAlert": "Formularwarnung",
+  "alertMessages": {
+    "error": "Fehler beim Speichern der Änderungen"
+  }
+}

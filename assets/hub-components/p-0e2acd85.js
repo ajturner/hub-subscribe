@@ -1,0 +1,1 @@
+const n=n=>{const o=document.createElement("a");o.style.display="none",o.setAttribute("href",n),document.body.appendChild(o),o.onclick=()=>{document.body.removeChild(o)},o.click()};export{n as d}

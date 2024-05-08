@@ -1,0 +1,9 @@
+{
+  "title": "Izmeni detalje verzije",
+  "save": "Sačuvaj",
+  "cancel": "Otkaži",
+  "name.label": "Naslov",
+  "name.helpText": "Ostavite prazan naslov ako želite da mi identifikujemo verziju preko datuma vremenske oznake.",
+  "description.label": "Opis",
+  "error": "Greška pri ažuriranju verzije."
+}

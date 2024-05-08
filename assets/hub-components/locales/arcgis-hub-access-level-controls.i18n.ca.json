@@ -1,0 +1,9 @@
+{
+  "heading": "Nivell d'ús compartit",
+  "public": "Pública",
+  "publicInfo": "Tothom pot veure aquest element de tipus {itemType}",
+  "organization": "Organització",
+  "organizationInfo": "Tots els membres amb un compte a {orgName} i els grups poden veure aquest element de tipus {itemType}",
+  "owner": "Propietari",
+  "ownerInfo": "El propietari i els grups amb accés poden veure aquest element de tipus {itemType}"
+}

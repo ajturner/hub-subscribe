@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "表示",
+    "hide": "非表示",
+    "rename": "名前の変更"
+  },
+  "formAlert": "フォームの通知",
+  "alertMessages": {
+    "success": "編集内容が正常に保存されました",
+    "error": "編集内容の保存中にエラーが発生しました"
+  },
+  "collectionRenameModal": {
+    "title": "コレクション名の変更",
+    "fieldLabel": "コレクションのラベル",
+    "requiredMessage": "コレクションのラベルが必要です",
+    "apply": "適用"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "データ",
+      "hidden": "データ (非表示)"
+    },
+    "site": {
+      "visible": "サイト",
+      "hidden": "サイト (非表示)"
+    },
+    "document": {
+      "visible": "ドキュメント",
+      "hidden": "ドキュメント (非表示)"
+    },
+    "appAndMap": {
+      "visible": "アプリおよびマップ",
+      "hidden": "アプリおよびマップ (非表示)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (非表示)"
+    }
+  },
+  "saveButton": "保存"
+}

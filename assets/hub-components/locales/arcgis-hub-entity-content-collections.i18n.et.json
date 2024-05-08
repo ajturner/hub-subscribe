@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Kuva",
+    "hide": "Peida",
+    "rename": "Nimeta ümber"
+  },
+  "formAlert": "Vormi hoiatus",
+  "alertMessages": {
+    "success": "Muudatused on salvestatud",
+    "error": "Tõrge muudatuste salvestamisel"
+  },
+  "collectionRenameModal": {
+    "title": "Anna kogumile teine nimi",
+    "fieldLabel": "Kogumi märgis",
+    "requiredMessage": "Kogumi märgis on vajalik",
+    "apply": "Esitage taotlus"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Andmed",
+      "hidden": "Andmed (peidetud)"
+    },
+    "site": {
+      "visible": "Saidid",
+      "hidden": "Saidid (peidetud)"
+    },
+    "document": {
+      "visible": "Dokumendid",
+      "hidden": "Dokumendid (peidetud)"
+    },
+    "appAndMap": {
+      "visible": "Rakendused ja kaardid",
+      "hidden": "Rakendused ja kaardid (peidetud)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (peidetud)"
+    }
+  },
+  "saveButton": "Salvesta"
+}

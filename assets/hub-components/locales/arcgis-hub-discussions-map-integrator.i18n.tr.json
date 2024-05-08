@@ -1,0 +1,16 @@
+{
+  "location.add": "Konum ekle",
+  "location.remove": "Konumu kaldır",
+  "draw.tip": "Başka bir konum eklensin mi?",
+  "prompt.add.post": "Gönderiye ekle",
+  "prompt.add.reply": "Yanıta ekle",
+  "prompt.edit.point": "Noktayı taşı",
+  "prompt.edit.polyline": "Çizgiyi düzenle",
+  "prompt.edit.polygon": "Alanı düzenle",
+  "prompt.remove.point": "Noktayı sil",
+  "prompt.remove.polyline": "Çizgiyi sil",
+  "prompt.remove.polygon": "Alanı sil",
+  "prompt.remove.existing": "Seçimi iptal et",
+  "prompt.location.edit": "Çizimi güncelle",
+  "prompt.location.delete": "Çizimi sil"
+}

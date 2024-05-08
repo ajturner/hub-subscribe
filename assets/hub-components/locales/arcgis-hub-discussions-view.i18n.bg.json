@@ -1,0 +1,17 @@
+{
+  "summary": "Обобщение",
+  "description": "Описание",
+  "details": "Подробни данни",
+  "metrics": "Метрични показатели",
+  "metricsDisclaimer": "Показва само последните 30 дни",
+  "titleOpen": "Отворена дискусия",
+  "statusOpen": "Отворено за участие",
+  "titleClosed": "Затворена дискусия",
+  "statusClosed": "Затворено за участие",
+  "tags": "Тагове",
+  "categories": "Категории",
+  "metric.pageViews": "Прегледи на страница",
+  "metric.postCount": "Брой публикации",
+  "discussion": "Дискусия",
+  "discussionBoard": "Дискусионен борд"
+}

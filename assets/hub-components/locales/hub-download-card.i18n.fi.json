@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Lataa",
+  "buttonOptions": "Latausasetukset",
+  "menuRequest": "Luo uusi lataustiedosto viimeisimmästä aineistosta",
+  "menuDownload": "Lataa tiedosto, joka on luotu {createdDate}",
+  "fileCreated": "Tiedosto on luotu",
+  "fileSize": "Tiedoston koko",
+  "bytes": "t",
+  "kb": "kt",
+  "mb": "Mt",
+  "gb": "Gt",
+  "tb": "Tt",
+  "n/a": "–"
+}

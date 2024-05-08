@@ -1,0 +1,24 @@
+{
+  "title": "Jäsenet",
+  "facets": {
+    "role": {
+      "label": "Rooli",
+      "all": "Kaikki",
+      "manager": "Hallinnoija",
+      "member": "Jäsen"
+    },
+    "dateJoined": {
+      "label": "Liittymispäivä"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Yhteensä",
+      "trailingText": "Työryhmän jäsenet"
+    },
+    "new": {
+      "title": "Uusi",
+      "trailingText": "Edelliset 30 päivää"
+    }
+  }
+}

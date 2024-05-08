@@ -1,0 +1,34 @@
+{
+  "settings": "Thiết lập",
+  "delete": {
+    "project": "Xóa dự án",
+    "initiative": "Xóa sáng kiến",
+    "site": "Xóa trang",
+    "discussion": "Xoá thảo luận",
+    "content": "Xoá nội dung",
+    "page": "Xóa trang",
+    "group": "Xóa nhóm"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Xóa dự án",
+      "initiative": "Xóa sáng kiến",
+      "site": "Xóa trang",
+      "discussion": "Xoá thảo luận",
+      "content": "Xoá nội dung",
+      "page": "Xóa trang",
+      "group": "Xóa nhóm"
+    },
+    "content": "Bạn có chắc chắn muốn xóa không:",
+    "delete": "Xóa",
+    "cancel": "Hủy"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Chức năng \"Trích xuất\" thay đổi các cài đặt dịch vụ.",
+        "message": "Các mục khác tham chiếu đến dịch vụ sẽ bị ảnh hưởng. Để biết thêm thông tin chi tiết, hãy xem mục <docLink>Xuất Dữ liệu từ các Lớp Đối tượng được Lưu trữ</docLink>"
+      }
+    }
+  }
+}

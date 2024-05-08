@@ -1,0 +1,12 @@
+{
+  "save": "Sačuvaj",
+  "cancel": "Otkaži",
+  "undoChanges": "Opozovi promene",
+  "next": "Sledeće",
+  "back": "Nazad",
+  "formAlert": "Formiraj upozorenje",
+  "invalidForm": "Ispravite sve greške.",
+  "saveDisabled": "Sačuvaj onemogućeno",
+  "success": "Uspešno sačuvana uređivanja",
+  "error": "Greška u čuvanju uređivanja"
+}

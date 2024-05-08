@@ -1,0 +1,7 @@
+{
+  "showMore": "{num}개 더 보기",
+  "showLess": "간략히 보기",
+  "inputPlaceholder": "필터 옵션",
+  "noMatchesNotice": "일치하는 옵션을 찾을 수 없음",
+  "inputAriaLabel": "키워드별 옵션 찾기"
+}

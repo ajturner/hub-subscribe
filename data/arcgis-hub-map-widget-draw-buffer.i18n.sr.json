@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filter lokacije",
+  "panel.reset": "Resetuj filter",
+  "distance.title": "Rastojanje",
+  "distance.placeholder": "Unesi broj...",
+  "distance.message": "Unesi broj za širenje filtrirane oblasti.",
+  "system.imperial": "Imperijalne",
+  "system.metric": "Metrika",
+  "units.title": "Jedinice",
+  "units.feet": "Stope",
+  "units.miles": "Milje",
+  "units.nauticalmiles": "Nautičke milje",
+  "units.meters": "Metri",
+  "units.kilometers": "Kilometri"
+}

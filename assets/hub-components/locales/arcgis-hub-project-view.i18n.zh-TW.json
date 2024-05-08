@@ -1,0 +1,18 @@
+{
+  "purpose": "用途",
+  "description": "我們將如何到達那裡",
+  "details": "詳細資訊",
+  "featuredImageAlt": "投影特色圖像",
+  "trackProgress": "追蹤我們的進度",
+  "participatingGroups": "參與群組",
+  "whosInvolved": "受邀者為何",
+  "tags": "標記",
+  "status": {
+    "label": "專案狀態",
+    "notStarted": "未啟動",
+    "inProgress": "進行中",
+    "onHold": "保留中",
+    "complete": "完成"
+  },
+  "featuredContent": "特色內容"
+}

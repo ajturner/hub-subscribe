@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Naamloos kanaal",
+  "name": {
+    "label": "Naam",
+    "placeholder": "{prefix}-kanaal"
+  },
+  "save": "Opslaan",
+  "access": {
+    "private": {
+      "label": "Privé",
+      "description": "Geselecteerde groepen kunnen deelnemen"
+    },
+    "organization": {
+      "label": "Mijn organisatie",
+      "description": "Alle leden met een account voor {orgName} kunnen deelnemen",
+      "disabledTooltip": "Alleen organisatiebeheerders kunnen organisatiekanalen maken."
+    },
+    "public": {
+      "label": "Openbaar",
+      "description": "Iedereen met een account kan deelnemen",
+      "disabledTooltip": "Alleen organisatiebeheerders kunnen openbare kanalen maken."
+    },
+    "allowAnonymous": "Anoniem toestaan",
+    "confirmation": {
+      "header": "Weet u het zeker?",
+      "message": "Als u deze wijzigingen opslaat, wordt uw bewerkingstoegang tot dit kanaal verwijderd. Alleen beheerders van organisaties kunnen openbare kanalen of organisatiekanalen bewerken.",
+      "secondary": "Annuleren",
+      "primary": "Bevestigen"
+    }
+  },
+  "participants": {
+    "label": "Deelnemers",
+    "helperText": "De personen die de discussie kunnen weergeven en die hieraan kunnen bijdragen.",
+    "none": "Er zijn geen deelnemers ingesteld",
+    "add": "Deelnemersgroep toevoegen"
+  },
+  "groupPicker": {
+    "title": "Groepen selecteren",
+    "facet": {
+      "label": "Van",
+      "myGroup": "Mijn groep",
+      "myOrganization": "Mijn organisatie",
+      "myCommunity": "Mijn community"
+    }
+  },
+  "blockWords": {
+    "label": "Geblokkeerde woorden",
+    "helperText": "Door komma's gescheiden lijst. Posts en antwoorden die deze bevatten, worden automatisch verborgen."
+  },
+  "manage": {
+    "label": "Beheren en modereren",
+    "helperText": "Automatisch toegewezen op basis van de deelnameselecties hierboven; deze personen kunnen deelnemen, posts verbergen of weergeven en kanaalinstellingen beheren."
+  },
+  "manager": "Manager",
+  "admin": "Beheer",
+  "viewProfile": "Profiel weergeven",
+  "alerts": {
+    "error": "Er is een fout opgetreden bij het opslaan van het kanaal",
+    "success": "Het kanaal is opgeslagen",
+    "label": "Formulierwaarschuwing"
+  },
+  "validations": {
+    "minChannelGroups": "Voor privé-kanalen is minstens één groep deelnemers vereist."
+  },
+  "notices": {
+    "edit": "Bewerkingen zullen overal van toepassing zijn waar dit kanaal wordt gebruikt",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanaal is niet gemaakt",
+          "message": "Er bestaat al een kanaal met deze toegangsselecties. Gebruik het bestaande kanaal of pas de selecties aan."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Het kanaal is niet bijgewerkt",
+          "message": "Er bestaat al een kanaal met deze toegangsselecties, dus we kunnen deze updates niet opslaan."
+        }
+      },
+      "action": "Bestaand kanaal gebruiken"
+    },
+    "inaccessibleGroups": {
+      "title": "Niet-beschikbare groepen: {count}",
+      "message": "U kunt niet-beschikbare groepen alleen weergeven of beheren als u hier lid van bent."
+    }
+  }
+}

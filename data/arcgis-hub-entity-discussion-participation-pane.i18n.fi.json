@@ -1,0 +1,21 @@
+{
+  "title": "Osallistuminen",
+  "channelTitle": "Osallistumiskanava",
+  "addChannelsTitle": "Kanava tarvitaan tälle kohteelle. Vain yksi voidaan määrittää.",
+  "headingChannelEdit": "Muokkaa kanavaa",
+  "headingChannelView": "Näytä kanava",
+  "headingChannelCreate": "Luo uusi kanava",
+  "buttons": {
+    "browse": "Selaa kaikkia kanavia",
+    "new": "Uusi kanava"
+  },
+  "galleryPickerTitle": "Valitse kanava",
+  "channelsLabel": "Kanavat",
+  "accessLabel": "Käyttö",
+  "optionPublicLabel": "Julkinen",
+  "optionOrganizationLabel": "Organisaatio",
+  "optionPrivateLabel": "Yksityinen",
+  "viewChannel": "Näytä kanava",
+  "editChannel": "Muokkaa kanavaa",
+  "save": "Tallenna"
+}

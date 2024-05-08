@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Freigeben",
+      "myself": "Ich",
+      "myOrganization": "Eigene Organisation",
+      "public": "Welt (öffentlich)"
+    },
+    "catalog": {
+      "myContent": "Eigene Inhalte",
+      "favorites": "Favoriten",
+      "organization": "Eigene Organisation",
+      "world": "Welt (öffentlich)"
+    }
+  },
+  "expression": {
+    "label": "Attributfilter"
+  },
+  "field": {
+    "label": "Attribut"
+  },
+  "layer": "Layer/Tabelle",
+  "statistic": {
+    "label": "Aggregation"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "beta": "Bèta",
+  "editLayout": "Lay-out bewerken",
+  "editContent": "Content bewerken",
+  "view": {
+    "project": "Project weergeven",
+    "site": "Locatie weergeven",
+    "initiative": "Initiatief weergeven",
+    "discussion": "Discussie weergeven",
+    "content": "Content bekijken",
+    "page": "Pagina weergeven",
+    "group": "Groep weergeven"
+  },
+  "label": {
+    "project": "Werkruimte project",
+    "site": "Werkruimte locatie",
+    "initiative": "Werkruimte initiatief",
+    "discussion": "Discussiewerkruimte",
+    "content": "Content-werkruimte",
+    "page": "Werkruimte pagina",
+    "group": "Werkruimte groep"
+  },
+  "access": {
+    "sharingLevel": "Deelniveau",
+    "groupSharing": "Delen met groep",
+    "public": "Openbaar",
+    "org": "Organisatie",
+    "private": "Eigenaar",
+    "shared": "Privé gedeeld",
+    "disabled": "U kunt het delen niet veranderen omdat u niet de eigenaar of een beheerder bent."
+  }
+}

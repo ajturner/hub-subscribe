@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonim",
+  "noUser": "Fără Nume de utilizator",
+  "privateUser": "Membru privat",
+  "privateOrg": "Organizație privată",
+  "orgLabel": "Organizaţie",
+  "profile": "Accesați profilul",
+  "location": "Locaţie",
+  "information": "Informații despre postare",
+  "mentionedBy": "Menționat de @{username}"
+}

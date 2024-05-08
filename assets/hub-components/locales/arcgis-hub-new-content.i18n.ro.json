@@ -1,0 +1,15 @@
+{
+  "new": "Nou",
+  "project": {
+    "title": "Proiect nou",
+    "description": "Evidențiați lucrările care au obiective și termene clare"
+  },
+  "initiative": {
+    "title": "Inițiativă nouă",
+    "description": "Evidențiați lucrările care au obiective și termene clare"
+  },
+  "discussion": {
+    "title": "Panou de discuții nou",
+    "description": "Creați un nou panou de discuții prin introducerea titlului care indică subiectul."
+  }
+}

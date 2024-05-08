@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "การแชร์",
+      "myself": "ตัวฉัน",
+      "myOrganization": "องค์กรของฉัน",
+      "public": "ทั่วโลก (สาธารณะ)"
+    },
+    "catalog": {
+      "myContent": "เนื้อหาของฉัน",
+      "favorites": "ชอบ",
+      "organization": "องค์กรของฉัน",
+      "world": "ทั่วโลก (สาธารณะ)"
+    }
+  },
+  "expression": {
+    "label": "ตัวกรองแอตทริบิวต์"
+  },
+  "field": {
+    "label": "แอตทริบิวต์"
+  },
+  "layer": "ชั้นข้อมูล / ตาราง",
+  "statistic": {
+    "label": "การรวม"
+  }
+}

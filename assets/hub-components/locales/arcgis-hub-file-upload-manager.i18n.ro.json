@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Selectare conținut",
+  "secondStepHeader": "Setare detalii",
+  "thirdStepHeader": "Setați nivelul de partajare și acces",
+  "next": "Următorul",
+  "back": "Înapoi",
+  "save": "Salvare",
+  "cancel": "Anulare",
+  "divider": "sau",
+  "duplicateFileAriaLabel": "eroare duplicare fișier",
+  "duplicateFileError": "Un element cu același nume de fișier există deja. Modificați numele fișierului și încercați din nou sau eliminați <a>fișierul duplicat</a> din ArcGIS Online",
+  "uploading": "Încărcare"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Legg til etter URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Webkobling",
+  "fileTypeSelector": "Angi filtype manuelt",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS geoobjekttjeneste",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Nettkobling",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Bilde (png, jpg, jpeg)",
+  "invalidFormat": "Feil: ugyldig format",
+  "invalidUrl": "Feil: ugyldig URL",
+  "recognizedType": "Angi filtype manuelt"
+}

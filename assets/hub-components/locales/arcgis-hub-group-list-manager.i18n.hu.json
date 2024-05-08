@@ -1,0 +1,28 @@
+{
+  "newTab": "Profil megnyitása új lapon",
+  "noGroups": "Nincsenek csoportok",
+  "pickerToggle": "Csoportok hozzáadása",
+  "pickerTitle": "Csoportok kiválasztása",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Tagok száma",
+      "oneMember": "1 tag",
+      "members": "{count} tag"
+    },
+    "dateCreated": "Létrehozás dátuma: {localizedDate}",
+    "sharing": "Megosztás: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Saját magam",
+      "shared": "Tulajdonos és csoportok",
+      "org": "Szervezet",
+      "public": "Nyilvános"
+    },
+    "membership": "Tagság: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Csoporttulajdonos",
+      "admin": "Csoportfelelős",
+      "member": "Csoporttag",
+      "none": "Egyik sem"
+    }
+  }
+}

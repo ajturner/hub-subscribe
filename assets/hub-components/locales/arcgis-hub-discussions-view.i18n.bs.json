@@ -1,0 +1,17 @@
+{
+  "summary": "Sažetak",
+  "description": "Opis",
+  "details": "Pojedinosti",
+  "metrics": "Metrike",
+  "metricsDisclaimer": "Prikazuje se samo zadnjih 30 dana",
+  "titleOpen": "Otvorena rasprava",
+  "statusOpen": "Otvoreno za sudjelovanje",
+  "titleClosed": "Zatvorena rasprava",
+  "statusClosed": "Zatvoreno za sudjelovanje",
+  "tags": "Oznake",
+  "categories": "Kategorije",
+  "metric.pageViews": "Pregledi stranice",
+  "metric.postCount": "Broj objava",
+  "discussion": "Rasprava",
+  "discussionBoard": "Ploča za raspravu"
+}

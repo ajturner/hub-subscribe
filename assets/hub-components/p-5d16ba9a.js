@@ -1,0 +1,1 @@
+const e=e=>{switch(e){case"blue":return"brand";case"red":return"danger";default:return e}};export{e as b}

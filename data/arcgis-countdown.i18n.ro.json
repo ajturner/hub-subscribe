@@ -1,0 +1,7 @@
+{
+  "days": "zile",
+  "hours": "ore",
+  "minutes": "minute",
+  "seconds": "secunde",
+  "countdownDateMissingError": "Trebuie să furnizați o dată de numărătoare inversă"
+}

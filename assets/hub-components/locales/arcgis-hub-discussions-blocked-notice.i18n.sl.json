@@ -1,0 +1,16 @@
+{
+  "post.title": "Urejanje objave je blokirano",
+  "post.message": "Medtem ko so razprave blokirane, urejanje ni na voljo.",
+  "post.message.item": "Medtem ko so razprave pri tem elementu blokirane, urejanje ni na voljo.",
+  "post.message.group": "Medtem ko so razprave v tej skupini blokirane, urejanje ni na voljo.",
+  "reply.title": "Urejanje odgovora je blokirano",
+  "reply.title.generic": "Razprava je blokirana",
+  "reply.message": "Medtem ko so razprave blokirane, urejanje ni na voljo.",
+  "reply.message.generic": "Trenutno ne morete ustvariti pogojev.",
+  "reply.message.item": "Medtem ko so razprave pri tem elementu blokirane, urejanje ni na voljo.",
+  "reply.message.group": "Medtem ko so razprave v tej skupini blokirane, urejanje ni na voljo.",
+  "item.title": "Element razprave je blokiran",
+  "item.message": "Ta element ni odobren za razpravo.",
+  "group.title": "Razprava v skupini je blokirana",
+  "group.message": "Ta skupina ni odobrena za razpravo."
+}

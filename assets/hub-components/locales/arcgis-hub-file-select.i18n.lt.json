@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Norėdami įkelti, nutempkite failą",
+  "imageHeading": "Įkelti vaizdą",
+  "selectedHeading": "Failas pasirinktas",
+  "maxSizeAndSupportedTypes": "Maks. dydis yra {maxSize} MB, {fileTypes}",
+  "maxSize": "Maks. dydis yra {maxSize} MB",
+  "recommendedDimensions": "Rekomenduojami matmenys {recommendedDimensions}",
+  "linkText": "Peržiūrėti palaikomų failų sąrašą",
+  "contentButton": "Parinkti failą",
+  "imageButton": "Parinkti paveikslėlį",
+  "clearButton": "Išvalyti pasirinktus",
+  "errorHeading": "Klaida",
+  "fileTooLargeError": "Failas yra per didelis",
+  "multipleFilesError": "Negalima vienu metu įkelti kelių failų",
+  "unsupportedFileTypeError": "Šis failo tipas nepalaikomas"
+}

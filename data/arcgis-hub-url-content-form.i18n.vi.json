@@ -1,0 +1,19 @@
+{
+  "heading": "Thêm bằng URL",
+  "subText": "CSV, SHP, GeoJSON, Dịch vụ Đối tượng ArcGIS, XLS, PDF, PNG, JPG, Liên kết Trang web",
+  "fileTypeSelector": "Thiết lập thủ công loại tệp",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Dịch vụ Đối tượng ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Liên kết Web",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Hình ảnh (png, jpg, jpeg)",
+  "invalidFormat": "Lỗi: Định dạng Không hợp lệ",
+  "invalidUrl": "Lỗi: URL không hợp lệ",
+  "recognizedType": "Thiết lập thủ công loại tệp"
+}

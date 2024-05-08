@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal sense nom",
+  "name": {
+    "label": "Nom",
+    "placeholder": "Canal de {prefix}"
+  },
+  "save": "Desa",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Els grups seleccionats hi poden participar"
+    },
+    "organization": {
+      "label": "La meva organització",
+      "description": "Tots els membres amb un compte a {orgName} hi poden participar",
+      "disabledTooltip": "Només els administradors de l'organització poden crear canals de l'organització."
+    },
+    "public": {
+      "label": "Públic",
+      "description": "Qualsevol persona amb un compte hi pot participar",
+      "disabledTooltip": "Només els administradors de l'organització poden crear canals públics."
+    },
+    "allowAnonymous": "Permet anònims",
+    "confirmation": {
+      "header": "Segur?",
+      "message": "En desar aquests canvis, s'eliminarà el vostre accés d'edició a aquest canal. Només els administradors de l'organització poden editar canals públics o de l'organització.",
+      "secondary": "Cancel·la",
+      "primary": "Confirma"
+    }
+  },
+  "participants": {
+    "label": "Participants",
+    "helperText": "Les persones que poden veure el debat i fer-hi aportacions.",
+    "none": "No s'ha definit cap participant",
+    "add": "Afegeix un grup participant"
+  },
+  "groupPicker": {
+    "title": "Seleccioneu grups",
+    "facet": {
+      "label": "Des de",
+      "myGroup": "El meu grup",
+      "myOrganization": "La meva organització",
+      "myCommunity": "La meva comunitat"
+    }
+  },
+  "blockWords": {
+    "label": "Paraules bloquejades",
+    "helperText": "Llista separada per comes. Les publicacions i les respostes que les continguin s'amagaran automàticament."
+  },
+  "manage": {
+    "label": "Administra i modera",
+    "helperText": "Segons l'assignació automàtica basada en les seleccions de participació anteriors, aquestes persones poden participar, amagar o mostrar publicacions, i administrar la configuració del canal."
+  },
+  "manager": "Administrador",
+  "admin": "Administrador",
+  "viewProfile": "Visualitza el perfil",
+  "alerts": {
+    "error": "Error en desar el canal",
+    "success": "El canal s'ha desat correctament",
+    "label": "Alerta del formulari"
+  },
+  "validations": {
+    "minChannelGroups": "Els canals privats requereixen almenys un grup participant."
+  },
+  "notices": {
+    "edit": "Les edicions afectaran tots els llocs on es faci servir aquest canal",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "No s'ha creat el canal",
+          "message": "Ja existeix un canal amb aquestes seleccions d'accés. Feu servir un canal existent o modifiqueu les seleccions."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "No s'ha actualitzat el canal",
+          "message": "Ja existeix un canal amb aquestes seleccions d'accés, així que no podem desar aquestes actualitzacions."
+        }
+      },
+      "action": "Utilitza un canal existent"
+    },
+    "inaccessibleGroups": {
+      "title": "Grups no disponibles: {count}",
+      "message": "No podeu veure ni administrar els grups no disponibles si no sou membre."
+    }
+  }
+}

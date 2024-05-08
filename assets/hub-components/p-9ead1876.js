@@ -1,0 +1,1 @@
+import{A as o}from"./p-c5919bc3.js";const r=o=>{(null==o?void 0:o.serialize)?localStorage.setItem("__CONTEXT_MANAGER",o.serialize()):localStorage.removeItem("__CONTEXT_MANAGER")};function a(r){const a=localStorage.getItem("__CONTEXT_MANAGER");return a?o.deserialize(a):r?Promise.resolve(o.create({portalUrl:r})):Promise.resolve()}const s=r=>o.create(r);export{s as c,a as r,r as s}

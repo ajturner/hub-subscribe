@@ -1,0 +1,36 @@
+{
+  "edit": "Redigera",
+  "delete": "Ta bort",
+  "noneMessage": "Ingen plats har angivits",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Webbplats",
+    "initiative": "Initiativ",
+    "discussion": "Diskussion",
+    "content": "Innehåll"
+  },
+  "emptyLocation": {
+    "title": "Ingen plats har ritats",
+    "message": "{entityType} visas inte på kartor förrän en plats har lagts till"
+  },
+  "populatedLocation": {
+    "title": "Lägg till en annan plats?",
+    "message": "Välj ritverktyget igen för att lägga till fler platser (upp till {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Maximalt antal punkter har nåtts ({currentCount}/{maxLocations})",
+    "message": "Så här lägger du till fler platser: ta bort punkter eller redigera linjer och områden för att ta bort deras punkter (högerklicka)."
+  },
+  "maximumLocations": {
+    "title": "Maximalt antal platser",
+    "message": "Om du vill lägga till fler platser tar du bort en eller flera, eller tar bort alla platser och använder ett mer allmänt område."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Lägg till plats",
+    "clear": "Rensa alla",
+    "extent": "Rita en rektangel",
+    "point": "Släpp en punkt",
+    "polyline": "Rita en linje",
+    "polygon": "Rita ett område"
+  }
+}

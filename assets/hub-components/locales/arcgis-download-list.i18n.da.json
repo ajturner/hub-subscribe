@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefil",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "Geo-pakke",
+  "filegdb": "Filgeodatabase",
+  "featureCollection": "Objektsamling",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Arkivér"
+}

@@ -1,0 +1,15 @@
+{
+  "panel.heading": "位置フィルター",
+  "panel.reset": "フィルターのリセット",
+  "distance.title": "距離",
+  "distance.placeholder": "数字を入力...",
+  "distance.message": "数字を入力して、フィルター処理されたエリアを拡張してください。",
+  "system.imperial": "ヤード・ポンド法",
+  "system.metric": "メートル法",
+  "units.title": "単位",
+  "units.feet": "フィート",
+  "units.miles": "マイル",
+  "units.nauticalmiles": "海里",
+  "units.meters": "メートル",
+  "units.kilometers": "キロメートル"
+}

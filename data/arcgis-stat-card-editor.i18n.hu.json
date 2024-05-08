@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Haladó konfiguráció",
+    "serverTimeout": {
+      "label": "Kiszolgáló időtúllépése (másodperc)",
+      "helperText": "Olyan nagyobb szolgáltatások esetén hasznos, amelyeknek több időbe telhet a válaszadás."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Sarkok",
+      "enum": {
+        "round": {
+          "label": "Kerek"
+        },
+        "square": {
+          "label": "Négyzet"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Árnyékhatás",
+      "enum": {
+        "heavy": {
+          "label": "Nehéz"
+        },
+        "low": {
+          "label": "Alacsony"
+        },
+        "medium": {
+          "label": "Közepes"
+        },
+        "none": {
+          "label": "Nem kezdődött el"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statisztikai elrendezés",
+      "enum": {
+        "dataViz": {
+          "label": "Adatmegjelenítés"
+        },
+        "moreInfo": {
+          "label": "További információ"
+        },
+        "simple": {
+          "label": "Egyszerű"
+        }
+      }
+    },
+    "popoverTitle": "Előugró cím",
+    "popoverDescription": "Előugró leírás",
+    "sectionTitle": "Megjelenés",
+    "textAlign": "Igazítás",
+    "visualInterest": {
+      "label": "Vizuális érdekesség",
+      "enum": {
+        "icon": {
+          "label": "Ikon"
+        },
+        "logo": {
+          "label": "Logó"
+        },
+        "none": {
+          "label": "Egyik sem"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Szín (statikus)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Hivatkozás",
+      "sourceLink": "Hivatkozás URL-címe",
+      "sourceTitle": "Hivatkozás szövege"
+    },
+    "sectionTitle": "Részletek",
+    "subtitle": "Alcím",
+    "title": "Beosztás",
+    "trailingText": "Befejező szöveg"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "A forrás megjelenítéséhez szükséges link."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formázás",
+    "unit": {
+      "label": "Megjelenítési mértékegységek",
+      "helperText": "Írja be az értékhez tartozó mértékegységet."
+    },
+    "unitPosition": {
+      "label": "Elhelyezés",
+      "enum": {
+        "after": {
+          "label": "Után"
+        },
+        "before": {
+          "label": "Előtt"
+        },
+        "below": {
+          "label": "Alatta"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Megosztás",
+    "showShareIcon": "Engedélyezés",
+    "shareableByValue": "Beágyazások engedélyezése",
+    "shareableOnHover": {
+      "label": "Megjelenítés",
+      "enum": {
+        "always": {
+          "label": "Mindig"
+        },
+        "hover": {
+          "label": "Csak rámutatás"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Adatforrás",
+    "displayValue": "Megjelenített érték",
+    "sectionTitle": "Statisztika",
+    "type": {
+      "label": "Típus",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamikus",
+          "description": "Válassza ki az összefoglalni kívánt meglévő adathalmazt (vektoros szolgáltatást)."
+        },
+        "static": {
+          "label": "Statikus",
+          "description": "Adja meg manuálisan az elrendezésben kiemelni kívánt értéket."
+        }
+      }
+    }
+  }
+}

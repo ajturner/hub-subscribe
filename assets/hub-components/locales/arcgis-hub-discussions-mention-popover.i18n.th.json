@@ -1,0 +1,11 @@
+{
+  "anonymous": "ไม่ระบุชื่อ",
+  "noUser": "ไม่มีชื่อผู้ใช้",
+  "privateUser": "สมาชิกส่วนบุคคล",
+  "privateOrg": "หน่วยงานเอกชน",
+  "orgLabel": "องค์กร",
+  "profile": "ไปที่โปรไฟล์",
+  "location": "ตำแหน่ง",
+  "information": "ข้อมูลเกี่ยวกับโพสต์",
+  "mentionedBy": "ถูกพูดถึงโดย @{username}"
+}

@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "구성원에게만 표시",
+  "visibleOrg": "기관에게 표시",
+  "visibleAll": "모든 사용자에게 표시",
+  "anonymous": "익명",
+  "privateUser": "비공개 구성원",
+  "noUser": "사용자 이름 없음",
+  "orgLabel": "기관",
+  "privateOrg": "비공개 기관",
+  "location": "위치",
+  "profile": "프로필로 이동",
+  "postedIn": "{groupName}에 게시됨",
+  "manageChannel": "채널 관리",
+  "information": "게시물에 대한 정보",
+  "group.deleted": "삭제된 그룹",
+  "unnamedChannel": "이름이 정의되지 않은 채널",
+  "replyingTo": "{fullName}에 회신",
+  "viewPost": "게시물 보기"
+}

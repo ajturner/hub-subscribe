@@ -1,0 +1,50 @@
+{
+  "title": "Conteúdo",
+  "facets": {
+    "type": "Tipo",
+    "tags": "Etiqueta",
+    "categories": "Categoria",
+    "sharing": "Partilha",
+    "dateUpdated": "Data de atualização",
+    "map": {
+      "label": "Localização",
+      "tooltip": "Aplicar a extensão do mapa como um filtro de localização"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Adicionar conteúdo",
+    "catalog": {
+      "myContent": "O meu conteúdo",
+      "favorites": "Favoritos",
+      "organization": "A minha organização",
+      "world": "Mundo (Público)"
+    },
+    "facets": {
+      "type": "Tipo",
+      "sharing": "Partilha"
+    },
+    "collection": {
+      "appsAndMaps": "Aplicações e Mapas",
+      "dataset": "Dados",
+      "documents": "Documentos",
+      "feedback": "Feedback",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Adicionar conteúdo"
+    },
+    "unsharedModal": {
+      "title": "itens não adicionados",
+      "notice": {
+        "icon": "triângulo-ponto-de-exclamação",
+        "type": "perigo",
+        "title": "Ação incompleta",
+        "message": "Não foi possível adicionar alguns itens. Isto pode dever-se a níveis de partilha diferentes no conteúdo ou ao facto de o proprietário do item não ser membro do grupo.",
+        "linkText": "Ler mais sobre a partilha"
+      }
+    },
+    "itemSharedSuccessAlert": "Item(ns) partilhado(s) com sucesso"
+  },
+  "close": "Fechar",
+  "newTab": "abre num novo separador"
+}

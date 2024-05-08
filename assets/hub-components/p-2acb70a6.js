@@ -1,0 +1,1 @@
+function e(e){let c="enterprise";return e.includes("arcgis.com")&&(c="production"),(e.includes("qaext.arcgis.com")||e.includes("mapsqa.arcgis.com"))&&(c="qaext"),(e.includes("devext.arcgis.com")||e.includes("mapsdev.arcgis.com"))&&(c="devext"),c}export{e as g}

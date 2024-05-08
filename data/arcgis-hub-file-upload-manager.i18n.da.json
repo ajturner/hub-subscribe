@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Vælg indhold",
+  "secondStepHeader": "Angiv oplysninger",
+  "thirdStepHeader": "Angiv delingsniveau og adgang",
+  "next": "Næste",
+  "back": "Tilbage",
+  "save": "Gem",
+  "cancel": "Annullér",
+  "divider": "eller",
+  "duplicateFileAriaLabel": "fejl i kopieret fil",
+  "duplicateFileError": "Der findes allerede et element med det samme filnavn. Rediger filen, og prøv igen, eller fjern den <a>kopierede fil</a> fra ArcGIS Online",
+  "uploading": "Overfører"
+}

@@ -1,0 +1,14 @@
+{
+  "createdBy": "Létrehozta: {creator}",
+  "emptyMessage": "Nem találhatók verziók",
+  "errorMessage": "Hiba a verziók lekérdezése közben",
+  "menuLabel": "műveletek megjelenítése",
+  "publishedBadge": "Közzétéve",
+  "viewingBadge": "Megtekintés",
+  "popover.label": "Verzió műveletek",
+  "popover.actions.delete": "Törlés",
+  "popover.actions.edit": "Részletek szerkesztése",
+  "popover.actions.share": "Megosztás",
+  "shareErrorMessage": "A megosztási URL vágólapra másolása közben hiba lépett fel.",
+  "shareSuccessMessage": "A megosztási URL-címe a vágólapra lett másolva."
+}

@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "La connexion au serveur a expiré et la statistique n’a pas pu être affichée.",
+    "title": "Délai d’attente du serveur dépassé"
+  },
+  "genericError": {
+    "message": "Impossible d’afficher la statistique.",
+    "title": "Un problème est survenu"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "purpose": "Scopo",
+  "description": "Come ci arriveremo",
+  "details": "Dettagli",
+  "featuredImageAlt": "Immagine in primo piano del progetto",
+  "trackProgress": "Traccia i nostri progressi",
+  "participatingGroups": "Gruppi partecipanti",
+  "whosInvolved": "Chi è coinvolto",
+  "tags": "Tag",
+  "status": {
+    "label": "Stato progetto",
+    "notStarted": "Non avviato",
+    "inProgress": "In corso",
+    "onHold": "In sospeso",
+    "complete": "Completo"
+  },
+  "featuredContent": "Contenuto in primo piano"
+}

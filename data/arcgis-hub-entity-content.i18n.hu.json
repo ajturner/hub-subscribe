@@ -1,0 +1,24 @@
+{
+  "content": "Tartalom",
+  "tabs": {
+    "catalog": "Katalógus",
+    "collections": "Gyűjtemények",
+    "catalogConfig": "Katalógus konfigurációja"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Saját katalógus konfigurálása",
+        "message": "Elkezdte a katalógus kialakítását és konfigurálását! A katalógus csoportokból áll, és a csoportok tartalma tölti ki őket.",
+        "link": "További információk a katalógusokaról"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "A katalógus üres",
+        "message": "Készen áll a katalógus elkészítésére! A katalógus konfigurálása egy vagy több csoport hozzáadásával és az azokban található tartalmakkal való feltöltésével történik.",
+        "link": "Első lépések"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "title": "חברים",
+  "facets": {
+    "role": {
+      "label": "תפקיד",
+      "all": "הכל",
+      "manager": "מנהל",
+      "member": "חבר"
+    },
+    "dateJoined": {
+      "label": "תאריך הצטרפות"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "סה\"כ",
+      "trailingText": "חברי צוות"
+    },
+    "new": {
+      "title": "חדש",
+      "trailingText": "30 הימים האחרונים"
+    }
+  }
+}

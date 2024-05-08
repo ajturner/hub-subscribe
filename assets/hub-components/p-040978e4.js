@@ -1,0 +1,1 @@
+function t(t,e){return{targetEntity:e,filters:[{operation:"OR",predicates:[{id:null==t?void 0:t[e]}]}]}}export{t as b}

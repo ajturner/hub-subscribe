@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonīms",
+  "noUser": "Bez lietotājvārda",
+  "privateUser": "Privāts dalībnieks",
+  "privateOrg": "Privāta organizācija",
+  "org": "Mana organizācija",
+  "orgLabel": "Organizācija",
+  "profile": "Doties uz profilu",
+  "location": "Atrašanās vieta",
+  "information": "Informācija par ziņu",
+  "postedIn": "Publicēts {groupName}",
+  "replyingTo": "Atbilde @{username}",
+  "visiblePrivate": "Redzams tikai dalībniekiem",
+  "visibleOrg": "Redzams organizācijai",
+  "visibleAll": "Redzams visiem",
+  "manageChannel": "Pārvaldīt kanālu",
+  "group.deleted": "Dzēst grupu",
+  "unnamedChannel": "Nenosaukts kanāls"
+}

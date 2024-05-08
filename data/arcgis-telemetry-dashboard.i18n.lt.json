@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datų intervalas: {start} - {end}",
+  "pageViews": "Puslapio peržiūros",
+  "timeOnSite": "Vidutiniškai praleistas laikas svetainėje",
+  "users": "Seansai",
+  "viewsOverTime": "Puslapio peržiūros per laikotarpį",
+  "disabledTracking": "Veiklos sekimas išjungtas",
+  "enableTracking": "Įgalinkite Hub veiklos sekimą svetainės nustatymuose, kad galėtumėte stebėti svetainės naudojimą.",
+  "learnMore": "Sužinokite daugiau.",
+  "disabled": "Išjungta",
+  "notificationLabel": "Duomenys atnaujinti",
+  "dataUpdated": "Duomenys atnaujinti",
+  "subscribe": "Prenumeruoti",
+  "subscribed": "Užprenumeruota",
+  "weeklyReport": "Savaitės ataskaita",
+  "timestampTitle": {
+    "hour": "Dienos metas",
+    "day": "Data",
+    "week": "Savaitė"
+  },
+  "formAlert": "Formos pavojus",
+  "success": "Prenumerata atnaujinta",
+  "subscriptionActivatedTitle": "Prenumerata aktyvuota",
+  "subscriptionActivatedMessage": "Forma, kurią užsiregistravote, {email} kad gautumėte savaitės įtraukimo metriką.",
+  "unsubscribeCompleteTitle": "Atsisakymas pavyko",
+  "unsubscribeCompleteMessage": "{email} sėkmingai atsisakė įtraukimo metrikos.",
+  "problemSubscribingTitle": "Prenumeratos problemos",
+  "problemSubscribingMessage": "Užsakant prenumeratą įvyko klaida. Klaida: ",
+  "problemUnsubscribingTitle": "Prenumeratos atšaukimo prolema",
+  "problemUnsubscribingMessage": "Atšaukiant prenumeratą įvyko klaida Klaida: "
+}

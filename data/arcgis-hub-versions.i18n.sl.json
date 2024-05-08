@@ -1,0 +1,14 @@
+{
+  "createdBy": "Ustvaril {creator}",
+  "emptyMessage": "Ni bilo najdenih različic",
+  "errorMessage": "Napaka pri pridobivanju različic",
+  "menuLabel": "pokaži dejanja",
+  "publishedBadge": "Objavljeno",
+  "viewingBadge": "Ogled",
+  "popover.label": "Dejanja različice",
+  "popover.actions.delete": "Izbriši",
+  "popover.actions.edit": "Uredi podrobnosti",
+  "popover.actions.share": "Deli",
+  "shareErrorMessage": "Pri kopiranju deljenega URL-ja v odložišče je prišlo do napake.",
+  "shareSuccessMessage": "Deli URL, ki je kopiran v odložišče."
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Pridėti naudojant URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Rankiniu būdu nustatyti failo tipą",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS elementų paslauga",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Žiniatinklio nuoroda",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Vaizdas (png, jpg, jpeg)",
+  "invalidFormat": "Klaida: negalimas formatas",
+  "invalidUrl": "Klaida: netinkamas URL",
+  "recognizedType": "Rankiniu būdu nustatyti failo tipą"
+}

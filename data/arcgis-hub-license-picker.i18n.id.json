@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Pilih ketentuan penggunaan",
+  "editorLabel": "Ketentuan penggunaan yang dipilih",
+  "editorRemoveWarning": "Peringatan, Anda akan menghapus ketentuan penggunaan.",
+  "licenseDescriptionCc0": "Hasil karya ini didedikasikan untuk umum",
+  "licenseDescriptionCcBy": "Memerlukan atribusi",
+  "licenseDescriptionCcByNc": "Memerlukan atribusi, remix diperbolehkan, tetapi penggunaan komersial dilarang",
+  "licenseDescriptionCcByNcNd": "Paling ketat, memerlukan atribusi, penggunaan komersial dan remix dilarang",
+  "licenseDescriptionCcByNcSa": "Memerlukan atribusi, remix diperbolehkan, tetapi penggunaan komersial dilarang dan hasil karya turunan harus memiliki lisensi yang sama",
+  "licenseDescriptionCcByNd": "Memerlukan atribusi, mengizinkan penggunaan komersial, tetapi melarang pembagian hasil karya turunan",
+  "licenseDescriptionCcBySa": "Memerlukan atribusi, remix dan penggunaan komersial diperbolehkan",
+  "licenseDescriptionCustom": "Lihat untuk detailnya",
+  "licenseDescriptionOdbl": "Izinkan pembagian, pembuatan, dan adaptasi selama orang lain melakukan atribusi, berbagi serupa, dan tetap terbuka",
+  "licenseDescriptionOdcBy": "Izinkan pembagian, pembuatan, dan adaptasi selama orang lain melakukan atribusi",
+  "licenseDescriptionPddl": "Izinkan pembagian, pembuatan, dan adaptasi",
+  "licenseInfoButtonAriaLabel": "Detail ketentuan penggunaan, terbuka di tab baru",
+  "selectedLicenseLabelFallback": "Khusus",
+  "selectedLicenseLabelNoLicense": "Tidak Ada Ketentuan Penggunaan"
+}

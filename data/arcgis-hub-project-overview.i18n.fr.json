@@ -1,0 +1,27 @@
+{
+  "overview": "Vue d’ensemble",
+  "telemetry": {
+    "pageViews": "Vues des pages",
+    "last30days": "30 derniers jours",
+    "lastUpdated": "Dernière mise à jour il y a {hoursElapsed} heures"
+  },
+  "newNotice": {
+    "title": "Voici l’espace de travail de votre projet",
+    "message": "Cet espace de travail est conçu pour la modification des projets. Les espaces de travail permettent aux collaborateurs de se concentrer sur des éléments individuels et font l’objet d’un développement continu.",
+    "link": "En savoir plus"
+  },
+  "learnAbout": "En savoir plus sur les projets Hub",
+  "feedbackNotice": {
+    "message": "Dans quelle mesure appréciez-vous les projets Hub ? Cette fonctionnalité étant toujours en version bêta, nous voulons savoir comment vous êtes susceptible de l’utiliser.",
+    "link": "Envoyer des commentaires"
+  },
+  "status": {
+    "notStarted": "Non commencé",
+    "inProgress": "En cours",
+    "onHold": "Suspendu",
+    "complete": "Terminé"
+  },
+  "editDetails": "Modifier les détails",
+  "noPurposeSet": "Aucun objet défini",
+  "noLocationSet": "Aucune localisation définie"
+}

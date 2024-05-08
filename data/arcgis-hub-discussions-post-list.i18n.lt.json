@@ -1,0 +1,14 @@
+{
+  "addPost": "Pridėti įrašą",
+  "createPost": "Sukurti įrašą",
+  "emptyHeading": "Pradėti diskusiją",
+  "emptyMessage": "Būkite pirmieji pasiūlę temą. Paprasta užduoti klausimą ar pasidalinti patirtimi su kitais apie tam tikrą turinį.",
+  "searchIdeas": "Ieškoti įrašuose",
+  "searchCount": "{start}–{end} iš {total}",
+  "orderAsc": "Didėjimo tvarka",
+  "orderDesc": "Mažėjimo tvarka",
+  "sortRecent": "Naujausi",
+  "sortCreator": "Kūrėjas",
+  "layoutGrid": "Tinklelis",
+  "layoutList": "Sąrašas"
+}

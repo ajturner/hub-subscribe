@@ -1,0 +1,9 @@
+{
+  "title": "Chỉnh sửa thông tin chi tiết phiên bản",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "name.label": "Tiêu đề",
+  "name.helpText": "Để trống tiêu đề nếu bạn muốn chúng tôi nhận định phiên bản bằng nhãn thời gian theo ngày.",
+  "description.label": "Thông tin mô tả",
+  "error": "Lỗi khi cập nhật phiên bản."
+}

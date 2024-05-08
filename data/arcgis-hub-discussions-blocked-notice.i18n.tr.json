@@ -1,0 +1,16 @@
+{
+  "post.title": "Son düzenleme engellendi",
+  "post.message": "Tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "post.message.item": "Bu öge hakkında tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "post.message.group": "Bu grupta tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "reply.title": "Yanıt düzenleme engellendi",
+  "reply.title.generic": "Tartışma engellendi",
+  "reply.message": "Tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "reply.message.generic": "Şu anda yanıt oluşturamazsınız.",
+  "reply.message.item": "Bu öge hakkında tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "reply.message.group": "Bu grupta tartışmalar engellendiğinde düzenleme yapılamaz.",
+  "item.title": "Öge tartışması engellendi",
+  "item.message": "Bu öge tartışma için onaylanmadı.",
+  "group.title": "Grup tartışması engellendi",
+  "group.message": "Bu grup tartışma için onaylanmadı."
+}

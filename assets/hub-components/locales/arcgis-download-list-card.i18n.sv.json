@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefil",
+  "sqlite": "SQLite-geodatabas",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Filbaserad geodatabas",
+  "featureCollection": "Samling av geoobjekt",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Hämta CSV",
+  "downloadshapefile": "Hämta shapefil",
+  "downloadsqlite": "Hämta SQLite-geodatabas",
+  "downloadgeoPackage": "Hämta GeoPackage",
+  "downloadfilegdb": "Hämta filbaserad geodatabas",
+  "downloadfeatureCollection": "Hämta samling av geoobjekt",
+  "downloadgeojson": "Hämta GeoJSON",
+  "downloadexcel": "Hämta Excel",
+  "rateLimitMessage": "Nedladdningsgränsen är tyvärr nådd. Försök igen om en timme eller kontakta innehållshanteraren.",
+  "createReplicaErrorMessage": "Skapa internt replikafel. Försök igen om en timme eller kontakta innehållshanteraren."
+}

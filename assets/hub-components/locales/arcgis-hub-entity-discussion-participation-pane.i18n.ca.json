@@ -1,0 +1,21 @@
+{
+  "title": "Participació",
+  "channelTitle": "Canal de participació",
+  "addChannelsTitle": "Cal un canal per a aquest element, i només se'n pot definir un.",
+  "headingChannelEdit": "Edita el canal",
+  "headingChannelView": "Mostra el canal",
+  "headingChannelCreate": "Crea un canal nou",
+  "buttons": {
+    "browse": "Cerca tots els canals",
+    "new": "Canal nou"
+  },
+  "galleryPickerTitle": "Seleccioneu un canal",
+  "channelsLabel": "Canals",
+  "accessLabel": "Accés",
+  "optionPublicLabel": "Públic",
+  "optionOrganizationLabel": "Organització",
+  "optionPrivateLabel": "Privat",
+  "viewChannel": "Mostra el canal",
+  "editChannel": "Edita el canal",
+  "save": "Desa"
+}

@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "シェープファイル",
+  "sqlite": "SQLite ジオデータベース",
+  "geoPackage": "GeoPackage",
+  "filegdb": "ファイル ジオデータベース",
+  "featureCollection": "フィーチャ コレクション",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV のダウンロード",
+  "downloadshapefile": "シェープファイルのダウンロード",
+  "downloadsqlite": "SQLite ジオデータベースのダウンロード",
+  "downloadgeoPackage": "GeoPackage のダウンロード",
+  "downloadfilegdb": "ファイル ジオデータベースのダウンロード",
+  "downloadfeatureCollection": "フィーチャ コレクションのダウンロード",
+  "downloadgeojson": "GeoJSON のダウンロード",
+  "downloadexcel": "Excel のダウンロード",
+  "rateLimitMessage": "ダウンロードの制限に到達しました。 1 時間後にもう一度お試しいただくか、コンテンツ マネージャーにご連絡ください。",
+  "createReplicaErrorMessage": "レプリカ作成の内部エラーです。 1 時間後にもう一度お試しいただくか、コンテンツ マネージャーにご連絡ください。"
+}

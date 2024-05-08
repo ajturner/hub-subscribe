@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Vidno samo članom",
+  "visibleOrg": "Vidno organizaciji",
+  "visibleAll": "Vidno vsem",
+  "anonymous": "Anonimno",
+  "privateUser": "Zasebni uporabnik",
+  "noUser": "Brez uporabniškega imena",
+  "orgLabel": "Organizacija",
+  "privateOrg": "Zasebna organizacija",
+  "location": "Lokacija",
+  "profile": "Pojdi na profil",
+  "postedIn": "Objavljeno v {groupName}",
+  "manageChannel": "Upravljaj s kanalom",
+  "information": "Objava o informacijah o",
+  "group.deleted": "Izbrisana skupina",
+  "unnamedChannel": "Neimenovani kanal",
+  "replyingTo": "Odgovor za {fullName}",
+  "viewPost": "Ogled objave"
+}

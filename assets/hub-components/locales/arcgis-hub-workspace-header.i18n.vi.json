@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Chỉnh sửa bố cục",
+  "editContent": "Chỉnh sửa nội dung",
+  "view": {
+    "project": "Xem dự án",
+    "site": "Xem site",
+    "initiative": "Xem sáng kiến",
+    "discussion": "Xem thảo luận",
+    "content": "Xem nội dung",
+    "page": "Xem trang",
+    "group": "Xem nhóm"
+  },
+  "label": {
+    "project": "Không gian làm việc của dự án",
+    "site": "Không gian làm việc của site",
+    "initiative": "Không gian làm việc của sáng kiến",
+    "discussion": "Không gian làm việc của thảo luận",
+    "content": "Không gian làm việc của nội dung",
+    "page": "Không gian làm việc của trang",
+    "group": "Không gian làm việc nhóm"
+  },
+  "access": {
+    "sharingLevel": "Cấp độ chia sẻ",
+    "groupSharing": "Chia sẻ nhóm",
+    "public": "Công khai",
+    "org": "Tổ chức",
+    "private": "Chủ sở hữu",
+    "shared": "Được chia sẻ riêng tư",
+    "disabled": "Bạn không thể chia sẻ bởi vì bạn không phải là chủ sở hữu hoặc quản trị viên."
+  }
+}

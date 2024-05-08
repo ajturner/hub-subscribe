@@ -1,0 +1,16 @@
+{
+  "post.title": "Achteraf bewerken is geblokkeerd",
+  "post.message": "Bewerken is niet beschikbaar zolang discussies geblokkeerd zijn.",
+  "post.message.item": "Bewerken is niet mogelijk zolang discussies over dit item geblokkeerd zijn.",
+  "post.message.group": "Bewerken is niet mogelijk zolang discussies voor deze groep geblokkeerd zijn.",
+  "reply.title": "Antwoord bewerken is geblokkeerd",
+  "reply.title.generic": "Discussie is geblokkeerd",
+  "reply.message": "Bewerken is niet beschikbaar zolang discussies geblokkeerd zijn.",
+  "reply.message.generic": "U kunt op dit moment geen antwoorden maken.",
+  "reply.message.item": "Bewerken is niet mogelijk zolang discussies over dit item geblokkeerd zijn.",
+  "reply.message.group": "Bewerken is niet mogelijk zolang discussies voor deze groep geblokkeerd zijn.",
+  "item.title": "Item discussie geblokkeerd",
+  "item.message": "Discussies over dit item zijn niet toegestaan.",
+  "group.title": "Groepsdiscussie is geblokkeerd",
+  "group.message": "Discussies zijn niet toegestaan voor deze groep."
+}

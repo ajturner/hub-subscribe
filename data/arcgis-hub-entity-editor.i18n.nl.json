@@ -1,0 +1,494 @@
+{
+  "success": "De bewerkingen zijn opgeslagen",
+  "error": "Er is een fout opgetreden bij het opslaan van bewerkingen",
+  "create": "Maken",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Geen locatie",
+        "org": "Extent van de organisatie",
+        "custom": "Aangepaste locatie",
+        "customDescription": "Een of meer locaties tekenen",
+        "itemExtent": "Huidige extent item"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Delen"
+        },
+        "catalog": {
+          "myContent": "Mijn content",
+          "favorites": "Favorieten",
+          "organization": "Organisatie",
+          "world": "Wereld (openbaar)"
+        },
+        "collection": {
+          "appsAndMaps": "Apps & kaarten",
+          "dataset": "Gegevens",
+          "documents": "Documenten",
+          "feedback": "Feedback",
+          "sites": "Sites"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "location": {
+        "label": "Locatie",
+        "helperText": "Geef het geografische gebied weer waarin dit project zal worden uitgevoerd (voor weergave in de projectlay-out)."
+      },
+      "status": {
+        "label": "Status"
+      },
+      "sharing": {
+        "label": "Delen"
+      },
+      "timeline": {
+        "label": "Tijdlijn"
+      },
+      "searchDiscoverability": {
+        "label": "Zoeken en zichtbaarheid"
+      },
+      "featuredContent": {
+        "label": "Uitgelichte content",
+        "helperText": "Markeer specifieke documenten, apps en gegevens die verband houden met uw project. U kunt maximaal 4 items markeren."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Projectnaam",
+        "requiredError": "De projectnaam is een vereist veld"
+      },
+      "description": {
+        "label": "Beschrijving",
+        "helperText": "Specificeer hoe uw project zijn doelen gaat bereiken. U kunt onder meer relevante achtergrondinformatie opnemen, samen met de veranderingen die als gevolg van het project worden verwacht."
+      },
+      "summary": {
+        "label": "Doel",
+        "helperText": "Geef een korte samenvatting van de doelen van uw project."
+      },
+      "access": {
+        "itemType": "Project"
+      },
+      "groups": {
+        "label": "Delen met...",
+        "viewGroup": "(Groep voor weergave)",
+        "editGroup": "(Groep voor bewerken)"
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Stel in ArcGIS Online een miniatuur voor dit project in die ook wordt gebruikt in zoekacties en galerijen.",
+        "sizeDescription": "Aanbevolen afmetingen: 760 x 505 of groter"
+      },
+      "featuredImage": {
+        "label": "Uitgelichte afbeelding",
+        "helperText": "Selecteer een afbeelding die uw werk vertegenwoordigt in de projectlay-out.",
+        "sizeDescription": "Max. bestandsgrootte is 10 mb. Aanbevolen afmetingen: 718 x 478 of groter",
+        "altText": {
+          "label": "Alternatieve tekst",
+          "helperText": "Geef een korte beschrijving op voor uw afbeelding voor personen die schermlezers gebruiken. Leeg laten om aan te geven dat de afbeelding ter verfraaiing wordt gebruikt."
+        }
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Er worden in zoekcatalogi tags gebruikt om anderen te helpen dit project te vinden. Voeg tekst toe en selecteer Enter als u nieuwe tags wilt maken."
+      },
+      "categories": {
+        "label": "Categorieën",
+        "helperText": "Categorieën worden in zoekcatalogi gebruikt om anderen te helpen dit project te vinden. Ze worden ingesteld door uw ArcGIS Online-organisatie."
+      },
+      "status": {
+        "label": "Projectstatus",
+        "enum": {
+          "notStarted": {
+            "label": "Niet gestart"
+          },
+          "inProgress": {
+            "label": "In uitvoering"
+          },
+          "onHold": {
+            "label": "Tijdelijk stopgezet"
+          },
+          "complete": {
+            "label": "Voltooid"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Delen"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "location": {
+        "label": "Locatie",
+        "helperText": "Geef het geografische gebied weer waarin dit initiatief zal worden uitgevoerd (voor weergave in de initiatieflay-out)."
+      },
+      "sharing": {
+        "label": "Delen"
+      },
+      "featuredContent": {
+        "label": "Uitgelichte content",
+        "helperText": "Markeer specifieke documenten, apps en gegevens die verband houden met uw project. U kunt maximaal 4 items markeren."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naam initiatief",
+        "requiredError": "Initiatiefnaam is een vereist veld"
+      },
+      "summary": {
+        "label": "Doel",
+        "helperText": "Geef een korte samenvatting van de doelen van uw initiatief."
+      },
+      "access": {
+        "itemType": "Initiatief"
+      },
+      "description": {
+        "label": "Beschrijving",
+        "helperText": "Bied meer content die kan helpen bij het zoeken naar dit initiatief."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags worden in zoekcatalogi gebruikt om anderen te helpen dit initiatief te vinden. Voeg tekst toe en selecteer Enter als u nieuwe tags wilt maken."
+      },
+      "categories": {
+        "label": "Categorieën",
+        "helperText": "Categorieën worden in zoekcatalogi gebruikt om anderen te helpen dit initiatief te vinden. Ze worden ingesteld door uw ArcGIS Online-organisatie."
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Stel in ArcGIS Online een thumbnail voor dit initiatief in die ook wordt gebruikt in zoekacties en galerijen."
+      },
+      "groups": {
+        "label": "Delen met...",
+        "viewGroup": "(Groep voor weergave)",
+        "editGroup": "(Groep voor bewerken)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Type",
+          "sharing": "Delen"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "location": {
+        "label": "Locatie"
+      },
+      "settings": {
+        "label": "Instellingen discussie"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Titel",
+        "requiredError": "Naam discussiebord is vereist"
+      },
+      "prompt": {
+        "label": "Prompt",
+        "helperText": "Beschrijf in het kort wat u deelnemers wilt laten bijdragen op dit discussiebord.",
+        "requiredError": "Prompt is een vereist veld"
+      },
+      "description": {
+        "label": "Beschrijving",
+        "helperText": "Bied meer content die kan helpen bij het zoeken naar dit bord."
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Selecteer een afbeelding die uw discussie vertegenwoordigt."
+      },
+      "summary": {
+        "label": "Doel",
+        "helperText": "Beschrijf in het kort wat het doel van dit discussiebord is; dit helpt wanneer u de link met anderen deelt."
+      },
+      "featuredImage": {
+        "label": "Uitgelichte afbeelding",
+        "sizeDescription": "Max. grootte is 10mb, JPEG, JPG of PNG",
+        "altText": {
+          "label": "Alternatieve tekst",
+          "helperText": "Geef een korte beschrijving op voor uw afbeelding voor personen die schermlezers gebruiken. Leeg laten om aan te geven dat de afbeelding ter verfraaiing wordt gebruikt."
+        },
+        "name": {
+          "label": "Naam afbeelding"
+        }
+      },
+      "tags": {
+        "label": "Tags"
+      },
+      "categories": {
+        "label": "Categorieën"
+      },
+      "discussable": {
+        "label": "Is discussie toegestaan?",
+        "enabled": {
+          "label": "Ja, discussie is toegestaan",
+          "description": "Deelnemers kunnen posts, antwoorden en reacties toevoegen aan dit discussiebord."
+        },
+        "disabled": {
+          "label": "Nee, discussie is geblokkeerd",
+          "description": "Verwijdert de mogelijkheid nieuwe posts, antwoorden en reacties toe te voegen. Laat eerdere deelname ongewijzigd."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "location": {
+        "label": "Locatie",
+        "helperText": "Geef het geografische gebied weer waarop deze site betrekking heeft."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naam site",
+        "requiredError": "Naam site is een vereist veld"
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Stel in ArcGIS Online een thumbnail voor deze site in die ook wordt gebruikt in zoekacties en galerijen."
+      },
+      "description": {
+        "label": "Beschrijving",
+        "helperText": "De beschrijving van de site"
+      },
+      "summary": {
+        "label": "Samenvatting",
+        "helperText": "Geef een korte samenvatting van de site."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags worden in zoekcatalogus gebruikt om anderen te helpen deze site te vinden. Voeg tekst toe en selecteer Enter als u nieuwe tags wilt maken."
+      },
+      "categories": {
+        "label": "Categorieën",
+        "helperText": "Categorieën worden in zoekcatalogus gebruikt om anderen te helpen deze site te vinden. Ze worden ingesteld door uw ArcGIS Online-organisatie."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Zichtbaarheid instellen",
+          "helperText": "Bepaal wie volgknoppen kan zien. Deze instelling is van toepassing op zowel de flexibele pagina-interne actievolgknop als alle volgknoppen die rechtstreeks in de lay-out zijn ingesloten.",
+          "private": {
+            "label": "Privé",
+            "description": "De volgknoppen zijn zichtbaar voor de eigenaar van de site en voor groepen met toegang."
+          },
+          "org": {
+            "label": "Organisatie",
+            "description": "De volgknoppen zijn zichtbaar voor alle leden met een account bij de organisatie van de site en voor groepen met toegang."
+          },
+          "public": {
+            "label": "Openbaar",
+            "description": "De volgknoppen zijn voor iedereen zichtbaar."
+          }
+        },
+        "showFollowAction": {
+          "label": "Volgactie",
+          "helperText": "Voeg een volgknop toe aan het pagina-interne actiemenu; deze knop blijft zichtbaar als de gebruikers door de lay-out scrollen."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "location": {
+        "label": "Locatie",
+        "helperText": "Geef het geografische gebied weer waarop deze pagina betrekking heeft."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naam pagina",
+        "requiredError": "Naam pagina is een vereist veld"
+      },
+      "description": {
+        "label": "Beschrijving",
+        "helperText": "De beschrijving van deze pagina."
+      },
+      "summary": {
+        "label": "Samenvatting",
+        "helperText": "Geef een korte samenvatting van de pagina."
+      },
+      "tags": {
+        "label": "Tags",
+        "helperText": "Tags worden in zoekcatalogi gebruikt om anderen te helpen deze pagina te vinden. Voeg tekst toe en selecteer Enter als u nieuwe tags wilt maken."
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Stel in ArcGIS Online een miniatuur voor deze pagina in die ook wordt gebruikt in zoekacties en galerijen."
+      },
+      "categories": {
+        "label": "Categorieën",
+        "helperText": "Categorieën worden in zoekcatalogi gebruikt om anderen te helpen deze pagina te vinden. Ze worden ingesteld door uw ArcGIS Online-organisatie."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Titel",
+        "hint": "Beknopte titels vergroten de kans dat uw content wordt gevonden.",
+        "requiredError": "Titel is een vereist veld"
+      },
+      "summary": {
+        "label": "Samenvatting",
+        "hint": "Geef een korte samenvatting van uw inhoud. TIP: Verbeter SEO door trefwoorden te gebruiken die verschillen van uw \"Titel\" of \"Tags\"."
+      },
+      "description": {
+        "label": "Beschrijving",
+        "hint": "Voeg aanvullende details toe die uw inhoud toelichten. Richt u op een leesniveau van klasse 7-9 om een breed publiek te bereiken. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Gebruik een gratis analysetool voor de leesbaarheid om uw tekst te testen</a>."
+      },
+      "tags": {
+        "label": "Tags",
+        "hint": "Tags worden in zoekcatalogus gebruikt om anderen te helpen deze content te vinden. Voeg tekst toe en selecteer Enter als u nieuwe tags wilt maken."
+      },
+      "categories": {
+        "label": "Categorieën",
+        "agolHint": "Categorieën worden in zoekcatalogus gebruikt om anderen te helpen deze content te vinden. Ze worden ingesteld door uw ArcGIS Online-organisatie.",
+        "enterpriseHint": "Categorieën worden in zoekcatalogus gebruikt om anderen te helpen deze content te vinden. Zet worden ingesteld door uw ArcGIS Enterprise-organisatie.",
+        "agolNoCategoryHint": "Tip: Categorieën worden alleen beschikbaar als ze worden ingesteld door uw organisatie in ArcGIS Online-organisatie.",
+        "enterpriseNoCategoryHint": "Tip: Categorieën worden alleen beschikbaar als ze worden ingesteld door uw organisatie in ArcGIS Enterprise-organisatie."
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Stel in ArcGIS Online een thumbnail voor dit item in die ook wordt gebruikt in zoekacties en galerijen."
+      },
+      "license": {
+        "label": "Gebruiksvoorwaarden",
+        "helperText": "Minder restricties stimuleert meer hergebruik."
+      },
+      "serverExtractCapability": {
+        "label": "Extractiemogelijkheid (gegevens exporteren)",
+        "helperText": "Schakelt de extractiemogelijkheid in voor de service voor dit item. Extractie ondersteunt aanvullende indelingen."
+      },
+      "hostedDownloads": {
+        "label": "(Bèta) Gehoste downloads",
+        "helperText": "Maak downloadbestanden rechtstreeks vanaf een gehoste service. Dit verbetert de prestatie bij het downloaden van content als feature layers en tabellen. Als u gehoste downloads wilt inschakelen, moeten Extract Capabilities ingeschakeld zijn."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Basisinformatie",
+        "message": "Deze informatie wordt gebruikt om de zoekresultaten en de galerijkaarten in te vullen en wordt weergegeven in de detailweergave."
+      },
+      "about": {
+        "title": "Over content",
+        "message": "De eerste twee regels van uw beschrijving worden weergegeven in de zoekresultaten, de hele beschrijving wordt alleen weergegeven bij gerichte contentweergaves."
+      },
+      "image": {
+        "title": "Uitgelichte afbeelding",
+        "message": "Een goede uitgelichte afbeelding of miniatuur hebben is belangrijk als u uw content wilt etaleren in onze galerijen of in weergaven die afbeeldingen uitlichten zoals initiatieven, evenementen en enquêtes. Aanbevolen grootte is 760x505. Als uw afbeelding vaag wordt weergegeven op live routes, overweeg dan om de thumbnail door een grotere afbeelding te vervangen."
+      },
+      "location": {
+        "label": "Locatie",
+        "helperText": "Geef het geografische gebied weer waarin de content zal worden uitgevoerd (voor weergave in de contentlay-out)."
+      },
+      "downloads": {
+        "label": "Downloads",
+        "helperText": "Configureer downloadindelingen, in cache opgeslagen plan voor bestandsbijwerking en meer. Zie de <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">downloaddocumentatie</calcite-link> voor meer informatie."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} resterende tekens"
+    },
+    "imageThumbnail": {
+      "label": "Thumbnailafbeelding",
+      "upload": "Afbeelding uploaden",
+      "done": "Gereed",
+      "editThumbnail": "Thumbnail bewerken",
+      "browse": "Zoek naar afbeelding",
+      "remove": "Afbeelding verwijderen",
+      "edit": "Afbeelding bewerken",
+      "defaultHeading": "Thumbnailafbeelding toevoegen",
+      "dropHeading": "Laat los om te uploaden",
+      "errorHeading": "Probeer een andere afbeelding",
+      "subheading": "Maximale grootte is {size}, {types}",
+      "zoomOut": "uitzoomen",
+      "zoomIn": "inzoomen",
+      "drag": "Slepen om te verplaatsen",
+      "urlPlaceholder": "Ondersteunde types: {types}",
+      "browseForImage": "Zoek naar afbeelding",
+      "aria": {
+        "container": "Afbeeldingsgebied",
+        "crop": "Gebied bijsnijden",
+        "handle": {
+          "top": "Grootte bovenkant aanpassen",
+          "right": "Grootte rechts aanpassen",
+          "left": "Grootte links aanpassen",
+          "bottom": "Grootte onderkant aanpassen"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Details"
+      },
+      "basicInfo": {
+        "label": "Basisinformatie"
+      },
+      "membershipAccess": {
+        "label": "Lidmaatschapstoegang"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Naam groep",
+        "requiredError": "Naam groep is een vereist veld"
+      },
+      "summary": {
+        "label": "Samenvatting"
+      },
+      "access": {
+        "itemType": "Groep"
+      },
+      "_thumbnail": {
+        "label": "Miniatuur",
+        "helperText": "Selecteer een afbeelding die uw groep vertegenwoordigt in het groepsprofiel.",
+        "sizeDescription": "Maximumgrootte is 10 MB. Aanbevolen grootte: 400 x 400 of groter"
+      },
+      "membershipAccess": {
+        "label": "Wie kan aan deze groep deelnemen?",
+        "org": "Alleen leden van mijn organisatie",
+        "collab": "Alleen partnersamenwerking en de leden van mijn organisatie",
+        "any": "Leden van elke organisatie"
+      },
+      "contributeContent": {
+        "label": "Wie kan content bijdragen?",
+        "all": "Alle groepsleden",
+        "admins": "Groepseigenaar en managers"
+      }
+    }
+  }
+}

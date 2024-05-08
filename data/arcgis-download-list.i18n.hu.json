@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoadatbázis",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Fájl-geoadatbázis",
+  "featureCollection": "Vektoros gyűjtemény",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Letöltés"
+}

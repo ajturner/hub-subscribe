@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Vlasnik"
+  },
+  "updatedDate": {
+    "description": "Datum ažuriranja"
+  },
+  "createdDate": {
+    "description": "Objavljeno"
+  },
+  "access": {
+    "label": {
+      "public": "Javni",
+      "org": "Organizacija",
+      "private": "Vlasnik",
+      "shared": "Privatno deljeno"
+    },
+    "description": {
+      "public": {
+        "site": "Ovu lokaciju može da vidi svako",
+        "project": "Bilo ko može da pogleda ovaj projekat",
+        "initiative": "Ovu inicijativu može da vidi svako",
+        "discussion": "Svako može da vidi ovu diskusiju",
+        "default": "Ovaj sadržaj može da vidi svako"
+      },
+      "org": {
+        "site": "Sako u vašoj organizaciji može da vidi ovu lokaciju",
+        "project": "Sako u vašoj organizaciji može da pogleda ovaj projekat",
+        "initiative": "Sako u vašoj organizaciji može da vidi ovu inicijativu",
+        "discussion": "Sako u vašoj organizaciji može da vidi ovu diskusiju",
+        "default": "Ovaj sadržaj može da vidi svako iz vaše organizacije"
+      },
+      "private": {
+        "site": "Ovu lokaciju možete samo vi da vidite",
+        "project": "Ovaj sadržaj možete samo vi da pogledate",
+        "initiative": "Ovu inicijativu možete samo vi da vidite",
+        "discussion": "Samo vi možete da vidite ovu diskusiju",
+        "default": "Ovaj sadržaj možete samo vi da vidite"
+      },
+      "shared": {
+        "site": "Izaverite grupe koje mogu da vide ovu lokaciju",
+        "project": "Izabrane grupe mogu da vide ovaj projekat",
+        "initiative": "Iyabrane grupe mogu da vide ovu inicijativu",
+        "discussion": "Izaverite grupe koje mogu da vide ovu diskusiju",
+        "default": "Izabrane grupe mogu da vide ovaj sadržaj"
+      }
+    }
+  }
+}

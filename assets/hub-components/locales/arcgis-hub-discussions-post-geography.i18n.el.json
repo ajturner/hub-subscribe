@@ -1,0 +1,14 @@
+{
+  "description": "Επιλέξτε για εστίαση στην τοποθεσία",
+  "displayField.existing": "Υπάρχουσα τοποθεσία",
+  "displayField.added": "Πρόσθετη τοποθεσία",
+  "displayField.existing.area": "Υπάρχουσα περιοχή",
+  "displayField.added.area": "Πρόσθετη περιοχή",
+  "point": "Σημείο",
+  "line": "Γραμμή",
+  "area": "Περιοχή",
+  "viewAll": "Προβολή όλων των τοποθεσιών",
+  "viewLess": "Προβολή λιγότερων των τοποθεσιών",
+  "action.update": "Ενημέρωση τοποθεσίας",
+  "action.remove": "Κατάργηση τοποθεσίας"
+}

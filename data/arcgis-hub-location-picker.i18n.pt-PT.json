@@ -1,0 +1,36 @@
+{
+  "edit": "Editar",
+  "delete": "Eliminar",
+  "noneMessage": "Sem localização definida",
+  "entityTypes": {
+    "project": "Projeto",
+    "site": "Site",
+    "initiative": "Iniciativa",
+    "discussion": "Discussão",
+    "content": "Conteúdo"
+  },
+  "emptyLocation": {
+    "title": "Nenhuma localização desenhada",
+    "message": "{entityType} não será exibido em mapas até que uma localização seja adicionada"
+  },
+  "populatedLocation": {
+    "title": "Adicionar outra localização?",
+    "message": "Selecione novamente a ferramenta de desenho para adicionar mais localizações (até {maxLocations})"
+  },
+  "maximumPoints": {
+    "title": "Número máximo de pontos atingido ({currentCount}/{maxLocations})",
+    "message": "Para adicionar mais localizações, elimine pontos ou edite linhas e áreas para eliminar os respetivos pontos (clique com o botão direito do rato)."
+  },
+  "maximumLocations": {
+    "title": "Número máximo de localizações atingido",
+    "message": "Para adicionar mais localizações, remova uma ou mais localizações ou remova todas as localizações e utilize uma área mais geral."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Adicionar localização",
+    "clear": "Limpar tudo",
+    "extent": "Desenhar um retângulo",
+    "point": "Colocar um ponto",
+    "polyline": "Desenhar uma linha",
+    "polygon": "Desenhar uma área"
+  }
+}

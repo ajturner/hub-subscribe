@@ -1,0 +1,16 @@
+{
+  "post.title": "L'edició de publicacions està bloquejada",
+  "post.message": "L'edició no estarà disponible mentre els debats estiguin bloquejats.",
+  "post.message.item": "L'edició no estarà disponible mentre els debats estiguin bloquejats en aquest element.",
+  "post.message.group": "L'edició no estarà disponible mentre els debats estiguin bloquejats en aquest grup.",
+  "reply.title": "L'edició de respostes està bloquejada",
+  "reply.title.generic": "Debat bloquejat",
+  "reply.message": "L'edició no estarà disponible mentre els debats estiguin bloquejats.",
+  "reply.message.generic": "En aquests moments, no podeu crear respostes.",
+  "reply.message.item": "L'edició no estarà disponible mentre els debats estiguin bloquejats en aquest element.",
+  "reply.message.group": "L'edició no estarà disponible mentre els debats estiguin bloquejats en aquest grup.",
+  "item.title": "El debat de l'element està bloquejat",
+  "item.message": "Aquest element no s'ha aprovat per al debat.",
+  "group.title": "El debat del grup està bloquejat",
+  "group.message": "Aquest grup no s'ha aprovat per al debat."
+}

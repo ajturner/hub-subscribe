@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Palvelinyhteys aikakatkaistiin eikä tilastotietoja voitu näyttää.",
+    "title": "Palvelimen aikakatkaisu"
+  },
+  "genericError": {
+    "message": "Tilastotietoa ei voi näyttää.",
+    "title": "Tapahtui virhe"
+  }
+}

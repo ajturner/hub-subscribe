@@ -1,0 +1,14 @@
+{
+  "description": "Selectați pentru transfocare la locație",
+  "displayField.existing": "Locație existentă",
+  "displayField.added": "Locație adăugată",
+  "displayField.existing.area": "Zonă existentă",
+  "displayField.added.area": "Zonă adăugată",
+  "point": "Punct",
+  "line": "Linie",
+  "area": "Zonă",
+  "viewAll": "Vizualizați toate locațiile",
+  "viewLess": "Vizualizați mai puține locații",
+  "action.update": "Actualizare locație",
+  "action.remove": "Eliminare locație"
+}

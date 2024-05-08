@@ -1,0 +1,24 @@
+{
+  "title": "สมาชิก",
+  "facets": {
+    "role": {
+      "label": "บทบาท",
+      "all": "ทั้งหมด",
+      "manager": "ผู้จัดการ",
+      "member": "สมาชิก"
+    },
+    "dateJoined": {
+      "label": "วันที่ที่เข้าร่วม"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "รวม",
+      "trailingText": "สมาชิกทีม"
+    },
+    "new": {
+      "title": "ใหม่",
+      "trailingText": "30 วันที่แล้ว"
+    }
+  }
+}

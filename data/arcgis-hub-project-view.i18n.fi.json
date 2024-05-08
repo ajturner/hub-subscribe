@@ -1,0 +1,18 @@
+{
+  "purpose": "Tarkoitus",
+  "description": "Toimintasuunnitelma",
+  "details": "Yksityiskohdat",
+  "featuredImageAlt": "Projisoi esitelty kuva",
+  "trackProgress": "Seuraa edistymistämme",
+  "participatingGroups": "Osallistuvat ryhmät",
+  "whosInvolved": "Osallistujat",
+  "tags": "Tunnisteet",
+  "status": {
+    "label": "Projektin tila",
+    "notStarted": "Ei aloitettu",
+    "inProgress": "Meneillään",
+    "onHold": "Pidossa",
+    "complete": "Valmis"
+  },
+  "featuredContent": "Esittelyssä oleva sisältö"
+}

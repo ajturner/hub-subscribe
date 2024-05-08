@@ -1,0 +1,14 @@
+{
+  "description": "选择缩放至位置",
+  "displayField.existing": "现有位置",
+  "displayField.added": "已添加位置",
+  "displayField.existing.area": "现有区域",
+  "displayField.added.area": "已添加区域",
+  "point": "点",
+  "line": "线",
+  "area": "区域",
+  "viewAll": "查看所有位置",
+  "viewLess": "查看更少的位置",
+  "action.update": "更新位置",
+  "action.remove": "移除位置"
+}

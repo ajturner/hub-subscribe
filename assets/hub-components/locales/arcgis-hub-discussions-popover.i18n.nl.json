@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anoniem",
+  "noUser": "Geen gebruikersnaam",
+  "privateUser": "Privé lid",
+  "privateOrg": "Privé-organisatie",
+  "org": "Mijn Organisatie",
+  "orgLabel": "Organisatie",
+  "profile": "Naar profiel gaan",
+  "location": "Locatie",
+  "information": "Informatie over post",
+  "postedIn": "Gepost in {groupName}",
+  "replyingTo": "@{username} beantwoorden",
+  "visiblePrivate": "Alleen zichtbaar voor leden",
+  "visibleOrg": "Zichtbaar voor organisatie",
+  "visibleAll": "Voor iedereen zichtbaar",
+  "manageChannel": "Kanaal beheren",
+  "group.deleted": "Groep verwijderd",
+  "unnamedChannel": "Naamloos kanaal"
+}

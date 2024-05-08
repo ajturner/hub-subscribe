@@ -1,0 +1,31 @@
+{
+  "dateRange": "Zakres czasowy: {start} - {end}",
+  "pageViews": "Wyświetlenia strony",
+  "timeOnSite": "Średnia liczba minut w witrynie",
+  "users": "Sesje",
+  "viewsOverTime": "Odsłony w czasie",
+  "disabledTracking": "Śledzenie aktywności jest wyłączone",
+  "enableTracking": "Włącz śledzenie aktywności w Centrum w ustawieniach witryny, aby monitorować korzystanie z witryny.",
+  "learnMore": "Więcej informacji.",
+  "disabled": "Wyłączone",
+  "notificationLabel": "Zaktualizowano dane",
+  "dataUpdated": "Zaktualizowano dane",
+  "subscribe": "Subskrybuj",
+  "subscribed": "Włączono subskrypcję",
+  "weeklyReport": "Cotygodniowy raport",
+  "timestampTitle": {
+    "hour": "Pora dnia",
+    "day": "Data",
+    "week": "Tydzień"
+  },
+  "formAlert": "Alert dotyczący formularza",
+  "success": "Pomyślnie zaktualizowano subskrypcję",
+  "subscriptionActivatedTitle": "Subskrypcja aktywowana",
+  "subscriptionActivatedMessage": "Zarejestrowano adres {email}, więc będą przesyłane cotygodniowe wskaźniki zaangażowania.",
+  "unsubscribeCompleteTitle": "Anulowanie subskrypcji zakończone",
+  "unsubscribeCompleteMessage": "Dla adresu {email} została anulowana subskrypcja metryk zaangażowania.",
+  "problemSubscribingTitle": "Wystąpił problem podczas subskrybowania",
+  "problemSubscribingMessage": "Wystąpił problem z subskrypcją. Błąd: ",
+  "problemUnsubscribingTitle": "Wystąpił problem podczas anulowania subskrypcji",
+  "problemUnsubscribingMessage": "Wystąpił problem z anulowaniem subskrypcji. Błąd: "
+}

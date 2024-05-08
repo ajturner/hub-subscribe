@@ -1,0 +1,19 @@
+{
+  "select": "Kiválasztás",
+  "cancel": "Mégse",
+  "iconModalTitle": "Válasszon ikont",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Választás könyvtárból"
+      },
+      "url": {
+        "description": "Saját URL-címének megadása"
+      }
+    }
+  },
+  "altText": {
+    "label": "Összes szöveg",
+    "helperText": "Ha nincs hozzáadva, az ikont a rendszer díszítőelemként jelöli."
+  }
+}

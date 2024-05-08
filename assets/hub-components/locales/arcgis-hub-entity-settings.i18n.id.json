@@ -1,0 +1,34 @@
+{
+  "settings": "Pengaturan",
+  "delete": {
+    "project": "Hapus proyek",
+    "initiative": "Hapus inisiatif",
+    "site": "Hapus situs",
+    "discussion": "Hapus diskusi",
+    "content": "Hapus konten",
+    "page": "Hapus halaman",
+    "group": "Hapus grup"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Hapus proyek",
+      "initiative": "Hapus inisiatif",
+      "site": "Hapus situs",
+      "discussion": "Hapus diskusi",
+      "content": "Hapus konten",
+      "page": "Hapus halaman",
+      "group": "Hapus grup"
+    },
+    "content": "Anda yakin ingin menghapus:",
+    "delete": "Hapus",
+    "cancel": "Batalkan"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Kemampuan \"Ekstrak\" mengubah pengaturan layanan.",
+        "message": "Item lain yang merujuk pada layanan akan terpengaruh. Untuk informasi selengkapnya, lihat <docLink>Ekspor Data dari Feature Layer yang Di-host</docLink>"
+      }
+    }
+  }
+}

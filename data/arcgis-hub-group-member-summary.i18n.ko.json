@@ -1,0 +1,5 @@
+{
+  "noMember": "구성원 없음",
+  "oneMember": "구성원 1명",
+  "members": "구성원 {count}명"
+}

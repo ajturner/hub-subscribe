@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Řídicí panel",
+    "details": "Podrobnosti",
+    "overview": "Přehled",
+    "metrics": "Metriky",
+    "settings": "Nastavení",
+    "collaborators": "Spolupracovníci",
+    "discussion": "Diskuze",
+    "content": "Obsah",
+    "members": "Členové",
+    "participation": "Účast",
+    "followers": "Sledující"
+  }
+}

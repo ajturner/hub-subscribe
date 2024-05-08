@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonüümne",
+  "noUser": "Kasutajanimi puudub",
+  "privateUser": "Privaatne liige",
+  "privateOrg": "Privaatne organisatsioon",
+  "orgLabel": "Organisatsioon",
+  "profile": "Ava profiil",
+  "location": "Asukoht",
+  "information": "Teave postituse kohta",
+  "mentionedBy": "Mainis @{username}"
+}

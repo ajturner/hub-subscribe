@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "已分享至組織",
+      "private": "已分享至擁有者",
+      "public": "已分享至公眾",
+      "shared": "已分享至擁有者和與群組"
+    },
+    "editLayout": "編輯版面配置",
+    "lastUpdated": "上次更新時間 {updated}",
+    "viewSite": "檢視網站"
+  },
+  "cloneLayoutLabel": "複製版面配置",
+  "deletePageLabel": "刪除頁面",
+  "deleteSiteLabel": "刪除網站",
+  "editInAgoLabel": "在 ArcGIS Online 中編輯",
+  "managePage": "管理頁面",
+  "manageSite": "管理網站",
+  "moreOptionsLabel": "更多選項",
+  "publishLabel": "發佈",
+  "saveAsTemplateLabel": "儲存為範本",
+  "saveLabel": "儲存",
+  "sharingLabel": "開啟分享面板",
+  "viewLabel": "檢視",
+  "viewPublishedLabel": "檢視發佈的草稿",
+  "viewUnpublishedLabel": "預覽未發佈的草稿"
+}

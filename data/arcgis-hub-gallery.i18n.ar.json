@@ -1,0 +1,25 @@
+{
+  "moreResults": "المزيد من النتائج",
+  "search": "بحث",
+  "filter": "عوامل تصفية",
+  "viewResults": "عرض النتائج ({numResults})",
+  "resultsCount": "1 - {pageTotal} من {searchTotal}",
+  "backToTop": "رجوع إلى الأعلى",
+  "facets": {
+    "access": {
+      "private": "نفسي",
+      "shared": "المالك والمجموعات",
+      "org": "المؤسسة",
+      "public": "عام"
+    },
+    "license": {
+      "custom": "تخصيص",
+      "none": "لا شيء"
+    }
+  },
+  "layoutOptions": {
+    "list": "عرض القائمة",
+    "grid": "عرض الشبكة"
+  },
+  "galleryActionsLabel": "إجراءات إضافية"
+}

@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Chọn Nội dung",
+  "secondStepHeader": "Thiết lập thông tin chi tiết",
+  "thirdStepHeader": "Thiết lập Cấp độ Chia sẻ & Quyền truy cập",
+  "next": "Tiếp",
+  "back": "Quay lại",
+  "save": "Lưu",
+  "cancel": "Hủy",
+  "divider": "hoặc",
+  "duplicateFileAriaLabel": "lỗi tệp trùng lặp",
+  "duplicateFileError": "Một mục có cùng tên tệp đã tồn tại. Vui lòng sửa đổi tên tệp và thử lại hoặc xoá bỏ <a>tệp bị trùng</a> trong ArcGIS Online",
+  "uploading": "Đang tải lên"
+}

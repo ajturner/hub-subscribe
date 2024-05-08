@@ -1,0 +1,28 @@
+{
+  "newTab": "avaa profiili uudessa välilehdessä",
+  "noGroups": "Ei ryhmiä",
+  "pickerToggle": "Lisää ryhmiä",
+  "pickerTitle": "Valitse ryhmät",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Ei jäseniä",
+      "oneMember": "1 jäsen",
+      "members": "{count} jäsentä"
+    },
+    "dateCreated": "Luontipäivämäärä: {localizedDate}",
+    "sharing": "Jakaminen: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Itse",
+      "shared": "Omistaja ja ryhmät",
+      "org": "Organisaatio",
+      "public": "Julkinen"
+    },
+    "membership": "Jäsenyys: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Ryhmän omistaja",
+      "admin": "Ryhmän hallinnoija",
+      "member": "Ryhmän jäsen",
+      "none": "Ei mitään"
+    }
+  }
+}

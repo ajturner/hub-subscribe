@@ -1,0 +1,25 @@
+{
+  "moreResults": "Daugiau rezultatų",
+  "search": "Ieškoti",
+  "filter": "Filtrai",
+  "viewResults": "Peržiūrėti rezultatus ({numResults})",
+  "resultsCount": "1 - {pageTotal} iš {searchTotal}",
+  "backToTop": "Atgal į viršų",
+  "facets": {
+    "access": {
+      "private": "Aš",
+      "shared": "Savininkas ir grupės",
+      "org": "Organizacija",
+      "public": "Vieša"
+    },
+    "license": {
+      "custom": "Pasirinktinis",
+      "none": "Nėra"
+    }
+  },
+  "layoutOptions": {
+    "list": "Rodyti sąrašą",
+    "grid": "Rodyti tinklelį"
+  },
+  "galleryActionsLabel": "Papildomi veiksmai"
+}

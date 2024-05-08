@@ -1,0 +1,16 @@
+{
+  "location.add": "新增位置",
+  "location.remove": "移除位置",
+  "draw.tip": "新增其他位置?",
+  "prompt.add.post": "新增至貼文",
+  "prompt.add.reply": "新增至回覆",
+  "prompt.edit.point": "移動點",
+  "prompt.edit.polyline": "編輯線條",
+  "prompt.edit.polygon": "編輯區域",
+  "prompt.remove.point": "刪除點",
+  "prompt.remove.polyline": "刪除線",
+  "prompt.remove.polygon": "刪除區域",
+  "prompt.remove.existing": "取消選擇",
+  "prompt.location.edit": "更新繪圖",
+  "prompt.location.delete": "刪除繪圖"
+}

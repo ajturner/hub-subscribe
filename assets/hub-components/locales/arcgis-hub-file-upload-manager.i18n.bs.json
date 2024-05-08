@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Odaberi sadržaj",
+  "secondStepHeader": "Postavi pojedinosti",
+  "thirdStepHeader": "Postavi razinu dijeljenja i pristup",
+  "next": "Sljedeće",
+  "back": "Natrag",
+  "save": "Spremi",
+  "cancel": "Odustani",
+  "divider": "ili",
+  "duplicateFileAriaLabel": "pogreška duplikata datoteke",
+  "duplicateFileError": "Stavka s istim nazivom datoteke već postoji. Izmijenite naziv datoteke i pokušajte ponovno ili uklonite <a>duplikat datoteke</a> u ArcGIS Online",
+  "uploading": "Prijenos"
+}

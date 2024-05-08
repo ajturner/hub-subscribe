@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefil",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "Geo-pakke",
+  "filegdb": "Filgeodatabase",
+  "featureCollection": "Objektsamling",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Download CSV",
+  "downloadshapefile": "Download shapefil",
+  "downloadsqlite": "Download SQLite Geodatabase",
+  "downloadgeoPackage": "Download Geo-pakke",
+  "downloadfilegdb": "Download filgeodatabase",
+  "downloadfeatureCollection": "Download objektsamling",
+  "downloadgeojson": "Download GeoJSON",
+  "downloadexcel": "Download Excel",
+  "rateLimitMessage": "Grænsen for download er desværre nået. Prøv igen om en time, eller kontakt din administrator af indhold.",
+  "createReplicaErrorMessage": "Opret kopi intern fejl Prøv igen om en time, eller kontakt din administrator af indhold."
+}

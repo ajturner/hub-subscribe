@@ -1,0 +1,494 @@
+{
+  "success": "편집 내용이 저장됨",
+  "error": "편집 내용을 저장하는 중 오류 발생",
+  "create": "생성",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "위치 없음",
+        "org": "기관 범위",
+        "custom": "사용자 설정 위치",
+        "customDescription": "하나 이상의 위치 그리기",
+        "itemExtent": "항목의 현재 범위"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "유형",
+          "sharing": "공유"
+        },
+        "catalog": {
+          "myContent": "내 콘텐츠",
+          "favorites": "즐겨찾기",
+          "organization": "기관",
+          "world": "전 세계(공개)"
+        },
+        "collection": {
+          "appsAndMaps": "앱 및 맵",
+          "dataset": "데이터",
+          "documents": "문서",
+          "feedback": "피드백",
+          "sites": "사이트"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "세부정보"
+      },
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "location": {
+        "label": "위치",
+        "helperText": "이 프로젝트가 진행될 지리적 영역을 표시합니다(프로젝트 레이아웃에 나타나도록)."
+      },
+      "status": {
+        "label": "상태"
+      },
+      "sharing": {
+        "label": "공유"
+      },
+      "timeline": {
+        "label": "타임라인"
+      },
+      "searchDiscoverability": {
+        "label": "검색 및 검색 가능성"
+      },
+      "featuredContent": {
+        "label": "추천 콘텐츠",
+        "helperText": "프로젝트와 관련된 특정 문서, 앱, 데이터를 강조합니다. 최대 4개 항목을 강조할 수 있습니다."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "프로젝트 이름",
+        "requiredError": "프로젝트 이름은 필수 입력 필드입니다."
+      },
+      "description": {
+        "label": "설명",
+        "helperText": "프로젝트가 목표를 달성할 방법을 지정합니다. 관련 배경 정보 및 프로젝트로 인해 예상되는 변화를 포함하는 것이 좋습니다."
+      },
+      "summary": {
+        "label": "목적",
+        "helperText": "프로젝트의 목표를 간단히 요약합니다."
+      },
+      "access": {
+        "itemType": "프로젝트"
+      },
+      "groups": {
+        "label": "공유 대상...",
+        "viewGroup": "(보기 그룹)",
+        "editGroup": "(편집 그룹)"
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "ArcGIS Online, 검색, 갤러리에 이 프로젝트를 나타낼 썸네일을 설정합니다.",
+        "sizeDescription": "권장되는 디멘전: 760 x 505 이상"
+      },
+      "featuredImage": {
+        "label": "추천 이미지",
+        "helperText": "프로젝트 레이아웃에서 작업을 나타내는 이미지를 선택합니다.",
+        "sizeDescription": "최대 파일 크기는 10mb입니다. 권장되는 디멘전: 718 x 478 이상",
+        "altText": {
+          "label": "대체 텍스트",
+          "helperText": "스크린 리더를 이용하는 사용자를 위해 간단한 이미지 설명을 입력합니다. 이미지가 장식용이라는 것을 나타내려면 비워 둡니다."
+        }
+      },
+      "tags": {
+        "label": "태그",
+        "helperText": "태그는 다른 사용자가 이 프로젝트를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 새 태그를 만들려면 텍스트를 추가하고 Enter 키를 선택합니다."
+      },
+      "categories": {
+        "label": "범주",
+        "helperText": "범주는 다른 사용자가 이 프로젝트를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Online 기관에서 설정합니다."
+      },
+      "status": {
+        "label": "프로젝트 상태",
+        "enum": {
+          "notStarted": {
+            "label": "시작되지 않음"
+          },
+          "inProgress": {
+            "label": "진행 중"
+          },
+          "onHold": {
+            "label": "대기 중"
+          },
+          "complete": {
+            "label": "완료"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "유형",
+          "sharing": "공유"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "세부정보"
+      },
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "location": {
+        "label": "위치",
+        "helperText": "(이니셔티브 레이아웃에 나타나도록) 이 이니셔티브가 진행될 지리적 영역을 표시합니다."
+      },
+      "sharing": {
+        "label": "공유"
+      },
+      "featuredContent": {
+        "label": "추천 콘텐츠",
+        "helperText": "프로젝트와 관련된 특정 문서, 앱, 데이터를 강조합니다. 최대 4개 항목을 추천할 수 있습니다."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "이니셔티브 이름",
+        "requiredError": "이니셔티브 이름은 필수 입력 필드입니다."
+      },
+      "summary": {
+        "label": "목적",
+        "helperText": "이니셔티브의 목표를 간단히 요약합니다."
+      },
+      "access": {
+        "itemType": "이니셔티브"
+      },
+      "description": {
+        "label": "설명",
+        "helperText": "이 이니셔티브를 검색할 때 도움이 될 수 있는 추가 컨텍스트를 제공합니다."
+      },
+      "tags": {
+        "label": "태그",
+        "helperText": "태그는 다른 사용자가 이 이니셔티브를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 새 태그를 만들려면 텍스트를 추가하고 Enter 키를 선택합니다."
+      },
+      "categories": {
+        "label": "범주",
+        "helperText": "범주는 다른 사용자가 이 이니셔티브를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Online 기관에서 설정합니다."
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "ArcGIS Online, 검색, 갤러리에 이 이니셔티브를 나타낼 썸네일을 설정합니다."
+      },
+      "groups": {
+        "label": "공유 대상...",
+        "viewGroup": "(보기 그룹)",
+        "editGroup": "(편집 그룹)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "유형",
+          "sharing": "공유"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "세부정보"
+      },
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "location": {
+        "label": "위치"
+      },
+      "settings": {
+        "label": "토론 설정"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "제목",
+        "requiredError": "토론 보드 이름은 필수 입력 항목입니다."
+      },
+      "prompt": {
+        "label": "프롬프트",
+        "helperText": "참여자가 이 토론 보드에 제출하게 할 내용에 대해 간단히 설명합니다.",
+        "requiredError": "프롬프트는 필수 필드입니다."
+      },
+      "description": {
+        "label": "설명",
+        "helperText": "이 보드를 검색할 때 도움이 될 수 있는 추가 컨텍스트를 제공합니다."
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "토론을 나타내는 이미지를 선택합니다."
+      },
+      "summary": {
+        "label": "목적",
+        "helperText": "링크를 다른 사람과 공유할 때 도움이 되는 이 토론 보드의 목적에 대해 간단히 설명합니다."
+      },
+      "featuredImage": {
+        "label": "추천 이미지",
+        "sizeDescription": "최대 크기는 10MB, JPEG, JPG 또는 PNG입니다.",
+        "altText": {
+          "label": "대체 텍스트",
+          "helperText": "스크린 리더를 이용하는 사용자를 위해 간단한 이미지 설명을 입력합니다. 이미지가 장식용이라는 것을 나타내려면 비워 둡니다."
+        },
+        "name": {
+          "label": "이미지 이름"
+        }
+      },
+      "tags": {
+        "label": "태그"
+      },
+      "categories": {
+        "label": "범주"
+      },
+      "discussable": {
+        "label": "토론이 허용되나요?",
+        "enabled": {
+          "label": "예, 토론이 허용됩니다.",
+          "description": "참여자가 게시물, 댓글 및 반응을 이 토론 보드에 추가할 수 있습니다."
+        },
+        "disabled": {
+          "label": "아니요, 토론이 차단됩니다.",
+          "description": "새 게시물, 댓글 및 반응을 추가하는 기능이 제거됩니다. 이전의 참여는 삭제되지 않습니다."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "location": {
+        "label": "위치",
+        "helperText": "이 사이트가 속한 지리적 영역을 표시합니다."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "사이트 이름",
+        "requiredError": "사이트 이름은 필수 입력 필드입니다."
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "ArcGIS Online, 검색, 갤러리에 이 사이트를 나타낼 썸네일을 설정합니다."
+      },
+      "description": {
+        "label": "설명",
+        "helperText": "사이트에 대한 설명입니다."
+      },
+      "summary": {
+        "label": "요약",
+        "helperText": "사이트 내용을 간단히 요약합니다."
+      },
+      "tags": {
+        "label": "태그",
+        "helperText": "태그는 다른 사용자가 이 사이트를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 새 태그를 만들려면 텍스트를 추가하고 Enter 키를 선택합니다."
+      },
+      "categories": {
+        "label": "범주",
+        "helperText": "범주는 다른 사용자가 이 사이트를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Online 기관에서 설정합니다."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "표시 여부 설정",
+          "helperText": "팔로우 버튼을 볼 수 있는 사용자를 제어합니다. 이 설정은 페이지 내 작업 팔로우 버튼과 레이아웃에 직접 임베드된 팔로우 버튼 모두에 적용됩니다.",
+          "private": {
+            "label": "비공개",
+            "description": "사이트 소유자와 접근 권한이 있는 그룹이 해당 팔로우 버튼을 볼 수 있음"
+          },
+          "org": {
+            "label": "기관",
+            "description": "사이트 기관에 대한 계정이 있는 모든 구성원과 접근 권한이 있는 그룹이 해당 팔로우 버튼을 볼 수 있음"
+          },
+          "public": {
+            "label": "공개",
+            "description": "모든 사용자가 해당 팔로우 버튼을 볼 수 있음"
+          }
+        },
+        "showFollowAction": {
+          "label": "팔로우 작업",
+          "helperText": "페이지 내 작업 메뉴에 팔로우 버튼을 추가하여 사용자가 레이아웃을 스크롤할 때 계속 표시되도록 합니다."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "location": {
+        "label": "위치",
+        "helperText": "이 페이지가 속한 지리적 영역을 표시합니다."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "페이지 이름",
+        "requiredError": "페이지 이름은 필수 입력 필드입니다."
+      },
+      "description": {
+        "label": "설명",
+        "helperText": "페이지에 대한 설명입니다."
+      },
+      "summary": {
+        "label": "요약",
+        "helperText": "페이지 내용을 간단히 요약합니다."
+      },
+      "tags": {
+        "label": "태그",
+        "helperText": "태그는 다른 사용자가 이 페이지를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 새 태그를 만들려면 텍스트를 추가하고 Enter 키를 선택합니다."
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "ArcGIS Online, 검색, 갤러리에 이 페이지를 나타낼 썸네일을 설정합니다."
+      },
+      "categories": {
+        "label": "범주",
+        "helperText": "범주는 다른 사용자가 이 페이지를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Online 기관에서 설정합니다."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "제목",
+        "hint": "제목이 간결하면 콘텐츠 전반의 검색 기능이 향상됩니다.",
+        "requiredError": "제목은 필수 입력 필드입니다."
+      },
+      "summary": {
+        "label": "요약",
+        "hint": "콘텐츠를 간단히 요약합니다. 팁: \"제목\" 또는 \"태그\"와는 다른 키워드를 사용하여 SEO를 개선하세요."
+      },
+      "description": {
+        "label": "설명",
+        "hint": "콘텐츠를 설명하는 세부정보를 추가합니다. 대상 그룹의 범위를 더 넓히려면 중등 수준의 가독성을 목표로 하세요. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>무료 가독성 분석 도구를 사용하여 텍스트를 테스트합니다</a>."
+      },
+      "tags": {
+        "label": "태그",
+        "hint": "태그는 다른 사용자가 이 콘텐츠를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 새 태그를 만들려면 텍스트를 추가하고 Enter 키를 선택합니다."
+      },
+      "categories": {
+        "label": "범주",
+        "agolHint": "범주는 다른 사용자가 이 콘텐츠를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Online 기관에서 설정합니다.",
+        "enterpriseHint": "범주는 다른 사용자가 이 콘텐츠를 찾는 데 도움이 되도록 검색 카탈로그에서 사용됩니다. 범주는 ArcGIS Enterprise 기관에서 설정합니다.",
+        "agolNoCategoryHint": "팁: 범주는 기관이 ArcGIS Online 기관에서 범주를 설정한 경우에만 사용할 수 있습니다.",
+        "enterpriseNoCategoryHint": "팁: 범주는 기관이 ArcGIS Enterprise에서 범주를 설정한 경우에만 사용할 수 있습니다."
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "ArcGIS Online, 검색, 갤러리에 이 항목을 나타낼 썸네일을 설정합니다."
+      },
+      "license": {
+        "label": "사용약관",
+        "helperText": "제한이 적으면 재사용을 더 많이 촉진합니다."
+      },
+      "serverExtractCapability": {
+        "label": "추출 기능(데이터 내보내기)",
+        "helperText": "이 항목의 서비스에서 \"추출\" 기능을 활성화합니다. 추출 기능은 추가 형식을 지원합니다."
+      },
+      "hostedDownloads": {
+        "label": "(베타) 호스팅 다운로드",
+        "helperText": "호스팅 서비스에서 다운로드 파일을 직접 생성합니다. 그러면 피처 레이어 및 테이블과 같은 콘텐츠 다운로드 시 성능이 향상됩니다. 호스팅 다운로드를 활성화하려면 추출 기능을 활성화해야 합니다."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "기본 정보",
+        "message": "이 정보는 검색 결과 및 갤러리 카드를 채우는 데 사용되며 세부정보 뷰에 표시됩니다."
+      },
+      "about": {
+        "title": "콘텐츠 정보",
+        "message": "검색 결과에는 설명의 첫 두 줄이 표시되지만, 핵심 콘텐츠 뷰에는 전체 설명이 표시됩니다."
+      },
+      "image": {
+        "title": "추천 이미지",
+        "message": "갤러리 또는 이니셔티브, 이벤트 및 현장조사 등의 이미지를 강조하는 뷰에서 콘텐츠를 선보일 때는 유용한 추천 이미지나 썸네일이 중요합니다. 권장되는 크기는 760x505입니다. 이미지가 실시간 경로에 흐릿하게 표시되는 경우, 썸네일을 더 큰 이미지로 교체해 보세요."
+      },
+      "location": {
+        "label": "위치",
+        "helperText": "이 콘텐츠가 진행될 지리적 영역을 표시합니다(콘텐츠 레이아웃에 나타나도록)."
+      },
+      "downloads": {
+        "label": "다운로드",
+        "helperText": "다운로드 형식, 캐시된 파일 업데이트 일정 등을 구성합니다. 자세한 내용은 <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">문서 다운로드</calcite-link>를 참고하세요."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count}자 남음"
+    },
+    "imageThumbnail": {
+      "label": "썸네일 이미지",
+      "upload": "이미지 업로드",
+      "done": "완료",
+      "editThumbnail": "썸네일 편집",
+      "browse": "이미지 찾아보기",
+      "remove": "이미지 제거",
+      "edit": "이미지 편집",
+      "defaultHeading": "썸네일 이미지 추가",
+      "dropHeading": "드롭하여 업로드",
+      "errorHeading": "다른 이미지 사용",
+      "subheading": "최대 크기는 {size}, {types}입니다.",
+      "zoomOut": "축소",
+      "zoomIn": "확대",
+      "drag": "드래그하여 위치 조정",
+      "urlPlaceholder": "지원되는 유형: {types}",
+      "browseForImage": "이미지 찾아보기",
+      "aria": {
+        "container": "이미지 영역",
+        "crop": "자르기 영역",
+        "handle": {
+          "top": "상단 크기 조정",
+          "right": "우측 크기 조정",
+          "left": "좌측 크기 조정",
+          "bottom": "하단 크기 조정"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "세부정보"
+      },
+      "basicInfo": {
+        "label": "기본 정보"
+      },
+      "membershipAccess": {
+        "label": "멤버십 접근"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "그룹 이름",
+        "requiredError": "그룹 이름은 필수 입력 필드입니다."
+      },
+      "summary": {
+        "label": "요약"
+      },
+      "access": {
+        "itemType": "그룹"
+      },
+      "_thumbnail": {
+        "label": "썸네일",
+        "helperText": "그룹 프로필에서 그룹을 나타낼 이미지를 선택합니다.",
+        "sizeDescription": "최대 크기는 10MB입니다. 권장 크기: 400 x 400 이상"
+      },
+      "membershipAccess": {
+        "label": "이 그룹에 속할 수 있는 사람은 누구입니까?",
+        "org": "내 기관의 구성원만",
+        "collab": "파트너십을 맺은 컬래버레이션 및 내 기관의 구성원만",
+        "any": "모든 기관의 구성원"
+      },
+      "contributeContent": {
+        "label": "콘텐츠를 제공할 수 있는 사람은 누구입니까?",
+        "all": "모든 그룹 구성원",
+        "admins": "그룹 소유자와 관리자"
+      }
+    }
+  }
+}

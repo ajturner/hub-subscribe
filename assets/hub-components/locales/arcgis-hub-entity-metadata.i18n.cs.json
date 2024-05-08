@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Vlastník"
+  },
+  "updatedDate": {
+    "description": "Datum aktualizace"
+  },
+  "createdDate": {
+    "description": "Publikováno"
+  },
+  "access": {
+    "label": {
+      "public": "Veřejné",
+      "org": "Organizace",
+      "private": "Vlastník",
+      "shared": "Sdíleno soukromě"
+    },
+    "description": {
+      "public": {
+        "site": "Tuto stránku uvidí všichni",
+        "project": "Tento projekt uvidí všichni",
+        "initiative": "Tuto iniciativu uvidí všichni",
+        "discussion": "Tuto diskuzi uvidí všichni",
+        "default": "Tento obsah uvidí všichni"
+      },
+      "org": {
+        "site": "Tuto stránku uvidí všichni ve vaší organizaci",
+        "project": "Tento projekt uvidí všichni ve vaší organizaci",
+        "initiative": "Tuto iniciativu uvidí všichni ve vaší organizaci",
+        "discussion": "Tuto diskuzi uvidí všichni ve vaší organizaci",
+        "default": "Tento obsah uvidí všichni ve vaší organizaci"
+      },
+      "private": {
+        "site": "Tuto stránku uvidíte pouze vy",
+        "project": "Tento projekt uvidíte pouze vy",
+        "initiative": "Tuto iniciativu uvidíte poze vy",
+        "discussion": "Tuto diskuzi uvidíte pouze vy",
+        "default": "Tento obsah uvidíte poze vy"
+      },
+      "shared": {
+        "site": "Tuto stránku uvidí vybrané skupiny",
+        "project": "Tento projekt uvidí vybrané skupiny",
+        "initiative": "Tuto iniciativu uvidí vybrané skupiny",
+        "discussion": "Tuto diskuzi uvidí vybrané skupiny",
+        "default": "Tento obsah uvidí vybrané skupiny"
+      }
+    }
+  }
+}

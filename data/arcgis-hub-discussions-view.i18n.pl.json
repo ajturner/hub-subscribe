@@ -1,0 +1,17 @@
+{
+  "summary": "Podsumowanie",
+  "description": "Opis",
+  "details": "Szczegóły",
+  "metrics": "Mierniki",
+  "metricsDisclaimer": "Wyświetlane jest tylko ostatnie 30 dni",
+  "titleOpen": "Otwórz dyskusję",
+  "statusOpen": "Otwarty dla uczestnictwa",
+  "titleClosed": "Zamknięta dyskusja",
+  "statusClosed": "Zamknięty dla uczestnictwa",
+  "tags": "Znaczniki",
+  "categories": "Kategorie",
+  "metric.pageViews": "Widoki strony",
+  "metric.postCount": "Liczba wpisów",
+  "discussion": "Dyskusja",
+  "discussionBoard": "Panel dyskusyjny"
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "Подписчики",
+  "tabs": {
+    "followers": "Подписчики",
+    "settings": "Настройки"
+  },
+  "addFollowers": {
+    "label": "Добавить подписчиков"
+  },
+  "emptyState": {
+    "message": "В данный момент у вас нет групп подписчиков."
+  },
+  "restrictedAccessState": {
+    "message": "У вас нет доступа."
+  },
+  "stats": {
+    "total": {
+      "title": "Всего",
+      "trailingText": "Подписчики"
+    },
+    "new": {
+      "title": "Новое",
+      "trailingText": "Последние 30 дней"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "chooseButton": "利用条件の選択",
+  "editorLabel": "選択した利用条件",
+  "editorRemoveWarning": "警告: 利用規約を削除しようとしています。",
+  "licenseDescriptionCc0": "この作品は一般に公開されます",
+  "licenseDescriptionCcBy": "表示が必要です",
+  "licenseDescriptionCcByNc": "表示が必要で、リミックスは許可されていますが、営利目的での使用は禁止されます",
+  "licenseDescriptionCcByNcNd": "最も制限が厳しく、表示が必要で、営利目的での使用およびリミックスは禁止されます",
+  "licenseDescriptionCcByNcSa": "表示が必要で、リミックスは許可されますが、営利目的での使用は禁止され、派生物で同じライセンスを維持する必要があります",
+  "licenseDescriptionCcByNd": "表示が必要で、営利目的での使用は許可されますが、派生物の共有は禁止されます",
+  "licenseDescriptionCcBySa": "表示が必要で、リミックスおよび営利目的での使用は許可されます",
+  "licenseDescriptionCustom": "詳細の表示",
+  "licenseDescriptionOdbl": "表示、継承、公開状態を維持する限り、共有、創作、翻案は許可されます",
+  "licenseDescriptionOdcBy": "表示する限り、共有、創作、翻案は許可されます",
+  "licenseDescriptionPddl": "共有、創作、翻案は許可されます",
+  "licenseInfoButtonAriaLabel": "利用条件の詳細、新しいタブで開く",
+  "selectedLicenseLabelFallback": "カスタム",
+  "selectedLicenseLabelNoLicense": "利用条件がありません"
+}

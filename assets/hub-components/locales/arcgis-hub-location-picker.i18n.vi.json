@@ -1,0 +1,36 @@
+{
+  "edit": "Chỉnh sửa",
+  "delete": "Xóa",
+  "noneMessage": "Không có vị trí nào được thiết lập",
+  "entityTypes": {
+    "project": "Dự án",
+    "site": "Site",
+    "initiative": "Sáng kiến",
+    "discussion": "Thảo luận",
+    "content": "Nội dung"
+  },
+  "emptyLocation": {
+    "title": "Không vị trí nào được vẽ",
+    "message": "{entityType} sẽ không hiển thị trên bản đồ cho đến khi thêm vị trí"
+  },
+  "populatedLocation": {
+    "title": "Thêm một vị trí khác?",
+    "message": "Chọn công cụ vẽ một lần nữa để thêm nhiều vị trí hơn (tối đa {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Đã đạt đến số điểm tối đa ({currentCount}/{maxLocations})",
+    "message": "Để thêm nhiều vị trí hơn: hãy xóa các điểm hoặc chỉnh sửa các đường hoặc khu vực để xóa điểm trên đó (nhấn chuột phải)."
+  },
+  "maximumLocations": {
+    "title": "Đã đạt đến số vị trí tối đa",
+    "message": "Để thêm nhiều vị trí hơn, hãy xóa bớt hoặc xóa tất cả các vị trí và sử dụng khu vực bao quát hơn."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Thêm vị trí",
+    "clear": "Xóa tất cả",
+    "extent": "Vẽ hình chữ nhật",
+    "point": "Đặt một điểm",
+    "polyline": "Vẽ một đường",
+    "polygon": "Vẽ vùng"
+  }
+}

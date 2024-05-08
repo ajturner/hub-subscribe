@@ -1,0 +1,27 @@
+{
+  "overview": "Przegląd",
+  "telemetry": {
+    "pageViews": "Widoki strony",
+    "last30days": "Ostatnie 30 dni",
+    "lastUpdated": "Ostatnio zaktualizowano {hoursElapsed} godz. temu"
+  },
+  "newNotice": {
+    "title": "Oto Twoja przestrzeń robocza projektu",
+    "message": "Ta przestrzeń robocza jest dostosowana do edycji projektów. Przestrzenie robocze umożliwiają współpracownikom skupienie się na poszczególnych elementach. Są one stale rozwijane.",
+    "link": "Dowiedz się więcej"
+  },
+  "learnAbout": "Dowiedz się więcej na temat projektów Centrum",
+  "feedbackNotice": {
+    "message": "Jak Ci się podobają projekty Hub? Ta funkcja jest nadal w wersji beta, więc chętnie dowiemy się, jak użytkownicy z niej korzystają.",
+    "link": "Prześlij opinię"
+  },
+  "status": {
+    "notStarted": "Nie rozpoczęto",
+    "inProgress": "W toku",
+    "onHold": "Wstrzymane",
+    "complete": "Gotowe"
+  },
+  "editDetails": "Edytuj szczegóły",
+  "noPurposeSet": "Nie ustalono celu",
+  "noLocationSet": "Nie ustawiono lokalizacji"
+}

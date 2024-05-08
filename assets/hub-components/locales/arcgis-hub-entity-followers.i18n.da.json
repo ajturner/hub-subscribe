@@ -1,0 +1,26 @@
+{
+  "followers": "Følgere",
+  "tabs": {
+    "followers": "Følgere",
+    "settings": "Indstillinger"
+  },
+  "addFollowers": {
+    "label": "Tilføj følgere"
+  },
+  "emptyState": {
+    "message": "Du har ikke en følgergruppe i øjeblikket."
+  },
+  "restrictedAccessState": {
+    "message": "Du har ikke adgang."
+  },
+  "stats": {
+    "total": {
+      "title": "I alt",
+      "trailingText": "Følgere"
+    },
+    "new": {
+      "title": "Ny",
+      "trailingText": "Sidste 30 dage"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Pokaż",
+    "hide": "Ukryj",
+    "rename": "Zmień nazwę"
+  },
+  "formAlert": "Alert dotyczący formularza",
+  "alertMessages": {
+    "success": "Pomyślnie zapisano zmiany",
+    "error": "Błąd podczas zapisywania zmian"
+  },
+  "collectionRenameModal": {
+    "title": "Zmień nazwę zbioru",
+    "fieldLabel": "Etykieta zbioru",
+    "requiredMessage": "Etykieta zbioru jest wymagana",
+    "apply": "Zastosuj"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Dane",
+      "hidden": "Dane (ukryte)"
+    },
+    "site": {
+      "visible": "Witryny",
+      "hidden": "Witryny (ukryte)"
+    },
+    "document": {
+      "visible": "Dokumenty",
+      "hidden": "Dokumenty (ukryte)"
+    },
+    "appAndMap": {
+      "visible": "Aplikacje i mapy",
+      "hidden": "Aplikacje i mapy (ukryte)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (ukryte)"
+    }
+  },
+  "saveButton": "Zapisz"
+}

@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonīms",
+  "noUser": "Bez lietotājvārda",
+  "privateUser": "Privāts dalībnieks",
+  "privateOrg": "Privāta organizācija",
+  "orgLabel": "Organizācija",
+  "profile": "Doties uz profilu",
+  "location": "Atrašanās vieta",
+  "information": "Informācija par ziņu",
+  "mentionedBy": "Minēja @{username}"
+}

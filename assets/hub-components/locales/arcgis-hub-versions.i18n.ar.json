@@ -1,0 +1,14 @@
+{
+  "createdBy": "تم الإنشاء بواسطة {creator}",
+  "emptyMessage": "لم يتم العثور على إصدارات",
+  "errorMessage": "حدث خطأ في جلب الإصدارات",
+  "menuLabel": "إظهار الإجراءات",
+  "publishedBadge": "منشور",
+  "viewingBadge": "العرض",
+  "popover.label": "إجراءات الإصدار",
+  "popover.actions.delete": "حذف",
+  "popover.actions.edit": "تحرير التفاصيل",
+  "popover.actions.share": "مشاركة",
+  "shareErrorMessage": "خطأ في نسخ عنوان URL الخاص بالمشاركة إلى الحافظة.",
+  "shareSuccessMessage": "تم نسخ عنوان URL الخاص بالمشاركة إلى الحافظة."
+}

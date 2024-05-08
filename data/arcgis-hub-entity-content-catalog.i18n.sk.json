@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Typ",
+    "tags": "Štítok",
+    "categories": "Kategória",
+    "sharing": "Zdieľanie",
+    "dateUpdated": "Dátum aktualizácie",
+    "map": {
+      "label": "Poloha",
+      "tooltip": "Použite rozsah mapy ako filter polohy"
+    }
+  },
+  "collections": {
+    "all": "Všetko",
+    "dataset": "Dáta",
+    "site": "Lokality",
+    "document": "Dokumenty",
+    "appAndMap": "Aplikácie a Mapy"
+  },
+  "noCollections": {
+    "title": "Katalóg",
+    "message": "Váš katalóg je momentálne prázdny.",
+    "button": "Konfigurovať katalóg"
+  }
+}

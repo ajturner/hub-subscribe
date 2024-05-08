@@ -1,0 +1,50 @@
+{
+  "title": "Indhold",
+  "facets": {
+    "type": "Type",
+    "tags": "Nøgleord",
+    "categories": "Kategori",
+    "sharing": "Deling",
+    "dateUpdated": "Dato for opdatering",
+    "map": {
+      "label": "Position",
+      "tooltip": "Anvend kortudstrækningen som et positionsfilter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Tilføj indhold",
+    "catalog": {
+      "myContent": "Mit indhold",
+      "favorites": "Favoritter",
+      "organization": "Min organisation",
+      "world": "Verden (offentligt)"
+    },
+    "facets": {
+      "type": "Type",
+      "sharing": "Deling"
+    },
+    "collection": {
+      "appsAndMaps": "Apps og kort",
+      "dataset": "Data",
+      "documents": "Dokumenter",
+      "feedback": "Feedback",
+      "sites": "Websteder"
+    },
+    "modal": {
+      "title": "Tilføj indhold"
+    },
+    "unsharedModal": {
+      "title": "Elementer ikke tilføjet",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "fare",
+        "title": "Handling ikke fuldført",
+        "message": "Nogle elementer kunne ikke tilføjes. Det kan skyldes uoverensstemmende delingsniveauer i indholdet, eller fordi ejeren af elementet ikke er medlem af gruppen.",
+        "linkText": "Læs mere om deling"
+      }
+    },
+    "itemSharedSuccessAlert": "Element(er) er delt"
+  },
+  "close": "Luk",
+  "newTab": "åbner på ny fane"
+}

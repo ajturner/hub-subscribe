@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Einblenden",
+    "hide": "Ausblenden",
+    "rename": "Umbenennen"
+  },
+  "formAlert": "Formularwarnung",
+  "alertMessages": {
+    "success": "Änderungen erfolgreich gespeichert",
+    "error": "Fehler beim Speichern der Änderungen"
+  },
+  "collectionRenameModal": {
+    "title": "Sammlung umbenennen",
+    "fieldLabel": "Beschriftung der Sammlung",
+    "requiredMessage": "Beschriftung für Sammlung erforderlich",
+    "apply": "Übernehmen"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Daten",
+      "hidden": "Daten (ausgeblendet)"
+    },
+    "site": {
+      "visible": "Sites",
+      "hidden": "Sites (ausgeblendet)"
+    },
+    "document": {
+      "visible": "Dokumente",
+      "hidden": "Dokumente (ausgeblendet)"
+    },
+    "appAndMap": {
+      "visible": "Apps und Karten",
+      "hidden": "Apps und Karten (ausgeblendet)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (ausgeblendet)"
+    }
+  },
+  "saveButton": "Speichern"
+}

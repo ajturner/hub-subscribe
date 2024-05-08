@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Vælg vilkår for anvendelse",
+  "editorLabel": "Valgte vilkår for anvendelse",
+  "editorRemoveWarning": "Advarsel, du er ved at slette vilkår for anvendelse.",
+  "licenseDescriptionCc0": "Dette arbejde er dedikeret til offentligheden",
+  "licenseDescriptionCcBy": "Kræver angivelse",
+  "licenseDescriptionCcByNc": "Kræver angivelse, tillader genblanding, men forhindrer kommerciel anvendelse.",
+  "licenseDescriptionCcByNcNd": "Mest restriktive, kræver angivelse, forhindrer kommerciel anvendelse og genblanding.",
+  "licenseDescriptionCcByNcSa": "Kræver angivelse, tillader genblanding, men forhindrer kommerciel anvendelse, og afledt arbejde skal beholde samme licens.",
+  "licenseDescriptionCcByNd": "Kræver angivelse, tillader kommerciel anvendelse, men forhindrer deling af afledt arbejde.",
+  "licenseDescriptionCcBySa": "Kræver angivelse, tillader genblanding og kommerciel anvendelse.",
+  "licenseDescriptionCustom": "Vis oplysninger",
+  "licenseDescriptionOdbl": "Tillad deling, oprettelse og tilpasning, så længe andre angiver, deler og holder åben",
+  "licenseDescriptionOdcBy": "Tillad deling, oprettelse og tilpasning, så længe andre angiver",
+  "licenseDescriptionPddl": "Tillad deling, oprettelse og tilpasning",
+  "licenseInfoButtonAriaLabel": "Oplysninger om vilkår for anvendelse, åbner på en ny fane",
+  "selectedLicenseLabelFallback": "Brugerdefineret",
+  "selectedLicenseLabelNoLicense": "Ingen vilkår for anvendelse"
+}

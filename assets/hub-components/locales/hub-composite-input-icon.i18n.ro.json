@@ -1,0 +1,19 @@
+{
+  "select": "Selectare",
+  "cancel": "Anulare",
+  "iconModalTitle": "Selectați o pictogramă",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Alegeți din bibliotecă"
+      },
+      "url": {
+        "description": "Furnizați URL-ul dorit"
+      }
+    }
+  },
+  "altText": {
+    "label": "Text alternativ",
+    "helperText": "Dacă nu este adăugată, pictograma va fi marcată decorativă."
+  }
+}

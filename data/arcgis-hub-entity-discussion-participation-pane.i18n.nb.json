@@ -1,0 +1,21 @@
+{
+  "title": "Deltakelse",
+  "channelTitle": "Deltakelseskanal",
+  "addChannelsTitle": "En kanal er nødvendig for dette elementet, bare én kan angis.",
+  "headingChannelEdit": "Rediger kanal",
+  "headingChannelView": "Vis kanal",
+  "headingChannelCreate": "Opprett ny kanal",
+  "buttons": {
+    "browse": "Bla gjennom alle kanaler",
+    "new": "Ny kanal"
+  },
+  "galleryPickerTitle": "Velg en kanal",
+  "channelsLabel": "Kanaler",
+  "accessLabel": "Tilgang",
+  "optionPublicLabel": "Felles",
+  "optionOrganizationLabel": "Organisasjon",
+  "optionPrivateLabel": "Privat",
+  "viewChannel": "Vis kanal",
+  "editChannel": "Rediger kanal",
+  "save": "Lagre"
+}

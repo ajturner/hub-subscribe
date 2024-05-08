@@ -1,0 +1,19 @@
+{
+  "select": "選択",
+  "cancel": "キャンセル",
+  "iconModalTitle": "アイコンの選択",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "ライブラリから選択"
+      },
+      "url": {
+        "description": "自分の URL を入力"
+      }
+    }
+  },
+  "altText": {
+    "label": "代替テキスト",
+    "helperText": "追加しなければ、アイコンは装飾とマークされます。"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "Pratioci",
+  "tabs": {
+    "followers": "Pratioci",
+    "settings": "Postavke"
+  },
+  "addFollowers": {
+    "label": "Dodaj pratioce"
+  },
+  "emptyState": {
+    "message": "Trenutno nemate grupu pratilaca."
+  },
+  "restrictedAccessState": {
+    "message": "Nemate pristup."
+  },
+  "stats": {
+    "total": {
+      "title": "Ukupno",
+      "trailingText": "Pratioci"
+    },
+    "new": {
+      "title": "Novo",
+      "trailingText": "Proteklih 30 dana"
+    }
+  }
+}

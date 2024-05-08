@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Chọn điều khoản sử dụng",
+  "editorLabel": "Điều khoản sử dụng đã chọn",
+  "editorRemoveWarning": "Cảnh báo, bạn sắp xóa điều khoản sử dụng.",
+  "licenseDescriptionCc0": "Tác phẩm này được phát triển dành riêng cho công chúng",
+  "licenseDescriptionCcBy": "Yêu cầu phân bổ",
+  "licenseDescriptionCcByNc": "Yêu cầu phân bổ, cho phép phối lại nhưng nghiêm cấm sử dụng cho mục đích thương mại",
+  "licenseDescriptionCcByNcNd": "Hạn chế nhất, yêu cầu phân bổ, nghiêm cấm sử dụng cho mục đích thương mại và phối lại",
+  "licenseDescriptionCcByNcSa": "Yêu cầu phân bổ, cho phép phối lại nhưng nghiêm cấm sử dụng cho mục đích thương mại và các tác phẩm phái sinh phải giữ cùng một giấy phép",
+  "licenseDescriptionCcByNd": "Yêu cầu phân bổ, cho phép sử dụng cho mục đích thương mại nhưng nghiêm cấm chia sẻ các tác phẩm phái sinh",
+  "licenseDescriptionCcBySa": "Yêu cầu phân bổ, cho phép phối lại và sử dụng cho mục đích thương mại",
+  "licenseDescriptionCustom": "Xem chi tiết",
+  "licenseDescriptionOdbl": "Cho phép chia sẻ, tạo, điều chỉnh miễn là các thuộc tính khác, chia sẻ tương tự, và giữ luôn mở",
+  "licenseDescriptionOdcBy": "Cho phép chia sẻ, tạo, và điều chỉnh miễn là các thuộc tính khác",
+  "licenseDescriptionPddl": "Cho phép chia sẻ, tạo và điều chỉnh",
+  "licenseInfoButtonAriaLabel": "Thông tin chi tiết điều khoản sử dụng, mở trong tab mới",
+  "selectedLicenseLabelFallback": "Tùy chỉnh",
+  "selectedLicenseLabelNoLicense": "Không có Điều khoản Sử dụng"
+}

@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "所有者"
+  },
+  "updatedDate": {
+    "description": "更新日期"
+  },
+  "createdDate": {
+    "description": "发布时间"
+  },
+  "access": {
+    "label": {
+      "public": "公共",
+      "org": "组织",
+      "private": "所有者",
+      "shared": "以私有方式共享"
+    },
+    "description": {
+      "public": {
+        "site": "任何人都可以查看此站点",
+        "project": "所有人都可以查看此工程",
+        "initiative": "任何人都可以查看此倡议",
+        "discussion": "任何人都可以查看此讨论",
+        "default": "任何人均可查看此内容"
+      },
+      "org": {
+        "site": "您组织中的任何人都可以查看此站点",
+        "project": "您组织中的任何人都可以查看此工程",
+        "initiative": "您组织中的任何人都可以查看此倡议",
+        "discussion": "您组织中的任何人都可以查看此讨论",
+        "default": "您组织中的任何人都可以查看此内容"
+      },
+      "private": {
+        "site": "仅限您个人可查看此站点",
+        "project": "仅限您个人可查看此工程",
+        "initiative": "仅限您个人可查看此倡议",
+        "discussion": "只有您可以查看此讨论",
+        "default": "仅限您个人可查看此内容"
+      },
+      "shared": {
+        "site": "所选组可以查看此站点",
+        "project": "所选组可以查看此工程",
+        "initiative": "所选组可以查看此倡议",
+        "discussion": "所选群组可以查看此讨论",
+        "default": "所选组可以查看此内容"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dateRange": "Intervalo de Data: {start}-{end}",
+  "pageViews": "Pageviews",
+  "timeOnSite": "Média de minutos no site",
+  "users": "Sessões",
+  "viewsOverTime": "Visualizações de página ao longo do tempo",
+  "disabledTracking": "O registo da atividade está desativado",
+  "enableTracking": "Ative o Registo de Atividade do Hub nas definições do site para monitorizar a utilização do seu site.",
+  "learnMore": "Saber mais.",
+  "disabled": "Desativado",
+  "notificationLabel": "Dados Atualizados",
+  "dataUpdated": "Dados Atualizados",
+  "subscribe": "Subscrever",
+  "subscribed": "Subscrito",
+  "weeklyReport": "Relatório semanal",
+  "timestampTitle": {
+    "hour": "Hora do Dia",
+    "day": "Data",
+    "week": "Semana"
+  },
+  "formAlert": "Alerta de Formulário",
+  "success": "Subscrição atualizada com sucesso",
+  "subscriptionActivatedTitle": "Subscrição ativada",
+  "subscriptionActivatedMessage": "Registou {email} para receber métricas de envolvimento semanais.",
+  "unsubscribeCompleteTitle": "Cancelamento de subscrição completo",
+  "unsubscribeCompleteMessage": "A subscrição de {email} das métricas de envolvimento foi cancelada com sucesso.",
+  "problemSubscribingTitle": "Problema com subscrição",
+  "problemSubscribingMessage": "Ocorreu um problema ao subscrever . Erro: ",
+  "problemUnsubscribingTitle": "Problema com cancelamento de subscrição",
+  "problemUnsubscribingMessage": "Ocorreu um problema ao cancelar a subscrição de . Erro: "
+}

@@ -1,0 +1,16 @@
+{
+  "post.title": "Įrašo redagavimas užblokuotas",
+  "post.message": "Redaguoti negalima, nes diskusijos užblokuotos.",
+  "post.message.item": "Redaguoti negalima, nes šio elemento diskusijos užblokuotos.",
+  "post.message.group": "Redaguoti negalima, nes šioje grupėje diskusijos užblokuotos.",
+  "reply.title": "Atsakymo redagavimas užblokuotas",
+  "reply.title.generic": "Diskusija užblokuota",
+  "reply.message": "Redaguoti negalima, nes diskusijos užblokuotos.",
+  "reply.message.generic": "Šiuo metu negalima kurti atsakymų.",
+  "reply.message.item": "Redaguoti negalima, nes šio elemento diskusijos užblokuotos.",
+  "reply.message.group": "Redaguoti negalima, nes šioje grupėje diskusijos užblokuotos.",
+  "item.title": "Elemento diskusijos funkcija užblokuota",
+  "item.message": "Dėl šio elemento pradėti diskusijos negalima.",
+  "group.title": "Grupės diskusijos užblokuotos",
+  "group.message": "Šioje grupėje pradėti diskusijos negalima."
+}

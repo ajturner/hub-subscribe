@@ -1,0 +1,10 @@
+{
+  "true.heading": "예, 토론이 허용됩니다.",
+  "false.heading": "아니요, 토론이 차단됩니다.",
+  "content.label": "이 항목을 토론할 수 있도록 허용하시겠습니까?",
+  "content.true.description": "사용자는 이 항목에 대한 게시물을 작성할 수 있습니다.",
+  "content.false.description": "사용자는 이 항목에 대한 게시물을 작성할 수 없습니다.",
+  "group.label": "이 그룹이 토론에 참여할 수 있습니까?",
+  "group.true.description": "그룹 구성원은 그룹이 접근할 수 있는 토론 채널을 보고 참여할 수 있습니다.",
+  "group.false.description": "그룹 구성원은 그룹이 접근할 수 있는 토론 채널을 보거나 참여할 수 없습니다."
+}

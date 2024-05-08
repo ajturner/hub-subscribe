@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "La conexión con el servidor agotó su tiempo y no se ha podido mostrar la estadística.",
+    "title": "Tiempo de espera del servidor agotado"
+  },
+  "genericError": {
+    "message": "No se puede mostrar la estadística.",
+    "title": "Se ha producido un error"
+  }
+}

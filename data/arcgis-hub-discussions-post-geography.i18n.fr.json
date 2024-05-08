@@ -1,0 +1,14 @@
+{
+  "description": "Sélectionner une localisation sur laquelle zoomer",
+  "displayField.existing": "Localisation existante",
+  "displayField.added": "Localisation ajoutée",
+  "displayField.existing.area": "Surface existante",
+  "displayField.added.area": "Surface ajoutée",
+  "point": "Point",
+  "line": "Ligne",
+  "area": "Surface",
+  "viewAll": "Afficher toutes les localisations",
+  "viewLess": "Afficher moins de localisations",
+  "action.update": "Mettre à jour la localisation",
+  "action.remove": "Supprimer la localisation"
+}

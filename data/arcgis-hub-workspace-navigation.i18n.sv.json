@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Information",
+    "overview": "Översikt",
+    "metrics": "Beräkningsmodell",
+    "settings": "Inställningar",
+    "collaborators": "Samarbetspartner",
+    "discussion": "Diskussion",
+    "content": "Innehåll",
+    "members": "Medlemmar",
+    "participation": "Deltagande",
+    "followers": "Följare"
+  }
+}

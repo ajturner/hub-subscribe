@@ -1,0 +1,18 @@
+{
+  "purpose": "Cél",
+  "description": "Hogyan jutottunk el idáig",
+  "details": "Részletek",
+  "featuredImageAlt": "Projekt kiemelt képe",
+  "trackProgress": "Kövesse fejlődésünket",
+  "participatingGroups": "Részt vevő csoportok",
+  "whosInvolved": "Ki vesz részt?",
+  "tags": "Címkék",
+  "status": {
+    "label": "Projektállapot",
+    "notStarted": "Nem kezdődött el",
+    "inProgress": "Folyamatban",
+    "onHold": "Várakozik",
+    "complete": "Befejeződött"
+  },
+  "featuredContent": "Kiemelt tartalom"
+}

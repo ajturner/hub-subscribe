@@ -1,0 +1,8 @@
+{
+  "header": "Diskussionsalternativ",
+  "secondary": "Avbryt",
+  "primary": "Spara ändringar",
+  "pending": "Sparar",
+  "error.title": "Det uppstod ett fel",
+  "error.message": "Försök att spara ändringarna igen."
+}

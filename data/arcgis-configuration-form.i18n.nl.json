@@ -1,0 +1,12 @@
+{
+  "save": "Opslaan",
+  "cancel": "Annuleren",
+  "undoChanges": "Wijzigingen ongedaan maken",
+  "next": "Volgende",
+  "back": "Terug",
+  "formAlert": "Formulierwaarschuwing",
+  "invalidForm": "Herstel alle fouten.",
+  "saveDisabled": "Opslaan is uitgeschakeld",
+  "success": "De bewerkingen zijn opgeslagen",
+  "error": "Er is een fout opgetreden bij het opslaan van bewerkingen"
+}

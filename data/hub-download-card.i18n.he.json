@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "הורדה",
+  "buttonOptions": "אפשרויות הורדה",
+  "menuRequest": "הפעל הורדה חדשה עם הנתונים האחרונים",
+  "menuDownload": "הורדת קובץ הופעלה בעבר ב-{createdDate}",
+  "fileCreated": "הקובץ נוצר",
+  "fileSize": "גודל קובץ",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

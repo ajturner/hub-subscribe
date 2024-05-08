@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Uredi postavitev",
+  "editContent": "Uredi vsebino",
+  "view": {
+    "project": "Ogled projekta",
+    "site": "Ogled spletnega mesta",
+    "initiative": "Ogled iniciative",
+    "discussion": "Ogled razprave",
+    "content": "Ogled vsebine",
+    "page": "Ogled strani",
+    "group": "Ogled skupine"
+  },
+  "label": {
+    "project": "Delovni prostor projekta",
+    "site": "Delovni prostor spletnega mesta",
+    "initiative": "Delovni prostor iniciative",
+    "discussion": "Delovni prostor za razpravo",
+    "content": "Delovni prostor za vsebino",
+    "page": "Delovni prostor strani",
+    "group": "Delovni prostor skupine"
+  },
+  "access": {
+    "sharingLevel": "Stopnja deljenja",
+    "groupSharing": "Skupna raba v skupini",
+    "public": "Javno",
+    "org": "Organizacija",
+    "private": "Lastnik",
+    "shared": "Zasebno deljeno",
+    "disabled": "Deljenja ne morete spremeniti, ker niste lastnik ali administrator."
+  }
+}

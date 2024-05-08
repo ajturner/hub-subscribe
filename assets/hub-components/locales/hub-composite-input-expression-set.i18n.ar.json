@@ -1,0 +1,15 @@
+{
+  "addFilter": "إضافة عامل تصفية",
+  "attributeFilter": "عامل تصفية",
+  "between": "بين",
+  "deleteFilter": "حذف عامل التصفية",
+  "endingDate": "تاريخ الانتهاء",
+  "endingValue": "قيمة الانتهاء",
+  "expression": "تعبير",
+  "filterType": "نوع التصفية",
+  "filterValue": "قيمة عامل التصفية",
+  "isExactly": "هو بالضبط",
+  "startingDate": "تاريخ البدء",
+  "startingValue": "قيمة البدء",
+  "selectAttribute": "تحديد سمة"
+}

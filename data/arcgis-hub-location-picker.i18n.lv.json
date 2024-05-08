@@ -1,0 +1,36 @@
+{
+  "edit": "Rediģēt",
+  "delete": "Dzēst",
+  "noneMessage": "Nav iestatīts novietojums",
+  "entityTypes": {
+    "project": "Projekts",
+    "site": "Vietne",
+    "initiative": "Iniciatīva",
+    "discussion": "Diskusija",
+    "content": "Saturs"
+  },
+  "emptyLocation": {
+    "title": "Nav uzzīmēts novietojums",
+    "message": "{entityType} netiks parādīts kartēs, kamēr nebūs pievienots novietojums"
+  },
+  "populatedLocation": {
+    "title": "Vai pievienot citu novietojumu?",
+    "message": "Vēlreiz izvēlieties zīmēšanas rīku, lai pievienotu papildu novietojumus (līdz {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Sasniegts maksimālais punktu skaits ({currentCount}/{maxLocations})",
+    "message": "Lai pievienotu papildu novietojumus: izdzēsiet punktus vai rediģējiet līnijas un apgabalus, lai izdzēstu punktus (ar peles labo taustiņu)."
+  },
+  "maximumLocations": {
+    "title": "Sasniegts maksimālais novietojumu skaits",
+    "message": "Lai pievienotu papildu novietojumus, noņemiet vienu vai vairākus vai noņemiet visus novietojumus un izmantojiet vispārīgāku apgabalu."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Pievienot novietojumu",
+    "clear": "Notīrīt visu",
+    "extent": "Zīmēt taisnstūri",
+    "point": "Nomest punktu",
+    "polyline": "Zīmēt līniju",
+    "polygon": "Zīmēt teritoriju"
+  }
+}

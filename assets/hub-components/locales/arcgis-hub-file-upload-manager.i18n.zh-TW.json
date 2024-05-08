@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "選擇內容",
+  "secondStepHeader": "設定詳細資訊",
+  "thirdStepHeader": "設定分享級別與存取權",
+  "next": "下一頁",
+  "back": "上一步",
+  "save": "儲存",
+  "cancel": "取消",
+  "divider": "或",
+  "duplicateFileAriaLabel": "重複檔案錯誤",
+  "duplicateFileError": "已存在具有相同檔案名稱的項目。 請修改檔案名稱並再試一次，或在 ArcGIS Online 中移除<a>重複檔案</a>",
+  "uploading": "正在上傳"
+}

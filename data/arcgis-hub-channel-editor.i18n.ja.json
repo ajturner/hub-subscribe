@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "名前の無いチャンネル",
+  "name": {
+    "label": "名前",
+    "placeholder": "{prefix} チャンネル"
+  },
+  "save": "保存",
+  "access": {
+    "private": {
+      "label": "非公開",
+      "description": "選択したグループが参加できます"
+    },
+    "organization": {
+      "label": "組織",
+      "description": "{orgName} のアカウントを持つすべてのメンバーが参加できます",
+      "disabledTooltip": "組織の管理者のみが組織チャンネルを作成できます。"
+    },
+    "public": {
+      "label": "パブリック",
+      "description": "アカウントを持つすべてのユーザーが参加できます",
+      "disabledTooltip": "組織の管理者のみがパブリック チャンネルを作成できます。"
+    },
+    "allowAnonymous": "匿名を許可",
+    "confirmation": {
+      "header": "確認",
+      "message": "これらの変更を保存すると、このチャンネルへの編集アクセス権が削除されます。 組織の管理者のみがパブリック チャンネルまたは組織チャンネルを編集できます。",
+      "secondary": "キャンセル",
+      "primary": "確認"
+    }
+  },
+  "participants": {
+    "label": "参加者",
+    "helperText": "ディスカッションを表示および関与できるユーザー。",
+    "none": "参加者が設定されていません",
+    "add": "参加者グループの追加"
+  },
+  "groupPicker": {
+    "title": "グループの選択",
+    "facet": {
+      "label": "から",
+      "myGroup": "マイ グループ",
+      "myOrganization": "組織",
+      "myCommunity": "マイ コミュニティ"
+    }
+  },
+  "blockWords": {
+    "label": "ブロックされた単語",
+    "helperText": "カンマ区切りリスト。 それらを含む投稿と返信は自動的に非表示になります。"
+  },
+  "manage": {
+    "label": "管理とモデレート",
+    "helperText": "これらのユーザーは上記の参加選択に基づいて自動的に割り当てられ、参加、投稿の非表示または表示、およびチャネル設定の管理を行うことができます。"
+  },
+  "manager": "マネージャー",
+  "admin": "管理",
+  "viewProfile": "プロフィールの表示",
+  "alerts": {
+    "error": "チャンネルの保存中にエラーが発生しました",
+    "success": "チャンネルが正常に保存されました",
+    "label": "フォームの通知"
+  },
+  "validations": {
+    "minChannelGroups": "プライベート チャンネルには、少なくとも 1 つの参加者グループが必要です。"
+  },
+  "notices": {
+    "edit": "編集は、このチャンネルが使用されているあらゆる場所に影響します",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "チャンネルが作成されませんでした",
+          "message": "これらのアクセス選択を持つチャンネルはすでに存在します。 既存のチャンネルを使用するか、選択を変更します。"
+        }
+      },
+      "update": {
+        "error": {
+          "title": "チャンネルが更新されませんでした",
+          "message": "これらのアクセス選択を持つチャンネルはすでに存在するため、これらの更新を保存できません。"
+        }
+      },
+      "action": "既存のチャンネルを使用"
+    },
+    "inaccessibleGroups": {
+      "title": "利用不可グループ: {count}",
+      "message": "メンバーでない限り、利用不可グループは表示または管理できません。"
+    }
+  }
+}

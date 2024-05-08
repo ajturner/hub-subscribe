@@ -1,0 +1,21 @@
+{
+  "title": "การมีส่วนร่วม",
+  "channelTitle": "ช่องการเข้าร่วม",
+  "addChannelsTitle": "จำเป็นต้องใช้ช่องสำหรับรายการนี้ สามารถตั้งค่าได้เพียงรายการเดียว",
+  "headingChannelEdit": "แก้ไขแชนเนล",
+  "headingChannelView": "ดูแชนเนล",
+  "headingChannelCreate": "สร้างแชนเนลใหม่",
+  "buttons": {
+    "browse": "เรียกดูช่องทั้งหมด",
+    "new": "ช่องใหม่"
+  },
+  "galleryPickerTitle": "เลือกช่อง",
+  "channelsLabel": "ช่องทาง",
+  "accessLabel": "เข้าถึง",
+  "optionPublicLabel": "สาธารณะ",
+  "optionOrganizationLabel": "องค์กร",
+  "optionPrivateLabel": "ส่วนตัว",
+  "viewChannel": "ดูแชนเนล",
+  "editChannel": "แก้ไขแชนเนล",
+  "save": "จัดเก็บ"
+}

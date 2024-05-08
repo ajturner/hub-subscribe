@@ -1,0 +1,14 @@
+{
+  "title": "Naslov",
+  "created": "Datum kreiranja",
+  "modified": "Datum ažuriranja",
+  "updated": "Datum ažuriranja",
+  "asc": "rastuće",
+  "desc": "opadajuće",
+  "relevance": "Značaj",
+  "change-sort-order": "Izmenite redosled sortiranja",
+  "sort-by": "Sortiraj po ",
+  "joined": "Datum pridruživanja",
+  "username": "Korisničko ime",
+  "membertype": "Uloga"
+}

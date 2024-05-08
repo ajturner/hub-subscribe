@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "ملف شكل",
+  "sqlite": "قاعدة بيانات SQLite الجغرافية",
+  "geoPackage": "GeoPackage",
+  "filegdb": "تصنيف معالم قاعدة بيانات جغرافية ملفية",
+  "featureCollection": "تجميع المعالم",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "تنزيل CSV",
+  "downloadshapefile": "تنزيل ملف شكل",
+  "downloadsqlite": "تنزيل قاعدة بيانات SQLite الجغرافية",
+  "downloadgeoPackage": "تنزيل GeoPackage",
+  "downloadfilegdb": "تنزيل قاعدة البيانات الجغرافية للملف",
+  "downloadfeatureCollection": "تنزيل مجموعة المعالم",
+  "downloadgeojson": "تنزيل GeoJSON",
+  "downloadexcel": "تنزيل Excel",
+  "rateLimitMessage": "عذرًا، تم بلوغ الحد الأقصى للتنزيل. يُرجى المحاولة مرة أخرى في غضون ساعة أو التواصل مع مدير المحتوى.",
+  "createReplicaErrorMessage": "حدث خطأ داخلي في إنشاء نسخة متماثلة. يُرجى المحاولة مرة أخرى في غضون ساعة أو التواصل مع مدير المحتوى."
+}

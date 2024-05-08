@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Konum Filtresi",
+  "panel.reset": "Filtreyi sıfırla",
+  "distance.title": "Mesafe",
+  "distance.placeholder": "Bir sayı gir...",
+  "distance.message": "Filtrelenen alanı genişletmek için bir sayı girin.",
+  "system.imperial": "İngiliz",
+  "system.metric": "Metrik",
+  "units.title": "Birimler",
+  "units.feet": "Fit",
+  "units.miles": "Mil",
+  "units.nauticalmiles": "Deniz Mili",
+  "units.meters": "Metre",
+  "units.kilometers": "Kilometre"
+}

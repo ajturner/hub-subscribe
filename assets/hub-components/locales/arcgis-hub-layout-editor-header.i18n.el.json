@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Κοινοποιημένα στον οργανισμό",
+      "private": "Κοινοποιημένα στον κάτοχο",
+      "public": "Κοινοποιημένα σε όλους",
+      "shared": "Κοινοποιημένα στον κάτοχο και τις ομάδες"
+    },
+    "editLayout": "Επεξεργασία διάταξης",
+    "lastUpdated": "Τελευταία ενημέρωση {updated}",
+    "viewSite": "Προβολή ιστοτόπου"
+  },
+  "cloneLayoutLabel": "Διάταξη κλώνου",
+  "deletePageLabel": "Διαγραφή σελίδας",
+  "deleteSiteLabel": "Διαγραφή ιστοτόπου",
+  "editInAgoLabel": "Επεξεργασία στο ArcGIS Online",
+  "managePage": "Διαχείριση σελίδας",
+  "manageSite": "Διαχείριση ιστοτόπου",
+  "moreOptionsLabel": "Περισσότερες επιλογές",
+  "publishLabel": "Δημοσίευση",
+  "saveAsTemplateLabel": "Αποθήκευση ως πρότυπο",
+  "saveLabel": "Αποθήκευση",
+  "sharingLabel": "Άνοιγμα πλαισίου κοινοποίησης",
+  "viewLabel": "Προβολή",
+  "viewPublishedLabel": "Προβολή δημοσιευμένου σχεδίου",
+  "viewUnpublishedLabel": "Προεπισκόπηση αδημοσίευτου σχεδίου"
+}

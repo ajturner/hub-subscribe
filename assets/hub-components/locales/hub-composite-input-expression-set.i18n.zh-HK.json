@@ -1,0 +1,15 @@
+{
+  "addFilter": "新增篩選器",
+  "attributeFilter": "篩選器",
+  "between": "介於",
+  "deleteFilter": "刪除篩選器",
+  "endingDate": "結束日期",
+  "endingValue": "結束值",
+  "expression": "表達式",
+  "filterType": "篩選類型",
+  "filterValue": "篩選器值",
+  "isExactly": "恰好為",
+  "startingDate": "開始日期",
+  "startingValue": "開始值",
+  "selectAttribute": "選擇屬性"
+}

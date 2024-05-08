@@ -1,0 +1,7 @@
+{
+  "days": "дні",
+  "hours": "години",
+  "minutes": "хвилини",
+  "seconds": "секунди",
+  "countdownDateMissingError": "Ви повинні вказати дату відліку"
+}

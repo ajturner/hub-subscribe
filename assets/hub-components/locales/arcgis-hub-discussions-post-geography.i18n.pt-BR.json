@@ -1,0 +1,14 @@
+{
+  "description": "Selecione para ampliar o local",
+  "displayField.existing": "Local existente",
+  "displayField.added": "Local adicionado",
+  "displayField.existing.area": "Área existente",
+  "displayField.added.area": "Área adicionada",
+  "point": "Ponto",
+  "line": "Linha",
+  "area": "Área",
+  "viewAll": "Visualizar todos os locais",
+  "viewLess": "Ver menos locais",
+  "action.update": "Atualizar localização",
+  "action.remove": "Remover local"
+}

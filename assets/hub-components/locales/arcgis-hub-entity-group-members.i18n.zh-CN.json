@@ -1,0 +1,24 @@
+{
+  "title": "成员",
+  "facets": {
+    "role": {
+      "label": "角色",
+      "all": "全部",
+      "manager": "管理员",
+      "member": "成员"
+    },
+    "dateJoined": {
+      "label": "加入日期"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "总计",
+      "trailingText": "团队成员"
+    },
+    "new": {
+      "title": "新建",
+      "trailingText": "最近 30 天"
+    }
+  }
+}

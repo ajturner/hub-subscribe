@@ -1,0 +1,1 @@
+function t(t){return t.capabilities.includes("updateitemcontrol")}export{t as i}

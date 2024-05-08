@@ -1,0 +1,15 @@
+{
+  "new": "Új",
+  "project": {
+    "title": "Új projekt",
+    "description": "Emelje ki az egyértelmű célokkal és időkeretekkel rendelkező munkát."
+  },
+  "initiative": {
+    "title": "Új kezdeményezés",
+    "description": "Emelje ki az egyértelmű célokkal és időkeretekkel rendelkező munkát."
+  },
+  "discussion": {
+    "title": "Új vitafórum",
+    "description": "Hozzon létre egy új vitafórumot a témát jelző cím megadásával."
+  }
+}

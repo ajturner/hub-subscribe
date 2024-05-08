@@ -1,0 +1,7 @@
+{
+  "showMore": "Visa {num} mer",
+  "showLess": "Visa mindre",
+  "inputPlaceholder": "Filtrera alternativ",
+  "noMatchesNotice": "Det gick inte att hitta några matchande alternativ",
+  "inputAriaLabel": "Hitta alternativ via nyckelord"
+}

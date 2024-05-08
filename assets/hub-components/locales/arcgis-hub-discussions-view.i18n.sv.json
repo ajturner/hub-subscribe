@@ -1,0 +1,17 @@
+{
+  "summary": "Sammanfattning",
+  "description": "Beskrivning",
+  "details": "Information",
+  "metrics": "Beräkningsmodell",
+  "metricsDisclaimer": "Visar endast de senaste 30 dagarna",
+  "titleOpen": "Öppen diskussion",
+  "statusOpen": "Öppen för deltagande",
+  "titleClosed": "Stängd diskussion",
+  "statusClosed": "Stängd för deltagande",
+  "tags": "Taggar",
+  "categories": "Kategorier",
+  "metric.pageViews": "Sidvisningar",
+  "metric.postCount": "Antal inlägg",
+  "discussion": "Diskussion",
+  "discussionBoard": "Diskussionstavla"
+}

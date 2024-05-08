@@ -1,0 +1,28 @@
+{
+  "newTab": "abrir perfil num novo separador",
+  "noGroups": "Sem grupos",
+  "pickerToggle": "Adicionar grupos",
+  "pickerTitle": "Selecionar grupos",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Sem membros",
+      "oneMember": "1 membro",
+      "members": "{count} membros"
+    },
+    "dateCreated": "Data de Criação: {localizedDate}",
+    "sharing": "Partilha: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Eu",
+      "shared": "Proprietário e grupos",
+      "org": "Organização",
+      "public": "Público"
+    },
+    "membership": "Adesão: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Proprietário do Grupo",
+      "admin": "Gestor do Grupo",
+      "member": "Membro do Grupo",
+      "none": "Nenhum"
+    }
+  }
+}

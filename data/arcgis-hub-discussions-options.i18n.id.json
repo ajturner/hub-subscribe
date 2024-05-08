@@ -1,0 +1,10 @@
+{
+  "true.heading": "Ya, diskusi diizinkan",
+  "false.heading": "Tidak, diskusi diblokir",
+  "content.label": "Izinkan item ini untuk didiskusikan?",
+  "content.true.description": "Pengguna dapat membuat postingan di item ini.",
+  "content.false.description": "Pengguna tidak dapat membuat postingan di item ini.",
+  "group.label": "Apakah grup ini dapat berpartisipasi dalam diskusi?",
+  "group.true.description": "Anggota grup dapat melihat dan berpartisipasi di dalam saluran diskusi yang aksesnya dimiliki kelompok tersebut.",
+  "group.false.description": "Anggota grup tidak dapat melihat atau berpartisipasi di dalam saluran diskusi yang aksesnya dimiliki kelompok tersebut."
+}

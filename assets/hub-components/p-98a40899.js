@@ -1,0 +1,1 @@
+var e,a;!function(e){e[e.SECOND=1e3]="SECOND",e[e.MINUTE=6e4]="MINUTE",e[e.HOUR=36e5]="HOUR",e[e.DAY=864e5]="DAY",e[e.WEEK=6048e5]="WEEK",e[e.MONTH=26298e5]="MONTH",e[e.YEAR=31536e6]="YEAR"}(e||(e={})),function(e){e.SECOND="second",e.MINUTE="minute",e.HOUR="hour",e.DAY="day",e.WEEK="week",e.MONTH="month",e.QUARTER="quarter",e.YEAR="year"}(a||(a={}));export{a as T,e as a}

@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Edistynyt kokoonpano",
+    "serverTimeout": {
+      "label": "Palvelimen aikakatkaisu (sekunteina)",
+      "helperText": "Hyödyllinen suurille palveluille, jotka saattavat vastata hitaammin."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Kulmat",
+      "enum": {
+        "round": {
+          "label": "Pyöristys"
+        },
+        "square": {
+          "label": "Neliö"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Varjo",
+      "enum": {
+        "heavy": {
+          "label": "Suuri"
+        },
+        "low": {
+          "label": "Pieni"
+        },
+        "medium": {
+          "label": "Keskisuuri"
+        },
+        "none": {
+          "label": "Ei aloitettu"
+        }
+      }
+    },
+    "layout": {
+      "label": "Tilastotiedon asettelu",
+      "enum": {
+        "dataViz": {
+          "label": "Aineiston visualisointi"
+        },
+        "moreInfo": {
+          "label": "Lisätietoja"
+        },
+        "simple": {
+          "label": "Yksinkertainen"
+        }
+      }
+    },
+    "popoverTitle": "Ponnahdusotsikko",
+    "popoverDescription": "Ponnahduskuvaus",
+    "sectionTitle": "Ulkoasu",
+    "textAlign": "Kohdistus",
+    "visualInterest": {
+      "label": "Visuaalinen kiinnostus",
+      "enum": {
+        "icon": {
+          "label": "Kuvake"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Ei mitään"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Väri (tilastotiedot)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Linkki",
+      "sourceLink": "Linkin URL-osoite",
+      "sourceTitle": "Linkkiteksti"
+    },
+    "sectionTitle": "Yksityiskohdat",
+    "subtitle": "Alaotsikko",
+    "title": "Otsikko",
+    "trailingText": "Jäljessä oleva teksti"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Lähteen näyttämiseen tarvitaan linkki."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Muotoilu",
+    "unit": {
+      "label": "Näyttöyksiköt",
+      "helperText": "Lisää arvon mittayksikkö."
+    },
+    "unitPosition": {
+      "label": "Sijoittaminen",
+      "enum": {
+        "after": {
+          "label": "Jälkeen"
+        },
+        "before": {
+          "label": "Ennen"
+        },
+        "below": {
+          "label": "Alla"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Jakaminen",
+    "showShareIcon": "Ota käyttöön",
+    "shareableByValue": "Ota upotukset käyttöön",
+    "shareableOnHover": {
+      "label": "Näytä",
+      "enum": {
+        "always": {
+          "label": "Aina"
+        },
+        "hover": {
+          "label": "Vain kohoteksti"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Aineistolähde",
+    "displayValue": "Näytä arvo",
+    "sectionTitle": "Tilastotiedot",
+    "type": {
+      "label": "Tyyppi",
+      "enum": {
+        "dynamic": {
+          "label": "Dynaaminen",
+          "description": "Valitse aiemmin luotu aineistoryhmä (kohdepalvelu), jotta voit luoda yhteenvedon."
+        },
+        "static": {
+          "label": "Staattinen",
+          "description": "Lisää asettelussa korostettava arvo manuaalisesti."
+        }
+      }
+    }
+  }
+}

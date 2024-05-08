@@ -1,0 +1,18 @@
+{
+  "purpose": "Finalidade",
+  "description": "Como lá chegaremos",
+  "details": "Detalhes",
+  "featuredImageAlt": "Imagem em destaque do projeto",
+  "trackProgress": "Acompanhar o nosso progresso",
+  "participatingGroups": "Grupos participantes",
+  "whosInvolved": "Quem está envolvido",
+  "tags": "Etiquetas",
+  "status": {
+    "label": "Estado do projeto",
+    "notStarted": "Não iniciado",
+    "inProgress": "Em curso",
+    "onHold": "Em espera",
+    "complete": "Concluído"
+  },
+  "featuredContent": "Conteúdo em destaque"
+}

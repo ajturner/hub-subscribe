@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "タイプ",
+    "tags": "タグ",
+    "categories": "カテゴリ",
+    "sharing": "共有",
+    "dateUpdated": "更新日",
+    "map": {
+      "label": "位置",
+      "tooltip": "マップ範囲を位置フィルターとして適用"
+    }
+  },
+  "collections": {
+    "all": "すべて",
+    "dataset": "データ",
+    "site": "サイト",
+    "document": "ドキュメント",
+    "appAndMap": "アプリおよびマップ"
+  },
+  "noCollections": {
+    "title": "カタログ",
+    "message": "現在、カタログは空です。",
+    "button": "カタログの構成"
+  }
+}

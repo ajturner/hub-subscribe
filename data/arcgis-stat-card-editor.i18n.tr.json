@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Gelişmiş yapılandırma",
+    "serverTimeout": {
+      "label": "Sunucu süresi doldu (saniye)",
+      "helperText": "Yanıt vermesi daha uzun sürebilen daha büyük servisler için faydalıdır."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Köşeler",
+      "enum": {
+        "round": {
+          "label": "Yuvarlak"
+        },
+        "square": {
+          "label": "Kare"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Gölge Bırak",
+      "enum": {
+        "heavy": {
+          "label": "Ağır"
+        },
+        "low": {
+          "label": "Düşük"
+        },
+        "medium": {
+          "label": "Orta"
+        },
+        "none": {
+          "label": "Başlatılmadı"
+        }
+      }
+    },
+    "layout": {
+      "label": "İstatistik Çıktı Düzeni",
+      "enum": {
+        "dataViz": {
+          "label": "Veri Görselleştirme"
+        },
+        "moreInfo": {
+          "label": "Daha Fazla Bilgi"
+        },
+        "simple": {
+          "label": "Basit"
+        }
+      }
+    },
+    "popoverTitle": "Açılır Başlık",
+    "popoverDescription": "Açılır Açıklama",
+    "sectionTitle": "Görünüm",
+    "textAlign": "Hizalama",
+    "visualInterest": {
+      "label": "Görsel İlgi Alanı",
+      "enum": {
+        "icon": {
+          "label": "Simge"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Hiçbiri"
+        },
+        "sparkline": {
+          "label": "Küçük grafik"
+        }
+      }
+    },
+    "valueColor": "Renk (İstatistik)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Bağlantı",
+      "sourceLink": "Bağlantı URL'si",
+      "sourceTitle": "Bağlantı metni"
+    },
+    "sectionTitle": "Ayrıntılar",
+    "subtitle": "Altbaşlık",
+    "title": "Başlık",
+    "trailingText": "Sondaki metin"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Kaynağı görüntülemek için gerekli bağlantı."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Biçimlendiriliyor",
+    "unit": {
+      "label": "Birimleri görüntüle",
+      "helperText": "Değeriniz için ölçüm birimini girin."
+    },
+    "unitPosition": {
+      "label": "Yerleşim",
+      "enum": {
+        "after": {
+          "label": "Sonrasında"
+        },
+        "before": {
+          "label": "Öncesinde"
+        },
+        "below": {
+          "label": "Altında"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Paylaşım",
+    "showShareIcon": "Etkinleştir",
+    "shareableByValue": "Yerleştirmeleri Etkinleştir",
+    "shareableOnHover": {
+      "label": "Görünüm",
+      "enum": {
+        "always": {
+          "label": "Her zaman"
+        },
+        "hover": {
+          "label": "Sadece üzerinde dolaştır"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Veri kaynağı",
+    "displayValue": "Değeri görüntüle",
+    "sectionTitle": "İstatistik",
+    "type": {
+      "label": "Tür",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamik",
+          "description": "Özetlemek için mevcut veri kümelerinden (detay servisi) birini seçin."
+        },
+        "static": {
+          "label": "Statik",
+          "description": "Çıktı düzeninizde vurgulanacak değeri manuel olarak girin."
+        }
+      }
+    }
+  }
+}

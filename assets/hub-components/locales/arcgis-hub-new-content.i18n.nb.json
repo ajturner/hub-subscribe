@@ -1,0 +1,15 @@
+{
+  "new": "Ny",
+  "project": {
+    "title": "Nytt prosjekt",
+    "description": "Uthev arbeid som har tydelige mål og tidsrammer"
+  },
+  "initiative": {
+    "title": "Nytt initiativ",
+    "description": "Uthev arbeid som har tydelige mål og tidsrammer"
+  },
+  "discussion": {
+    "title": "Ny diskusjonstavle",
+    "description": "Opprett en ny diskusjonstavle ved å angi en tittel som viser emnet."
+  }
+}

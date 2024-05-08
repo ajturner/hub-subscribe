@@ -1,0 +1,1 @@
+function t(t){return function(n,e,u){const{value:r}=u,{when:c}=t;return Object.assign(Object.assign({},u),{value:function(...t){if(c.apply(this,t))return r.apply(this,t)}})}}export{t as C}

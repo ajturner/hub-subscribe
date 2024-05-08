@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Trascinare e rilasciare il file per caricarlo",
+  "imageHeading": "Carica un'immagine",
+  "selectedHeading": "File selezionato",
+  "maxSizeAndSupportedTypes": "La dimensione massima è {maxSize} MB, {fileTypes}",
+  "maxSize": "La dimensione massima è {maxSize} MB",
+  "recommendedDimensions": "Dimensioni raccomandate {recommendedDimensions}",
+  "linkText": "Visualizza elenco dei file supportati",
+  "contentButton": "Sfoglia file",
+  "imageButton": "Cerca immagine",
+  "clearButton": "Deseleziona selezionate",
+  "errorHeading": "Errore",
+  "fileTooLargeError": "File troppo grande",
+  "multipleFilesError": "Non è possibile caricare più file in una volta",
+  "unsupportedFileTypeError": "Questo tipo di file non è supportato"
+}

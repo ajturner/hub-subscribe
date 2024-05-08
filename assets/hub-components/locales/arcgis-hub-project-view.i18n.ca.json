@@ -1,0 +1,18 @@
+{
+  "purpose": "Propòsit",
+  "description": "Com hi arribarem",
+  "details": "Detalls",
+  "featuredImageAlt": "Imatge destacada del projecte",
+  "trackProgress": "Feu un seguiment del nostre progrés",
+  "participatingGroups": "Grups participants",
+  "whosInvolved": "Qui hi està implicat",
+  "tags": "Etiquetes",
+  "status": {
+    "label": "Estat del projecte",
+    "notStarted": "No s'ha iniciat",
+    "inProgress": "En curs",
+    "onHold": "En espera",
+    "complete": "Completat"
+  },
+  "featuredContent": "Contingut destacat"
+}

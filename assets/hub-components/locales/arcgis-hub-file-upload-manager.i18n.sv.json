@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Välj innehåll",
+  "secondStepHeader": "Ange information",
+  "thirdStepHeader": "Ange delningsnivå och åtkomst",
+  "next": "Nästa",
+  "back": "Tillbaka",
+  "save": "Spara",
+  "cancel": "Avbryt",
+  "divider": "eller",
+  "duplicateFileAriaLabel": "fel i duplicerad fil",
+  "duplicateFileError": "Det finns redan ett objekt med samma filnamn. Ändra filnamnet och försök igen eller ta bort den <a>duplicerade filen</a> i ArcGIS Online",
+  "uploading": "Överför"
+}

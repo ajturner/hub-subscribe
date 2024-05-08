@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Vybrať obsah",
+  "secondStepHeader": "Nastaviť podrobnosti",
+  "thirdStepHeader": "Nastaviť úroveň zdieľania a prístupu",
+  "next": "Ďalšie",
+  "back": "Naspäť",
+  "save": "Uložiť",
+  "cancel": "Zrušiť",
+  "divider": "alebo",
+  "duplicateFileAriaLabel": "chyba duplicitného súboru",
+  "duplicateFileError": "Položka s rovnakým názvom súboru už existuje. Upravte názov súboru a skúste to znova alebo odstráňte <a>duplicitný súbor</a> v ArcGIS Online",
+  "uploading": "Nahráva sa"
+}

@@ -1,0 +1,17 @@
+{
+  "summary": "Resumo",
+  "description": "Descrição",
+  "details": "Detalhes",
+  "metrics": "Métricas",
+  "metricsDisclaimer": "Apenas a exibir os últimos 30 dias",
+  "titleOpen": "Discussão Aberta",
+  "statusOpen": "Participação aberta",
+  "titleClosed": "Discussão Fechada",
+  "statusClosed": "Participação fechada",
+  "tags": "Etiquetas",
+  "categories": "Categorias",
+  "metric.pageViews": "Visualizações de Página",
+  "metric.postCount": "Contagem de Publicações",
+  "discussion": "Discussão",
+  "discussionBoard": "Fórum de Discussão"
+}

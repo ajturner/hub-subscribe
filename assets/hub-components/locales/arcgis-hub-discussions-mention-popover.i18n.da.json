@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonym",
+  "noUser": "Intet brugernavn",
+  "privateUser": "Privat medlem",
+  "privateOrg": "Privat organisation",
+  "orgLabel": "Organisation",
+  "profile": "Gå til profil",
+  "location": "Position",
+  "information": "Oplysninger om post",
+  "mentionedBy": "Nævnt af @{username}"
+}

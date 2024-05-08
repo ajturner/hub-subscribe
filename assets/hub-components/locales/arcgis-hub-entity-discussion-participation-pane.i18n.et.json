@@ -1,0 +1,21 @@
+{
+  "title": "Osalemine",
+  "channelTitle": "Osalemiskanal",
+  "addChannelsTitle": "Selle üksuse jaoks on vajalik kanal; saate seadistada vaid ühe kanali.",
+  "headingChannelEdit": "Muuda kanalit",
+  "headingChannelView": "Vaata kanalit",
+  "headingChannelCreate": "Loo uus kanal",
+  "buttons": {
+    "browse": "Sirvi kõiki kanaleid",
+    "new": "Uus kanal"
+  },
+  "galleryPickerTitle": "Valige kanal",
+  "channelsLabel": "Kanalid",
+  "accessLabel": "Juurdepääs",
+  "optionPublicLabel": "Avalik",
+  "optionOrganizationLabel": "Organisatsioon",
+  "optionPrivateLabel": "Privaatne",
+  "viewChannel": "Vaata kanalit",
+  "editChannel": "Muuda kanalit",
+  "save": "Salvesta"
+}

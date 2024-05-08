@@ -1,0 +1,16 @@
+{
+  "post.title": "Edycja postów jest zablokowana",
+  "post.message": "Edycja jest niedostępna, gdy dyskusje są zablokowane.",
+  "post.message.item": "Edycja jest niedostępna, gdy dyskusje na temat elementu są zablokowane.",
+  "post.message.group": "Edycja jest niedostępna, gdy dyskusje na temat grupy są zablokowane.",
+  "reply.title": "Edycja odpowiedzi jest zablokowana",
+  "reply.title.generic": "Dyskusja jest zablokowana",
+  "reply.message": "Edycja jest niedostępna, gdy dyskusje są zablokowane.",
+  "reply.message.generic": "Nie ma teraz możliwości tworzenia odpowiedzi.",
+  "reply.message.item": "Edycja jest niedostępna, gdy dyskusje na temat elementu są zablokowane.",
+  "reply.message.group": "Edycja jest niedostępna, gdy dyskusje na temat grupy są zablokowane.",
+  "item.title": "Zablokowana dyskusja na temat elementu",
+  "item.message": "Ten element nie został zatwierdzony do dyskusji.",
+  "group.title": "Zablokowana dyskusja na temat grupy",
+  "group.message": "Ta grupa nie została zatwierdzona do dyskusji."
+}

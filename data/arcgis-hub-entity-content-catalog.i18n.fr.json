@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Type",
+    "tags": "Balise",
+    "categories": "Catégorie",
+    "sharing": "Partage",
+    "dateUpdated": "Date de mise à jour",
+    "map": {
+      "label": "Localisation",
+      "tooltip": "Appliquer l’étendue de la carte en tant que filtre de localisation"
+    }
+  },
+  "collections": {
+    "all": "Tout",
+    "dataset": "Données",
+    "site": "Sites",
+    "document": "Documents",
+    "appAndMap": "Applications et cartes"
+  },
+  "noCollections": {
+    "title": "Catalogue",
+    "message": "Le catalogue est actuellement vide.",
+    "button": "Configurer le catalogue"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dateRange": "Interval de date: {start} - {end}",
+  "pageViews": "Vizualizări pagini",
+  "timeOnSite": "Medie minute pe site:",
+  "users": "Sesiuni",
+  "viewsOverTime": "Vizualizări ale paginii în timp",
+  "disabledTracking": "Urmărirea activității este dezactivată",
+  "enableTracking": "Activați Monitorizare activitate Hub în setările site-ului pentru a monitoriza utilizarea site-ului dvs.",
+  "learnMore": "Aflaţi mai multe.",
+  "disabled": "Dezactivat",
+  "notificationLabel": "Date actualizate",
+  "dataUpdated": "Date actualizate",
+  "subscribe": "Abonare",
+  "subscribed": "Abonat",
+  "weeklyReport": "Raport săptămânal",
+  "timestampTitle": {
+    "hour": "Ora",
+    "day": "Dată",
+    "week": "Săptămână"
+  },
+  "formAlert": "Alertă formular",
+  "success": "Abonament actualizat cu succes",
+  "subscriptionActivatedTitle": "Abonament activat",
+  "subscriptionActivatedMessage": "Ați înregistrat {email} pentru a primi informații săptămânale de evaluare a angajamentului.",
+  "unsubscribeCompleteTitle": "Dezabonare finalizată",
+  "unsubscribeCompleteMessage": "{email} a fost dezabonat cu succes de la informațiile de evaluare a angajamentului.",
+  "problemSubscribingTitle": "Problemă de abonare",
+  "problemSubscribingMessage": "A apărut o problemă la abonare. Eroare: ",
+  "problemUnsubscribingTitle": "Problemă de dezabonare",
+  "problemUnsubscribingMessage": "A apărut o problemă la dezabonare. Eroare: "
+}

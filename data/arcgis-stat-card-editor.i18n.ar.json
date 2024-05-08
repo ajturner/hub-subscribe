@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "التكوين المتقدم",
+    "serverTimeout": {
+      "label": "انتهت مهلة الخادم (ثوانٍ)",
+      "helperText": "يُعد مفيدًا للخدمات الأكبر التي قد تستغرق وقتًا أطول للاستجابة."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "الزوايا",
+      "enum": {
+        "round": {
+          "label": "دائري"
+        },
+        "square": {
+          "label": "مربع"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "إفلات الظل",
+      "enum": {
+        "heavy": {
+          "label": "ثقيل"
+        },
+        "low": {
+          "label": "منخفض"
+        },
+        "medium": {
+          "label": "متوسط"
+        },
+        "none": {
+          "label": "لم يبدأ"
+        }
+      }
+    },
+    "layout": {
+      "label": "المخطط الإحصائي",
+      "enum": {
+        "dataViz": {
+          "label": "تصزر البيانات"
+        },
+        "moreInfo": {
+          "label": "مزيد من المعلومات"
+        },
+        "simple": {
+          "label": "بسيط"
+        }
+      }
+    },
+    "popoverTitle": "العنوان المنبثق",
+    "popoverDescription": "الوصف المنبثق",
+    "sectionTitle": "المظهر",
+    "textAlign": "محاذاة",
+    "visualInterest": {
+      "label": "الاهتمام المرئي",
+      "enum": {
+        "icon": {
+          "label": "أيقونة"
+        },
+        "logo": {
+          "label": "الشعار"
+        },
+        "none": {
+          "label": "لا شيء"
+        },
+        "sparkline": {
+          "label": "خط المؤشر"
+        }
+      }
+    },
+    "valueColor": "اللون (إحصائي)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "ارتباط",
+      "sourceLink": "عنوان URL للارتباط",
+      "sourceTitle": "نص الرابط"
+    },
+    "sectionTitle": "التفاصيل",
+    "subtitle": "عنوان فرعي",
+    "title": "العنوان",
+    "trailingText": "النص اللاحق"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "الرابط المطلوب لعرض المصدر."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "تنسيق",
+    "unit": {
+      "label": "عرض الوحدات",
+      "helperText": "أدخل وحدة القياس لقيمتك."
+    },
+    "unitPosition": {
+      "label": "تعيين الموضع",
+      "enum": {
+        "after": {
+          "label": "بعد"
+        },
+        "before": {
+          "label": "قبل"
+        },
+        "below": {
+          "label": "أسفل"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "مشاركة",
+    "showShareIcon": "تمكين",
+    "shareableByValue": "تمكين التضمينات",
+    "shareableOnHover": {
+      "label": "العرض",
+      "enum": {
+        "always": {
+          "label": "دائمًا"
+        },
+        "hover": {
+          "label": "التحويم فقط"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "مصدر البيانات",
+    "displayValue": "عرض القيمة",
+    "sectionTitle": "إحصائيات",
+    "type": {
+      "label": "نوع",
+      "enum": {
+        "dynamic": {
+          "label": "ديناميكي",
+          "description": "حدد مجموعة بيانات موجودة (خدمة المعالم) لتلخيصها."
+        },
+        "static": {
+          "label": "ثابت",
+          "description": "أدخل قيمة يدويًا لتمييزها في تخطيطك."
+        }
+      }
+    }
+  }
+}

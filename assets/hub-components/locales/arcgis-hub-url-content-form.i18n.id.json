@@ -1,0 +1,19 @@
+{
+  "heading": "Tambah berdasarkan URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Tautan Web",
+  "fileTypeSelector": "Atur jenis file secara manual",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Tautan Web",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Gambar (png, jpg, jpeg)",
+  "invalidFormat": "Kesalahan: Format tidak valid",
+  "invalidUrl": "Kesalahan: URL tidak valid",
+  "recognizedType": "Atur jenis file secara manual"
+}

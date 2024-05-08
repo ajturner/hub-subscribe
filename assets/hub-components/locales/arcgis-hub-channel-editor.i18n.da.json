@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Ikke-navngivet kanal",
+  "name": {
+    "label": "Navn",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Gem",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Udvalgte grupper kan deltage"
+    },
+    "organization": {
+      "label": "Min organisation",
+      "description": "Alle medlemmer med en konto til {orgName} kan deltage",
+      "disabledTooltip": "Det er kun organisationsadministratorer, der kan oprette organisationskanaler"
+    },
+    "public": {
+      "label": "Offentlig",
+      "description": "Alle med en konto til kan deltage",
+      "disabledTooltip": "Det er kun organisationsadministratorer, der kan oprette offentlige kanaler"
+    },
+    "allowAnonymous": "Tillad anonym",
+    "confirmation": {
+      "header": "Er du sikker?",
+      "message": "Hvis du gemmer disse ændringer, fjernes din redigeringsadgang til denne kanal. Det er kun organisationsadministratorer, der kan redigere offentlige kanaler eller organisationskanaler.",
+      "secondary": "Annullér",
+      "primary": "Bekræft"
+    }
+  },
+  "participants": {
+    "label": "Deltagere",
+    "helperText": "Personer, der kan få vist og bidrage til diskussionen.",
+    "none": "Ingen deltagere indstillet",
+    "add": "Tilføj deltagergruppe"
+  },
+  "groupPicker": {
+    "title": "Vælg grupper",
+    "facet": {
+      "label": "Fra",
+      "myGroup": "Min gruppe",
+      "myOrganization": "Min organisation",
+      "myCommunity": "Mit fællesskab"
+    }
+  },
+  "blockWords": {
+    "label": "Blokerede ord",
+    "helperText": "Kommasepareret liste. Opslag og svar, der indeholder dem, vil blive skjult automatisk."
+  },
+  "manage": {
+    "label": "Administrer og rediger",
+    "helperText": "Disse personer tildeles automatisk baseret på deltagelsesvalgene ovenfor og kan deltage, skjule eller vise indlæg og administrere kanalindstillinger."
+  },
+  "manager": "Administrator",
+  "admin": "Administrator",
+  "viewProfile": "Vis profil",
+  "alerts": {
+    "error": "Fejl under lagring af kanal",
+    "success": "Kanal gemt uden fejl.",
+    "label": "Formularadvarsel"
+  },
+  "validations": {
+    "minChannelGroups": "Private kanaler kræver mindst en deltagergrupper."
+  },
+  "notices": {
+    "edit": "Redigeringer vil have en effekt der, hvor denne kanal anvendes",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal blev ikke oprettet",
+          "message": "En kanal med disse adgangsvalg eksisterer allerede. Brug eksisterende kanal eller skift valg."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal blev ikke opdateret",
+          "message": "En kanal med disse adgangsvalg eksisterer allerede, så disse opdateringer kan ikke gemmes."
+        }
+      },
+      "action": "Brug eksisterende kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Utilgængelige grupper: {count}",
+      "message": "Du kan ikke få vist eller administrere utilgængelige grupper, medmindre du er medlem."
+    }
+  }
+}

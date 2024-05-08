@@ -1,0 +1,12 @@
+{
+  "save": "Tallenna",
+  "cancel": "Peruuta",
+  "undoChanges": "Kumoa muutokset",
+  "next": "Seuraava",
+  "back": "Takaisin",
+  "formAlert": "Lomakevaroitus",
+  "invalidForm": "Korjaa kaikki virheet.",
+  "saveDisabled": "Tallenna poistettu käytöstä",
+  "success": "Muokkaukset on tallennettu",
+  "error": "Virhe muokkausten tallennuksessa"
+}

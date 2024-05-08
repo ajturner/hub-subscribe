@@ -1,0 +1,25 @@
+{
+  "moreResults": "ผลลัพธ์เพิ่มเติม",
+  "search": "ค้นหา",
+  "filter": "ตัวกรองข้อมูล",
+  "viewResults": "ดูผลลัพธ์ ({numResults})",
+  "resultsCount": "1 - {pageTotal} จาก {searchTotal}",
+  "backToTop": "กลับไปด้านบน",
+  "facets": {
+    "access": {
+      "private": "ตัวฉัน",
+      "shared": "เจ้าของและกลุ่ม",
+      "org": "องค์กร",
+      "public": "สาธารณะ"
+    },
+    "license": {
+      "custom": "แก้ไขเอง",
+      "none": "ไม่มีเลย"
+    }
+  },
+  "layoutOptions": {
+    "list": "รายการการแสดงผล",
+    "grid": "กริดการแสดงผล"
+  },
+  "galleryActionsLabel": "การดำเนินการเพิ่มเติม"
+}

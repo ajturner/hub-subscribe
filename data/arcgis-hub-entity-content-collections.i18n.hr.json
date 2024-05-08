@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Prikaži",
+    "hide": "Sakrij",
+    "rename": "Preimenuj"
+  },
+  "formAlert": "Stvori upozorenje",
+  "alertMessages": {
+    "success": "Uspješno spremljena uređivanja",
+    "error": "Pogreška pri spremanju uređivanja"
+  },
+  "collectionRenameModal": {
+    "title": "Promijeni naziv zbirke",
+    "fieldLabel": "Oznaka zbirke",
+    "requiredMessage": "Potrebna je oznaka zbirke",
+    "apply": "Primijeni"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Podaci",
+      "hidden": "Podaci (skriveno)"
+    },
+    "site": {
+      "visible": "Web-mjesta",
+      "hidden": "Mjesta (skriveno)"
+    },
+    "document": {
+      "visible": "Dokumenti",
+      "hidden": "Dokumenti (skriveno)"
+    },
+    "appAndMap": {
+      "visible": "Aplikacije i karte",
+      "hidden": "Aplikacije i karte (skriveno)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (skriveno)"
+    }
+  },
+  "saveButton": "Spremi"
+}

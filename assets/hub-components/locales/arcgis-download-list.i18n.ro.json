@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "Bază date geo SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "FGDB",
+  "featureCollection": "Colecţie obiecte spaţiale",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Descărcare"
+}

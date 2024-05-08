@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Zdieľané s organizáciou",
+      "private": "Zdieľané s vlastníkom",
+      "public": "Zdieľané s verejnosťou",
+      "shared": "Zdieľané s vlastníkom a skupinami"
+    },
+    "editLayout": "Upraviť rozloženie",
+    "lastUpdated": "Naposledy aktualizované {updated}",
+    "viewSite": "Zobraziť lokalitu"
+  },
+  "cloneLayoutLabel": "Rozloženie klonu",
+  "deletePageLabel": "Odstrániť stránku",
+  "deleteSiteLabel": "Odstrániť lokalitu",
+  "editInAgoLabel": "Upraviť v ArcGIS Online",
+  "managePage": "Spravovať stránku",
+  "manageSite": "Spravovať lokalitu",
+  "moreOptionsLabel": "Viac možností",
+  "publishLabel": "Uverejniť",
+  "saveAsTemplateLabel": "Uložiť ako šablónu",
+  "saveLabel": "Uložiť",
+  "sharingLabel": "Otvoriť panel zdieľania",
+  "viewLabel": "Zobraziť",
+  "viewPublishedLabel": "Zobraziť zverejnený návrh",
+  "viewUnpublishedLabel": "Zobraziť ukážku nezverejneného návrhu"
+}

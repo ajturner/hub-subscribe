@@ -1,0 +1,14 @@
+{
+  "createdBy": "作成者: {creator}",
+  "emptyMessage": "バージョンが見つかりません",
+  "errorMessage": "バージョンの取得中にエラーが発生しました",
+  "menuLabel": "アクションを表示",
+  "publishedBadge": "公開",
+  "viewingBadge": "表示",
+  "popover.label": "バージョン アクション",
+  "popover.actions.delete": "削除",
+  "popover.actions.edit": "詳細の編集",
+  "popover.actions.share": "共有",
+  "shareErrorMessage": "クリップボードへの共有 URL のコピー中にエラーが発生しました。",
+  "shareSuccessMessage": "共有 URL がクリップボードにコピーされました。"
+}

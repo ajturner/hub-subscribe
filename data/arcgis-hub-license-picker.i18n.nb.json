@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Velg bruksvilkår",
+  "editorLabel": "Valgte bruksvilkår",
+  "editorRemoveWarning": "Advarsel, du er i ferd med å slette bruksvilkårene.",
+  "licenseDescriptionCc0": "Dette arbeidet er beregnet på folk flest",
+  "licenseDescriptionCcBy": "Krever kildeinformasjon",
+  "licenseDescriptionCcByNc": "Krever kildeinformasjon, tillater remiksing, men tillater ikke kommersiell bruk",
+  "licenseDescriptionCcByNcNd": "Mest restriktivt, krever kildeinformasjon, tillater ikke kommersiell bruk og remiksing",
+  "licenseDescriptionCcByNcSa": "Krever kildeinformasjon, tillater remiksing, men tillater ikke kommersiell bruk. Avledninger må bruke samme lisens",
+  "licenseDescriptionCcByNd": "Krever kildeinformasjon, tillater kommersiell bruk, men tillater ikke deling av avledninger",
+  "licenseDescriptionCcBySa": "Krever kildeinformasjon, tillater remiksing og kommersiell bruk",
+  "licenseDescriptionCustom": "Vis for detaljer",
+  "licenseDescriptionOdbl": "Tillat deling, oppretting og tilpasning så lenge andre oppgir kildeinformasjon, deler broderlig og holder det åpent",
+  "licenseDescriptionOdcBy": "Tillat deling, oppretting og tilpasning så lenge andre oppgir kildeinformasjon",
+  "licenseDescriptionPddl": "Tillat deling, oppretting og tilpasning",
+  "licenseInfoButtonAriaLabel": "Bruksvilkårdetaljer, åpnes i en ny fane",
+  "selectedLicenseLabelFallback": "Egendefinert",
+  "selectedLicenseLabelNoLicense": "Ingen bruksvilkår"
+}

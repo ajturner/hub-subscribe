@@ -1,0 +1,14 @@
+{
+  "addPost": "Tambahkan Postingan",
+  "createPost": "Buat Postingan",
+  "emptyHeading": "Mulai diskusi",
+  "emptyMessage": "Jadilah yang pertama menghadirkan topik. Sangat mudah untuk mengajukan pertanyaan atau membagikan apa yang Anda ketahui dengan orang lain tentang potongan konten.",
+  "searchIdeas": "Cari postingan",
+  "searchCount": "{start} - {end} dari {total}",
+  "orderAsc": "Naik",
+  "orderDesc": "Turun",
+  "sortRecent": "Terbaru",
+  "sortCreator": "Pembuat",
+  "layoutGrid": "Grid",
+  "layoutList": "Daftar"
+}

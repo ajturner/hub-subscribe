@@ -1,0 +1,16 @@
+{
+  "location.add": "إضافة موقع",
+  "location.remove": "إزالة الموقع",
+  "draw.tip": "هل تريد إضافة موقع آخر؟",
+  "prompt.add.post": "أضف إلى المنشور",
+  "prompt.add.reply": "إضافة إلى الرد",
+  "prompt.edit.point": "تحريك النقطة",
+  "prompt.edit.polyline": "تحرير الخط",
+  "prompt.edit.polygon": "تحرير المنطقة",
+  "prompt.remove.point": "حذف النقطة",
+  "prompt.remove.polyline": "حذف الخط",
+  "prompt.remove.polygon": "حذف المنطقة",
+  "prompt.remove.existing": "إلغاء التحديد",
+  "prompt.location.edit": "تحديث الرسم",
+  "prompt.location.delete": "حذف الرسم"
+}

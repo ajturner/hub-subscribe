@@ -1,0 +1,15 @@
+{
+  "done": "Concluído",
+  "cancel": "Cancelar",
+  "dragDrop": "Arraste e solte um ficheiro JPG, PNG ou GIF.",
+  "browse": "Procurar...",
+  "chooseDiff": "Selecione uma imagem diferente",
+  "zoom": "Zoom:",
+  "bestSize": "Para melhores resultados, a imagem deve ter 300 x 300 píxeis.",
+  "close": "Fechar",
+  "or": "ou",
+  "fromMap": "Criar miniatura a partir de mapa",
+  "fromMapDesc": "Crie uma miniatura personalizada ao definir a extensão e o nível de zoom",
+  "changeBasemap": "Alterar mapa base",
+  "loading": "A carregar"
+}

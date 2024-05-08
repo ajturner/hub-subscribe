@@ -1,0 +1,14 @@
+{
+  "title": "Titolo",
+  "created": "Data creazione",
+  "modified": "Data aggiornamento",
+  "updated": "Data aggiornamento",
+  "asc": "crescente",
+  "desc": "decrescente",
+  "relevance": "Rilevanza",
+  "change-sort-order": "Modifica criterio di ordinamento",
+  "sort-by": "Ordina per ",
+  "joined": "Data di iscrizione",
+  "username": "Nome utente",
+  "membertype": "Ruolo"
+}

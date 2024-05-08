@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Neimenovani kanal",
+  "name": {
+    "label": "Ime",
+    "placeholder": "Kanal {prefix}"
+  },
+  "save": "Shrani",
+  "access": {
+    "private": {
+      "label": "Zasebno",
+      "description": "Sodelujejo lahko izbrane skupine"
+    },
+    "organization": {
+      "label": "Moja organizacija",
+      "description": "Sodelujejo lahko vsi člani z računom za {orgName}",
+      "disabledTooltip": "Kanale organizacije lahko ustvarijo samo administratorji organizacije."
+    },
+    "public": {
+      "label": "Javno",
+      "description": "Sodelujejo lahko vsi z računom",
+      "disabledTooltip": "Javne kanale lahko ustvarijo samo administratorji organizacije."
+    },
+    "allowAnonymous": "Omogoči anonimno",
+    "confirmation": {
+      "header": "Ste prepričani?",
+      "message": "Če shranite te spremembe, boste izgubili dostop za urejanje tega kanala. Kanale organizacije ali javne kanale lahko urejajo samo administratorji organizacije.",
+      "secondary": "Prekliči",
+      "primary": "Potrdi"
+    }
+  },
+  "participants": {
+    "label": "Udeleženci",
+    "helperText": "Osebe, ki lahko vidijo in sodelujejo v razpravi.",
+    "none": "Ni določenih udeležencev",
+    "add": "Dodaj skupino udeležencev"
+  },
+  "groupPicker": {
+    "title": "Izberi skupine",
+    "facet": {
+      "label": "Od",
+      "myGroup": "Moja skupina",
+      "myOrganization": "Moja organizacija",
+      "myCommunity": "Moja zainteresirana javnost"
+    }
+  },
+  "blockWords": {
+    "label": "Blokirane besede",
+    "helperText": "Seznam, ločen z vejico. Objave in odgovori, ki jih vsebujejo, bod samodejno skriti."
+  },
+  "manage": {
+    "label": "Upravljaj in moderiraj",
+    "helperText": "Samodejno dodeljeno glede na zgornje izbire sodelovanja lahko te osebe sodelujejo, skrijejo ali prikažejo objave ter upravljajo nastavitve kanala."
+  },
+  "manager": "Upravitelj",
+  "admin": "Administrator",
+  "viewProfile": "Ogled profila",
+  "alerts": {
+    "error": "Napaka pri shranjevanju kanala",
+    "success": "Kanal je bil uspešno shranjen",
+    "label": "Opozorilo obrazca"
+  },
+  "validations": {
+    "minChannelGroups": "Zasebni kanali zahtevajo vsak eno skupino udeležencev."
+  },
+  "notices": {
+    "edit": "Urejanja bodo veljala vsepovsod, kjer je ta kanal uporabljen",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal ni bil ustvarjen",
+          "message": "Kanal s temi izbirami dostopa že obstaja. Uporabite obstoječ kanal ali prilagodite izbire."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal ni bil posodobljen",
+          "message": "Kanal s temi izbirami dostopa že obstaja, zato teh posodobitev ne moremo shraniti."
+        }
+      },
+      "action": "Uporabi obstoječ kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Nerazpoložljive skupine: {count}",
+      "message": "Nerazpoložljivih skupin si ne morete ogledati ali jih upravljati, če niste član."
+    }
+  }
+}

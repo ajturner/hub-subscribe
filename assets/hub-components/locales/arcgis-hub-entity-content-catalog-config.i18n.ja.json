@@ -1,0 +1,30 @@
+{
+  "helperText": "カタログの定義および構成",
+  "sections": {
+    "groups": {
+      "title": "グループ",
+      "helperText": "以下のグループには、検索カタログのコンテンツが含まれています。 グループを選択して、その設定やコンテンツなどを表示します。",
+      "createGroup": "新しいグループの作成"
+    },
+    "feeds": {
+      "title": "フィード構成",
+      "helperText": "Hub フィードにより、パブリック オープン データに簡単にアクセスして再利用できるようにします。",
+      "learn": "Hub フィードの詳細",
+      "toggle": "フィードの有効化 ",
+      "configure": "フィードの構成",
+      "notice": "フィードを有効化するには、まず、設定で Hub サイトを「パブリック」に設定する必要があります。"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "から",
+    "editGroups": "グループの編集",
+    "viewGroups": "グループの表示",
+    "myGroup": "マイ グループ",
+    "myOrganization": "組織",
+    "myCommunity": "マイ コミュニティ"
+  },
+  "formAlert": "フォームの通知",
+  "alertMessages": {
+    "error": "編集内容の保存中にエラーが発生しました"
+  }
+}

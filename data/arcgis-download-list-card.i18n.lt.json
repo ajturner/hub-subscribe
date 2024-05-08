@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoduomenų bazė",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Failinė geoduomenų bazė",
+  "featureCollection": "Elementų rinkinys",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Atsisiųsti CSV",
+  "downloadshapefile": "Atsisiųsti shape failą",
+  "downloadsqlite": "Atsisiųsti SQLite geoduomenų bazę",
+  "downloadgeoPackage": "Atsisiųsti GeoPackage",
+  "downloadfilegdb": "Atsisiųsti File Geodatabase",
+  "downloadfeatureCollection": "Atsisiųsti elementų kolekciją",
+  "downloadgeojson": "Atsisiųsti GeoJSON",
+  "downloadexcel": "Atsisiųsti Excel",
+  "rateLimitMessage": "Deja, pasiekėte atsisiuntimų limitą. Pabandykite dar kartą po valandos arba kreipkitės į savo turinio vadovą.",
+  "createReplicaErrorMessage": "Kurti replikos vidinę klaidą. Pabandykite dar kartą po valandos arba kreipkitės į savo turinio vadovą."
+}

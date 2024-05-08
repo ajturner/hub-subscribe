@@ -1,0 +1,24 @@
+{
+  "additionalInfo": {
+    "label": "Optional additional information",
+    "helperText": "Add additional information to the site's privacy settings."
+  },
+  "allowPrivacyConfig": {
+    "label": "Show privacy notice on the site"
+  },
+  "blocking": {
+    "label": "Block interaction on the site",
+    "helperText": "The privacy notice will block interaction within your site until the visiting user makes a selection."
+  },
+  "consentText": {
+    "label": "Additional privacy description"
+  },
+  "policyURL": {
+    "label": "Optional more information link",
+    "helperText": "Provide a link to your cookies policy for your organization.",
+    "error": "Please enter a valid URL"
+  },
+  "privacyNotice": {
+    "label": "Privacy notice"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "helperText": "Definisci e configura il catalogo",
+  "sections": {
+    "groups": {
+      "title": "Gruppi",
+      "helperText": "I seguenti gruppi contengono il contenuto nel catalogo di ricerca. Seleziona un gruppo per visualizzarne impostazioni, contenuto e molto altro.",
+      "createGroup": "Crea nuovo gruppo"
+    },
+    "feeds": {
+      "title": "Configurazione del feed",
+      "helperText": "Rendi i tuoi open data pubblici facilmente accessibili e riutilizzabili con i feed di Hub.",
+      "learn": "Informazioni sui feed di Hub",
+      "toggle": "Abilita i feed ",
+      "configure": "Configurare i feed",
+      "notice": "Per abilitare i feed è necessario impostare prima i siti di Hub su \"Pubblico\" nelle impostazioni"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Da",
+    "editGroups": "Modifica gruppi",
+    "viewGroups": "Visualizza gruppo",
+    "myGroup": "Il mio gruppo",
+    "myOrganization": "La mia organizzazione",
+    "myCommunity": "La mia community"
+  },
+  "formAlert": "Avviso modulo",
+  "alertMessages": {
+    "error": "Errore durante il salvataggio delle modifiche"
+  }
+}

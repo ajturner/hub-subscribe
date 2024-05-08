@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Paylaşım",
+      "myself": "Kendim",
+      "myOrganization": "Kuruluşum",
+      "public": "Dünya (Genel)"
+    },
+    "catalog": {
+      "myContent": "İçeriğim",
+      "favorites": "Sık Kullanılanlar",
+      "organization": "Kuruluşum",
+      "world": "Dünya (Genel)"
+    }
+  },
+  "expression": {
+    "label": "Öznitelik filtreleri"
+  },
+  "field": {
+    "label": "Öznitelik"
+  },
+  "layer": "Katman / tablo",
+  "statistic": {
+    "label": "Kümeleme"
+  }
+}

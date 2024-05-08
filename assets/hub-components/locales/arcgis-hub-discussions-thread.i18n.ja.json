@@ -1,0 +1,10 @@
+{
+  "error": "問題が発生しました",
+  "repliesFailure": "この投稿への返信を表示できませんでした。",
+  "thread.deleted.title": "スレッドが削除されました",
+  "thread.deleted.message": "リンクされている投稿と返信は削除されたため、表示できません。",
+  "thread.deleted.action": "すべての投稿を表示",
+  "reply.single.title": "1 つの返信を表示しています",
+  "reply.single.link": "すべての返信を表示",
+  "loading": "読み込んでいます"
+}

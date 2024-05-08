@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Eigenaar"
+  },
+  "updatedDate": {
+    "description": "Datum bijgewerkt"
+  },
+  "createdDate": {
+    "description": "Gepubliceerd"
+  },
+  "access": {
+    "label": {
+      "public": "Openbaar",
+      "org": "Organisatie",
+      "private": "Eigenaar",
+      "shared": "Privé gedeeld"
+    },
+    "description": {
+      "public": {
+        "site": "Iedereen kan deze site zien",
+        "project": "Iedereen kan dit project zien",
+        "initiative": "Iedereen kan dit initiatief zien",
+        "discussion": "Iedereen kan deze discussie zien",
+        "default": "Iedereen kan deze inhoud zien"
+      },
+      "org": {
+        "site": "Iedereen in uw organisatie kan deze site zien",
+        "project": "Iedereen in uw organisatie kan dit project zien",
+        "initiative": "Iedereen in uw organisatie kan dit initiatief zien",
+        "discussion": "Iedereen in uw organisatie kan deze discussie zien",
+        "default": "Iedereen in uw organisatie kan deze content zien"
+      },
+      "private": {
+        "site": "U bent de enige die deze site kan zien",
+        "project": "U bent de enige die dit project kan zien",
+        "initiative": "U bent de enige die dit initiatief kan zien",
+        "discussion": "U bent de enige die deze discussie kan zien",
+        "default": "U bent de enige die deze content kan zien"
+      },
+      "shared": {
+        "site": "Geselecteerde groepen kunnen deze site zien",
+        "project": "Geselecteerde groepen kunnen dit project zien",
+        "initiative": "Geselecteerde groepen kunnen dit initiatief zien",
+        "discussion": "Geselecteerde groepen kunnen deze discussie zien",
+        "default": "Geselecteerde groepen kunnen deze content zien"
+      }
+    }
+  }
+}

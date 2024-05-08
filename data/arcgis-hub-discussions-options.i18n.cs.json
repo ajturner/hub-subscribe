@@ -1,0 +1,10 @@
+{
+  "true.heading": "Ano, diskuze je povolena",
+  "false.heading": "Ne, diskuze je zakázána",
+  "content.label": "Povolit diskuzi o této položce?",
+  "content.true.description": "Uživatelé mohou vytvářet příspěvky k této položce.",
+  "content.false.description": "Uživatelé nemohou vytvářet příspěvky k této položce.",
+  "group.label": "Může se tato skupina účastnit diskuzí?",
+  "group.true.description": "Členové skupiny mohou zobrazovat diskuzní kanály, ke kterým má skupina přístup, a mohou se jich účastnit.",
+  "group.false.description": "Členové skupiny nemohou zobrazovat diskuzní kanály, ke kterým nemá skupina přístup, a nemohou se jich účastnit."
+}

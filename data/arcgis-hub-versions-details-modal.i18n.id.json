@@ -1,0 +1,9 @@
+{
+  "title": "Edit detail versi",
+  "save": "Simpan",
+  "cancel": "Batalkan",
+  "name.label": "Gelar",
+  "name.helpText": "Kosongkan judul jika Anda ingin kami mengidentifikasi versi berdasarkan stempel tanggal-waktu.",
+  "description.label": "Keterangan",
+  "error": "Terjadi kesalahan saat memperbarui versi."
+}

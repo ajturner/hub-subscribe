@@ -1,0 +1,36 @@
+{
+  "edit": "編集",
+  "delete": "削除",
+  "noneMessage": "場所が設定されていません",
+  "entityTypes": {
+    "project": "プロジェクト",
+    "site": "サイト",
+    "initiative": "イニシアティブ",
+    "discussion": "ディスカッション",
+    "content": "コンテンツ"
+  },
+  "emptyLocation": {
+    "title": "位置が描画されていません",
+    "message": "位置が追加されるまで、{entityType} はマップに表示されません"
+  },
+  "populatedLocation": {
+    "title": "別の場所を追加しますか？",
+    "message": "描画ツールをもう一度選択して、位置を追加します (最大 {maxLocations} 個)。"
+  },
+  "maximumPoints": {
+    "title": "ポイントの最大数に達しました ({currentCount}/{maxLocations})",
+    "message": "位置を追加するには、ポイントを削除するか、ラインとエリアを編集してそのポイントを削除します (右クリック)。"
+  },
+  "maximumLocations": {
+    "title": "位置の最大数に達しました",
+    "message": "位置を追加するには、1 つ以上の位置を削除するか、すべての位置を削除してより一般的なエリアを使用してください。"
+  },
+  "drawLocationPopover": {
+    "tooltip": "場所の追加",
+    "clear": "すべて消去",
+    "extent": "四角形の描画",
+    "point": "ポイントをドロップ",
+    "polyline": "ラインの描画",
+    "polygon": "エリアの描画"
+  }
+}

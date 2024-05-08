@@ -1,0 +1,16 @@
+{
+  "location.add": "Dodaj lokacijo",
+  "location.remove": "Odstrani lokacijo",
+  "draw.tip": "Dodaj drugo lokacijo?",
+  "prompt.add.post": "Dodaj k objavi",
+  "prompt.add.reply": "Dodaj k odgovoru",
+  "prompt.edit.point": "Premakni točko",
+  "prompt.edit.polyline": "Uredi linijo",
+  "prompt.edit.polygon": "Uredi območje",
+  "prompt.remove.point": "Izbriši točko",
+  "prompt.remove.polyline": "Izbriši linijo",
+  "prompt.remove.polygon": "Izbriši območje",
+  "prompt.remove.existing": "Prekliči izbiro",
+  "prompt.location.edit": "Posodobi risanje",
+  "prompt.location.delete": "Izbriši risbo"
+}

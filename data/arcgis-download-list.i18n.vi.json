@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Bộ sưu tập Đối tượng",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Tải xuống"
+}

@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Visible només per als membres",
+  "visibleOrg": "Visible per a l'organització",
+  "visibleAll": "Visible per a tothom",
+  "anonymous": "Anònim",
+  "privateUser": "Membre privat",
+  "noUser": "Sense nom d'usuari",
+  "orgLabel": "Organització",
+  "privateOrg": "Organització privada",
+  "location": "Ubicació",
+  "profile": "Ves al perfil",
+  "postedIn": "Publicat a {groupName}",
+  "manageChannel": "Administra el canal",
+  "information": "Informació sobre la publicació",
+  "group.deleted": "Grup suprimit",
+  "unnamedChannel": "Canal sense nom",
+  "replyingTo": "S'està responent a {fullName}",
+  "viewPost": "Mostra la publicació"
+}

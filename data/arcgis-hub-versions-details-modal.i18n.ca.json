@@ -1,0 +1,9 @@
+{
+  "title": "Edita els detalls de la versió",
+  "save": "Desa",
+  "cancel": "Cancel·la",
+  "name.label": "Títol",
+  "name.helpText": "Deixeu el títol en blanc si voleu que identifiquem la versió per una marca de data i hora.",
+  "description.label": "Descripció",
+  "error": "S'ha produït un error en actualitzar la versió."
+}

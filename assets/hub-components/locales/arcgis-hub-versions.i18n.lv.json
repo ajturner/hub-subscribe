@@ -1,0 +1,14 @@
+{
+  "createdBy": "Izveidoja {creator}",
+  "emptyMessage": "Nav atrasta neviena versija",
+  "errorMessage": "Ienesot versijas, radās kļūda",
+  "menuLabel": "rādīt darbības",
+  "publishedBadge": "Publicēts",
+  "viewingBadge": "Skatīt",
+  "popover.label": "Versijas darbības",
+  "popover.actions.delete": "Dzēst",
+  "popover.actions.edit": "Rediģēt detalizētu informāciju",
+  "popover.actions.share": "Koplietot",
+  "shareErrorMessage": "Kopējot koplietošanas URL starpliktuvē, radās kļūda.",
+  "shareSuccessMessage": "Koplietošanas URL ir iekopēts starpliktuvē."
+}

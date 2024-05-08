@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Jenis",
+    "tags": "Tag",
+    "categories": "Kategori",
+    "sharing": "Membagikan",
+    "dateUpdated": "Tanggal Diperbarui",
+    "map": {
+      "label": "Lokasi",
+      "tooltip": "Terapkan luas peta sebagai filter lokasi"
+    }
+  },
+  "collections": {
+    "all": "Semua",
+    "dataset": "Data",
+    "site": "Situs",
+    "document": "Dokumen",
+    "appAndMap": "Aplikasi & Peta"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Katalog Anda saat ini kosong.",
+    "button": "Konfigurasikan Katalog"
+  }
+}

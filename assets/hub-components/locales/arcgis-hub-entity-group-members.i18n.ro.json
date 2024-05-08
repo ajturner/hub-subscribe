@@ -1,0 +1,24 @@
+{
+  "title": "Membri",
+  "facets": {
+    "role": {
+      "label": "Rol",
+      "all": "Totul",
+      "manager": "Manager",
+      "member": "Membru"
+    },
+    "dateJoined": {
+      "label": "Data înscrierii"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Membrii echipei"
+    },
+    "new": {
+      "title": "Nou",
+      "trailingText": "Ultimele 30 de zile"
+    }
+  }
+}

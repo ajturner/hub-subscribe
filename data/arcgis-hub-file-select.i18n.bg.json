@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Плъзнете и пуснете файла, за да го качите",
+  "imageHeading": "Качване на изображение",
+  "selectedHeading": "Избран файл",
+  "maxSizeAndSupportedTypes": "Максималният размер е {maxSize}MB, {fileTypes}",
+  "maxSize": "Максималният размер е {maxSize}MB",
+  "recommendedDimensions": "Препоръчителни размери {recommendedDimensions}",
+  "linkText": "Вижте списък с поддържани файлове",
+  "contentButton": "Преглед на файл",
+  "imageButton": "Преглед на изображение",
+  "clearButton": "Изчистване на избраните",
+  "errorHeading": "Грешка",
+  "fileTooLargeError": "Файлът е твърде голям",
+  "multipleFilesError": "Не можете да качвате няколко файла едновременно",
+  "unsupportedFileTypeError": "Този тип файл не се поддържа"
+}

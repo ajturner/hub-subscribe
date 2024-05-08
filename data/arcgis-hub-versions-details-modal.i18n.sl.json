@@ -1,0 +1,9 @@
+{
+  "title": "Uredi podrobnosti različice",
+  "save": "Shrani",
+  "cancel": "Prekliči",
+  "name.label": "Naslov",
+  "name.helpText": "Če želite, da različico določimo glede na datum/časovni žig, pustite naslov prazen.",
+  "description.label": "Opis",
+  "error": "Napaka pri posodabljanju različice."
+}

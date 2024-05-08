@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Показване",
+    "hide": "Скриване",
+    "rename": "Преименуване"
+  },
+  "formAlert": "Формуляр за аларма",
+  "alertMessages": {
+    "success": "Запазването на редакции е успешно",
+    "error": "Грешка при запазване на редакции"
+  },
+  "collectionRenameModal": {
+    "title": "Преименуване на колекция",
+    "fieldLabel": "Надпис на колекцията",
+    "requiredMessage": "Изисква се надпис на колекцията",
+    "apply": "Прилагане"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Данни",
+      "hidden": "Данни (Скрити)"
+    },
+    "site": {
+      "visible": "Сайтове",
+      "hidden": "Сайтове (Скрити)"
+    },
+    "document": {
+      "visible": "Документи",
+      "hidden": "Документи (Скрити)"
+    },
+    "appAndMap": {
+      "visible": "Приложения и карти",
+      "hidden": "Приложения и карти (скрити)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Скрити)"
+    }
+  },
+  "saveButton": "Запазване"
+}

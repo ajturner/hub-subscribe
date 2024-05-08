@@ -1,0 +1,18 @@
+{
+  "purpose": "Σκοπός",
+  "description": "Πώς θα καταφέρουμε τον στόχο μας",
+  "details": "Λεπτομέρειες",
+  "featuredImageAlt": "Επιλεγμένη εικόνα έργου",
+  "trackProgress": "Παρακολούθηση της προόδου μας",
+  "participatingGroups": "Συμμετέχουσες ομάδες",
+  "whosInvolved": "Ποιος συμμετέχει",
+  "tags": "Ετικέτες",
+  "status": {
+    "label": "Κατάσταση έργου",
+    "notStarted": "Δεν εκκινήθηκε",
+    "inProgress": "Σε εξέλιξη",
+    "onHold": "Σε αναμονή",
+    "complete": "Ολοκληρωμένο"
+  },
+  "featuredContent": "Προτεινόμενο περιεχόμενο"
+}

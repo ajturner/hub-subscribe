@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Geavanceerde configuratie",
+    "serverTimeout": {
+      "label": "Server-time-out (seconden)",
+      "helperText": "Nuttig voor grotere services die meer tijd nodig hebben om te reageren."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Hoeken",
+      "enum": {
+        "round": {
+          "label": "Rond"
+        },
+        "square": {
+          "label": "Vierkant"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Slagschaduw",
+      "enum": {
+        "heavy": {
+          "label": "Zwaar"
+        },
+        "low": {
+          "label": "Laag"
+        },
+        "medium": {
+          "label": "Gemiddeld"
+        },
+        "none": {
+          "label": "Niet gestart"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistieken lay-out",
+      "enum": {
+        "dataViz": {
+          "label": "Datavisualisatie"
+        },
+        "moreInfo": {
+          "label": "Meer informatie"
+        },
+        "simple": {
+          "label": "Eenvoudig"
+        }
+      }
+    },
+    "popoverTitle": "Pop-over titel",
+    "popoverDescription": "Pop-over beschrijving",
+    "sectionTitle": "Weergave",
+    "textAlign": "Uitlijning",
+    "visualInterest": {
+      "label": "Visuele interesse",
+      "enum": {
+        "icon": {
+          "label": "Pictogram"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Geen"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Kleur (statistiek)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Link",
+      "sourceLink": "URL van link",
+      "sourceTitle": "Tekst link"
+    },
+    "sectionTitle": "Details",
+    "subtitle": "Ondertitel",
+    "title": "Titel",
+    "trailingText": "Volgtekst"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Link naar weergavebron vereist."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Opmaak",
+    "unit": {
+      "label": "Weergave-eenheden",
+      "helperText": "Voer de maateenheid in voor uw waarde."
+    },
+    "unitPosition": {
+      "label": "Plaatsing",
+      "enum": {
+        "after": {
+          "label": "Na"
+        },
+        "before": {
+          "label": "Voor"
+        },
+        "below": {
+          "label": "Onder"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Delen",
+    "showShareIcon": "Inschakelen",
+    "shareableByValue": "Inbedden inschakelen",
+    "shareableOnHover": {
+      "label": "Weergeven",
+      "enum": {
+        "always": {
+          "label": "Altijd"
+        },
+        "hover": {
+          "label": "Alleen bij boven tekst houden"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Gegevensbron",
+    "displayValue": "Weergavewaarde",
+    "sectionTitle": "Statistiek",
+    "type": {
+      "label": "Type",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamisch",
+          "description": "Selecteer een bestaande database die u wilt samenvatten."
+        },
+        "static": {
+          "label": "Statisch",
+          "description": "Voer handmatig een waarde in die u in uw lay-out wilt markeren."
+        }
+      }
+    }
+  }
+}

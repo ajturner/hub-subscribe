@@ -1,0 +1,7 @@
+{
+  "days": "dienas",
+  "hours": "stundas",
+  "minutes": "minūtes",
+  "seconds": "sek.",
+  "countdownDateMissingError": "Jums ir jānorāda atskaites datums"
+}

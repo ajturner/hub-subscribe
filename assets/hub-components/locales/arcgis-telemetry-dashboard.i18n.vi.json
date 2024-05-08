@@ -1,0 +1,31 @@
+{
+  "dateRange": "Phạm vi Ngày: {start} - {end}",
+  "pageViews": "Số lượt xem trang",
+  "timeOnSite": "Số phút trung bình trên site",
+  "users": "Phiên",
+  "viewsOverTime": "Số lượt xem trang theo thời gian",
+  "disabledTracking": "Theo dõi hoạt động đã bị tắt",
+  "enableTracking": "Bật theo dõi Hoạt động Hub trong cài đặt trang để giám sát việc sử dụng trang của bạn.",
+  "learnMore": "Tìm hiểu thêm.",
+  "disabled": "Đã tắt",
+  "notificationLabel": "Dữ liệu đã được Cập nhật",
+  "dataUpdated": "Dữ liệu đã được Cập nhật",
+  "subscribe": "Đăng ký",
+  "subscribed": "Đã đăng ký",
+  "weeklyReport": "Báo cáo hàng tuần",
+  "timestampTitle": {
+    "hour": "Thời gian trong Ngày",
+    "day": "Ngày",
+    "week": "Tuần"
+  },
+  "formAlert": "Cảnh báo Biểu mẫu",
+  "success": "Đã cập nhật thành công gói đăng ký",
+  "subscriptionActivatedTitle": "Đã kích hoạt gói đăng ký",
+  "subscriptionActivatedMessage": "Bạn đã đăng ký {email} để nhận số liệu tương tác hàng tuần.",
+  "unsubscribeCompleteTitle": "Huỷ đăng ký hoàn tất",
+  "unsubscribeCompleteMessage": "Đã huỷ đăng ký thành công {email} khỏi số liệu tương tác.",
+  "problemSubscribingTitle": "Sự cố khi đăng ký",
+  "problemSubscribingMessage": "Đã xảy ra sự cố khi đăng ký . Lỗi: ",
+  "problemUnsubscribingTitle": "Sự cố khi huỷ đăng ký",
+  "problemUnsubscribingMessage": "Đã xảy ra sự cố khi hủy đăng ký . Lỗi: "
+}

@@ -1,0 +1,10 @@
+{
+  "true.heading": "Oui, la discussion est autorisée",
+  "false.heading": "Non, la discussion est bloquée",
+  "content.label": "Autoriser les discussions sur cet élément ?",
+  "content.true.description": "Les utilisateurs peuvent créer des publications sur cet élément.",
+  "content.false.description": "Les utilisateurs ne peuvent pas créer de publications sur cet élément.",
+  "group.label": "Ce groupe peut-il participer à des discussions ?",
+  "group.true.description": "Les membres du groupe peuvent consulter les canaux de discussion auxquels le groupe a accès et y participer.",
+  "group.false.description": "Les membres du groupe ne peuvent pas consulter les canaux de discussion auxquels le groupe a accès ni y participer."
+}

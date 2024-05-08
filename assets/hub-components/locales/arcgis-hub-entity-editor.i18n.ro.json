@@ -1,0 +1,494 @@
+{
+  "success": "Editările au fost salvate cu succes",
+  "error": "Eroare la salvarea editărilor",
+  "create": "Creare",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nicio locație",
+        "org": "Extindere organizație",
+        "custom": "Locație particularizată",
+        "customDescription": "Trasați una sau mai multe locații",
+        "itemExtent": "Extindere curentă element"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Partajare"
+        },
+        "catalog": {
+          "myContent": "Resursele mele",
+          "favorites": "Preferinţe",
+          "organization": "Organizaţie",
+          "world": "Internațional (public)"
+        },
+        "collection": {
+          "appsAndMaps": "Aplicații și hărți",
+          "dataset": "Date",
+          "documents": "Documente",
+          "feedback": "Feedback",
+          "sites": "Site-uri"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Detalii"
+      },
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "location": {
+        "label": "Locaţie",
+        "helperText": "Afișați zona geografică în care va avea loc acest proiect (pentru a apărea în structura proiectului)."
+      },
+      "status": {
+        "label": "Stare"
+      },
+      "sharing": {
+        "label": "Partajare"
+      },
+      "timeline": {
+        "label": "Cronologie"
+      },
+      "searchDiscoverability": {
+        "label": "Căutare și posibilitate de descoperire"
+      },
+      "featuredContent": {
+        "label": "Conținut promovat",
+        "helperText": "Evidențiați documente specifice, aplicații și date legate de proiectul dvs. Puteți prezenta până la 4 elemente."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nume proiect",
+        "requiredError": "Numele proiectului este un câmp obligatoriu."
+      },
+      "description": {
+        "label": "Descriere",
+        "helperText": "Specificați cum își va realiza proiectul dvs. obiectivele. Analizați posibilitatea de includere a informațiilor de context relevante și modificările așteptate4 ca urmare a proiectului."
+      },
+      "summary": {
+        "label": "Scop",
+        "helperText": "Rezumați pe scurt obiectivele proiectului dvs."
+      },
+      "access": {
+        "itemType": "Proiect"
+      },
+      "groups": {
+        "label": "Partajați cu...",
+        "viewGroup": "(Grup vizualizare)",
+        "editGroup": "(Grup editare)"
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Setați o miniatură pentru a reprezenta acest proiect în ArcGIS Online și pentru căutări și galerii.",
+        "sizeDescription": "Dimensiuni recomandate: 760 x 505 sau mai mari"
+      },
+      "featuredImage": {
+        "label": "Imagine prezentată",
+        "helperText": "Selectați o imagine pentru a reprezenta munca dvs. la structura proiectului.",
+        "sizeDescription": "Dimensiunea max. a fișierului este 10 mb. Dimensiuni recomandate: 718 x 478 sau mai mari",
+        "altText": {
+          "label": "Text alternativ",
+          "helperText": "Furnizați o scurtă descriere a imaginii dvs. pentru cei care utilizează cititoarele de ecran. Lăsați gol pentru a indica faptul că imaginea este decorativă."
+        }
+      },
+      "tags": {
+        "label": "Etichete",
+        "helperText": "Etichetele sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest proiect. Adăugați text și selectați enter pentru a crea etichete noi."
+      },
+      "categories": {
+        "label": "Categorii",
+        "helperText": "Categoriile sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest proiect. Acestea sunt setate de organizația dvs. ArcGIS Online."
+      },
+      "status": {
+        "label": "Stare proiect",
+        "enum": {
+          "notStarted": {
+            "label": "Nepornit"
+          },
+          "inProgress": {
+            "label": "În progres"
+          },
+          "onHold": {
+            "label": "În așteptare"
+          },
+          "complete": {
+            "label": "Finalizată"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Partajare"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Detalii"
+      },
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "location": {
+        "label": "Locaţie",
+        "helperText": "Afișați zona geografică în care va avea loc această inițiativă (pentru a apărea în structura inițiativei)."
+      },
+      "sharing": {
+        "label": "Partajare"
+      },
+      "featuredContent": {
+        "label": "Conținut promovat",
+        "helperText": "Evidențiați documente specifice, aplicații și date legate de proiectul dvs. Puteți prezenta până la 4 elemente."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nume inițiativă",
+        "requiredError": "Numele inițiativei este un câmp obligatoriu"
+      },
+      "summary": {
+        "label": "Scop",
+        "helperText": "Rezumați pe scurt obiectivele inițiativei dvs."
+      },
+      "access": {
+        "itemType": "Iniţiativă"
+      },
+      "description": {
+        "label": "Descriere",
+        "helperText": "Furnizați mai mult context care ar putea fi util când căutați această inițiativă."
+      },
+      "tags": {
+        "label": "Etichete",
+        "helperText": "Sunt utilizate etichete în cataloagele de căutare pentru a-i ajuta pe ceilalți să găsească această inițiativă. Adăugați text și selectați enter pentru a crea etichete noi."
+      },
+      "categories": {
+        "label": "Categorii",
+        "helperText": "Sunt utilizate categorii în cataloagele de căutare pentru a-i ajuta pe ceilalți să găsească această inițiativă. Acestea sunt setate de organizația dvs. ArcGIS Online."
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Setați o miniatură pentru a reprezenta această inițiativă în ArcGIS Online și pentru căutări și galerii."
+      },
+      "groups": {
+        "label": "Partajați cu...",
+        "viewGroup": "(Grup vizualizare)",
+        "editGroup": "(Grup editare)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tip",
+          "sharing": "Partajare"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Detalii"
+      },
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "location": {
+        "label": "Locaţie"
+      },
+      "settings": {
+        "label": "Setări discuții"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Titlu",
+        "requiredError": "Numele panoului de discuții este obligatoriu."
+      },
+      "prompt": {
+        "label": "Mesaj",
+        "helperText": "Descrieți pe scurt ce doriți să trimită participanții pe acest panou de discuții.",
+        "requiredError": "Mesajul este un câmp obligatoriu"
+      },
+      "description": {
+        "label": "Descriere",
+        "helperText": "Furnizați mai mult context care ar putea fi util când căutați acest panou."
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Selectați o imagine pentru a reprezenta discuția dvs."
+      },
+      "summary": {
+        "label": "Scop",
+        "helperText": "Descrieți pe scurt scopul panoului de discuții, ceea ce este util când partajați linkul cu alte persoane."
+      },
+      "featuredImage": {
+        "label": "Imagine prezentată",
+        "sizeDescription": "Dimensiunea maximă este 10 MB, JPEG, JPG sau PNG",
+        "altText": {
+          "label": "Text alternativ",
+          "helperText": "Furnizați o scurtă descriere a imaginii dvs. pentru cei care utilizează cititoarele de ecran. Lăsați gol pentru a indica faptul că imaginea este decorativă."
+        },
+        "name": {
+          "label": "Denumire imagine"
+        }
+      },
+      "tags": {
+        "label": "Etichete"
+      },
+      "categories": {
+        "label": "Categorii"
+      },
+      "discussable": {
+        "label": "Discuție permisă?",
+        "enabled": {
+          "label": "Da, discuția este permisă",
+          "description": "Participanții pot adăuga postări, răspunsuri .și reacții la acest panou de discuții."
+        },
+        "disabled": {
+          "label": "Nu, discuția este blocată",
+          "description": "Elimină posibilitatea de a adăuga postări noi, răspunsuri și reacții. Nu șterge participarea anterioară."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "location": {
+        "label": "Locaţie",
+        "helperText": "Afișați zona geografică de care aparține acest site."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Denumirea site-ului",
+        "requiredError": "Denumirea site-ului este un câmp obligatoriu"
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Setați o miniatură pentru a reprezenta acest site în ArcGIS Online și pentru căutări și galerii."
+      },
+      "description": {
+        "label": "Descriere",
+        "helperText": "Descrierea site-ului."
+      },
+      "summary": {
+        "label": "Rezumat",
+        "helperText": "Rezumați pe scurt site-ul."
+      },
+      "tags": {
+        "label": "Etichete",
+        "helperText": "Etichetele sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest site. Adăugați text și selectați enter pentru a crea etichete noi."
+      },
+      "categories": {
+        "label": "Categorii",
+        "helperText": "Categoriile sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest site. Acestea sunt setate de organizația dvs. ArcGIS Online."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Setare vizibilitate",
+          "helperText": "Controlați cine poate vedea următoarele butoane. Această setare se aplică atât pentru butonul flotant de urmărire a acțiunilor în pagină, cât și pentru orice buton de urmărire inclus direct pe stratul tematic.",
+          "private": {
+            "label": "Privat",
+            "description": "Proprietarul site-ului și grupurile cu acces pot vedea butoanele de urmărire"
+          },
+          "org": {
+            "label": "Organizație",
+            "description": "Toți membrii unui cont la organizația site-ului și grupurile cu acces pot vedea butoanele de urmărire"
+          },
+          "public": {
+            "label": "Public",
+            "description": "Toată lumea poate vedea butoanele de urmărire"
+          }
+        },
+        "showFollowAction": {
+          "label": "Acțiune de urmărire",
+          "helperText": "Adăugați un buton de urmărire în meniul de acțiuni în pagină, care rămâne vizibil atunci când utilizatorii derulează stratul tematic."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "location": {
+        "label": "Locaţie",
+        "helperText": "Afișați zona geografică de care aparține această pagină."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Denumirea paginii",
+        "requiredError": "Denumirea paginii este un câmp obligatoriu"
+      },
+      "description": {
+        "label": "Descriere",
+        "helperText": "Descrierea paginii."
+      },
+      "summary": {
+        "label": "Rezumat",
+        "helperText": "Rezumați pe scurt pagina."
+      },
+      "tags": {
+        "label": "Etichete",
+        "helperText": "Etichetele sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească această pagină. Adăugați text și selectați enter pentru a crea etichete noi."
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Setați o miniatură pentru a reprezenta această pagină în ArcGIS Online și pentru căutări și galerii."
+      },
+      "categories": {
+        "label": "Categorii",
+        "helperText": "Categoriile sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească această pagină. Acestea sunt setate de organizația dvs. ArcGIS Online."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Titlu",
+        "hint": "Titlurile concise vor spori capacitatea de a fi descoperite în tot conținutul.",
+        "requiredError": "Titlul este un câmp obligatoriu"
+      },
+      "summary": {
+        "label": "Rezumat",
+        "hint": "Rezumați pe scurt conținutul. SUGESTIE: Îmbunătățiți SEO folosind cuvinte cheie care diferă de „Titlu” și „Etichete”."
+      },
+      "description": {
+        "label": "Descriere",
+        "hint": "Adăugați detalii suplimentare care să explice conținutul. Căutați un nivel de citire de clasa a 7-a - a 9-a pentru a avea un public mai mare. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Folosiți un instrument de analiză gratuită a lizibilității pentru a vă testa textul</a>."
+      },
+      "tags": {
+        "label": "Etichete",
+        "hint": "Etichetele sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest conținut. Adăugați text și selectați enter pentru a crea etichete noi."
+      },
+      "categories": {
+        "label": "Categorii",
+        "agolHint": "Categoriile sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest conținut. Acestea sunt setate de organizația dvs. ArcGIS Online.",
+        "enterpriseHint": "Categoriile sunt utilizate în cataloagele de căutare pentru a-i ajuta pe alții să găsească acest conținut. Acestea sunt setate de organizația dvs. ArcGIS Enterprise.",
+        "agolNoCategoryHint": "Sugestie: Categoriile sunt disponibile doar dacă sunt setate de organizația dvs. în organizația ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Sugestie: Categoriile sunt disponibile doar dacă sunt setate de organizația dvs. în organizația ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Setați o miniatură pentru a reprezenta acest element în ArcGIS Online și pentru căutări și galerii."
+      },
+      "license": {
+        "label": "Termeni de utilizare",
+        "helperText": "Mai puține restricții promovează mai multe reutilizări."
+      },
+      "serverExtractCapability": {
+        "label": "Extragere capacitate (export date)",
+        "helperText": "Activează capacitatea de „extragere” în acest serviciu al elementului. Extragerea acceptă formate suplimentare."
+      },
+      "hostedDownloads": {
+        "label": "Descărcări găzduite (beta)",
+        "helperText": "Creați fișiere de descărcat direct dintr-un serviciu găzduit. Acest lucru îmbunătățește performanța la descărcarea conținutului cum ar fi straturile tematice ale obiectelor spațiale și tabelele. Pentru a activa descărcările găzduite, opțiunea Capabilități de extragere trebuie să fie activată."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Informații de bază",
+        "message": "Aceste informații sunt folosite pentru popularea rezultatelor de căutare, a cartelelor de galerie și sunt afișate pe imaginea cu detalii."
+      },
+      "about": {
+        "title": "Despre conținut",
+        "message": "Primele două rânduri ale descrierii dvs. sunt ceea ce apare în rezultatele de căutare, dar întreaga descriere va fi prezentată pe imaginile cu conținut concentrat."
+      },
+      "image": {
+        "title": "Imagine prezentată",
+        "message": "Este important să aveți o imagine sau o miniatură atunci când vă prezentați conținutul în galeriile noastre sau pe vizualizări care accentuează imagini cum ar fi inițiativele, evenimentele și chestionarele. Dimensiunea recomandată este de 760x505. Dacă imaginea dvs. este neclară pe trasee în direct, luați în considerare înlocuirea miniaturii cu o imagine mai mare."
+      },
+      "location": {
+        "label": "Locaţie",
+        "helperText": "Afișați zona geografică în care va avea loc acest conținut (pentru a apărea în structura conținutului)."
+      },
+      "downloads": {
+        "label": "Descărcări",
+        "helperText": "Configurați formate de descărcare, programați actualizarea fișierelor din memoria cache și multe alte. Pentru mai multe detalii, consultați <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">descărcarea documentației.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} caractere rămase"
+    },
+    "imageThumbnail": {
+      "label": "Imagine miniatură",
+      "upload": "Încărcare imagine",
+      "done": "Gata",
+      "editThumbnail": "Editare miniatură",
+      "browse": "Parcurgere după imagine",
+      "remove": "Eliminare imagine",
+      "edit": "Editare imagine",
+      "defaultHeading": "Adăugați o imagine în miniatură",
+      "dropHeading": "Fixați pentru a încărca",
+      "errorHeading": "Încercați o altă imagine",
+      "subheading": "Dimensiunea max est {size}, {types}",
+      "zoomOut": "micşorare",
+      "zoomIn": "mărire",
+      "drag": "Glisați pentru a repoziționa",
+      "urlPlaceholder": "Tipuri acceptate: {types}",
+      "browseForImage": "Răsfoire după imagine",
+      "aria": {
+        "container": "Suprafața imaginii",
+        "crop": "Suprafața decupajului",
+        "handle": {
+          "top": "Redimensionare sus",
+          "right": "Redimensionare dreapta",
+          "left": "Redimensionare stânga",
+          "bottom": "Redimensionare jos"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Detalii"
+      },
+      "basicInfo": {
+        "label": "Informații de bază"
+      },
+      "membershipAccess": {
+        "label": "Accesul membrilor"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Numele grupului",
+        "requiredError": "Numele grupului este un câmp obligatoriu"
+      },
+      "summary": {
+        "label": "Rezumat"
+      },
+      "access": {
+        "itemType": "Grup"
+      },
+      "_thumbnail": {
+        "label": "Miniatură",
+        "helperText": "Selectați o imagine pentru a reprezenta grupul dvs. în profilul grupului.",
+        "sizeDescription": "Dimensiunea max. este 10 mb. Dimensiune recomandată: 400 x 400 sau mai mare"
+      },
+      "membershipAccess": {
+        "label": "Cine poate fi în acest grup?",
+        "org": "Doar membrii organizației mele",
+        "collab": "Doar membrii colaborărilor partenere și ai organizației mele",
+        "any": "Membrii oricărei organizații"
+      },
+      "contributeContent": {
+        "label": "Cine poate contribui cu conţinut?",
+        "all": "Toți membrii grupului",
+        "admins": "Titularul şi managerii grupului"
+      }
+    }
+  }
+}

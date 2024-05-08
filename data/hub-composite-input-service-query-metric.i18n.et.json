@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Jagamine",
+      "myself": "Mina ise",
+      "myOrganization": "Minu organisatsioon",
+      "public": "Maailm (avalik)"
+    },
+    "catalog": {
+      "myContent": "Minu sisu",
+      "favorites": "Lemmikud",
+      "organization": "Minu organisatsioon",
+      "world": "Maailm (avalik)"
+    }
+  },
+  "expression": {
+    "label": "Atribuudifiltrid"
+  },
+  "field": {
+    "label": "Atribuut"
+  },
+  "layer": "Kiht/tabel",
+  "statistic": {
+    "label": "Agregeerimine"
+  }
+}

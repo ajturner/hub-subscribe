@@ -1,0 +1,32 @@
+{
+  "beta": "Béta",
+  "editLayout": "Elrendezés szerkesztése",
+  "editContent": "Tartalom szerkesztése",
+  "view": {
+    "project": "Projekt megtekintése",
+    "site": "Webhely megtekintése",
+    "initiative": "Kezdeményezés megtekintése",
+    "discussion": "Vitafórum megtekintése",
+    "content": "Tartalom megtekintése",
+    "page": "Oldal megtekintése",
+    "group": "Csoport megtekintése"
+  },
+  "label": {
+    "project": "Projekt munkaterülete",
+    "site": "Webhely munkaterülete",
+    "initiative": "Kezdeményezés munkaterülete",
+    "discussion": "Párbeszéd munkaterülete",
+    "content": "Tartalom munkaterülete",
+    "page": "Oldal munkaterülete",
+    "group": "Csoport munkaterülete"
+  },
+  "access": {
+    "sharingLevel": "Megosztási szint",
+    "groupSharing": "Csoportmegosztás",
+    "public": "Nyilvános",
+    "org": "Szervezet",
+    "private": "Tulajdonos",
+    "shared": "Magánjellegűként megosztva",
+    "disabled": "Nem módosíthatja a megosztást, mivel nem Ön a tulajdonos, illetve nem adminisztrátor."
+  }
+}

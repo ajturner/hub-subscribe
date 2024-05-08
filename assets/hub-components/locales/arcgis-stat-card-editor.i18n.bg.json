@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Разширена конфигурация",
+    "serverTimeout": {
+      "label": "Връзката със сървъра прекъсна (секунди)",
+      "helperText": "Полезно за по-големи услуги, които може да отнемат повече време за отговор."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Ъгли",
+      "enum": {
+        "round": {
+          "label": "Закръгляне"
+        },
+        "square": {
+          "label": "Квадрат"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Падаща сянка",
+      "enum": {
+        "heavy": {
+          "label": "Силно"
+        },
+        "low": {
+          "label": "Ниско"
+        },
+        "medium": {
+          "label": "Средно"
+        },
+        "none": {
+          "label": "Не е започнал"
+        }
+      }
+    },
+    "layout": {
+      "label": "Оформление на статистика",
+      "enum": {
+        "dataViz": {
+          "label": "Визуализация на данни"
+        },
+        "moreInfo": {
+          "label": "Повече информация"
+        },
+        "simple": {
+          "label": "Обикновено"
+        }
+      }
+    },
+    "popoverTitle": "Изкачащо заглавие",
+    "popoverDescription": "Изкачащо описание",
+    "sectionTitle": "Външно представяне",
+    "textAlign": "Подравняване",
+    "visualInterest": {
+      "label": "Визуален интерес",
+      "enum": {
+        "icon": {
+          "label": "Икона"
+        },
+        "logo": {
+          "label": "Лого"
+        },
+        "none": {
+          "label": "Няма"
+        },
+        "sparkline": {
+          "label": "Крива"
+        }
+      }
+    },
+    "valueColor": "Цвят (статистика)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Връзка",
+      "sourceLink": "Свързване с URL адрес",
+      "sourceTitle": "Свързване с текст"
+    },
+    "sectionTitle": "Подробни данни",
+    "subtitle": "Подзаглавие",
+    "title": "Заглавие",
+    "trailingText": "Следящ текст"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Необходима е връзка за показване на източник."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Форматиране",
+    "unit": {
+      "label": "Единици за показване",
+      "helperText": "Въведете мерната единица за вашата стойност."
+    },
+    "unitPosition": {
+      "label": "Поставяне",
+      "enum": {
+        "after": {
+          "label": "След"
+        },
+        "before": {
+          "label": "Преди"
+        },
+        "below": {
+          "label": "Отдолу"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Споделяне",
+    "showShareIcon": "Активиране",
+    "shareableByValue": "Активиране на вграждане",
+    "shareableOnHover": {
+      "label": "Показване",
+      "enum": {
+        "always": {
+          "label": "Винаги"
+        },
+        "hover": {
+          "label": "Само задръжте курсура на мишка"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Източник на данни",
+    "displayValue": "Показване на стойност",
+    "sectionTitle": "Статистика",
+    "type": {
+      "label": "Тип",
+      "enum": {
+        "dynamic": {
+          "label": "Динамични",
+          "description": "Изберете съществуващ набор от данни (услуга с обекти), за да обобщите."
+        },
+        "static": {
+          "label": "Статични",
+          "description": "Въведете ръчно стойност, която да маркирате в оформлението си."
+        }
+      }
+    }
+  }
+}

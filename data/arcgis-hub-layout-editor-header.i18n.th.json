@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "แชร์กับองค์กรแล้ว",
+      "private": "แชร์กับเจ้าของแล้ว",
+      "public": "แชร์กับบุคคลทั่วไปแล้ว",
+      "shared": "แชร์กับเจ้าของและกลุ่มแล้ว"
+    },
+    "editLayout": "แก้ไขโครงร่าง",
+    "lastUpdated": "อัปเดตล่าสุด {updated}",
+    "viewSite": "ดูไซต์"
+  },
+  "cloneLayoutLabel": "โคลนโครงร่าง",
+  "deletePageLabel": "ลบหน้า",
+  "deleteSiteLabel": "ลบไซต์",
+  "editInAgoLabel": "แก้ไขใน ArcGIS Online",
+  "managePage": "จัดการหน้า",
+  "manageSite": "จัดการไซต์",
+  "moreOptionsLabel": "ตัวเลือกเพิ่มเติม",
+  "publishLabel": "เผยแพร่",
+  "saveAsTemplateLabel": "บันทึกเป็นเทมเพลต",
+  "saveLabel": "บันทึก",
+  "sharingLabel": "เปิดพาเนลการแชร์",
+  "viewLabel": "ดู",
+  "viewPublishedLabel": "ดูแบบร่างที่เผยแพร่แล้ว",
+  "viewUnpublishedLabel": "แสดงตัวอย่างแบบร่างที่ยังไม่ได้เผยแพร่"
+}

@@ -1,0 +1,25 @@
+{
+  "moreResults": "その他の結果",
+  "search": "検索",
+  "filter": "フィルター",
+  "viewResults": "結果を表示 ({numResults})",
+  "resultsCount": "1 - {pageTotal}/{searchTotal}",
+  "backToTop": "トップへ戻る",
+  "facets": {
+    "access": {
+      "private": "自分",
+      "shared": "所有者とグループ",
+      "org": "組織",
+      "public": "パブリック"
+    },
+    "license": {
+      "custom": "カスタム",
+      "none": "なし"
+    }
+  },
+  "layoutOptions": {
+    "list": "リストの表示",
+    "grid": "グリッドの表示"
+  },
+  "galleryActionsLabel": "追加のアクション"
+}

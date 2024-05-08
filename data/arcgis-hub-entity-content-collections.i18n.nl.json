@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Weergeven",
+    "hide": "Verbergen",
+    "rename": "Hernoemen"
+  },
+  "formAlert": "Formulierwaarschuwing",
+  "alertMessages": {
+    "success": "De bewerkingen zijn opgeslagen",
+    "error": "Er is een fout opgetreden bij het opslaan van bewerkingen"
+  },
+  "collectionRenameModal": {
+    "title": "Collectie hernoemen",
+    "fieldLabel": "Collectielabel",
+    "requiredMessage": "Collectielabel vereist",
+    "apply": "Toepassen"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Gegevens",
+      "hidden": "Gegevens (verborgen)"
+    },
+    "site": {
+      "visible": "Sites",
+      "hidden": "Sites (verborgen)"
+    },
+    "document": {
+      "visible": "Documenten",
+      "hidden": "Documenten (verborgen)"
+    },
+    "appAndMap": {
+      "visible": "Apps & kaarten",
+      "hidden": "Apps & kaarten (verborgen)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Verborgen)"
+    }
+  },
+  "saveButton": "Opslaan"
+}

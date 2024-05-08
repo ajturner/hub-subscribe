@@ -1,0 +1,8 @@
+{
+  "header": "討論選項",
+  "secondary": "取消",
+  "primary": "儲存變更",
+  "pending": "儲存",
+  "error.title": "發生錯誤",
+  "error.message": "請重試儲存變更。"
+}

@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Geodatabase",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "אוסף ישויות",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "הורד קובץ CSV",
+  "downloadshapefile": "הורד Shapefile",
+  "downloadsqlite": "הורד SQLite Geodatabase",
+  "downloadgeoPackage": "הורד GeoPackage",
+  "downloadfilegdb": "הורד File Geodatabase",
+  "downloadfeatureCollection": "הורד אוסף ישויות",
+  "downloadgeojson": "הורד GeoJSON",
+  "downloadexcel": "הורד Excel",
+  "rateLimitMessage": "מצטערים, הגעת למגבלת ההורדה. נסה שוב בעוד שעה או פנה למנהל התוכן.",
+  "createReplicaErrorMessage": "שגיאה פנימית של יצירת רפליקה נסה שוב בעוד שעה או פנה למנהל התוכן."
+}

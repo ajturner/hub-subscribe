@@ -1,0 +1,494 @@
+{
+  "success": "成功保存编辑内容",
+  "error": "保存编辑内容时出错",
+  "create": "创建",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "无任何位置",
+        "org": "组织的范围",
+        "custom": "自定义位置",
+        "customDescription": "绘制一个或多个位置",
+        "itemExtent": "项目当前范围"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "类型",
+          "sharing": "共享"
+        },
+        "catalog": {
+          "myContent": "我的内容",
+          "favorites": "收藏夹",
+          "organization": "组织",
+          "world": "世界(公共)"
+        },
+        "collection": {
+          "appsAndMaps": "应用程序和地图",
+          "dataset": "数据",
+          "documents": "文档",
+          "feedback": "反馈",
+          "sites": "站点"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "详细信息"
+      },
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "显示该工程将发生的地理区域(显示在工程布局上)。"
+      },
+      "status": {
+        "label": "状态"
+      },
+      "sharing": {
+        "label": "共享"
+      },
+      "timeline": {
+        "label": "时间轴"
+      },
+      "searchDiscoverability": {
+        "label": "搜索和可发现性"
+      },
+      "featuredContent": {
+        "label": "专题内容",
+        "helperText": "突出显示与您的工程相关的特定文档、应用程序和数据。 您最多可以选择 4 个项目。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "工程名称",
+        "requiredError": "工程名称为必填字段"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "指定您的工程将如何实现其目标。 考虑包括相关背景信息和工程预期的变化。"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "简要总结工程目标。"
+      },
+      "access": {
+        "itemType": "工程"
+      },
+      "groups": {
+        "label": "共享对象",
+        "viewGroup": "(查看群组)",
+        "editGroup": "(编辑群组)"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "设置一个缩略图以在 ArcGIS Online 以及搜索和图库中表示此工程。",
+        "sizeDescription": "建议尺寸：760 x 505 或更大"
+      },
+      "featuredImage": {
+        "label": "精选图像",
+        "helperText": "选择一个图像以表示您在工程布局上的工作。",
+        "sizeDescription": "最大文件大小为 10 Mb。 建议尺寸：718 x 478 或更大",
+        "altText": {
+          "label": "更改文本",
+          "helperText": "为使用屏幕阅读器的人员提供图像的简短描述。 留空表示装饰图像。"
+        }
+      },
+      "tags": {
+        "label": "标签",
+        "helperText": "标签可用于搜索目录以帮助其他人找到该工程。 添加文本并选择 Enter 键以创建新标签。"
+      },
+      "categories": {
+        "label": "类别",
+        "helperText": "类别可用于搜索目录以帮助其他人找到该工程。 它们由您的 ArcGIS Online 组织设置。"
+      },
+      "status": {
+        "label": "工程状态",
+        "enum": {
+          "notStarted": {
+            "label": "未开始"
+          },
+          "inProgress": {
+            "label": "进行中"
+          },
+          "onHold": {
+            "label": "保持"
+          },
+          "complete": {
+            "label": "完成"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "类型",
+          "sharing": "共享"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "详细信息"
+      },
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "显示该倡议将发生的地理区域(显示在倡议布局上)。"
+      },
+      "sharing": {
+        "label": "共享"
+      },
+      "featuredContent": {
+        "label": "专题内容",
+        "helperText": "突出显示与您的工程相关的特定文档、应用程序和数据。 您最多可以选择 4 个项目。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "倡议名称",
+        "requiredError": "倡议名称为必填字段"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "简要总结倡议的目标。"
+      },
+      "access": {
+        "itemType": "倡议"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "提供更多可能对搜索此倡议有帮助的上下文。"
+      },
+      "tags": {
+        "label": "标签",
+        "helperText": "将在搜索目录中使用标签以帮助其他人查找此倡议。 添加文本并选择 Enter 键以创建新标签。"
+      },
+      "categories": {
+        "label": "类别",
+        "helperText": "将在搜索目录中使用类别以帮助其他人查找此倡议。 它们由您的 ArcGIS Online 组织设置。"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "设置一个缩略图以在 ArcGIS Online 以及搜索和图库中表示此倡议。"
+      },
+      "groups": {
+        "label": "共享对象",
+        "viewGroup": "(查看群组)",
+        "editGroup": "(编辑群组)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "类型",
+          "sharing": "共享"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "详细信息"
+      },
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "location": {
+        "label": "位置"
+      },
+      "settings": {
+        "label": "讨论设置"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "标题",
+        "requiredError": "讨论板名称为必填项。"
+      },
+      "prompt": {
+        "label": "提示",
+        "helperText": "简要描述您希望参与者在此讨论板上提交的内容。",
+        "requiredError": "提示为必填字段"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "提供更多可能对搜索此板有帮助的上下文。"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "选择一个图像以表示您的讨论。"
+      },
+      "summary": {
+        "label": "用途",
+        "helperText": "简要描述此讨论板的用途，当与其他人共享链接时，该内容将非常有用。"
+      },
+      "featuredImage": {
+        "label": "精选图像",
+        "sizeDescription": "最大大小为 10 MB，格式为 JPEG、JPG 或 PNG",
+        "altText": {
+          "label": "更改文本",
+          "helperText": "为使用屏幕阅读器的人员提供图像的简短描述。 留空表示装饰图像。"
+        },
+        "name": {
+          "label": "图像名称"
+        }
+      },
+      "tags": {
+        "label": "标签"
+      },
+      "categories": {
+        "label": "类别"
+      },
+      "discussable": {
+        "label": "是否允许允许讨论?",
+        "enabled": {
+          "label": "是，允许讨论",
+          "description": "参与者可以在此讨论板中添加帖子、回复和反应。"
+        },
+        "disabled": {
+          "label": "否，讨论将被阻止",
+          "description": "禁止添加新的帖子、回复和反应。 不会删除先前的参与。"
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "显示该站点所属的地理区域。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "站点名称",
+        "requiredError": "站点名称为必填字段"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "设置一个缩略图以在 ArcGIS Online 以及搜索和图库中表示此站点。"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "站点的描述。"
+      },
+      "summary": {
+        "label": "摘要",
+        "helperText": "简要总结站点。"
+      },
+      "tags": {
+        "label": "标签",
+        "helperText": "标签可用于搜索目录以帮助其他人找到该站点。 添加文本并选择 Enter 键以创建新标签。"
+      },
+      "categories": {
+        "label": "类别",
+        "helperText": "类别可用于搜索目录以帮助其他人找到该站点。 它们由您的 ArcGIS Online 组织设置。"
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "设置可见性",
+          "helperText": "控制可以看到关注按钮的用户。 此设置适用于流动页内操作关注按钮以及直接在布局中嵌入的任何关注按钮。",
+          "private": {
+            "label": "私有",
+            "description": "具有访问权限的站点所有者和群组可以看到关注按钮"
+          },
+          "org": {
+            "label": "组织",
+            "description": "具有站点组织帐户的所有成员以及具有访问权限的群组均可以看到关注按钮"
+          },
+          "public": {
+            "label": "公共",
+            "description": "所有人都可以看到关注按钮"
+          }
+        },
+        "showFollowAction": {
+          "label": "关注操作",
+          "helperText": "将关注按钮添加到页内操作菜单，该按钮在用户滚动浏览布局时一直可见。"
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "显示该页面所属的地理区域。"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "页面名称",
+        "requiredError": "页面名称为必填字段"
+      },
+      "description": {
+        "label": "描述",
+        "helperText": "页面的描述。"
+      },
+      "summary": {
+        "label": "摘要",
+        "helperText": "简要总结页面。"
+      },
+      "tags": {
+        "label": "标签",
+        "helperText": "标签可用于搜索目录以帮助其他人找到该页面。 添加文本并选择 Enter 键以创建新标签。"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "设置一个缩略图以在 ArcGIS Online 以及搜索和图库中表示此页面。"
+      },
+      "categories": {
+        "label": "类别",
+        "helperText": "类别可用于搜索目录以帮助其他人找到该页面。 它们由您的 ArcGIS Online 组织设置。"
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "标题",
+        "hint": "简短标题可以使内容更容易被发现。",
+        "requiredError": "标题为必填字段"
+      },
+      "summary": {
+        "label": "摘要",
+        "hint": "简要总结您的内容。 提示：通过使用与“Title”或“Tags”不同的关键字来改善 SEO。"
+      },
+      "description": {
+        "label": "描述",
+        "hint": "添加附加详细信息来解释您的内容。 尽量使可读性达到 7-9 级，以吸引更广泛的受众。 <a href='https://www.webfx.com/tools/read-able/' target='_blank'>使用可读性分析工具来测试您的文本</a>。"
+      },
+      "tags": {
+        "label": "标签",
+        "hint": "标签可用于搜索目录以帮助其他人找到该内容。 添加文本并选择 Enter 键以创建新标签。"
+      },
+      "categories": {
+        "label": "类别",
+        "agolHint": "类别可用于搜索目录以帮助其他人找到该内容。 它们由您的 ArcGIS Online 组织设置。",
+        "enterpriseHint": "类别可用于搜索目录以帮助其他人找到该内容。 它们由您的 ArcGIS Enterprise 组织设置。",
+        "agolNoCategoryHint": "提示：仅当类别由您的组织在 ArcGIS Online 组织中设置时，这些类别才可用。",
+        "enterpriseNoCategoryHint": "提示：仅当类别由您的组织在 ArcGIS Enterprise 组织中设置时，这些类别才可用。"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "设置一个缩略图以在 ArcGIS Online 以及搜索和图库中表示此项目。"
+      },
+      "license": {
+        "label": "使用条款",
+        "helperText": "限制越少，重用率越高。"
+      },
+      "serverExtractCapability": {
+        "label": "提取功能(导出数据)",
+        "helperText": "在此项目服务上启用“提取”功能。 提取功能支持其他格式。"
+      },
+      "hostedDownloads": {
+        "label": "(Beta)托管下载",
+        "helperText": "直接从托管服务创建下载文件。 这可以提高下载“要素图层”和“表”等内容时的性能。 要启用托管下载，必须启用提取功能。"
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "基本信息",
+        "message": "此信息用于填充搜索结果和图库卡片，并将显示在详细信息视图中。"
+      },
+      "about": {
+        "title": "关于内容",
+        "message": "在搜索结果中将显示描述的前两行内容，但是完整描述将显示在具有针对性的内容视图中。"
+      },
+      "image": {
+        "title": "精选图像",
+        "message": "当您在我们的图库中或者在突出显示诸如倡议、活动和调查等图像的视图上展示您的内容时，拥有优质精选图像或缩略图将非常重要。 建议大小为 760x505。 如果您的图像在实时路径上显示模糊，请考虑将缩略图替换为较大的图像。"
+      },
+      "location": {
+        "label": "位置",
+        "helperText": "显示此内容将发生的地理区域(显示在内容布局上)。"
+      },
+      "downloads": {
+        "label": "下载",
+        "helperText": "配置下载格式、缓存文件更新计划等。 有关详细信息，请参阅<calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">下载文档</calcite-link>。"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} 剩余字符数"
+    },
+    "imageThumbnail": {
+      "label": "缩略图",
+      "upload": "上传图像",
+      "done": "完成",
+      "editThumbnail": "编辑缩略图",
+      "browse": "浏览图像",
+      "remove": "移除图像",
+      "edit": "编辑图像",
+      "defaultHeading": "添加缩略图",
+      "dropHeading": "放置以上传",
+      "errorHeading": "尝试其他图像",
+      "subheading": "最大大小为 {size}，{types}",
+      "zoomOut": "缩小",
+      "zoomIn": "放大",
+      "drag": "拖动以重新定位",
+      "urlPlaceholder": "支持的类型：{types}",
+      "browseForImage": "浏览图像",
+      "aria": {
+        "container": "图像区域",
+        "crop": "裁剪区域",
+        "handle": {
+          "top": "调整顶部大小",
+          "right": "调整右侧大小",
+          "left": "调整左侧大小",
+          "bottom": "调整底部大小"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "详细信息"
+      },
+      "basicInfo": {
+        "label": "基本信息"
+      },
+      "membershipAccess": {
+        "label": "成员资格访问权限"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "组名称",
+        "requiredError": "群组名称为必填字段"
+      },
+      "summary": {
+        "label": "摘要"
+      },
+      "access": {
+        "itemType": "组"
+      },
+      "_thumbnail": {
+        "label": "缩略图",
+        "helperText": "选择一个图像代表您的群组，以在群组资料中展示。",
+        "sizeDescription": "最大大小为 10 Mb。 推荐尺寸：400 x 400 或更大"
+      },
+      "membershipAccess": {
+        "label": "谁可以加入此群组?",
+        "org": "仅限我组织的成员",
+        "collab": "仅限合作伙伴协作和我组织的成员",
+        "any": "任何组织的成员"
+      },
+      "contributeContent": {
+        "label": "谁可以贡献内容?",
+        "all": "所有群组成员",
+        "admins": "群组所有者和管理员"
+      }
+    }
+  }
+}

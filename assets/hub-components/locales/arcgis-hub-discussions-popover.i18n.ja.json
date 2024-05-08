@@ -1,0 +1,19 @@
+{
+  "anonymous": "匿名",
+  "noUser": "ユーザー名がありません",
+  "privateUser": "プライベート メンバー",
+  "privateOrg": "プライベート組織",
+  "org": "組織",
+  "orgLabel": "組織",
+  "profile": "プロファイルへ移動",
+  "location": "位置",
+  "information": "投稿に関する情報",
+  "postedIn": "{groupName} に投稿",
+  "replyingTo": "@{username} への返信",
+  "visiblePrivate": "メンバーのみに表示",
+  "visibleOrg": "組織に表示",
+  "visibleAll": "すべてのユーザーに表示",
+  "manageChannel": "チャンネルの管理",
+  "group.deleted": "削除されたグループ",
+  "unnamedChannel": "名前の無いチャンネル"
+}

@@ -1,0 +1,10 @@
+{
+  "error": "發生錯誤",
+  "repliesFailure": "無法顯示對此貼文的回覆。",
+  "thread.deleted.title": "執行緒已刪除",
+  "thread.deleted.message": "已刪除連結的貼文和回覆，無法顯示。",
+  "thread.deleted.action": "檢視所有貼文",
+  "reply.single.title": "您正在檢視單一回覆",
+  "reply.single.link": "檢視所有回覆",
+  "loading": "正在載入"
+}

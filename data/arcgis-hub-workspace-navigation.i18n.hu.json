@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Részletek",
+    "overview": "Áttekintés",
+    "metrics": "Mutatók",
+    "settings": "Beállítások",
+    "collaborators": "Közreműködők",
+    "discussion": "Vita",
+    "content": "Tartalom",
+    "members": "Tagok",
+    "participation": "Részvétel",
+    "followers": "Követők"
+  }
+}

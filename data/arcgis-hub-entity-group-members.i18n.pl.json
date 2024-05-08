@@ -1,0 +1,24 @@
+{
+  "title": "Członkowie",
+  "facets": {
+    "role": {
+      "label": "Rola",
+      "all": "Wszyscy",
+      "manager": "Menedżer",
+      "member": "Członek"
+    },
+    "dateJoined": {
+      "label": "Data dołączenia"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Razem",
+      "trailingText": "Członkowie zespołu"
+    },
+    "new": {
+      "title": "Nowe",
+      "trailingText": "Ostatnie 30 dni"
+    }
+  }
+}

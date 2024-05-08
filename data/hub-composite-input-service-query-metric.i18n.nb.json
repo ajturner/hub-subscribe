@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Elementdeling",
+      "myself": "Meg selv",
+      "myOrganization": "Min organisasjon",
+      "public": "Verden (offentlig)"
+    },
+    "catalog": {
+      "myContent": "Mitt innhold",
+      "favorites": "Favoritter",
+      "organization": "Min organisasjon",
+      "world": "Verden (offentlig)"
+    }
+  },
+  "expression": {
+    "label": "Attributtfiltre"
+  },
+  "field": {
+    "label": "Attributt"
+  },
+  "layer": "Lag / tabell",
+  "statistic": {
+    "label": "Aggregasjon"
+  }
+}

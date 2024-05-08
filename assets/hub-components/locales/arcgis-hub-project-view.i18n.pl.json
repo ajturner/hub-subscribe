@@ -1,0 +1,18 @@
+{
+  "purpose": "Cel",
+  "description": "Jak się tam dostaniemy",
+  "details": "Szczegóły",
+  "featuredImageAlt": "Polecany obraz projektu",
+  "trackProgress": "Śledź nasze postępy",
+  "participatingGroups": "Grupy uczestniczące",
+  "whosInvolved": "Kto jest zaangażowany",
+  "tags": "Znaczniki",
+  "status": {
+    "label": "Status projektu",
+    "notStarted": "Nie rozpoczęto",
+    "inProgress": "W toku",
+    "onHold": "Wstrzymane",
+    "complete": "Gotowe"
+  },
+  "featuredContent": "Polecane zasoby"
+}

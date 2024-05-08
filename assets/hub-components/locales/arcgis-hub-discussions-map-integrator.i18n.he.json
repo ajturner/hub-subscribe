@@ -1,0 +1,16 @@
+{
+  "location.add": "הוסף מיקום",
+  "location.remove": "הסר מיקום",
+  "draw.tip": "להוסיף מיקום אחר?",
+  "prompt.add.post": "הוסף לפוסט",
+  "prompt.add.reply": "הוסף לתשובה",
+  "prompt.edit.point": "הזז נקודה",
+  "prompt.edit.polyline": "ערוך קו",
+  "prompt.edit.polygon": "עעורך אזור",
+  "prompt.remove.point": "מחק נקודה",
+  "prompt.remove.polyline": "מחק קו",
+  "prompt.remove.polygon": "מחק אזור",
+  "prompt.remove.existing": "בטל בחירה",
+  "prompt.location.edit": "עדכן שרטוט",
+  "prompt.location.delete": "מחק שרטוט"
+}

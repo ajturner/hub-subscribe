@@ -1,0 +1,18 @@
+{
+  "purpose": "วัตถุประสงค์",
+  "description": "เราจะบรรลุเป้าหมายได้อย่างไร",
+  "details": "รายละเอียด",
+  "featuredImageAlt": "รูปภาพแนะนำของโปรเจกต์",
+  "trackProgress": "ติดตามความคืบหน้าของเรา",
+  "participatingGroups": "กลุ่มที่เข้าร่วม",
+  "whosInvolved": "ผู้ที่มีส่วนเกี่ยวข้อง",
+  "tags": "แท็ก",
+  "status": {
+    "label": "สถานะโครงการ",
+    "notStarted": "ยังไม่เริ่ม",
+    "inProgress": "อยู่ระหว่างดำเนินการ",
+    "onHold": "ระงับชั่วคราว",
+    "complete": "สมบูรณ์"
+  },
+  "featuredContent": "เนื้อหาแนะนำ"
+}

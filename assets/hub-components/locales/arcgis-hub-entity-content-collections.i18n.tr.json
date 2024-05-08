@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Göster",
+    "hide": "Gizle",
+    "rename": "Yeniden Adlandır"
+  },
+  "formAlert": "Biçim uyarısı",
+  "alertMessages": {
+    "success": "Düzenlemeler başarıyla kaydedildi",
+    "error": "Düzenlemeler kaydedilirken hata oluştu"
+  },
+  "collectionRenameModal": {
+    "title": "Koleksiyonu Yeniden Adlandır",
+    "fieldLabel": "Koleksiyon etiketi",
+    "requiredMessage": "Koleksiyon etiketi zorunludur",
+    "apply": "Uygula"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Veri",
+      "hidden": "Veriler (Gizli)"
+    },
+    "site": {
+      "visible": "Siteler",
+      "hidden": "Siteler (Gizli)"
+    },
+    "document": {
+      "visible": "Belgeler",
+      "hidden": "Belgeler (Gizli)"
+    },
+    "appAndMap": {
+      "visible": "Uygulamalar ve Haritalar",
+      "hidden": "Uygulamalar ve Haritalar (Gizli)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Gizli)"
+    }
+  },
+  "saveButton": "Kaydet"
+}

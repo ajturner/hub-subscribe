@@ -1,0 +1,7 @@
+{
+  "showMore": "Zobrazit {num} další",
+  "showLess": "Zobrazit méně",
+  "inputPlaceholder": "Možnosti filtru",
+  "noMatchesNotice": "Nebyly nalezeny žádné odpovídající možnosti",
+  "inputAriaLabel": "Najít možnost podle klíčového slova"
+}

@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Pokročilá konfigurácia",
+    "serverTimeout": {
+      "label": "Časový limit servera (sekundy)",
+      "helperText": "Užitočné pre väčšie služby, ktoré môžu potrebovať viac času na odpoveď."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Rohy",
+      "enum": {
+        "round": {
+          "label": "Zaoblené"
+        },
+        "square": {
+          "label": "Pravoúhle"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Vrhaný tieň",
+      "enum": {
+        "heavy": {
+          "label": "Silné"
+        },
+        "low": {
+          "label": "Nízke"
+        },
+        "medium": {
+          "label": "Stredné"
+        },
+        "none": {
+          "label": "Nezačaté"
+        }
+      }
+    },
+    "layout": {
+      "label": "Štatistické rozloženie",
+      "enum": {
+        "dataViz": {
+          "label": "Vizualizácia dát"
+        },
+        "moreInfo": {
+          "label": "Viac informácií"
+        },
+        "simple": {
+          "label": "Jednoduché"
+        }
+      }
+    },
+    "popoverTitle": "Názov vysúvacieho panelu",
+    "popoverDescription": "Popis vysúvacieho panelu",
+    "sectionTitle": "Vzhľad",
+    "textAlign": "Zarovnanie",
+    "visualInterest": {
+      "label": "Vizuálny záujem",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Žiadne"
+        },
+        "sparkline": {
+          "label": "Minigraf"
+        }
+      }
+    },
+    "valueColor": "Farba (štatistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Odkaz",
+      "sourceLink": "URL odkazu",
+      "sourceTitle": "Text odkazu"
+    },
+    "sectionTitle": "Podrobnosti",
+    "subtitle": "Podtitul",
+    "title": "Názov",
+    "trailingText": "Ukončovací text"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Na zobrazenie zdroja je potrebný odkaz."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formátovanie",
+    "unit": {
+      "label": "Jednotky zobrazenia",
+      "helperText": "Zadajte mernú jednotku pre vašu hodnotu."
+    },
+    "unitPosition": {
+      "label": "Rozmiestnenie",
+      "enum": {
+        "after": {
+          "label": "Po"
+        },
+        "before": {
+          "label": "Pred"
+        },
+        "below": {
+          "label": "Pod"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Zdieľanie",
+    "showShareIcon": "Povoliť",
+    "shareableByValue": "Povoliť vložené prvky",
+    "shareableOnHover": {
+      "label": "Zobrazenie",
+      "enum": {
+        "always": {
+          "label": "Vždy"
+        },
+        "hover": {
+          "label": "Iba Hover"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Dátový zdroj",
+    "displayValue": "Zobrazovaná hodnota",
+    "sectionTitle": "Štatistika",
+    "type": {
+      "label": "Typ",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamické",
+          "description": "Vyberte existujúci dataset (prvkovú službu), ktorú chcete sumarizovať."
+        },
+        "static": {
+          "label": "Statické",
+          "description": "Ručne zadajte hodnotu, ktorú chcete v rozložení zvýrazniť."
+        }
+      }
+    }
+  }
+}

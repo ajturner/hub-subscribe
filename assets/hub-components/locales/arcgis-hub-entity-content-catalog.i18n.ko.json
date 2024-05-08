@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "유형",
+    "tags": "태그",
+    "categories": "범주",
+    "sharing": "공유",
+    "dateUpdated": "업데이트일",
+    "map": {
+      "label": "위치",
+      "tooltip": "맵 범위를 위치 필터로 적용"
+    }
+  },
+  "collections": {
+    "all": "All",
+    "dataset": "데이터",
+    "site": "사이트",
+    "document": "문서",
+    "appAndMap": "앱 및 맵"
+  },
+  "noCollections": {
+    "title": "카탈로그",
+    "message": "해당 카탈로그는 현재 비어 있습니다.",
+    "button": "카탈로그 구성"
+  }
+}

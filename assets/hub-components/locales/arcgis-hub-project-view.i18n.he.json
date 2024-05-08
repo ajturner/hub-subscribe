@@ -1,0 +1,18 @@
+{
+  "purpose": "תכלית",
+  "description": "כיצד נשיג זאת",
+  "details": "פרטים",
+  "featuredImageAlt": "תמונה מוצגת של פרויקט",
+  "trackProgress": "עקוב אחר ההתקדמות שלנו",
+  "participatingGroups": "קבוצות משתתפות",
+  "whosInvolved": "מי מעורב",
+  "tags": "תגיות",
+  "status": {
+    "label": "סטטוס פרויקט",
+    "notStarted": "לא התחיל",
+    "inProgress": "בביצוע",
+    "onHold": "בהמתנה",
+    "complete": "הושלם"
+  },
+  "featuredContent": "תוכן מוצג"
+}

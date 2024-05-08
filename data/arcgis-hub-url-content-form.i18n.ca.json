@@ -1,0 +1,19 @@
+{
+  "heading": "Afegeix per URL",
+  "subText": "CSV, SHP, GeoJSON, servei d'entitats de l'ArcGIS, XLS, PDF, PNG, JPG o enllaç web",
+  "fileTypeSelector": "Definiu manualment el tipus de fitxer",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Servei d'entitats de l'ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Enllaç web",
+  "microsoftexcel": "Microsoft Excel (xls o xlsx)",
+  "image": "Imatge (png, jpg o jpeg)",
+  "invalidFormat": "Error: format no vàlid",
+  "invalidUrl": "Error: URL no vàlid",
+  "recognizedType": "Definiu manualment el tipus de fitxer"
+}

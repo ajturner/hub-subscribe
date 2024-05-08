@@ -1,0 +1,15 @@
+{
+  "panel.heading": "מסנן מיקום",
+  "panel.reset": "איפוס מסנן",
+  "distance.title": "מרחק",
+  "distance.placeholder": "הזן מספר",
+  "distance.message": "הזן מספר להרחבת אזור מסונן",
+  "system.imperial": "אימפריאלי",
+  "system.metric": "מטרי",
+  "units.title": "יחידות",
+  "units.feet": "רגל",
+  "units.miles": "מיילים",
+  "units.nauticalmiles": "מיילים ימיים",
+  "units.meters": "מטרים",
+  "units.kilometers": "קילומטרים"
+}

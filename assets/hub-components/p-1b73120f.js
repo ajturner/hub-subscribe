@@ -1,0 +1,1 @@
+function e(e){const{delay:t}=e;if(!Number.isInteger(t)||t<0)throw new Error("delay must be a positive integer");return(e,n,r)=>{const{value:o}=r;return Object.assign(Object.assign({},r),{value:async function(...e){const n=new Promise((e=>setTimeout(e,t))),r=o.apply(this,e);return n.then((()=>r))}})}}export{e as m}

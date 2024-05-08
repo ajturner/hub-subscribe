@@ -1,0 +1,28 @@
+{
+  "newTab": "เปิดโปรไฟล์ในแท็บใหม่",
+  "noGroups": "ไม่มีกลุ่ม",
+  "pickerToggle": "เพิ่มกลุ่ม",
+  "pickerTitle": "เลือกกลุ่ม",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "ไม่มีสมาชิก",
+      "oneMember": "สมาชิก 1 ราย",
+      "members": "สมาชิก {count} ราย"
+    },
+    "dateCreated": "วันที่ที่สร้าง: {localizedDate}",
+    "sharing": "การแชร์: {sharingLevel}",
+    "sharingLevels": {
+      "private": "ตัวฉัน",
+      "shared": "เจ้าของและกลุ่ม",
+      "org": "องค์กร",
+      "public": "สาธารณะ"
+    },
+    "membership": "สมาชิก: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "เจ้าของกลุ่ม",
+      "admin": "ผู้จัดการกลุ่ม",
+      "member": "สมาชิกกลุ่ม",
+      "none": "ไม่มีเลย"
+    }
+  }
+}

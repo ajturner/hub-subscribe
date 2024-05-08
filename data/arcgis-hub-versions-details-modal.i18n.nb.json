@@ -1,0 +1,9 @@
+{
+  "title": "Rediger versjonsdetaljer",
+  "save": "Lagre",
+  "cancel": "Avbryt",
+  "name.label": "Tittel",
+  "name.helpText": "La tittelen stå tom hvis du vil at vi skal identifisere versjonen med et dato- og klokkeslettstempel.",
+  "description.label": "Beskrivelse",
+  "error": "Feil ved oppdatering av versjon."
+}

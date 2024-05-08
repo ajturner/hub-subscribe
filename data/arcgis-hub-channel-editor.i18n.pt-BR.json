@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal sem nome",
+  "name": {
+    "label": "Nome",
+    "placeholder": "Canal {prefix}"
+  },
+  "save": "Salvar",
+  "access": {
+    "private": {
+      "label": "Privado",
+      "description": "Grupos selecionados podem participar"
+    },
+    "organization": {
+      "label": "Minha Organização",
+      "description": "Todos os membros com uma conta {orgName} podem participar",
+      "disabledTooltip": "Somente administradores da organização podem criar canais de organização."
+    },
+    "public": {
+      "label": "Público",
+      "description": "Qualquer pessoa com uma conta pode participar",
+      "disabledTooltip": "Somente administradores da organização podem criar canais de organização."
+    },
+    "allowAnonymous": "Permitir anônimos",
+    "confirmation": {
+      "header": "Você tem certeza?",
+      "message": "Salvar essas alterações removerá seu acesso de edição a este canal. Somente administradores da organização podem editar canais públicos ou da organização.",
+      "secondary": "Cancelar",
+      "primary": "Confirmar"
+    }
+  },
+  "participants": {
+    "label": "Participantes",
+    "helperText": "As pessoas que podem visualizar e contribuir para a discussão.",
+    "none": "Nenhum participante definido",
+    "add": "Adicionar grupo de participantes"
+  },
+  "groupPicker": {
+    "title": "Selecionar grupos",
+    "facet": {
+      "label": "De",
+      "myGroup": "Meu grupo",
+      "myOrganization": "Minha organização",
+      "myCommunity": "Minha comunidade"
+    }
+  },
+  "blockWords": {
+    "label": "Palavras bloqueadas",
+    "helperText": "Lista separada por vírgula. Postagens e respostas que os contenham serão ocultadas automaticamente."
+  },
+  "manage": {
+    "label": "Gerenciar e moderar",
+    "helperText": "Atribuídos automaticamente com base nas seleções de participação acima, essas pessoas podem participar, ocultar ou mostrar postagens e gerenciar as configurações do canal."
+  },
+  "manager": "Gerente",
+  "admin": "Administrador",
+  "viewProfile": "Visualizar perfil",
+  "alerts": {
+    "error": "Erro ao salvar canal",
+    "success": "Canal salvo com sucesso.",
+    "label": "Alerta de Formulário"
+  },
+  "validations": {
+    "minChannelGroups": "Canais privados exigem pelo menos um grupo de participantes."
+  },
+  "notices": {
+    "edit": "As edições afetarão todos os lugares em que este canal for usado",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "O canal não foi criado",
+          "message": "Já existe um canal com essas seleções de acesso. Use o canal existente ou modifique as seleções."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "O canal não foi atualizado",
+          "message": "Já existe um canal com essas seleções de acesso, portanto não podemos salvar essas atualizações."
+        }
+      },
+      "action": "Usar canal existente"
+    },
+    "inaccessibleGroups": {
+      "title": "Grupos indisponíveis: {count}",
+      "message": "Você não pode visualizar ou gerenciar grupos indisponíveis, a menos que seja um membro."
+    }
+  }
+}

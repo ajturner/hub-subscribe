@@ -1,0 +1,15 @@
+{
+  "done": "Hotovo",
+  "cancel": "Zrušiť",
+  "dragDrop": "Potiahnite a pustite súbor JPG, PNG alebo GIF.",
+  "browse": "Prechádzať...",
+  "chooseDiff": "Vybrať iný obrázok",
+  "zoom": "Priblížiť:",
+  "bestSize": "Pre najlepšie výsledky by mal mať obrázok 300 x 300 pixelov.",
+  "close": "Zatvoriť",
+  "or": "alebo",
+  "fromMap": "Vytvorenie miniatúry z mapy",
+  "fromMapDesc": "Vytvorenie vlastnej miniatúry nastavením rozsahu a úrovne priblíženia",
+  "changeBasemap": "Zmeniť podkladovú mapu",
+  "loading": "Načítava sa"
+}

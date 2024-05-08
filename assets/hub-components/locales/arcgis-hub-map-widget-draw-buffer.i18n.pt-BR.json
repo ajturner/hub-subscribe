@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filtro de Localização",
+  "panel.reset": "Redefinir filtro",
+  "distance.title": "Distância",
+  "distance.placeholder": "Digite um número...",
+  "distance.message": "Digite um número para expandir a área filtrada.",
+  "system.imperial": "Imperial",
+  "system.metric": "Métrico",
+  "units.title": "Unidades",
+  "units.feet": "Pés",
+  "units.miles": "Milhas",
+  "units.nauticalmiles": "Milhas Náuticas",
+  "units.meters": "Metros",
+  "units.kilometers": "Quilômetros"
+}

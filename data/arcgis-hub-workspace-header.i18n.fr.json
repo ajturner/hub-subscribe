@@ -1,0 +1,32 @@
+{
+  "beta": "Bêta",
+  "editLayout": "Modifier la mise en page",
+  "editContent": "Modifier le contenu",
+  "view": {
+    "project": "Afficher le projet",
+    "site": "Afficher le site",
+    "initiative": "Afficher l’initiative",
+    "discussion": "Afficher la discussion",
+    "content": "Afficher le contenu",
+    "page": "Afficher la page",
+    "group": "Afficher le groupe"
+  },
+  "label": {
+    "project": "Espace de travail du projet",
+    "site": "Espace de travail du site",
+    "initiative": "Espace de travail de l’initiative",
+    "discussion": "Espace de travail de la discussion",
+    "content": "Espace de travail du contenu",
+    "page": "Espace de travail de la page",
+    "group": "Espace de travail du groupe"
+  },
+  "access": {
+    "sharingLevel": "Niveau de partage",
+    "groupSharing": "Partage de groupe",
+    "public": "Public",
+    "org": "Organisation",
+    "private": "Propriétaire",
+    "shared": "Partagé en privé",
+    "disabled": "Vous ne pouvez pas modifier le partage car vous n’êtes ni le propriétaire ni un administrateur."
+  }
+}

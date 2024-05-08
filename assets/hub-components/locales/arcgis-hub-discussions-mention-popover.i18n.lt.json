@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonimas",
+  "noUser": "Nėra naudotojo vardo",
+  "privateUser": "Privatus narys",
+  "privateOrg": "Privati organizacija",
+  "orgLabel": "Organizacija",
+  "profile": "Eiti į profilį",
+  "location": "Vieta",
+  "information": "Informacija apie įrašą",
+  "mentionedBy": "Paminėjo @{username}"
+}

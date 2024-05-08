@@ -1,0 +1,31 @@
+{
+  "dateRange": "Kuupäevavahemik: {start} – {end}",
+  "pageViews": "Lehevaatamised",
+  "timeOnSite": "Keskmine minutite arv saidil",
+  "users": "Seansid",
+  "viewsOverTime": "Lehevaated läbi aegade",
+  "disabledTracking": "Tegevuse jälgimine on keelatud",
+  "enableTracking": "Saidikasutuse jälgimiseks saate saidisätetes lubada Hubi tegevuse jälgimise.",
+  "learnMore": "Lisateave.",
+  "disabled": "Keelatud",
+  "notificationLabel": "Andmed on värskendatud",
+  "dataUpdated": "Andmed on värskendatud",
+  "subscribe": "Telli",
+  "subscribed": "Tellitud",
+  "weeklyReport": "Nädalaaruanne",
+  "timestampTitle": {
+    "hour": "Päevaaeg",
+    "day": "Kuupäev",
+    "week": "Nädal"
+  },
+  "formAlert": "Vormi hoiatus",
+  "success": "Tellimus on uuendatud",
+  "subscriptionActivatedTitle": "Tellimus on aktiveeritud",
+  "subscriptionActivatedMessage": "{email} on registreeritud saama iganädalasi kaasamise mõõdikuid.",
+  "unsubscribeCompleteTitle": "Tellimuse tühistamine on lõpule viidud",
+  "unsubscribeCompleteMessage": "Meiliaadressi {email} kaasamise mõõdikute tellimus on tühistatud.",
+  "problemSubscribingTitle": "Probleem tellimisega",
+  "problemSubscribingMessage": "Tellimisel ilmnes probleem. Viga: ",
+  "problemUnsubscribingTitle": "Probleem tellimuse tühistamisega",
+  "problemUnsubscribingMessage": "Tellimuse tühistamisel ilmnes probleem. Viga: "
+}

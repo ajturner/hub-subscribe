@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Перетащите файл для загрузки",
+  "imageHeading": "Загрузить изображение",
+  "selectedHeading": "Файл выбран",
+  "maxSizeAndSupportedTypes": "Максимальный размер {maxSize}MB, {fileTypes}",
+  "maxSize": "Максимальный размер {maxSize}MB",
+  "recommendedDimensions": "Рекомендуемые размеры {recommendedDimensions}",
+  "linkText": "Смотреть список поддерживаемых файлов",
+  "contentButton": "Выберите файл",
+  "imageButton": "Выберите изображение",
+  "clearButton": "Очистить выборку",
+  "errorHeading": "Ошибка",
+  "fileTooLargeError": "Файл слишком большой",
+  "multipleFilesError": "Невозможно загрузить сразу несколько файлов",
+  "unsupportedFileTypeError": "Этот тип файлов не поддерживается"
+}

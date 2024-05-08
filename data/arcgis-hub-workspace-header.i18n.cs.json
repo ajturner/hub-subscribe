@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Upravit rozvržení",
+  "editContent": "Upravit obsah",
+  "view": {
+    "project": "Zobrazit projekt",
+    "site": "Zobrazit web",
+    "initiative": "Zobrazit iniciativu",
+    "discussion": "Zobrazit diskuzi",
+    "content": "Zobrazit obsah",
+    "page": "Zobrazit stránku",
+    "group": "Zobrazit skupinu"
+  },
+  "label": {
+    "project": "Pracovní oblast projektu",
+    "site": "Pracovní oblast webu",
+    "initiative": "Pracovní oblast iniciativy",
+    "discussion": "Pracovní oblast diskuze",
+    "content": "Pracovní oblast pro obsah",
+    "page": "Pracovní oblast stránky",
+    "group": "Pracovní oblast skupiny"
+  },
+  "access": {
+    "sharingLevel": "Úroveň sdílení",
+    "groupSharing": "Skupinové sdílení",
+    "public": "Veřejné",
+    "org": "Organizace",
+    "private": "Vlastník",
+    "shared": "Sdíleno soukromě",
+    "disabled": "Nastavení sdílení nemůžete změnit, protože nejste vlastníkem tohoto obsahu ani nemáte administrátorská oprávnění."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Prevucite i otpustite datoteku za otpremanje",
+  "imageHeading": "Otpremi sliku",
+  "selectedHeading": "Izabrana datoteka",
+  "maxSizeAndSupportedTypes": "Maks. veličina je {maxSize}MB, {fileTypes}",
+  "maxSize": "Maks. veličina je {maxSize}MB",
+  "recommendedDimensions": "Preporučene dimenzije {recommendedDimensions}",
+  "linkText": "Pregled liste podržanih datoteka",
+  "contentButton": "Pretraga datoteke",
+  "imageButton": "Potraži sliku",
+  "clearButton": "Obriši izabrano",
+  "errorHeading": "Greška",
+  "fileTooLargeError": "Datoteka je prevelika",
+  "multipleFilesError": "Nemogućnost otpremanja više datoteka odjednom",
+  "unsupportedFileTypeError": "Ovaj tip datoteke nije podržan"
+}

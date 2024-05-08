@@ -1,0 +1,24 @@
+{
+  "title": "구성원",
+  "facets": {
+    "role": {
+      "label": "역할",
+      "all": "All",
+      "manager": "관리자",
+      "member": "구성원"
+    },
+    "dateJoined": {
+      "label": "가입일"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "총계",
+      "trailingText": "팀 구성원"
+    },
+    "new": {
+      "title": "신규",
+      "trailingText": "지난 30일"
+    }
+  }
+}

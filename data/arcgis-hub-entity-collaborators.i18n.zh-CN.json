@@ -1,0 +1,52 @@
+{
+  "collaborators": "协作者",
+  "editGroupButtonText": "添加编辑群组",
+  "viewGroupButtonText": "添加查看群组",
+  "groupPicker": {
+    "title": "选择群组",
+    "facet": {
+      "label": "自",
+      "editGroups": "编辑群组",
+      "viewGroups": "查看群组",
+      "myGroup": "我的群组",
+      "myOrganization": "我的组织",
+      "myCommunity": "我的社区"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "添加新人员",
+    "message": "如果您需要添加人员，可以邀请他们加入社区，也可以<orgOverviewLink>联系您的管理员</orgOverviewLink>。"
+  },
+  "editGroupsTitle": "可以编辑的群组",
+  "viewGroupsTitle": "可以查看的群组",
+  "project": {
+    "description": "选择哪些用户组可以查看和编辑此工程。",
+    "editGroupsDescription": "这些群组中的人员可以编辑工程信息。",
+    "viewGroupsDescription": "如果内容未与公众共享，则这些群组中的人员可以搜索和查看工程。",
+    "errorMessage": "更新您工程的协作者时出错。"
+  },
+  "content": {
+    "description": "选择哪些用户组可以查看和编辑此内容。",
+    "editGroupsDescription": "这些群组中的人员可以编辑内容信息。",
+    "viewGroupsDescription": "如果内容未与公众共享，则这些群组中的人员可以搜索和查看内容。",
+    "errorMessage": "更新您内容的协作者时出错。"
+  },
+  "discussion": {
+    "description": "选择可以查看和编辑此讨论的用户群组。",
+    "editGroupsDescription": "这些群组中的人员可以编辑讨论信息。",
+    "viewGroupsDescription": "如果讨论未与公众共享，则这些群组中的人员可以搜索和查看讨论。",
+    "errorMessage": "更新讨论的协作者时出错。"
+  },
+  "site": {
+    "description": "选择哪些用户组可以查看和编辑此站点。",
+    "editGroupsDescription": "这些群组中的人员可以编辑站点信息。",
+    "viewGroupsDescription": "如果内容未与公众共享，则这些群组中的人员可以搜索和查看站点。",
+    "errorMessage": "更新您站点的协作者时出错。"
+  },
+  "newTab": "在新选项卡中打开配置文件",
+  "supportingTeams": "支持团队",
+  "supportingTeamsDesc": "这些支持团队曾与您的站点链接。 您可以继续使用它们与协作者共享内容。",
+  "supportTeamsRemove": "移除团队",
+  "supportingTeamsRemoveError": "取消团队链接时出错。 请联系管理员。",
+  "supportingTeamsRemoveSuccess": "成功取消团队链接。"
+}

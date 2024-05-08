@@ -1,0 +1,16 @@
+{
+  "post.title": "Bearbeitung von Beiträgen ist gesperrt",
+  "post.message": "Solange Diskussionen gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "post.message.item": "Solange Diskussionen für dieses Element gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "post.message.group": "Solange Diskussionen für diese Gruppe gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "reply.title": "Bearbeitung von Antworten ist gesperrt",
+  "reply.title.generic": "Diskussionen gesperrt",
+  "reply.message": "Solange Diskussionen gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "reply.message.generic": "Sie können derzeit keine Antworten erstellen.",
+  "reply.message.item": "Solange Diskussionen für dieses Element gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "reply.message.group": "Solange Diskussionen für diese Gruppe gesperrt sind, sind keine Bearbeitungsfunktionen verfügbar.",
+  "item.title": "Diskussion für Element gesperrt",
+  "item.message": "Diskussionen sind für dieses Element nicht zugelassen.",
+  "group.title": "Diskussion für Gruppe gesperrt",
+  "group.message": "Diskussionen sind für diese Gruppe nicht zugelassen."
+}

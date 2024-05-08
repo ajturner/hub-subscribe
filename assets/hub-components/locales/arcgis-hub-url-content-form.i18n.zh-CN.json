@@ -1,0 +1,19 @@
+{
+  "heading": "通过 URL 添加",
+  "subText": "CSV、SHP、GeoJSON、ArcGIS 要素服务、XLS、PDF、PNG、JPG、Web 链接",
+  "fileTypeSelector": "手动设置文件类型",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS 要素服务",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web 链接",
+  "microsoftexcel": "Microsoft Excel (xls、xlsx)",
+  "image": "图像 (png、jpg、jpeg)",
+  "invalidFormat": "错误：格式无效",
+  "invalidUrl": "错误：URL 无效",
+  "recognizedType": "手动设置文件类型"
+}

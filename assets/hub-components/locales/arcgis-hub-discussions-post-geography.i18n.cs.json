@@ -1,0 +1,14 @@
+{
+  "description": "Výběrem přiblížíte zobrazení na umístění",
+  "displayField.existing": "Stávající umístění",
+  "displayField.added": "Přidané umístění",
+  "displayField.existing.area": "Stávající plocha",
+  "displayField.added.area": "Přidaná plocha",
+  "point": "Bod",
+  "line": "Linie",
+  "area": "Plocha",
+  "viewAll": "Zobrazit všechna umístění",
+  "viewLess": "Zobrazit méně míst",
+  "action.update": "Aktualizovat umístění",
+  "action.remove": "Odebrat umístění"
+}

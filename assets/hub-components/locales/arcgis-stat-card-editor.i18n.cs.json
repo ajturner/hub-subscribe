@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Pokročilá konfigurace",
+    "serverTimeout": {
+      "label": "Časový limit serveru (sekundy)",
+      "helperText": "Užitečné pro větší služby, kterým může trvat delší dobu, než odpoví."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Rohy",
+      "enum": {
+        "round": {
+          "label": "Zaoblené"
+        },
+        "square": {
+          "label": "Pravoúhlé"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Stín",
+      "enum": {
+        "heavy": {
+          "label": "Silný"
+        },
+        "low": {
+          "label": "Slabý"
+        },
+        "medium": {
+          "label": "Střední"
+        },
+        "none": {
+          "label": "Nespuštěno"
+        }
+      }
+    },
+    "layout": {
+      "label": "Statistické rozvržení",
+      "enum": {
+        "dataViz": {
+          "label": "Vizualizace dat"
+        },
+        "moreInfo": {
+          "label": "Více informací"
+        },
+        "simple": {
+          "label": "Jednoduchý"
+        }
+      }
+    },
+    "popoverTitle": "Vyskakující nadpis",
+    "popoverDescription": "Vyskakující popis",
+    "sectionTitle": "Vzhled",
+    "textAlign": "Zarovnání",
+    "visualInterest": {
+      "label": "Vizuální zájem",
+      "enum": {
+        "icon": {
+          "label": "Ikona"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Žádný"
+        },
+        "sparkline": {
+          "label": "Minigraf"
+        }
+      }
+    },
+    "valueColor": "Barva (statistika)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Odkaz",
+      "sourceLink": "Adresa URL odkazu",
+      "sourceTitle": "Text odkazu"
+    },
+    "sectionTitle": "Podrobnosti",
+    "subtitle": "Podnadpis",
+    "title": "Nadpis",
+    "trailingText": "Koncový text"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Pro zobrazení zdroje je nutný odkaz."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Formátování",
+    "unit": {
+      "label": "Jednotky zobrazení",
+      "helperText": "Zadejte měrnou jednotku pro vaši hodnotu."
+    },
+    "unitPosition": {
+      "label": "Umístění",
+      "enum": {
+        "after": {
+          "label": "Po"
+        },
+        "before": {
+          "label": "Před"
+        },
+        "below": {
+          "label": "Pod"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Sdílení",
+    "showShareIcon": "Zapnout",
+    "shareableByValue": "Povolit vložený obsah",
+    "shareableOnHover": {
+      "label": "Zobrazit",
+      "enum": {
+        "always": {
+          "label": "Vždy"
+        },
+        "hover": {
+          "label": "Pouze při přejetí myši"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Datový zdroj",
+    "displayValue": "Zobrazit hodnotu",
+    "sectionTitle": "Statistika",
+    "type": {
+      "label": "Typ",
+      "enum": {
+        "dynamic": {
+          "label": "Dynamický",
+          "description": "Vyberte existující datovou sadu (feature službu), kterou chcete sumarizovat."
+        },
+        "static": {
+          "label": "Statický",
+          "description": "Ručně zadejte hodnotu, kterou chcete v rozvržení zvýraznit."
+        }
+      }
+    }
+  }
+}

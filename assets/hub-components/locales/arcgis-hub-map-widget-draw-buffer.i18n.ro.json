@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filtru de locație",
+  "panel.reset": "Resetați filtrul",
+  "distance.title": "Distanţă",
+  "distance.placeholder": "Introduceți un număr...",
+  "distance.message": "Introduceți un număr pentru a extinde zona filtrată.",
+  "system.imperial": "Englez",
+  "system.metric": "Metrice",
+  "units.title": "Unităţi",
+  "units.feet": "Ft",
+  "units.miles": "Mile",
+  "units.nauticalmiles": "Mile marine",
+  "units.meters": "Metri",
+  "units.kilometers": "Kilometri"
+}

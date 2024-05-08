@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefil",
+  "sqlite": "SQLite-geodatabase",
+  "geoPackage": "Geopakke",
+  "filegdb": "Filfeaturesdatabase",
+  "featureCollection": "Featuresamling",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Last ned CSV",
+  "downloadshapefile": "Last ned shapefil",
+  "downloadsqlite": "Last ned SQLite-geodatabase",
+  "downloadgeoPackage": "Last ned GeoPackage",
+  "downloadfilegdb": "Last ned filgeodatabase",
+  "downloadfeatureCollection": "Last ned geoobjektsamling",
+  "downloadgeojson": "Last ned GeoJSON",
+  "downloadexcel": "Last ned Excel",
+  "rateLimitMessage": "Beklager, nedlastingsgrensen er nådd. Prøv igjen om en time eller ta kontakt med innholdsadministratoren.",
+  "createReplicaErrorMessage": "Opprett replika av intern feil. Prøv igjen om en time eller ta kontakt med innholdsadministratoren."
+}

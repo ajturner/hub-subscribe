@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Dashboard",
+    "details": "Details",
+    "overview": "Overzicht",
+    "metrics": "Metrisch",
+    "settings": "Instellingen",
+    "collaborators": "Medewerkers",
+    "discussion": "Discussie",
+    "content": "Content",
+    "members": "Leden",
+    "participation": "Deelname",
+    "followers": "Volgers"
+  }
+}

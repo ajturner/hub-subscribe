@@ -1,0 +1,12 @@
+{
+  "save": "Gem",
+  "cancel": "Annullér",
+  "undoChanges": "Fortryd ændringer",
+  "next": "Næste",
+  "back": "Tilbage",
+  "formAlert": "Formularadvarsel",
+  "invalidForm": "Ret venligst alle fejl.",
+  "saveDisabled": "Lagring deaktiveret",
+  "success": "Redigeringer er blevet gemt",
+  "error": "Fejl under lagring af redigeringer"
+}

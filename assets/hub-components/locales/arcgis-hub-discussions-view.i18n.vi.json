@@ -1,0 +1,17 @@
+{
+  "summary": "Thông tin tóm tắt",
+  "description": "Thông tin mô tả",
+  "details": "Thông tin chi tiết",
+  "metrics": "Hệ mét",
+  "metricsDisclaimer": "Chỉ hiển thị 30 ngày trước",
+  "titleOpen": "Mở Thảo luận",
+  "statusOpen": "Mở để tham gia",
+  "titleClosed": "Thảo luận đã Đóng",
+  "statusClosed": "Đóng để tham gia",
+  "tags": "Từ khóa",
+  "categories": "Danh mục",
+  "metric.pageViews": "Số lần Xem Trang",
+  "metric.postCount": "Số lượng Bài đăng",
+  "discussion": "Thảo luận",
+  "discussionBoard": "Bảng Thảo luận"
+}

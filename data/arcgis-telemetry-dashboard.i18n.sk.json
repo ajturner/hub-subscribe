@@ -1,0 +1,31 @@
+{
+  "dateRange": "Rozsah dátumov: {start} – {end}",
+  "pageViews": "Zobrazenia stránky",
+  "timeOnSite": "Priemerný počet minút na lokalite",
+  "users": "Relácie",
+  "viewsOverTime": "Zobrazenia stránok v čase",
+  "disabledTracking": "Sledovanie aktivity je vypnuté",
+  "enableTracking": "Povoľte sledovanie aktivity pre Hub v nastaveniach lokality, aby ste mohli monitorovať používanie vašej lokality.",
+  "learnMore": "Zistiť viac.",
+  "disabled": "Deaktivované",
+  "notificationLabel": "Dáta aktualizované",
+  "dataUpdated": "Dáta aktualizované",
+  "subscribe": "Prihlásiť sa",
+  "subscribed": "Prihlásené",
+  "weeklyReport": "Týždenný report",
+  "timestampTitle": {
+    "hour": "Čas v rámci dňa",
+    "day": "Dátum",
+    "week": "Týždeň"
+  },
+  "formAlert": "Upozornenie na formulár",
+  "success": "Predplatné úspešne aktualizované",
+  "subscriptionActivatedTitle": "Predplatné aktivované",
+  "subscriptionActivatedMessage": "Zaregistrovali ste sa, {email} aby ste dostávali týždenné metriky zapojenia.",
+  "unsubscribeCompleteTitle": "Zrušenie odberu kompletné",
+  "unsubscribeCompleteMessage": "{email} bol úspešne odhlásený z metriky zapojenia.",
+  "problemSubscribingTitle": "Problém s odberom",
+  "problemSubscribingMessage": "Vyskytol sa problém s odberom. Chyba: ",
+  "problemUnsubscribingTitle": "Problém s odhlásením odberu",
+  "problemUnsubscribingMessage": "Vyskytol sa problém s odhlásením odberu. Chyba: "
+}

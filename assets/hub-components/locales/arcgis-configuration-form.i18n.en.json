@@ -1,0 +1,12 @@
+{
+  "save": "Save",
+  "cancel": "Cancel",
+  "undoChanges": "Undo changes",
+  "next": "Next",
+  "back": "Back",
+  "formAlert": "Form alert",
+  "invalidForm": "Please fix all errors.",
+  "saveDisabled": "Save disabled",
+  "success": "Successfully saved edits",
+  "error": "Error saving edits"
+}

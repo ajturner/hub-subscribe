@@ -1,0 +1,26 @@
+{
+  "followers": "Urmăritori",
+  "tabs": {
+    "followers": "Urmăritori",
+    "settings": "Setări"
+  },
+  "addFollowers": {
+    "label": "Adăugare urmăritori"
+  },
+  "emptyState": {
+    "message": "Momentan nu aveți un grup de urmăritori."
+  },
+  "restrictedAccessState": {
+    "message": "Nu aveți acces."
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Urmăritori"
+    },
+    "new": {
+      "title": "Nou",
+      "trailingText": "Ultimele 30 de zile"
+    }
+  }
+}

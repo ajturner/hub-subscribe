@@ -1,0 +1,11 @@
+{
+  "anonymous": "אנונימי",
+  "noUser": "אין שם משתמש",
+  "privateUser": "חבר פרטי",
+  "privateOrg": "ארגון פרטי",
+  "orgLabel": "ארגון",
+  "profile": "עבור לפרופיל",
+  "location": "מיקום",
+  "information": "מידע על הפרסום",
+  "mentionedBy": "הוזכר על ידי @{username}"
+}

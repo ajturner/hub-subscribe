@@ -1,0 +1,26 @@
+{
+  "followers": "Volgers",
+  "tabs": {
+    "followers": "Volgers",
+    "settings": "Instellingen"
+  },
+  "addFollowers": {
+    "label": "Volgers toevoegen"
+  },
+  "emptyState": {
+    "message": "U hebt momenteel geen groep volgers."
+  },
+  "restrictedAccessState": {
+    "message": "U hebt geen toegang."
+  },
+  "stats": {
+    "total": {
+      "title": "Totaal",
+      "trailingText": "Volgers"
+    },
+    "new": {
+      "title": "Nieuw",
+      "trailingText": "Afgelopen 30 dagen"
+    }
+  }
+}

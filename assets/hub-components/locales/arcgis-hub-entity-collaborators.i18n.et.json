@@ -1,0 +1,52 @@
+{
+  "collaborators": "Kaastöötajad",
+  "editGroupButtonText": "Lisa muutmisgrupid",
+  "viewGroupButtonText": "Lisa vaatamisgrupid",
+  "groupPicker": {
+    "title": "Valige grupid",
+    "facet": {
+      "label": "Lähtekoht",
+      "editGroups": "Muutke gruppe",
+      "viewGroups": "Kuva grupp",
+      "myGroup": "Minu grupp",
+      "myOrganization": "Minu organisatsioon",
+      "myCommunity": "Minu kogukond"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Lisa uued inimesed",
+    "message": "Kui on vaja lisada inimesi, võite neid kustuda kogukonnaga ühinema või <orgOverviewLink>pöörduda oma administraatori poole</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupid, mida saab muuta",
+  "viewGroupsTitle": "Grupid, mida saab vaadata",
+  "project": {
+    "description": "Valige, millised kasutajate grupid saavad seda projekti vaadata ja muuta.",
+    "editGroupsDescription": "Nendesse gruppidesse kuuluvad isikud saavad projekti sisu muuta.",
+    "viewGroupsDescription": "Nendesse gruppidesse kuuluvad isikud saavad projekti otsida ja vaadata, kui see ei ole avalikult jagatud.",
+    "errorMessage": "Teie projekti kaastöötajate uuendamisel ilmnes viga."
+  },
+  "content": {
+    "description": "Valige, millised kasutajate rühmad saavad seda sisu vaadata ja muuta.",
+    "editGroupsDescription": "Nendesse gruppidesse kuuluvad isikud saavad teabe sisu muuta.",
+    "viewGroupsDescription": "Nendesse gruppidesse kuuluvad isikud saavad sisu otsida ja vaadata, kui see ei ole avalikult jagatud.",
+    "errorMessage": "Teie sisu kaastöötajate uuendamisel ilmnes viga."
+  },
+  "discussion": {
+    "description": "Valige, millised kasutajate rühmad saavad seda arutelu vaadata ja muuta.",
+    "editGroupsDescription": "Nende rühmade liikmed saavad arutelu teavet muuta.",
+    "viewGroupsDescription": "Nendesse rühmadesse kuuluvad isikud saavad arutelu otsida ja vaadata, kui see ei ole avalikult jagatud.",
+    "errorMessage": "Teie arutelu kaastöötajate uuendamisel ilmnes viga."
+  },
+  "site": {
+    "description": "Valige, millised kasutajate grupid saavad seda saiti vaadata ja muuta.",
+    "editGroupsDescription": "Sellesse gruppi kuuluvad isikud saavad saidi teavet muuta.",
+    "viewGroupsDescription": "Nendesse gruppidesse kuuluvad isikud saavad saiti otsida ja vaadata, kui see ei ole avalikult jagatud.",
+    "errorMessage": "Teie saidi kaastöötajate uuendamisel ilmnes tõrge."
+  },
+  "newTab": "ava profiil uuel vahelehel",
+  "supportingTeams": "Tugitöörühmad",
+  "supportingTeamsDesc": "Need tugitöörühmad olid varem teie saidiga lingitud. Saate jätkata nende kasutamist, et jagada sisu kaastöötajatega.",
+  "supportTeamsRemove": "Eemalda töörühm",
+  "supportingTeamsRemoveError": "Tõrge töörühma linkimise tühistamisel. Pöörduge administraatori poole.",
+  "supportingTeamsRemoveSuccess": "Töörühma linkimine on tühistatud."
+}

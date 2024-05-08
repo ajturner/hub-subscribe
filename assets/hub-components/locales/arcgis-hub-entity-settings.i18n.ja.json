@@ -1,0 +1,34 @@
+{
+  "settings": "設定",
+  "delete": {
+    "project": "プロジェクトの削除",
+    "initiative": "イニシアティブの削除",
+    "site": "サイトの削除",
+    "discussion": "ディスカッションの削除",
+    "content": "コンテンツの削除",
+    "page": "ページの削除",
+    "group": "グループの削除"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "プロジェクトの削除",
+      "initiative": "イニシアティブの削除",
+      "site": "サイトの削除",
+      "discussion": "ディスカッションの削除",
+      "content": "コンテンツの削除",
+      "page": "ページの削除",
+      "group": "グループの削除"
+    },
+    "content": "本当に削除してよろしいですか？",
+    "delete": "削除",
+    "cancel": "キャンセル"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "抽出機能により、サービス設定が変更されます。",
+        "message": "サービスを参照するその他のアイテムが影響を受けます。 詳細については、「<docLink>ホスト フィーチャ レイヤーからのデータのエクスポート</docLink>」をご参照ください。"
+      }
+    }
+  }
+}

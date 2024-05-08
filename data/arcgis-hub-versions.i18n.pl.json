@@ -1,0 +1,14 @@
+{
+  "createdBy": "Utworzone przez {creator}",
+  "emptyMessage": "Nie znaleziono wersji",
+  "errorMessage": "Błąd podczas pobierania wersji",
+  "menuLabel": "pokaż działania",
+  "publishedBadge": "Opublikowana",
+  "viewingBadge": "Wyświetlanie",
+  "popover.label": "Działania związane z wersją",
+  "popover.actions.delete": "Usuń",
+  "popover.actions.edit": "Edytuj szczegóły",
+  "popover.actions.share": "Udostępnij",
+  "shareErrorMessage": "Błąd podczas kopiowania adresu URL udostępniania do schowka.",
+  "shareSuccessMessage": "Adres URL udostępniania skopiowano do schowka."
+}

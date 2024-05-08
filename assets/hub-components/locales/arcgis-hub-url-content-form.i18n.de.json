@@ -1,0 +1,19 @@
+{
+  "heading": "Über URL hinzufügen",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS-Feature-Service, XLS, PDF, PNG, JPEG, Weblink",
+  "fileTypeSelector": "Dateityp manuell festlegen",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS-Feature-Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Weblink",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Bild (png, jpg, jpeg)",
+  "invalidFormat": "Fehler: ungültiges Format",
+  "invalidUrl": "Fehler: ungültige URL",
+  "recognizedType": "Dateityp manuell festlegen"
+}

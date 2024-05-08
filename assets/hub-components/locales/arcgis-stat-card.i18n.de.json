@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Beim Verbinden mit dem Server ist ein Timeout aufgetreten, und die Statistik konnte nicht angezeigt werden.",
+    "title": "Server-Timeout"
+  },
+  "genericError": {
+    "message": "Statistiken können nicht angezeigt werden.",
+    "title": "Ein Fehler ist aufgetreten."
+  }
+}

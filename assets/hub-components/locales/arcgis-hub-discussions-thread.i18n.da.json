@@ -1,0 +1,10 @@
+{
+  "error": "Der gik noget galt",
+  "repliesFailure": "Svar på denne post kan ikke vises.",
+  "thread.deleted.title": "Tråd slettet",
+  "thread.deleted.message": "Det tilknyttede opslag og svar er slettet og kan ikke vises.",
+  "thread.deleted.action": "Vis alle opslag",
+  "reply.single.title": "Du får vist et enkelt svar",
+  "reply.single.link": "Vis alle svar",
+  "loading": "Indlæser"
+}

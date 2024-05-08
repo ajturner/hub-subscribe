@@ -1,0 +1,16 @@
+{
+  "post.title": "Post editing is blocked",
+  "post.message": "Editing is not available while discussions is blocked.",
+  "post.message.item": "Editing is not available while discussions is blocked on this item.",
+  "post.message.group": "Editing is not available while discussions is blocked on this group.",
+  "reply.title": "Reply editing is blocked",
+  "reply.title.generic": "Discussion blocked",
+  "reply.message": "Editing is not available while discussions is blocked.",
+  "reply.message.generic": "You cannot create replies at this time.",
+  "reply.message.item": "Editing is not available while discussions is blocked on this item.",
+  "reply.message.group": "Editing is not available while discussions is blocked on this group.",
+  "item.title": "Item discussion blocked",
+  "item.message": "This item is not approved for discussion.",
+  "group.title": "Group discussion blocked",
+  "group.message": "This group is not approved for discussion."
+}

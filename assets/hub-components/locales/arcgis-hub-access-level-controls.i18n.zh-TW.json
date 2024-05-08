@@ -1,0 +1,9 @@
+{
+  "heading": "分享級別",
+  "public": "公共",
+  "publicInfo": "每個人都能看到此 {itemType}",
+  "organization": "組織",
+  "organizationInfo": "擁有 {orgName} 帳號的所有成員以及群組都能看到此 {itemType}",
+  "owner": "擁有者",
+  "ownerInfo": "擁有存取權的擁有者和群組能看到此 {itemType}"
+}

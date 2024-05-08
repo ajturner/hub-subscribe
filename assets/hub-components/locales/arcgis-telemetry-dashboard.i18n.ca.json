@@ -1,0 +1,31 @@
+{
+  "dateRange": "Interval de dates: {start}-{end}",
+  "pageViews": "Visualitzacions de les pàgines",
+  "timeOnSite": "Minuts al lloc de mitjana",
+  "users": "Sessions",
+  "viewsOverTime": "Visualitzacions de la pàgina al llarg el temps",
+  "disabledTracking": "S'ha deshabilitat el seguiment de l'activitat",
+  "enableTracking": "Habiliteu el seguiment de l'activitat al Hub a la configuració del lloc per supervisar l'ús del lloc.",
+  "learnMore": "Obteniu més informació.",
+  "disabled": "Deshabilitat",
+  "notificationLabel": "Dades actualitzades",
+  "dataUpdated": "Dades actualitzades",
+  "subscribe": "Subscriviu-vos",
+  "subscribed": "Subscrit",
+  "weeklyReport": "Informe setmanal",
+  "timestampTitle": {
+    "hour": "Hora del dia",
+    "day": "Data",
+    "week": "Setmana"
+  },
+  "formAlert": "Alerta del formulari",
+  "success": "S'ha actualitzat correctament la subscripció",
+  "subscriptionActivatedTitle": "S'ha activat la subscripció",
+  "subscriptionActivatedMessage": "Heu registrat {email} per rebre mètriques setmanals sobre la participació.",
+  "unsubscribeCompleteTitle": "S'ha completat l'anul·lació de la subscripció",
+  "unsubscribeCompleteMessage": "S'ha anul·lat correctament la subscripció de {email} a les mètriques de participació.",
+  "problemSubscribingTitle": "Problema amb la subscripció",
+  "problemSubscribingMessage": "Hi ha hagut un problema en subscriure's. Error: ",
+  "problemUnsubscribingTitle": "Problema amb l'anul·lació de la subscripció",
+  "problemUnsubscribingMessage": "Hi ha hagut un problema en anul·lar la subscripció. Error: "
+}

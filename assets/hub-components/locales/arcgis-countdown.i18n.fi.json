@@ -1,0 +1,7 @@
+{
+  "days": "päivää",
+  "hours": "tuntia",
+  "minutes": "minuuttia",
+  "seconds": "sekuntia",
+  "countdownDateMissingError": "Sinun on annettava laskurin päivämäärä"
+}

@@ -1,0 +1,494 @@
+{
+  "success": "Đã lưu chỉnh sửa thành công",
+  "error": "Lỗi lưu chỉnh sửa",
+  "create": "Tạo",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Không có vị trí",
+        "org": "Phạm vi của tổ chức",
+        "custom": "Vị trí tùy biến",
+        "customDescription": "Vẽ một hoặc nhiều vị trí",
+        "itemExtent": "Phạm vi Hiện tại của Mục"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Loại",
+          "sharing": "Chia sẻ"
+        },
+        "catalog": {
+          "myContent": "Nội dung của tôi",
+          "favorites": "Yêu thích",
+          "organization": "Tổ chức",
+          "world": "Thế giới (Công khai)"
+        },
+        "collection": {
+          "appsAndMaps": "Ứng dụng & Bản đồ",
+          "dataset": "Dữ liệu",
+          "documents": "Tài liệu",
+          "feedback": "Ý kiến phản hồi",
+          "sites": "Sites"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Thông tin chi tiết"
+      },
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "location": {
+        "label": "Vị trí",
+        "helperText": "Hiển thị khu vực địa lý sẽ diễn ra dự án này (để xuất hiện trên bố cục dự án)."
+      },
+      "status": {
+        "label": "Trạng thái"
+      },
+      "sharing": {
+        "label": "Chia sẻ"
+      },
+      "timeline": {
+        "label": "Dòng thời gian"
+      },
+      "searchDiscoverability": {
+        "label": "Khả năng khám phá & tìm kiếm"
+      },
+      "featuredContent": {
+        "label": "Nội dung nổi bật",
+        "helperText": "Tô sáng các tài liệu, ứng dụng và dữ liệu cụ thể liên quan đến dự án của bạn. Bạn có thể có tối đa 4 mục."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tên dự án",
+        "requiredError": "Tên dự án là trường bắt buộc"
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "helperText": "Ghi rõ cách thức để dự án của bạn đạt được mục tiêu đề ra. Cân nhắc ghi cả thông tin căn bản có liên quan và những thay đổi dự kiến liên quan đến dự án."
+      },
+      "summary": {
+        "label": "Mục đích",
+        "helperText": "Tóm tắt ngắn gọn các mục tiêu trong dự án của bạn."
+      },
+      "access": {
+        "itemType": "Dự án"
+      },
+      "groups": {
+        "label": "Chia sẻ với...",
+        "viewGroup": "(Nhóm xem)",
+        "editGroup": "(Nhóm chỉnh sửa)"
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Thiết lập hình ảnh đại diện để đại diện cho dự án này trong ArcGIS Online cũng như mục tìm kiếm và bộ sưu tập.",
+        "sizeDescription": "Kích thước được khuyến nghị: 760 x 505 hoặc lớn hơn"
+      },
+      "featuredImage": {
+        "label": "Hình ảnh nổi bật",
+        "helperText": "Chọn hình ảnh để thể hiện công việc của bạn trên bố cục dự án.",
+        "sizeDescription": "Kích cỡ tệp tối đa là 10mb. Kích thước được khuyến nghị: 718 x 478 hoặc lớn hơn",
+        "altText": {
+          "label": "Văn bản thay thế",
+          "helperText": "Cung cấp thông tin mô tả ngắn về hình ảnh cho những người sử dụng phần mềm đọc màn hình. Để trống để cho biết hình ảnh chỉ mang mục đích trang trí."
+        }
+      },
+      "tags": {
+        "label": "Thẻ",
+        "helperText": "Thẻ được dùng trong danh mục tìm kiếm để giúp người khác tìm dự án này. Thêm văn bản và chọn nhập để tạo thẻ mới."
+      },
+      "categories": {
+        "label": "Danh mục",
+        "helperText": "Thể loại được dùng trong danh mục tìm kiếm để giúp người khác tìm dự án này. Thể loại sẽ do tổ chức ArcGIS Online của bạn thiết lập."
+      },
+      "status": {
+        "label": "Trạng thái dự án",
+        "enum": {
+          "notStarted": {
+            "label": "Chưa bắt đầu"
+          },
+          "inProgress": {
+            "label": "Đang tiến hành"
+          },
+          "onHold": {
+            "label": "Đang bị tạm ngưng"
+          },
+          "complete": {
+            "label": "Hoàn tất"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Loại",
+          "sharing": "Chia sẻ"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Thông tin chi tiết"
+      },
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "location": {
+        "label": "Vị trí",
+        "helperText": "Hiển thị khu vực địa lý sẽ diễn ra sáng kiến này (để xuất hiện trên bố cục sáng kiến)."
+      },
+      "sharing": {
+        "label": "Chia sẻ"
+      },
+      "featuredContent": {
+        "label": "Nội dung nổi bật",
+        "helperText": "Tô sáng các tài liệu, ứng dụng và dữ liệu cụ thể liên quan đến dự án của bạn. Bạn có thể đặt tối đa 4 mục làm nội dung nổi bật."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tên sáng kiến",
+        "requiredError": "Tên sáng kiến là trường bắt buộc"
+      },
+      "summary": {
+        "label": "Mục đích",
+        "helperText": "Tóm tắt ngắn gọn các mục tiêu trong sáng kiến của bạn."
+      },
+      "access": {
+        "itemType": "Sáng kiến"
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "helperText": "Việc cung cấp thêm bối cảnh có thể hữu ích khi tìm kiếm sáng kiến này."
+      },
+      "tags": {
+        "label": "Thẻ",
+        "helperText": "Thẻ được sử dụng trong danh mục tìm kiếm để giúp người khác tìm sáng kiến này. Thêm văn bản và chọn nhập để tạo thẻ mới."
+      },
+      "categories": {
+        "label": "Danh mục",
+        "helperText": "Danh mục được sử dụng trong danh mục tìm kiếm để giúp người khác tìm sáng kiến này. Thể loại sẽ do tổ chức ArcGIS Online của bạn thiết lập."
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Thiết lập hình ảnh đại diện để đại diện cho sáng kiến này trong ArcGIS Online cũng như mục tìm kiếm và bộ sưu tập."
+      },
+      "groups": {
+        "label": "Chia sẻ với...",
+        "viewGroup": "(Nhóm xem)",
+        "editGroup": "(Nhóm chỉnh sửa)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Loại",
+          "sharing": "Chia sẻ"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Thông tin chi tiết"
+      },
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "location": {
+        "label": "Vị trí"
+      },
+      "settings": {
+        "label": "Thiết lập Thảo luận"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tiêu đề",
+        "requiredError": "Tên bảng thảo luận là bắt buộc."
+      },
+      "prompt": {
+        "label": "Lời nhắc",
+        "helperText": "Mô tả ngắn gọn những gì bạn muốn người tham gia gửi trên bảng thảo luận này.",
+        "requiredError": "Lời nhắc là trường bắt buộc"
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "helperText": "Việc cung cấp thêm bối cảnh có thể hữu ích khi tìm kiếm bảng này."
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Chọn hình ảnh đại diện cho thảo luận của bạn."
+      },
+      "summary": {
+        "label": "Mục đích",
+        "helperText": "Việc mô tả ngắn gọn mục đích của Bảng Thảo luận này sẽ rất hữu ích khi chia sẻ liên kết với những người khác."
+      },
+      "featuredImage": {
+        "label": "Hình ảnh nổi bật",
+        "sizeDescription": "Kích thước tối đa là 10mb, JPEG, JPG hoặc PNG",
+        "altText": {
+          "label": "Văn bản thay thế",
+          "helperText": "Cung cấp thông tin mô tả ngắn về hình ảnh cho những người sử dụng phần mềm đọc màn hình. Để trống để cho biết hình ảnh chỉ mang mục đích trang trí."
+        },
+        "name": {
+          "label": "Tên hình ảnh"
+        }
+      },
+      "tags": {
+        "label": "Thẻ"
+      },
+      "categories": {
+        "label": "Danh mục"
+      },
+      "discussable": {
+        "label": "Có được phép thảo luận không?",
+        "enabled": {
+          "label": "Có, được phép thảo luận",
+          "description": "Người tham gia có thể thêm bài đăng, trả lời và phản ứng vào bảng thảo luận này."
+        },
+        "disabled": {
+          "label": "Không, thảo luận bị chặn",
+          "description": "Xóa khả năng thêm bài đăng, trả lời và phản ứng mới. Không xoá lần tham gia trước."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "location": {
+        "label": "Vị trí",
+        "helperText": "Hiển thị khu vực địa lý của site này."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tên site",
+        "requiredError": "Tên site là trường bắt buộc."
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Thiết lập hình ảnh đại diện để đại diện cho Site này trong ArcGIS Online cũng như mục tìm kiếm và bộ sưu tập."
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "helperText": "Mô tả của site."
+      },
+      "summary": {
+        "label": "Thông tin tóm tắt",
+        "helperText": "Tóm tắt ngắn gọn về site."
+      },
+      "tags": {
+        "label": "Từ khóa",
+        "helperText": "Từ khóa được dùng trong danh mục tìm kiếm để giúp người khác tìm thấy site này. Thêm văn bản và chọn nhập để tạo ra từ khóa mới."
+      },
+      "categories": {
+        "label": "Danh mục",
+        "helperText": "Thể loại được dùng trong danh mục tìm kiếm để giúp người khác tìm site này. Thể loại sẽ do tổ chức ArcGIS Online của bạn thiết lập."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Đặt khả năng hiển thị",
+          "helperText": "Kiểm soát những người có thể xem nút theo dõi. Cài đặt này áp dụng cho cả nút theo dõi cho hành động liền mạch trong trang và mọi nút theo dõi được nhúng trực tiếp trên bố cục.",
+          "private": {
+            "label": "Riêng tư",
+            "description": "Chủ sở hữu trang web và các nhóm có quyền truy cập có thể thấy nút theo dõi"
+          },
+          "org": {
+            "label": "Tổ chức",
+            "description": "Tất cả các thành viên có tài khoản với tổ chức của trang web và các nhóm có quyền truy cập đều có thể thấy nút theo dõi"
+          },
+          "public": {
+            "label": "Công khai",
+            "description": "Mọi người đều có thể thấy nút theo dõi"
+          }
+        },
+        "showFollowAction": {
+          "label": "Hành động theo dõi",
+          "helperText": "Thêm nút theo dõi vào menu hành động trong trang, nút này vẫn hiển thị khi người dùng cuộn qua bố cục."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "location": {
+        "label": "Vị trí",
+        "helperText": "Hiển thị khu vực địa lý của trang này."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tên trang",
+        "requiredError": "Tên trang là trường bắt buộc"
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "helperText": "Mô tả của trang."
+      },
+      "summary": {
+        "label": "Thông tin tóm tắt",
+        "helperText": "Tóm tắt ngắn gọn trang."
+      },
+      "tags": {
+        "label": "Từ khóa",
+        "helperText": "Từ khóa được dùng trong danh mục tìm kiếm để giúp người khác tìm thấy trang này. Thêm văn bản và chọn nhập để tạo từ khóa mới."
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Thiết lập hình ảnh đại diện để đại diện cho Trang này trong ArcGIS Online cũng như mục tìm kiếm và bộ sưu tập."
+      },
+      "categories": {
+        "label": "Danh mục",
+        "helperText": "Thể loại được dùng trong danh mục tìm kiếm để giúp người khác tìm trang này. Thể loại sẽ do tổ chức ArcGIS Online của bạn thiết lập."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Tiêu đề",
+        "hint": "Tiêu đề ngắn gọn sẽ tăng khả năng khám phá nội dung của bạn.",
+        "requiredError": "Tiêu đề là trường bắt buộc"
+      },
+      "summary": {
+        "label": "Thông tin tóm tắt",
+        "hint": "Tóm tắt ngắn gọn nội dung của bạn. MẸO: Cải thiện SEO bằng cách sử dụng các từ khóa khác với từ khóa \"Tiêu đề\" hay \"Từ khóa\" của bạn."
+      },
+      "description": {
+        "label": "Thông tin mô tả",
+        "hint": "Thêm thông tin chi tiết bổ sung giải thích nội dung của bạn. Nhắm mục tiêu cho trình độ đọc lớp 7-9 để tiếp cận được nhiều đối tượng. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Sử dụng công cụ phân tích khả năng đọc miễn phí để kiểm tra văn bản của bạn</a>."
+      },
+      "tags": {
+        "label": "Từ khóa",
+        "hint": "Thẻ được dùng trong danh mục tìm kiếm sẽ giúp người khác tìm thấy nội dung này. Thêm văn bản và chọn nhập để tạo ra từ khóa mới."
+      },
+      "categories": {
+        "label": "Thể loại",
+        "agolHint": "Danh mục được dùng trong danh mục tìm kiếm sẽ giúp người khác tìm thấy nội dung này. Danh mục này sẽ do tổ chức ArcGIS Online của bạn thiết lập.",
+        "enterpriseHint": "Danh mục được dùng trong danh mục tìm kiếm sẽ giúp người khác tìm thấy nội dung này. Danh mục này sẽ do tổ chức ArcGIS Enterprise của bạn thiết lập.",
+        "agolNoCategoryHint": "Mẹo: Các danh mục chỉ có sẵn khi được tổ chức của bạn thiết lập trong tổ chức ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Mẹo: Các thể loại chỉ có sẵn khi được tổ chức của bạn thiết lập trong tổ chức ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Hình đại diện",
+        "helperText": "Thiết lập hình ảnh để đại diện cho mục này trong ArcGIS Online cũng như mục tìm kiếm và bộ sưu tập."
+      },
+      "license": {
+        "label": "Điều khoản Sử dụng",
+        "helperText": "Ít hạn chế hơn sẽ khuyến khích sử dụng lại nhiều hơn."
+      },
+      "serverExtractCapability": {
+        "label": "Chức năng Trích xuất (xuất dữ liệu)",
+        "helperText": "Bật chức năng \"trích xuất\" trên dịch vụ của mục này. Trích xuất hỗ trợ các định dạng bổ sung."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Nội dung tải xuống được lưu trữ",
+        "helperText": "Tạo tệp tải xuống trực tiếp từ một dịch vụ được lưu trữ. Điều này cải thiện hiệu suất khi tải xuống nội dung như Lớp Đối tượng và Bảng. Để bật nội dung tải xuống được lưu trữ, bạn phải bật Chức năng Trích xuất."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Thông tin Cơ bản",
+        "message": "Thông tin này được sử dụng để điền kết quả tìm kiếm, thẻ thư viện và được hiển thị trên giao diện chi tiết."
+      },
+      "about": {
+        "title": "Giới thiệu về Nội dung",
+        "message": "Hai dòng đầu tiên của mô tả là thông tin hiển thị trong kết quả tìm kiếm, nhưng toàn bộ thông tin mô tả sẽ được hiển thị trên các chế độ xem nội dung tập trung."
+      },
+      "image": {
+        "title": "Hình ảnh Nổi bật",
+        "message": "Việc sở hữu một hình ảnh hoặc hình đại diện nổi bật tốt có vai trò quan trọng khi bạn thể hiện nội dung của mình trong các bộ sưu tập của chúng tôi hoặc trên các chế độ xem làm nổi bật hình ảnh như sáng kiến, sự kiện và bảng khảo sát. Kích thước khuyến nghị là 760x505. Nếu hình ảnh của bạn hiển thị mờ trên giao diện trực tiếp, vui lòng xem xét thay thế hình đại diện bằng hình ảnh lớn hơn."
+      },
+      "location": {
+        "label": "Vị trí",
+        "helperText": "Hiển thị khu vực địa lý sẽ có nội dung này (để xuất hiện trên bố cục nội dung)."
+      },
+      "downloads": {
+        "label": "Tải xuống",
+        "helperText": "Cấu hình định dạng tải xuống, lịch cập nhật tệp được lưu tạm, v.v. Để biết thêm thông tin chi tiết, hãy xem mục <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">tải xuống tài liệu.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "Còn lại {count} ký tự"
+    },
+    "imageThumbnail": {
+      "label": "Hình ảnh đại diện",
+      "upload": "Tải ảnh lên",
+      "done": "Hoàn tất",
+      "editThumbnail": "Chỉnh sửa Hình ảnh đại diện",
+      "browse": "Duyệt tìm Hình ảnh",
+      "remove": "Xóa Hình ảnh",
+      "edit": "Chỉnh sửa Hình ảnh",
+      "defaultHeading": "Thêm Hình ảnh đại diện",
+      "dropHeading": "Thả để Tải lên",
+      "errorHeading": "Thử Ảnh Khác",
+      "subheading": "Kích thước Tối đa là {size}, {types}",
+      "zoomOut": "Thu nhỏ",
+      "zoomIn": "Phóng to",
+      "drag": "Kéo để định vị lại",
+      "urlPlaceholder": "Các loại được hỗ trợ: {types}",
+      "browseForImage": "Duyệt tìm Hình ảnh",
+      "aria": {
+        "container": "Khu vực hình ảnh",
+        "crop": "Khu vực cắt bỏ",
+        "handle": {
+          "top": "Thay đổi kích thước phía trên",
+          "right": "Thay đổi kích thước bên phải",
+          "left": "Thay đổi kích thước bên trái",
+          "bottom": "Thay đổi kích thước phía dưới"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Thông tin chi tiết"
+      },
+      "basicInfo": {
+        "label": "Thông tin cơ bản"
+      },
+      "membershipAccess": {
+        "label": "Quyền truy cập của thành viên"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Tên nhóm",
+        "requiredError": "Tên nhóm là trường bắt buộc"
+      },
+      "summary": {
+        "label": "Thông tin tóm tắt"
+      },
+      "access": {
+        "itemType": "Nhóm"
+      },
+      "_thumbnail": {
+        "label": "Hình ảnh đại diện",
+        "helperText": "Chọn hình ảnh đại diện cho nhóm của bạn trên hồ sơ nhóm.",
+        "sizeDescription": "Kích cỡ tối đa là 10mb. Kích cỡ đề xuất: 400 x 400 hoặc lớn hơn"
+      },
+      "membershipAccess": {
+        "label": "Ai có thể tham gia nhóm này?",
+        "org": "Chỉ các thành viên trong tổ chức của tôi",
+        "collab": "Chỉ nhóm cộng tác đối tác và các thành viên trong tổ chức của tôi",
+        "any": "Thành viên của bất kỳ tổ chức nào"
+      },
+      "contributeContent": {
+        "label": "Ai có thể đóng góp nội dung?",
+        "all": "Tất cả thành viên nhóm",
+        "admins": "Chủ sở hữu và các quản lý nhóm"
+      }
+    }
+  }
+}

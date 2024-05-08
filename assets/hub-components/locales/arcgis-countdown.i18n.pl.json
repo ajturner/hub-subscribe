@@ -1,0 +1,7 @@
+{
+  "days": "dni",
+  "hours": "godziny",
+  "minutes": "minut(y)",
+  "seconds": "sekund(y)",
+  "countdownDateMissingError": "Należy wprowadzić datę odliczania"
+}

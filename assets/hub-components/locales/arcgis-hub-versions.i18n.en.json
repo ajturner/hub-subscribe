@@ -1,0 +1,14 @@
+{
+  "createdBy": "Created by {creator}",
+  "emptyMessage": "No versions found",
+  "errorMessage": "Error fetching versions",
+  "menuLabel": "show actions",
+  "publishedBadge": "Published",
+  "viewingBadge": "Viewing",
+  "popover.label": "Version actions",
+  "popover.actions.delete": "Delete",
+  "popover.actions.edit": "Edit details",
+  "popover.actions.share": "Share",
+  "shareErrorMessage": "Error copying share url to the clipboard.",
+  "shareSuccessMessage": "Share url copied to the clipboard."
+}

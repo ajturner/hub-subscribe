@@ -1,0 +1,7 @@
+{
+  "showMore": "Vis {num} mere",
+  "showLess": "Vis mindre",
+  "inputPlaceholder": "Filterindstillinger",
+  "noMatchesNotice": "Ingen matchende indstillinger fundet",
+  "inputAriaLabel": "Find indstilling med nøgleord"
+}

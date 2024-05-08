@@ -1,0 +1,8 @@
+{
+  "header": "Opções de Discussão",
+  "secondary": "Cancelar",
+  "primary": "Salvar Alterações",
+  "pending": "Salvando",
+  "error.title": "Aconteceu algo errado",
+  "error.message": "Tente novamente para salvar as alterações."
+}

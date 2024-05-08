@@ -1,0 +1,36 @@
+{
+  "edit": "Editare",
+  "delete": "Ștergere",
+  "noneMessage": "Nu este setată nicio locație",
+  "entityTypes": {
+    "project": "Proiect",
+    "site": "Site",
+    "initiative": "Iniţiativă",
+    "discussion": "Discuție",
+    "content": "Conținut"
+  },
+  "emptyLocation": {
+    "title": "Nicio locație trasată",
+    "message": "{entityType} nu va fi afișat pe hărți după ce se adaugă o locație"
+  },
+  "populatedLocation": {
+    "title": "Adăugați o altă locație?",
+    "message": "Selectați instrumentul de trasare din nou pentru a adăuga mai multe locații (până la {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Limită maximă de puncte atinsă ({currentCount}/{maxLocations})",
+    "message": "Pentru a adăuga mai multe locații: ștergeți puncte sau editați linii și zone pentru a le șterge punctele (clic dreapta)."
+  },
+  "maximumLocations": {
+    "title": "Limita maximă de locații a fost atinsă",
+    "message": "Pentru a adăuga mai multe locații, eliminați una sau mai multe sau eliminați toate locațiile și utilizați o zonă mai generală."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Adăugați locația",
+    "clear": "Golire toate",
+    "extent": "Trasare dreptunghi",
+    "point": "Eliminați un punct",
+    "polyline": "Trasare linie",
+    "polygon": "Trasare suprafaţă"
+  }
+}

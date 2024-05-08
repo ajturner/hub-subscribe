@@ -1,0 +1,16 @@
+{
+  "location.add": "Hely hozzáadása",
+  "location.remove": "Hely eltávolítása",
+  "draw.tip": "Másik hely hozzáadása?",
+  "prompt.add.post": "Hozzáadás a közzétételhez",
+  "prompt.add.reply": "Hozzáadás a válaszhoz",
+  "prompt.edit.point": "Pont mozgatása",
+  "prompt.edit.polyline": "Vonal szerkesztése",
+  "prompt.edit.polygon": "Terület szerkesztése",
+  "prompt.remove.point": "Pont törlése",
+  "prompt.remove.polyline": "Vonal törlése",
+  "prompt.remove.polygon": "Terület törlése",
+  "prompt.remove.existing": "Kijelölés megszakítása",
+  "prompt.location.edit": "Rajz frissítése",
+  "prompt.location.delete": "Rajz törlése"
+}

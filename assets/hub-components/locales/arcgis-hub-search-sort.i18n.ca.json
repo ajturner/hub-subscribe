@@ -1,0 +1,14 @@
+{
+  "title": "Títol",
+  "created": "Data de creació",
+  "modified": "Data d'actualització",
+  "updated": "Data d'actualització",
+  "asc": "ascendent",
+  "desc": "descendent",
+  "relevance": "Rellevància",
+  "change-sort-order": "Canvia l'ordre de classificació",
+  "sort-by": "Ordena per ",
+  "joined": "Data d'incorporació",
+  "username": "Nom d'usuari",
+  "membertype": "Rol"
+}

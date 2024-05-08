@@ -1,0 +1,24 @@
+{
+  "title": "Uporabniki",
+  "facets": {
+    "role": {
+      "label": "Vloga",
+      "all": "Vse",
+      "manager": "Upravitelj",
+      "member": "Član"
+    },
+    "dateJoined": {
+      "label": "Datum pridružitve"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Skupaj",
+      "trailingText": "Uporabniki tima"
+    },
+    "new": {
+      "title": "Novo",
+      "trailingText": "Zadnjih 30 dni"
+    }
+  }
+}

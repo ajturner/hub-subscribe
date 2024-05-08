@@ -1,0 +1,10 @@
+{
+  "error": "Něco se pokazilo",
+  "repliesFailure": "Nelze zobrazit odpovědi na tento příspěvek.",
+  "thread.deleted.title": "Vlákno smazáno",
+  "thread.deleted.message": "Propojený příspěvek a odpověď byly smazány a nelze je zobrazit.",
+  "thread.deleted.action": "Zobrazit všechny příspěvky",
+  "reply.single.title": "Prohlížíte si jednu odpověď",
+  "reply.single.link": "Zobrazit všechny odpovědi",
+  "loading": "Načítání"
+}

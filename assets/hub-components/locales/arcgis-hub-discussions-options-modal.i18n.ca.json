@@ -1,0 +1,8 @@
+{
+  "header": "Opcions de debat",
+  "secondary": "Cancel·la",
+  "primary": "Desa els canvis",
+  "pending": "S'està desant",
+  "error.title": "Hi ha hagut algun problema",
+  "error.message": "Torneu-ho a provar per desar els canvis."
+}

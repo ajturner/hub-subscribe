@@ -1,0 +1,25 @@
+{
+  "moreResults": "Fler resultat",
+  "search": "Sök",
+  "filter": "Filter",
+  "viewResults": "Visa resultat ({numResults})",
+  "resultsCount": "1 - {pageTotal} av {searchTotal}",
+  "backToTop": "Tillbaka till start",
+  "facets": {
+    "access": {
+      "private": "Mig själv",
+      "shared": "Ägare och grupper",
+      "org": "Organisation",
+      "public": "Allmän"
+    },
+    "license": {
+      "custom": "Anpassat",
+      "none": "Inga"
+    }
+  },
+  "layoutOptions": {
+    "list": "Visa lista",
+    "grid": "Visa rutnät"
+  },
+  "galleryActionsLabel": "Ytterligare åtgärder"
+}

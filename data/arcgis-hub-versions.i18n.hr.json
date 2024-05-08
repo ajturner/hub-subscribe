@@ -1,0 +1,14 @@
+{
+  "createdBy": "Stvorio/la {creator}",
+  "emptyMessage": "Nijedna verzija nije pronađena",
+  "errorMessage": "Pogreška pri dohvaćanju verzija",
+  "menuLabel": "prikaži radnje",
+  "publishedBadge": "Objavljeno",
+  "viewingBadge": "Pregledavanje",
+  "popover.label": "Radnje verzije",
+  "popover.actions.delete": "Izbriši",
+  "popover.actions.edit": "Uredi pojedinosti",
+  "popover.actions.share": "Podijeli",
+  "shareErrorMessage": "Pogreška pri kopiranju url-a dijeljenja u međuspremnik.",
+  "shareSuccessMessage": "URL dijeljenja kopiran je u međuspremnik."
+}

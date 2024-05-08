@@ -1,0 +1,26 @@
+{
+  "followers": "Последователи",
+  "tabs": {
+    "followers": "Последователи",
+    "settings": "Настройки"
+  },
+  "addFollowers": {
+    "label": "Добавяне на последователи"
+  },
+  "emptyState": {
+    "message": "В момента нямате група последователи."
+  },
+  "restrictedAccessState": {
+    "message": "Нямате достъп."
+  },
+  "stats": {
+    "total": {
+      "title": "Общо",
+      "trailingText": "Последователи"
+    },
+    "new": {
+      "title": "Нови",
+      "trailingText": "Последните 30 дни"
+    }
+  }
+}

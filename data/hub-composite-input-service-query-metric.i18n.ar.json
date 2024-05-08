@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "مشاركة",
+      "myself": "نفسي",
+      "myOrganization": "المنظمة",
+      "public": "العالم (عام)"
+    },
+    "catalog": {
+      "myContent": "الخاص",
+      "favorites": "المفضلة",
+      "organization": "المنظمة",
+      "world": "العالم (عام)"
+    }
+  },
+  "expression": {
+    "label": "عوامل تصفية البيانات الجدولية"
+  },
+  "field": {
+    "label": "البيانات الجدولية"
+  },
+  "layer": "الطبقة/الجدول",
+  "statistic": {
+    "label": "التجميع"
+  }
+}

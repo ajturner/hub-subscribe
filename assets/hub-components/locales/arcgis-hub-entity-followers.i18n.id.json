@@ -1,0 +1,26 @@
+{
+  "followers": "Pengikut",
+  "tabs": {
+    "followers": "Pengikut",
+    "settings": "Pengaturan"
+  },
+  "addFollowers": {
+    "label": "Tambahkan pengikut"
+  },
+  "emptyState": {
+    "message": "Saat ini Anda tidak memiliki grup pengikut."
+  },
+  "restrictedAccessState": {
+    "message": "Anda tidak memiliki akses."
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Pengikut"
+    },
+    "new": {
+      "title": "Baru",
+      "trailingText": "30 hari terakhir"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "İçerik Seç",
+  "secondStepHeader": "Ayrıntıları Ayarla",
+  "thirdStepHeader": "Paylaşım ve Erişim Seviyesini Ayarla",
+  "next": "İleri",
+  "back": "Geri",
+  "save": "Kaydet",
+  "cancel": "İptal",
+  "divider": "veya",
+  "duplicateFileAriaLabel": "dosya çoğaltma hatası",
+  "duplicateFileError": "Aynı dosya adına sahip bir öge zaten var. Lütfen dosya adını değiştirin ve yeniden deneyin veya ArcGIS Online'da <a>çoğaltılmış dosyayı</a> kaldırın",
+  "uploading": "Yükleniyor"
+}

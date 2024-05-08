@@ -1,0 +1,12 @@
+{
+  "save": "Spremi",
+  "cancel": "Odustani",
+  "undoChanges": "Poništi promjene",
+  "next": "Sljedeće",
+  "back": "Natrag",
+  "formAlert": "Stvori upozorenje",
+  "invalidForm": "Ispravite sve pogreške.",
+  "saveDisabled": "Spremanje onemogućeno",
+  "success": "Uspješno spremljena uređivanja",
+  "error": "Pogreška pri spremanju uređivanja"
+}

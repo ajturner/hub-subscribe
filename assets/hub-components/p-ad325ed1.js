@@ -1,0 +1,1 @@
+import{_ as t}from"./p-dcdf7b57.js";function r(r,a,e){var n=t(t({params:{}},e),r);return n.params=a.reduce((function(t,a){return(r[a]||"boolean"==typeof r[a])&&(t[a]=r[a]),t}),n.params),["params","httpMethod","rawResponse","authentication","portal","fetch","maxUrlLength","headers"].reduce((function(t,r){return n[r]&&(t[r]=n[r]),t}),{})}export{r as a}

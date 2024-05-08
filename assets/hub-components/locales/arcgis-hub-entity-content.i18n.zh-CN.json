@@ -1,0 +1,24 @@
+{
+  "content": "内容",
+  "tabs": {
+    "catalog": "目录",
+    "collections": "集合",
+    "catalogConfig": "目录配置"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "配置目录",
+        "message": "已开始构建和配置您的目录! 您的目录包含群组并且已在群组中填充内容。",
+        "link": "了解有关目录的详细信息"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "目录为空",
+        "message": "您可以随时开始使用您的目录! 已通过添加一个或多个群组对您的目录进行配置，并且已在群组内填充内容。",
+        "link": "入门"
+      }
+    }
+  }
+}

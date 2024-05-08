@@ -1,0 +1,36 @@
+{
+  "edit": "Edita",
+  "delete": "Suprimeix",
+  "noneMessage": "No s'ha definit cap ubicació",
+  "entityTypes": {
+    "project": "Projecte",
+    "site": "Lloc",
+    "initiative": "Iniciativa",
+    "discussion": "Debat",
+    "content": "Contingut"
+  },
+  "emptyLocation": {
+    "title": "No s'ha dibuixat cap ubicació",
+    "message": "{entityType} no es mostrarà als mapes fins que no s'hagi afegit una ubicació"
+  },
+  "populatedLocation": {
+    "title": "Voleu afegir una altra ubicació?",
+    "message": "Torneu a seleccionar l'eina de dibuix i afegiu més ubicacions (fins a {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "S'ha arribat al nombre màxim de punts ({currentCount}/{maxLocations})",
+    "message": "Per afegir més ubicacions, suprimiu punts o editeu línies i àrees per suprimir-ne punts (clic amb el botó dret)."
+  },
+  "maximumLocations": {
+    "title": "S'ha arribat al nombre màxim d'ubicacions",
+    "message": "Per afegir més ubicacions, elimineu-ne una o més, o bé elimineu totes les ubicacions i feu servir una àrea més general."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Afegeix una ubicació",
+    "clear": "Esborra-ho tot",
+    "extent": "Dibuixa un rectangle",
+    "point": "Deixa anar un punt",
+    "polyline": "Dibuixa una línia",
+    "polygon": "Dibuixa una àrea"
+  }
+}

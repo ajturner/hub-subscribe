@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "הורדה הושלמה",
+  "titleFileGeneration": "יצירת קובץ מתבצעת",
+  "titleFileGenerationFailed": "יצירת קובץ נכשלה",
+  "titleDatasetNotFound": "ערכת נתונים לא נמצאה",
+  "titleApiError": "שגיאת API",
+  "titleFormatDisabled": "ההורדה מושבתת",
+  "messageFailedStaleAvailable": "ניתן גרסה קודמת להלן.",
+  "messageUpdatingFile": "אנו מעדכנים את הקובץ. ייתכן שפעולה זו תימשך זמן מה.",
+  "messageCreatingFile": "אנו יוצרים את הקובץ. ייתכן שפעולה זו תימשך זמן מה.",
+  "messageFileNeedsGenerating": "הורדת קובץ מעודכן עשויה להימשך זמן מה.",
+  "messageFormatDisabled": "הבעלים השבית הורדה עבור פורמט זה."
+}

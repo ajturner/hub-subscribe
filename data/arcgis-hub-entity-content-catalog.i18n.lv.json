@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Veids",
+    "tags": "Atslēgas vārds",
+    "categories": "Kategorija",
+    "sharing": "Koplietošana",
+    "dateUpdated": "Atjaunināšanas datums",
+    "map": {
+      "label": "Novietojums",
+      "tooltip": "Lietot kartes pārklājumu kā novietojuma filtru"
+    }
+  },
+  "collections": {
+    "all": "Viss",
+    "dataset": "Dati",
+    "site": "Vietnes",
+    "document": "Dokumenti",
+    "appAndMap": "Lietotnes un kartes"
+  },
+  "noCollections": {
+    "title": "Katalogs",
+    "message": "Jūsu katalogs pašlaik ir tukšs.",
+    "button": "Konfigurēt katalogu"
+  }
+}

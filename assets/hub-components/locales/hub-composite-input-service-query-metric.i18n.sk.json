@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Zdieľanie",
+      "myself": "Ja",
+      "myOrganization": "Moja organizácia",
+      "public": "Svet (Verejnosť)"
+    },
+    "catalog": {
+      "myContent": "Môj obsah",
+      "favorites": "Obľúbené",
+      "organization": "Moja organizácia",
+      "world": "Svet (Verejnosť)"
+    }
+  },
+  "expression": {
+    "label": "Atribútové filtre"
+  },
+  "field": {
+    "label": "Atribút"
+  },
+  "layer": "Vrstva / tabuľka",
+  "statistic": {
+    "label": "Agregácia"
+  }
+}

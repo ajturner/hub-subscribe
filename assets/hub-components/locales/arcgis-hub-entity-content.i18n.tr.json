@@ -1,0 +1,24 @@
+{
+  "content": "İçerik",
+  "tabs": {
+    "catalog": "Katalog",
+    "collections": "Koleksiyonlar",
+    "catalogConfig": "Katalog Yapılandırması"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Kataloğunuzu yapılandırın",
+        "message": "Kataloğunuzu oluşturmaya ve yapılandırmaya başladınız! Kataloğunuz gruplardan oluşur ve bu grupların içindeki içerikle doldurulur.",
+        "link": "Kataloglar hakkında daha fazla bilgi edinin"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Katalog boş",
+        "message": "Kataloğunuza başlamaya hazırsınız! Kataloğunuz bir veya daha fazla grup eklenerek yapılandırılır ve bu grupların içindeki içerikle doldurulur.",
+        "link": "Başlayın"
+      }
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "atidaryti profilį naujame skirtuke",
+  "noGroups": "Nėra grupių",
+  "pickerToggle": "Pridėti grupes",
+  "pickerTitle": "Pasirinkti grupes",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Nėra narių",
+      "oneMember": "1 narys",
+      "members": "{count} nariai (-ų)"
+    },
+    "dateCreated": "Sukūrimo data: {localizedDate}",
+    "sharing": "Bendrinimas: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Aš",
+      "shared": "Savininkas ir grupės",
+      "org": "Organizacija",
+      "public": "Vieša"
+    },
+    "membership": "Narystė: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Grupės savininkas",
+      "admin": "Grupės valdytojas",
+      "member": "Grupės narys",
+      "none": "Nėra"
+    }
+  }
+}

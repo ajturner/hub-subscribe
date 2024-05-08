@@ -1,0 +1,19 @@
+{
+  "select": "Vali",
+  "cancel": "Loobu",
+  "iconModalTitle": "Vali ikoon",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Valige teegist"
+      },
+      "url": {
+        "description": "Sisestage omaenda URL"
+      }
+    }
+  },
+  "altText": {
+    "label": "Asetekst",
+    "helperText": "Kui on lisamata, märgitakse ikoon dekoratiivseks."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Redaguoti maketą",
+  "editContent": "Redaguoti turinį",
+  "view": {
+    "project": "Peržiūrėti projektą",
+    "site": "Peržiūrėti svetainę",
+    "initiative": "Peržiūrėti iniciatyvą",
+    "discussion": "Peržiūrėti diskusiją",
+    "content": "Peržiūrėti turinį",
+    "page": "Peržiūrėti puslapį",
+    "group": "Peržiūrėti grupę"
+  },
+  "label": {
+    "project": "Projekto darbo sritis",
+    "site": "Svetainės darbo sritis",
+    "initiative": "Iniciatyvos darbo sritis",
+    "discussion": "Diskusijų darbo sritis",
+    "content": "Turinio darbo sritis",
+    "page": "Puslapio darbo sritis",
+    "group": "Grupės darbo sritis"
+  },
+  "access": {
+    "sharingLevel": "Bendrinimo lygis",
+    "groupSharing": "Grupių bendrinimas",
+    "public": "Vieša",
+    "org": "Organizacija",
+    "private": "Savininkas",
+    "shared": "Bendrinta privačiai",
+    "disabled": "Negalite keisti bendrinimo nustatymų, nes nesate savininkas ar administratorius."
+  }
+}

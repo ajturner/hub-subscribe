@@ -1,0 +1,494 @@
+{
+  "success": "Düzenlemeler başarıyla kaydedildi",
+  "error": "Düzenlemeler kaydedilirken hata oluştu",
+  "create": "Oluştur",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Konum yok",
+        "org": "Kuruluşun yayılımı",
+        "custom": "Özel konum",
+        "customDescription": "Bir veya daha fazla konum çiz",
+        "itemExtent": "Ögenin Mevcut Yayılımı"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tür",
+          "sharing": "Paylaşım"
+        },
+        "catalog": {
+          "myContent": "İçeriğim",
+          "favorites": "Sık Kullanılanlar",
+          "organization": "Kuruluş",
+          "world": "Dünya (Genel)"
+        },
+        "collection": {
+          "appsAndMaps": "Uygulamalar ve Haritalar",
+          "dataset": "Veri",
+          "documents": "Belgeler",
+          "feedback": "Geri bildirim",
+          "sites": "Siteler"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Ayrıntılar"
+      },
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "location": {
+        "label": "Konum",
+        "helperText": "Bu projenin yer alacağı coğrafi alanı gösterin (proje düzeninde görünmesi için)."
+      },
+      "status": {
+        "label": "Durum"
+      },
+      "sharing": {
+        "label": "Paylaşım"
+      },
+      "timeline": {
+        "label": "Zaman çizgisi"
+      },
+      "searchDiscoverability": {
+        "label": "Arama ve keşfedilebilirlik"
+      },
+      "featuredContent": {
+        "label": "Öne çıkan içerik",
+        "helperText": "Projenizle ilgili belirli belgeleri, uygulamaları ve verileri vurgulayın. En fazla 4 ögeyi öne çıkarabilirsiniz."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Proje adı",
+        "requiredError": "Proje adı zorunlu bir alandır"
+      },
+      "description": {
+        "label": "Açıklama",
+        "helperText": "Projenizin hedeflerine nasıl ulaşacağını belirtin. İlgili arka plan bilgilerini ve projenin sonucu olarak beklenen değişiklikleri dahil etmeyi düşünün."
+      },
+      "summary": {
+        "label": "Amaç",
+        "helperText": "Projenizin hedeflerini kısaca özetleyin."
+      },
+      "access": {
+        "itemType": "Proje"
+      },
+      "groups": {
+        "label": "Şununla paylaş...",
+        "viewGroup": "(Grubu görüntüle)",
+        "editGroup": "(Grubu düzenle)"
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Bu projeyi ArcGIS Online ve ayrıca arama ve galerilerde temsil etmek için bir küçük resim belirleyin.",
+        "sizeDescription": "Tavsiye edilen boyutlar: 760 x 505 veya daha büyük"
+      },
+      "featuredImage": {
+        "label": "Öne çıkan görüntü",
+        "helperText": "Çalışmanızı proje çıktı düzeninde temsil edecek bir görüntü seçin.",
+        "sizeDescription": "Maksimum dosya boyutu 10mb'dir. Tavsiye edilen boyutlar: 718 x 478 veya daha büyük",
+        "altText": {
+          "label": "Alternatif metin",
+          "helperText": "Ekran okuyucu kullananlar için görüntünüze kısa bir açıklama sağlayın. Görüntünün dekoratif olduğunu belirtmek için boş bırakın."
+        }
+      },
+      "tags": {
+        "label": "Etiketler",
+        "helperText": "Etiketler arama kataloglarında, başkalarının bu projeyi bulmasına yardımcı olmak için kullanılır. Metin ekleyin ve enter tuşuna basarak yeni etiketler oluşturun."
+      },
+      "categories": {
+        "label": "Kategoriler",
+        "helperText": "Kategoriler arama kataloglarında, başkalarının bu projeyi bulmasına yardımcı olmak için kullanılır. Bunlar, ArcGIS Online kuruluşunuz tarafından ayarlanır."
+      },
+      "status": {
+        "label": "Proje durumu",
+        "enum": {
+          "notStarted": {
+            "label": "Başlatılmadı"
+          },
+          "inProgress": {
+            "label": "Devam ediyor"
+          },
+          "onHold": {
+            "label": "Beklemede"
+          },
+          "complete": {
+            "label": "Tamamla"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tür",
+          "sharing": "Paylaşım"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Ayrıntılar"
+      },
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "location": {
+        "label": "Konum",
+        "helperText": "Bu inisiyatifin yer alacağı coğrafi alanı gösterin (inisiyatifin çıktı düzeninde görünmesi için)."
+      },
+      "sharing": {
+        "label": "Paylaşım"
+      },
+      "featuredContent": {
+        "label": "Öne çıkan içerik",
+        "helperText": "Projenizle ilgili belirli belgeleri, uygulamaları ve verileri vurgulayın. En fazla 4 öğeyi öne çıkarabilirsiniz."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "İnisiyatif adı",
+        "requiredError": "İnisiyatif adı zorunlu bir alandır."
+      },
+      "summary": {
+        "label": "Amaç",
+        "helperText": "İnisiyatifinizin hedeflerini kısaca özetleyin."
+      },
+      "access": {
+        "itemType": "İnisiyatif"
+      },
+      "description": {
+        "label": "Açıklama",
+        "helperText": "Bu inisiyatifi ararken yardımcı olabilecek daha fazla bağlam sağlayın."
+      },
+      "tags": {
+        "label": "Etiketler",
+        "helperText": "Etiketler, arama kataloglarında başkalarının bu inisiyatifi bulmasına yardımcı olmak için kullanılır. Metin ekleyin ve enter tuşuna basarak yeni etiketler oluşturun."
+      },
+      "categories": {
+        "label": "Kategoriler",
+        "helperText": "Kategoriler, arama kataloglarında başkalarının bu inisiyatifi bulmasına yardımcı olmak için kullanılır. Bunlar, ArcGIS Online kuruluşunuz tarafından ayarlanır."
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Bu girişimi ArcGIS Online ve ayrıca arama ve galerilerde temsil etmek için bir küçük resim belirleyin."
+      },
+      "groups": {
+        "label": "Şununla paylaş...",
+        "viewGroup": "(Grubu görüntüle)",
+        "editGroup": "(Grubu düzenle)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tür",
+          "sharing": "Paylaşım"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Ayrıntılar"
+      },
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "location": {
+        "label": "Konum"
+      },
+      "settings": {
+        "label": "Tartışma Ayarları"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Başlık",
+        "requiredError": "Tartışma panosu adı gereklidir."
+      },
+      "prompt": {
+        "label": "İstem",
+        "helperText": "Katılımcıların bu tartışma panosuna ne göndermelerini istediğinizi kısaca açıklayın.",
+        "requiredError": "İstem gerekli bir alandır"
+      },
+      "description": {
+        "label": "Açıklama",
+        "helperText": "Bu panoyu ararken yardımcı olabilecek daha fazla bağlam sağlayın."
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Tartışmanızı temsil edecek bir görüntü seçin."
+      },
+      "summary": {
+        "label": "Amaç",
+        "helperText": "Bağlantıyı başkalarıyla paylaşırken kullanışlı olan bu Tartışma Panosunun amacını kısaca açıklayın."
+      },
+      "featuredImage": {
+        "label": "Öne çıkan görüntü",
+        "sizeDescription": "Maksimum boyut: 10mb, JPEG, JPG veya PNG",
+        "altText": {
+          "label": "Alternatif metin",
+          "helperText": "Ekran okuyucu kullananlar için görüntünüze kısa bir açıklama sağlayın. Görüntünün dekoratif olduğunu belirtmek için boş bırakın."
+        },
+        "name": {
+          "label": "Görüntü adı"
+        }
+      },
+      "tags": {
+        "label": "Etiketler"
+      },
+      "categories": {
+        "label": "Kategoriler"
+      },
+      "discussable": {
+        "label": "Tartışmaya izin veriliyor mu?",
+        "enabled": {
+          "label": "Evet, tartışmaya izin veriliyor",
+          "description": "Katılımcılar bu tartışma panosuna gönderiler, yanıtlar ve tepkiler ekleyebilir."
+        },
+        "disabled": {
+          "label": "Hayır, tartışma engellendi",
+          "description": "Yeni gönderiler, yanıtlar ve tepkiler ekleme becerisini kaldırır. Önceki katılımı silmez."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "location": {
+        "label": "Konum",
+        "helperText": "Bu sitenin ait olduğu coğrafi alanı gösterin."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Site adı",
+        "requiredError": "Site adı gerekli bir alandır"
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Bu siteyi ArcGIS Online ve ayrıca arama ve galerilerde temsil etmek için bir küçük resim belirleyin."
+      },
+      "description": {
+        "label": "Açıklama",
+        "helperText": "Sitenin açıklaması."
+      },
+      "summary": {
+        "label": "Özet",
+        "helperText": "Siteyi kısaca özetleyin."
+      },
+      "tags": {
+        "label": "Etiketler",
+        "helperText": "Etiketler arama kataloglarında, başkalarının bu siteyi bulmasına yardımcı olmak için kullanılır. Metin ekleyin ve enter tuşuna basarak yeni etiketler oluşturun."
+      },
+      "categories": {
+        "label": "Kategoriler",
+        "helperText": "Kategoriler arama kataloglarında, başkalarının bu siteyi bulmasına yardımcı olmak için kullanılır. Bunlar, ArcGIS Online kuruluşunuz tarafından ayarlanır."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Görünürlüğü ayarla",
+          "helperText": "Takip düğmelerini kimin görebildiğini kontrol edin. Bu ayar hem akan sayfa içi eylem takip düğmesi hem de doğrudan düzene gömülü herhangi bir takip düğmesi için geçerlidir.",
+          "private": {
+            "label": "Özel",
+            "description": "Site sahibi ve erişimi olan gruplar takip düğmelerini görebilir"
+          },
+          "org": {
+            "label": "Kuruluş",
+            "description": "Sitenin kuruluşunda hesabı olan tüm üyeler ve erişimi olan gruplar takip düğmelerini görebilir"
+          },
+          "public": {
+            "label": "Genel",
+            "description": "Takip düğmelerini herkes görebilir"
+          }
+        },
+        "showFollowAction": {
+          "label": "Eylemi takip et",
+          "helperText": "Sayfa içi eylemler menüsüne, kullanıcılar düzen içinde gezindikçe görünür kalan bir takip düğmesi ekleyin."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "location": {
+        "label": "Konum",
+        "helperText": "Bu sayfanın ait olduğu coğrafi alanı gösterin."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Sayfa adı",
+        "requiredError": "Sayfa adı zorunlu bir alandır"
+      },
+      "description": {
+        "label": "Açıklama",
+        "helperText": "Sayfanın açıklaması."
+      },
+      "summary": {
+        "label": "Özet",
+        "helperText": "Sayfayı kısaca özetleyin."
+      },
+      "tags": {
+        "label": "Etiketler",
+        "helperText": "Etiketler arama kataloglarında, başkalarının bu sayfayı bulmasına yardımcı olmak için kullanılır. Metin ekleyin ve enter tuşuna basarak yeni etiketler oluşturun."
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Bu Sayfayı ArcGIS Online ve ayrıca arama ve galerilerde temsil etmek için bir küçük resim belirleyin."
+      },
+      "categories": {
+        "label": "Kategoriler",
+        "helperText": "Kategoriler arama kataloglarında, başkalarının bu sayfayı bulmasına yardımcı olmak için kullanılır. Bunlar, ArcGIS Online kuruluşunuz tarafından ayarlanır."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Başlık",
+        "hint": "Kısa başlıklar, içeriğiniz çapında keşfedilebilirliği artıracaktır.",
+        "requiredError": "Başlık gerekli bir alandır"
+      },
+      "summary": {
+        "label": "Özet",
+        "hint": "İçeriğinizi özetleyin. İPUCU: \"Başlık\" veya \"Etiketler\"inizden farklı olan anahtar sözcükler kullanarak SEO'yu geliştirin."
+      },
+      "description": {
+        "label": "Açıklama",
+        "hint": "İçeriğinizi açıklayan ek ayrıntılar ekleyin. Geniş bir kitleye ulaşmak için 7.-9. sınıf okuma seviyesi hedeflenmiştir. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Metninizi test etmek için serbest okunabilirlik analiz aracınızı kullanın</a>."
+      },
+      "tags": {
+        "label": "Etiketler",
+        "hint": "Etiketler, başkalarının arama kataloglarında bu içeriği bulmasına yardımcı olmak için kullanılır. Metin ekleyin ve enter tuşuna basarak yeni etiketler oluşturun."
+      },
+      "categories": {
+        "label": "Kategoriler",
+        "agolHint": "Kategoriler, başkalarının arama kataloglarında bu içeriği bulmasına yardımcı olmak için kullanılır. Bunlar, ArcGIS Online kuruluşunuz tarafından ayarlanır.",
+        "enterpriseHint": "Kategoriler, başkalarının arama kataloglarında bu içeriği bulmasına yardımcı olmak için kullanılır. Bunlar ArcGIS Enterprise kuruluşunuz tarafından ayarlanır.",
+        "agolNoCategoryHint": "İpucu: Kategoriler, yalnızca ArcGIS Online kuruluşunda kuruluşunuz tarafından ayarlanmışsa kullanılabilir.",
+        "enterpriseNoCategoryHint": "İpucu: Kategoriler, yalnızca ArcGIS Enterprise kuruluşunda kuruluşunuz tarafından ayarlanmışsa kullanılabilir."
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Bu ögeyi ArcGIS Online ve ayrıca arama ve galerilerde temsil etmek için bir küçük resim belirleyin."
+      },
+      "license": {
+        "label": "Kullanım Koşulları",
+        "helperText": "Daha az kısıtlama yeniden kullanımı teşvik eder."
+      },
+      "serverExtractCapability": {
+        "label": "Ayıklama Becerisi (veri ayıkla)",
+        "helperText": "Bu ögenin servisinde \"ayıklama\" becerisini etkinleştirir. Ayıklama, ek biçimleri destekler."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Barındırılan indirmeler",
+        "helperText": "Doğrudan barındırılan bir servisten indirme dosyaları oluşturun. Bu, Detay Katmanları ve Tablolar gibi içerikleri indirirken performansı artırır. Barındırılan indirmeleri etkinleştirmek için Ayıklama Yetenekleri etkinleştirilmiş olmalıdır."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Temel Bilgiler",
+        "message": "Bu bilgiler arama sonuçlarını ve galeri kartlarını doldurmak için kullanılır ve ayrıntılar görünümünde görüntülenir."
+      },
+      "about": {
+        "title": "İçerik Hakkında",
+        "message": "Açıklamanızın ilk iki satırı arama sonuçlarında görüntülenir, açıklamanın tamamı ise odaklanmış içerik görünümlerinde gösterilir."
+      },
+      "image": {
+        "title": "Öne Çıkan Görüntü",
+        "message": "İçeriğinizi galerilerimizde sergilerken ya da inisiyatifler, etkinlikler ve anketler gibi görselleri öne çıkaran görünümlerde özellikli iyi bir görüntü veya küçük resim kullanmak önemlidir. Önerilen boyut 760x505’tir. Görüntünüz canlı rotalarda bulanıklaşıyorsa, küçük resmi daha büyük bir resimle değiştirmelisiniz."
+      },
+      "location": {
+        "label": "Konum",
+        "helperText": "Bu içeriğin yer alacağı coğrafi alanı gösterin (içerik düzeninde görünmesi için)."
+      },
+      "downloads": {
+        "label": "İndirmeler",
+        "helperText": "İndirme biçimlerini, önbelleğe alınmış dosya güncelleme zamanlamasını ve daha fazlasını yapılandırın. Daha fazla bilgi için bkz. <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">indirme belgeleri</calcite-link>."
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} karakter kaldı"
+    },
+    "imageThumbnail": {
+      "label": "Küçük Görüntü",
+      "upload": "Görüntü Yükle",
+      "done": "Tamam",
+      "editThumbnail": "Küçük Resmi Düzenle",
+      "browse": "Görüntüye Gözat",
+      "remove": "Görüntüyü Kaldır",
+      "edit": "Görüntü Düzenle",
+      "defaultHeading": "Küçük Resim Ekle",
+      "dropHeading": "Yüklemek için Sürükle",
+      "errorHeading": "Farklı bir Görüntü Dene",
+      "subheading": "Maksimum Boyut: {size}, {types}",
+      "zoomOut": "uzaklaştır",
+      "zoomIn": "yakınlaştır",
+      "drag": "Yeniden Konumlandırmak için Sürükle",
+      "urlPlaceholder": "Desteklenen türler: {types}",
+      "browseForImage": "Görüntüye Gözat",
+      "aria": {
+        "container": "Görüntü alanı",
+        "crop": "Kırpma alanı",
+        "handle": {
+          "top": "Üstten yeniden boyutlandır",
+          "right": "Sağdan yeniden boyutlandır",
+          "left": "Soldan yeniden boyutlandır",
+          "bottom": "Alttan yeniden boyutlandır"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Ayrıntılar"
+      },
+      "basicInfo": {
+        "label": "Temel bilgiler"
+      },
+      "membershipAccess": {
+        "label": "Üyelik erişimi"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Grup adı",
+        "requiredError": "Grup adı gerekli bir alandır"
+      },
+      "summary": {
+        "label": "Özet"
+      },
+      "access": {
+        "itemType": "Grup"
+      },
+      "_thumbnail": {
+        "label": "Küçük Resim",
+        "helperText": "Grup profilinde grubunuzu temsil edecek bir görüntü seçin.",
+        "sizeDescription": "Maksimum boyut 10mb'dir. Tavsiye edilen boyut: 400 x 400 veya daha büyük"
+      },
+      "membershipAccess": {
+        "label": "Kimler bu grupta olabilir?",
+        "org": "Sadece kuruluşumun üyeleri",
+        "collab": "Sadece ortak iş birliği ve kuruluşumun üyeleri",
+        "any": "Herhangi bir kuruluşun üyeleri"
+      },
+      "contributeContent": {
+        "label": "Kimler içeriğe katkıda bulunabilir?",
+        "all": "Tüm grup üyeleri",
+        "admins": "Grup sahibi ve yöneticileri"
+      }
+    }
+  }
+}

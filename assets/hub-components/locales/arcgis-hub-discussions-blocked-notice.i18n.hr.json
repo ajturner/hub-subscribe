@@ -1,0 +1,16 @@
+{
+  "post.title": "Uređivanje objava je blokirano",
+  "post.message": "Uređivanje nije dostupno dok su rasprave blokirane.",
+  "post.message.item": "Uređivanje nije dostupno dok su rasprave o ovoj stavci blokirane.",
+  "post.message.group": "Uređivanje nije dostupno dok su rasprave o ovoj grupi blokirane.",
+  "reply.title": "Uređivanje odgovora je blokirano",
+  "reply.title.generic": "Rapsrava blokirana",
+  "reply.message": "Uređivanje nije dostupno dok su rasprave blokirane.",
+  "reply.message.generic": "Trenutačno ne možete stvarati odgovore.",
+  "reply.message.item": "Uređivanje nije dostupno dok su rasprave o ovoj stavci blokirane.",
+  "reply.message.group": "Uređivanje nije dostupno dok su rasprave o ovoj grupi blokirane.",
+  "item.title": "Rasprava o stavki je blokirana",
+  "item.message": "Ta stavka nije odobrena za raspravu.",
+  "group.title": "Rasprava o groupi je blokirana",
+  "group.message": "Ta grupa nije odobrena za raspravu."
+}

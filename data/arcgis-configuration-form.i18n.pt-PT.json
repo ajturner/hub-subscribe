@@ -1,0 +1,12 @@
+{
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "undoChanges": "Anular alterações",
+  "next": "Seguinte",
+  "back": "Retroceder",
+  "formAlert": "Alerta de formulário",
+  "invalidForm": "Corrija todos os erros.",
+  "saveDisabled": "Guardar desativado",
+  "success": "Edições guardas com sucesso",
+  "error": "Erro ao guardar edições"
+}

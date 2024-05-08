@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "仪表盘",
+    "details": "详细信息",
+    "overview": "概览",
+    "metrics": "指标",
+    "settings": "设置",
+    "collaborators": "协作者",
+    "discussion": "说明",
+    "content": "内容",
+    "members": "成员",
+    "participation": "参与",
+    "followers": "关注者"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "post.title": "Chỉnh sửa bài đăng bị chặn",
+  "post.message": "Chỉnh sửa không khả dụng khi thảo luận bị chặn.",
+  "post.message.item": "Chỉnh sửa không khả dụng khi thảo luận bị chặn đối với mục này.",
+  "post.message.group": "Chỉnh sửa không khả dụng khi thảo luận bị chặn đối với nhóm này.",
+  "reply.title": "Chỉnh sửa phản hồi bị chặn",
+  "reply.title.generic": "Đã chặn thảo luận",
+  "reply.message": "Chỉnh sửa không khả dụng khi thảo luận bị chặn.",
+  "reply.message.generic": "Bạn không thể tạo phản hồi vào thời điểm này.",
+  "reply.message.item": "Chỉnh sửa không khả dụng khi thảo luận bị chặn đối với mục này.",
+  "reply.message.group": "Chỉnh sửa không khả dụng khi thảo luận bị chặn đối với nhóm này.",
+  "item.title": "Đã chặn thảo luận mục",
+  "item.message": "Mục này không được chấp thuận để thảo luận.",
+  "group.title": "Đã chặn thảo luận nhóm",
+  "group.message": "Nhóm này không được phê duyệt để thảo luận."
+}

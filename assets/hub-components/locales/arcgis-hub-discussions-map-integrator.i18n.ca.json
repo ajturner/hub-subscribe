@@ -1,0 +1,16 @@
+{
+  "location.add": "Afegeix una ubicació",
+  "location.remove": "Elimina la ubicació",
+  "draw.tip": "Voleu afegir una altra ubicació?",
+  "prompt.add.post": "Afegeix a una publicació",
+  "prompt.add.reply": "Afegeix a una resposta",
+  "prompt.edit.point": "Mou el punt",
+  "prompt.edit.polyline": "Edita la línia",
+  "prompt.edit.polygon": "Edita l'àrea",
+  "prompt.remove.point": "Suprimeix el punt",
+  "prompt.remove.polyline": "Suprimeix la línia",
+  "prompt.remove.polygon": "Suprimeix l'àrea",
+  "prompt.remove.existing": "Cancel·la la selecció",
+  "prompt.location.edit": "Actualitza el dibuix",
+  "prompt.location.delete": "Elimina el dibuix"
+}

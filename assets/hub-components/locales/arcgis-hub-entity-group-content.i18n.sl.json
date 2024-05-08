@@ -1,0 +1,50 @@
+{
+  "title": "Vsebina",
+  "facets": {
+    "type": "Tip",
+    "tags": "Oznaka",
+    "categories": "Kategorija",
+    "sharing": "Deljenje",
+    "dateUpdated": "Datum je posodobljen",
+    "map": {
+      "label": "Lokacija",
+      "tooltip": "Uporabi obseg karte kot lokacijski filter"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Dodaj vsebino",
+    "catalog": {
+      "myContent": "Moja vsebina",
+      "favorites": "Priljubljene",
+      "organization": "Moja organizacija",
+      "world": "Svet (javno)"
+    },
+    "facets": {
+      "type": "Tip",
+      "sharing": "Deljenje"
+    },
+    "collection": {
+      "appsAndMaps": "Aplikacije in karte",
+      "dataset": "Podatki",
+      "documents": "Dokumenti",
+      "feedback": "Povratne informacije",
+      "sites": "Spletna mesta"
+    },
+    "modal": {
+      "title": "Dodaj vsebino"
+    },
+    "unsharedModal": {
+      "title": "Elementi niso dodani",
+      "notice": {
+        "icon": "exclamation-mark-triangle",
+        "type": "nevarnost",
+        "title": "Dejanje je nedokončano",
+        "message": "Nekaterih elementov ni bilo mogoče dodati. To je lahko posledica neskladnih ravni delitve znotraj vsebine ali zato, ker lastnik elementa ni član skupine.",
+        "linkText": "Več o skupni rabi"
+      }
+    },
+    "itemSharedSuccessAlert": "Uspešno deljeni elementi"
+  },
+  "close": "Zapri",
+  "newTab": "odpre se v novem zavihku"
+}

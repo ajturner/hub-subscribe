@@ -1,0 +1,18 @@
+{
+  "purpose": "Objet",
+  "description": "Notre démarche",
+  "details": "Détails",
+  "featuredImageAlt": "Image à l’affiche du projet",
+  "trackProgress": "Suivre la progression",
+  "participatingGroups": "Groupes participants",
+  "whosInvolved": "Personnes concernées",
+  "tags": "Balises",
+  "status": {
+    "label": "Statut du projet",
+    "notStarted": "Non commencé",
+    "inProgress": "En cours",
+    "onHold": "Suspendu",
+    "complete": "Terminé"
+  },
+  "featuredContent": "Contenu à l’affiche"
+}

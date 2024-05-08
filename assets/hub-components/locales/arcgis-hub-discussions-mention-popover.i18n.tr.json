@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonim",
+  "noUser": "Kullanıcı Adı Yok",
+  "privateUser": "Özel Üye",
+  "privateOrg": "Özel Kuruluş",
+  "orgLabel": "Kuruluş",
+  "profile": "Profile git",
+  "location": "Konum",
+  "information": "Gönderi hakkında bilgiler",
+  "mentionedBy": "@{username} tarafından belirtildi"
+}

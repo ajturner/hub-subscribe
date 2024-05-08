@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "הצג",
+    "hide": "הסתר",
+    "rename": "שנה שם"
+  },
+  "formAlert": "התראת צורה",
+  "alertMessages": {
+    "success": "השינויים נשמרו בהצלחה",
+    "error": "שגיאה בשמירת שינויים"
+  },
+  "collectionRenameModal": {
+    "title": "שנה שם אוסף",
+    "fieldLabel": "תווית אוסף",
+    "requiredMessage": "נדרשת תווית אוסף",
+    "apply": "החל"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "נתונים",
+      "hidden": "נתונים (מוסתר)"
+    },
+    "site": {
+      "visible": "אתרים",
+      "hidden": "אתרים (מוסתר)"
+    },
+    "document": {
+      "visible": "מסמכים",
+      "hidden": "מסמכים (מוסתר)"
+    },
+    "appAndMap": {
+      "visible": "יישומים ומפות",
+      "hidden": "יישומים ומפות (מוסתר)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (מוסתר)"
+    }
+  },
+  "saveButton": "שמור"
+}

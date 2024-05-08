@@ -1,0 +1,17 @@
+{
+  "summary": "摘要",
+  "description": "描述",
+  "details": "详细信息",
+  "metrics": "指标",
+  "metricsDisclaimer": "仅显示最近 30 天内容",
+  "titleOpen": "开放讨论",
+  "statusOpen": "针对参与打开",
+  "titleClosed": "封闭讨论",
+  "statusClosed": "针对参与关闭",
+  "tags": "标签",
+  "categories": "类别",
+  "metric.pageViews": "页面浏览量",
+  "metric.postCount": "帖子计数",
+  "discussion": "说明",
+  "discussionBoard": "讨论板"
+}

@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "共有",
+      "myself": "自分",
+      "myOrganization": "組織",
+      "public": "世界 (パブリック)"
+    },
+    "catalog": {
+      "myContent": "マイ コンテンツ",
+      "favorites": "お気に入り",
+      "organization": "組織",
+      "world": "世界 (パブリック)"
+    }
+  },
+  "expression": {
+    "label": "属性フィルター"
+  },
+  "field": {
+    "label": "属性"
+  },
+  "layer": "レイヤー/テーブル",
+  "statistic": {
+    "label": "集約"
+  }
+}

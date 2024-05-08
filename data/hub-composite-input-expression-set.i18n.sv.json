@@ -1,0 +1,15 @@
+{
+  "addFilter": "Lägg till filter",
+  "attributeFilter": "Filter",
+  "between": "Mellan",
+  "deleteFilter": "Ta bort filtret",
+  "endingDate": "Slutdatum",
+  "endingValue": "Slutvärde",
+  "expression": "Uttryck",
+  "filterType": "Filtertyp",
+  "filterValue": "Filtervärde",
+  "isExactly": "Är exakt",
+  "startingDate": "Startdatum",
+  "startingValue": "Startvärde",
+  "selectAttribute": "Välj attribut"
+}

@@ -1,0 +1,7 @@
+{
+  "showMore": "Zobraziť {num} viac",
+  "showLess": "Zobraziť menej",
+  "inputPlaceholder": "Možnosti filtrovania",
+  "noMatchesNotice": "Nenašli sa žiadne zodpovedajúce možnosti",
+  "inputAriaLabel": "Vyhľadať možnosť podľa kľúčového slova"
+}

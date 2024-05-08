@@ -1,0 +1,14 @@
+{
+  "title": "Cím",
+  "created": "Létrehozás dátuma",
+  "modified": "Frissítés dátuma",
+  "updated": "Frissítés dátuma",
+  "asc": "növekvő",
+  "desc": "csökkenő",
+  "relevance": "Fontosság",
+  "change-sort-order": "Rendezési sorrend módosítása",
+  "sort-by": "Rendezési szempont ",
+  "joined": "Csatlakozás dátuma",
+  "username": "Felhasználónév",
+  "membertype": "Szerepkör"
+}

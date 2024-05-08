@@ -1,0 +1,14 @@
+{
+  "description": "Izaberite zumiranje do lokacije",
+  "displayField.existing": "Postojeća lokacija",
+  "displayField.added": "Dodata lokacija",
+  "displayField.existing.area": "Postojeća oblast",
+  "displayField.added.area": "Dodata oblast",
+  "point": "Tačka",
+  "line": "Linija",
+  "area": "Površina",
+  "viewAll": "Pregledaj sve lokacije",
+  "viewLess": "Prikazuje se manje lokacija",
+  "action.update": "Ažuriraj lokaciju",
+  "action.remove": "Ukloni lokaciju"
+}

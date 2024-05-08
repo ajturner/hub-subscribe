@@ -1,0 +1,1 @@
+import{_ as r}from"./p-d763eacf.js";import{g as o}from"./p-377e1b5e.js";import{r as p}from"./p-dcdf7b57.js";function m(m){var s=o(m)+"/community/groups/"+m.group.id+"/update";return m.params=r(r({},m.params),m.group),p(s,m)}export{m as u}

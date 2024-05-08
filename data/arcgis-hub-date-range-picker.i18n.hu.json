@@ -1,0 +1,15 @@
+{
+  "default": "Dátumtartomány kiválasztása",
+  "today": "Ma",
+  "yesterday": "Tegnap",
+  "last7Days": "Az elmúlt 7 nap",
+  "last30Days": "Az elmúlt 30 nap",
+  "thisMonth": "Ez a hónap",
+  "lastMonth": "Múlt hónap",
+  "pastYear": "Tavaly",
+  "custom": "Egyéni",
+  "nextMonth": "Következő hónap",
+  "previousMonth": "Előző hónap",
+  "year": "Év",
+  "title": "Válasszon egy időszakot"
+}

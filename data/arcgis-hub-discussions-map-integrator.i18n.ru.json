@@ -1,0 +1,16 @@
+{
+  "location.add": "Добавить местоположение",
+  "location.remove": "Удалить местоположение",
+  "draw.tip": "Добавить ещё одно местоположение?",
+  "prompt.add.post": "Добавить в сообщение",
+  "prompt.add.reply": "Добавить в ответ",
+  "prompt.edit.point": "Переместить точку",
+  "prompt.edit.polyline": "Редактировать линию",
+  "prompt.edit.polygon": "Редактировать область",
+  "prompt.remove.point": "Удалить точку",
+  "prompt.remove.polyline": "Удалить линию",
+  "prompt.remove.polygon": "Удалить область",
+  "prompt.remove.existing": "Отменить выборку",
+  "prompt.location.edit": "Обновить чертеж",
+  "prompt.location.delete": "Удалить чертеж"
+}

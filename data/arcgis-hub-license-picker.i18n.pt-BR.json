@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Escolher termos de uso",
+  "editorLabel": "Termos de uso selecionados",
+  "editorRemoveWarning": "Aviso, você está prestes a excluir os termos de uso.",
+  "licenseDescriptionCc0": "Este trabalho é dedicado ao público",
+  "licenseDescriptionCcBy": "Requer atribuição",
+  "licenseDescriptionCcByNc": "Requer atribuição, permite remixagem, mas proíbe o uso comercial",
+  "licenseDescriptionCcByNcNd": "Mais restritivo, requer atribuição, proíbe uso comercial e remixagem",
+  "licenseDescriptionCcByNcSa": "Requer atribuição, permite remixagem, mas proíbe uso comercial e trabalhos derivados devem manter a mesma licença",
+  "licenseDescriptionCcByNd": "Requer atribuição, permite o uso comercial, mas proíbe o compartilhamento de derivativos",
+  "licenseDescriptionCcBySa": "Requer atribuição, permite remixagem e uso comercial",
+  "licenseDescriptionCustom": "Visualizar detalhes",
+  "licenseDescriptionOdbl": "Permitir compartilhar, criar e adaptar, desde que outros atribuam, compartilhem e mantenham abertos",
+  "licenseDescriptionOdcBy": "Permitir compartilhar, criar e adaptar, desde que outros atribuam",
+  "licenseDescriptionPddl": "Permitir compartilhar, criar e adaptar",
+  "licenseInfoButtonAriaLabel": "Detalhes do termo de uso, abre em uma nova guia",
+  "selectedLicenseLabelFallback": "Personalizada",
+  "selectedLicenseLabelNoLicense": "Nenhum Termo de Uso"
+}

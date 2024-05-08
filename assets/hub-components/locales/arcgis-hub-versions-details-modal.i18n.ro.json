@@ -1,0 +1,9 @@
+{
+  "title": "Editare detalii versiune",
+  "save": "Salvare",
+  "cancel": "Anulare",
+  "name.label": "Titlu",
+  "name.helpText": "Lăsați titlul gol dacă doriți să identificăm versiunea prin amprenta dată-oră.",
+  "description.label": "Descriere",
+  "error": "Eroare la actualizarea versiunii."
+}

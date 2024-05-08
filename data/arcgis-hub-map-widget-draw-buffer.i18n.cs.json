@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filtr umístění",
+  "panel.reset": "Obnovit filtr",
+  "distance.title": "Vzdálenost",
+  "distance.placeholder": "Zadejte číslo...",
+  "distance.message": "Zadáním čísla rozšiřte filtrovanou plochu.",
+  "system.imperial": "Imperiální",
+  "system.metric": "Metrické",
+  "units.title": "Jednotky",
+  "units.feet": "stopy",
+  "units.miles": "míle",
+  "units.nauticalmiles": "námořní míle",
+  "units.meters": "metry",
+  "units.kilometers": "kilometry"
+}

@@ -1,0 +1,15 @@
+{
+  "addFilter": "Добавяне на филтър",
+  "attributeFilter": "Филтър",
+  "between": "Между",
+  "deleteFilter": "Изтриване на филтър",
+  "endingDate": "Крайна дата",
+  "endingValue": "Крайна стойност",
+  "expression": "Израз",
+  "filterType": "Тип филтър",
+  "filterValue": "Филтър за стойност",
+  "isExactly": "е точно",
+  "startingDate": "Начална дата",
+  "startingValue": "Начална стойност",
+  "selectAttribute": "Избиране на атрибут"
+}

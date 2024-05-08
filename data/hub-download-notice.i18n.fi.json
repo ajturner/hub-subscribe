@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Lataus on valmis",
+  "titleFileGeneration": "Tiedoston luonti on käynnissä",
+  "titleFileGenerationFailed": "Tiedoston luonti epäonnistui",
+  "titleDatasetNotFound": "Aineistoryhmää ei löydy",
+  "titleApiError": "API-virhe",
+  "titleFormatDisabled": "Lataus poistettu käytöstä",
+  "messageFailedStaleAvailable": "Voit ladata edellisen version alta.",
+  "messageUpdatingFile": "Tiedostoa päivitetään. Tämä voi kestää hetken.",
+  "messageCreatingFile": "Tiedostoa luodaan. Tämä voi kestää hetken.",
+  "messageFileNeedsGenerating": "Päivitetyn tiedoston lataaminen voi kestää jonkin aikaa.",
+  "messageFormatDisabled": "Käyttäjä on poistanut tämän muodon latauksen käytöstä."
+}

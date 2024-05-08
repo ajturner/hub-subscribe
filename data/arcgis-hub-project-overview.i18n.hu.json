@@ -1,0 +1,27 @@
+{
+  "overview": "Áttekintés",
+  "telemetry": {
+    "pageViews": "Oldalmegtekintések",
+    "last30days": "Az elmúlt 30 nap",
+    "lastUpdated": "Utoljára frissítve {hoursElapsed} órája"
+  },
+  "newNotice": {
+    "title": "Ez itt a projekt munkaterülete",
+    "message": "Ez a munkaterület a projektek szerkesztésére van létrehozva. A munkaterületek lehetővé teszik a munkatársak számára, hogy az egyes elemekre összpontosítsanak, és azokat folyamatosan fejlesztik.",
+    "link": "További információ"
+  },
+  "learnAbout": "Ismerje meg a Hub projekteket",
+  "feedbackNotice": {
+    "message": "Hogy tetszenek a Hub projektek? Mivel ez a funkció még bétafázisban van, kíváncsiak vagyunk, Ön esetleg hogyan használja.",
+    "link": "Visszajelzés küldése"
+  },
+  "status": {
+    "notStarted": "Nem kezdődött el",
+    "inProgress": "Folyamatban",
+    "onHold": "Várakozik",
+    "complete": "Befejeződött"
+  },
+  "editDetails": "Részletek szerkesztése",
+  "noPurposeSet": "Nincs cél beállítva",
+  "noLocationSet": "Nincs hely beállítva"
+}

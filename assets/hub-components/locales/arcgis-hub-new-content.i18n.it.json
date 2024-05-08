@@ -1,0 +1,15 @@
+{
+  "new": "Nuovo",
+  "project": {
+    "title": "Nuovo progetto",
+    "description": "Evidenziare un lavoro con obiettivi e tempi chiari"
+  },
+  "initiative": {
+    "title": "Nuova iniziativa",
+    "description": "Evidenziare un lavoro con obiettivi e tempi chiari"
+  },
+  "discussion": {
+    "title": "Nuovo pannello di discussione",
+    "description": "Crea un nuovo pannello di discussione immettendo un titolo che indichi l'argomento."
+  }
+}

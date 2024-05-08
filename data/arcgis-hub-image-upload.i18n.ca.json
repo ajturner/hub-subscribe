@@ -1,0 +1,15 @@
+{
+  "done": "Fet",
+  "cancel": "Cancel·la",
+  "dragDrop": "Arrossegueu i deixeu anar un fitxer JPG, PNG o GIF.",
+  "browse": "Navega...",
+  "chooseDiff": "Trieu una altra imatge",
+  "zoom": "Zoom:",
+  "bestSize": "Per obtenir un resultat òptim, la imatge ha de ser de 300 x 300 píxels.",
+  "close": "Tanca",
+  "or": "o",
+  "fromMap": "Crea una miniatura a partir del mapa",
+  "fromMapDesc": "Definiu l'extensió i el nivell de zoom per crear una miniatura personalitzada",
+  "changeBasemap": "Canvia el mapa de base",
+  "loading": "S'està carregant"
+}

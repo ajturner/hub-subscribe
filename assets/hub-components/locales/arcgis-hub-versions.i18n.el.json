@@ -1,0 +1,14 @@
+{
+  "createdBy": "Δημιουργήθηκε από {creator}",
+  "emptyMessage": "Δεν βρέθηκαν εκδόσεις",
+  "errorMessage": "Σφάλμα κατά τη λήψη εκδόσεων",
+  "menuLabel": "εμφάνιση ενεργειών",
+  "publishedBadge": "Δημοσιεύτηκε",
+  "viewingBadge": "Προβολή",
+  "popover.label": "Ενέργειες έκδοσης",
+  "popover.actions.delete": "Διαγραφή",
+  "popover.actions.edit": "Επεξεργασία λεπτομερειών",
+  "popover.actions.share": "Κοινοποίηση",
+  "shareErrorMessage": "Σφάλμα κατά την αντιγραφή της διεύθυνσης url κοινοποίησης στο πρόχειρο",
+  "shareSuccessMessage": "Η διεύθυνση url κοινοποίησης αντιγράφηκε στο πρόχειρο."
+}

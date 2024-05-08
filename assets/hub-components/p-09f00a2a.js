@@ -1,0 +1,1 @@
+import{H as t}from"./p-742d0454.js";import"./p-89f8c546.js";const s=["hub:discussion:edit","hub:discussion:create","hub:discussion:settings"],e=Object.assign(Object.assign({},t),{properties:Object.assign(Object.assign({},t.properties),{prompt:{type:"string",default:"We want to hear from you!"}})});export{s as DiscussionEditorTypes,e as DiscussionSchema}

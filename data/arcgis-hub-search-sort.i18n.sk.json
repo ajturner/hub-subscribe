@@ -1,0 +1,14 @@
+{
+  "title": "Názov",
+  "created": "Dátum vytvorenia",
+  "modified": "Dátum aktualizácie",
+  "updated": "Dátum aktualizácie",
+  "asc": "vzostupne",
+  "desc": "zostupne",
+  "relevance": "Relevancia",
+  "change-sort-order": "Zmeniť poradie zoradenia",
+  "sort-by": "Zoradiť podľa ",
+  "joined": "Dátum pripojenia",
+  "username": "Používateľské meno",
+  "membertype": "Rola"
+}

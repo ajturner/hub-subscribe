@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Datei zum Hochladen per Drag & Drop hinzufügen",
+  "imageHeading": "Bild hochladen",
+  "selectedHeading": "Datei ausgewählt",
+  "maxSizeAndSupportedTypes": "Maximale Größe: {maxSize} MB, {fileTypes}",
+  "maxSize": "Maximale Größe: {maxSize} MB",
+  "recommendedDimensions": "Empfohlene Abmessungen: {recommendedDimensions}",
+  "linkText": "Liste der unterstützten Dateien anzeigen",
+  "contentButton": "Datei suchen",
+  "imageButton": "Bild suchen",
+  "clearButton": "Auswahl löschen",
+  "errorHeading": "Fehler",
+  "fileTooLargeError": "Datei ist zu groß",
+  "multipleFilesError": "Hochladen von mehreren Dateien gleichzeitig nicht möglich",
+  "unsupportedFileTypeError": "Dieser Dateityp wird nicht unterstützt"
+}

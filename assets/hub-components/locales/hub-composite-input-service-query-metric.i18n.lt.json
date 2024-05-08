@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Bendrinimas",
+      "myself": "Aš",
+      "myOrganization": "Organizacija",
+      "public": "Pasaulis (viešai)"
+    },
+    "catalog": {
+      "myContent": "Turinys",
+      "favorites": "Mėgstami",
+      "organization": "Organizacija",
+      "world": "Pasaulis (viešai)"
+    }
+  },
+  "expression": {
+    "label": "Atributo filtrai"
+  },
+  "field": {
+    "label": "Aprašas"
+  },
+  "layer": "Sluoksnis / lentelė",
+  "statistic": {
+    "label": "Agregavimas"
+  }
+}

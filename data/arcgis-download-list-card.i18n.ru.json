@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Шейп-файл",
+  "sqlite": "База геоданных SQLite",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Файловая база геоданных",
+  "featureCollection": "Коллекция объектов",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "Загрузить CSV",
+  "downloadshapefile": "Загрузить шейп-файл",
+  "downloadsqlite": "Загрузить базу геоданных SQLite",
+  "downloadgeoPackage": "Загрузить GeoPackage",
+  "downloadfilegdb": "Загрузить файловую базу геоданных",
+  "downloadfeatureCollection": "Загрузить коллекцию объектов",
+  "downloadgeojson": "Загрузить GeoJSON",
+  "downloadexcel": "Загрузить Excel",
+  "rateLimitMessage": "Был достигнут предел загрузки. Повторите попытку в течение часа или свяжитесь с менеджером ресурсов.",
+  "createReplicaErrorMessage": "Внутренняя ошибка создания реплики. Повторите попытку в течение часа или свяжитесь с менеджером ресурсов."
+}

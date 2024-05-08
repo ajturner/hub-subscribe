@@ -1,0 +1,10 @@
+{
+  "error": "Algo correu mal",
+  "repliesFailure": "As respostas a esta publicação não podem ser apresentadas.",
+  "thread.deleted.title": "Tópico Eliminado",
+  "thread.deleted.message": "A publicação e a resposta associadas foram eliminadas e não podem ser exibidas.",
+  "thread.deleted.action": "Visualizar todas as publicações",
+  "reply.single.title": "Está a visualizar uma resposta única",
+  "reply.single.link": "Visualizar todas as respostas",
+  "loading": "A carregar"
+}

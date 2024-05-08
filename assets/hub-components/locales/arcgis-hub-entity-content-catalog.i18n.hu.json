@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Típus",
+    "tags": "Címke",
+    "categories": "Kategória",
+    "sharing": "Megosztás",
+    "dateUpdated": "Frissítés dátuma",
+    "map": {
+      "label": "Helyszín",
+      "tooltip": "Alkalmazza a térképkiterjedést helyszűrőként"
+    }
+  },
+  "collections": {
+    "all": "Összes",
+    "dataset": "Adatok",
+    "site": "Webhelyek",
+    "document": "Dokumentumok",
+    "appAndMap": "Alkalmazások és térképek"
+  },
+  "noCollections": {
+    "title": "Katalógus",
+    "message": "A katalógus jelenleg üres.",
+    "button": "Katalógus konfigurálása"
+  }
+}

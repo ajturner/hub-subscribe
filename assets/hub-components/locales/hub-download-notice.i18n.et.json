@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Allalaadimine lõpetatud",
+  "titleFileGeneration": "Faili loomine on pooleli",
+  "titleFileGenerationFailed": "Faili loomine nurjus",
+  "titleDatasetNotFound": "Andmestikku ei leitud",
+  "titleApiError": "API viga",
+  "titleFormatDisabled": "Allalaadimine on keelatud",
+  "messageFailedStaleAvailable": "Saate allpool alla laadida eelmise versiooni.",
+  "messageUpdatingFile": "Värskendame faili. See võib veidi aega võtta.",
+  "messageCreatingFile": "Loome faili. See võib veidi aega võtta.",
+  "messageFileNeedsGenerating": "Värskendatud faili allalaadimine võib veidi aega võtta.",
+  "messageFormatDisabled": "Omanik on selle vormingu allalaadimise keelanud."
+}

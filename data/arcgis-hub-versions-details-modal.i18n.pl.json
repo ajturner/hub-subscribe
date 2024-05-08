@@ -1,0 +1,9 @@
+{
+  "title": "Edytuj szczegóły wersji",
+  "save": "Zapisz",
+  "cancel": "Anuluj",
+  "name.label": "Tytuł",
+  "name.helpText": "Pozostaw tytuł pusty, jeśli chcesz, abyśmy identyfikowali wersję za pomocą znacznika daty i czasu.",
+  "description.label": "Opis",
+  "error": "Błąd podczas aktualizowania wersji."
+}

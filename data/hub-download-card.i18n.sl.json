@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Prenos",
+  "buttonOptions": "Možnosti prenosa",
+  "menuRequest": "Ustvarite nov prenos z najnovejšimi podatki",
+  "menuDownload": "Prenesite datoteko, ki je bila prej ustvarjena {createdDate}",
+  "fileCreated": "Datoteka je ustvarjena",
+  "fileSize": "Velikost datoteke",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Ni na voljo"
+}

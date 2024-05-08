@@ -1,0 +1,36 @@
+{
+  "edit": "Edit",
+  "delete": "Hapus",
+  "noneMessage": "Tidak ada lokasi yang ditetapkan",
+  "entityTypes": {
+    "project": "Proyek",
+    "site": "Situs",
+    "initiative": "Inisiatif",
+    "discussion": "Diskusi",
+    "content": "Konten"
+  },
+  "emptyLocation": {
+    "title": "Tidak ada lokasi yang ditentukan",
+    "message": "{entityType} tidak akan ditampilkan di peta hingga lokasi ditambahkan"
+  },
+  "populatedLocation": {
+    "title": "Tambahkan lokasi lain?",
+    "message": "Pilih alat menggambar lagi untuk menambahkan lebih banyak lokasi (hingga {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Titik maksimum tercapai ({currentCount}/{maxLocations})",
+    "message": "Untuk menambahkan lebih banyak lokasi: hapus titik, atau edit garis dan area untuk menghapus titiknya (klik kanan)."
+  },
+  "maximumLocations": {
+    "title": "Lokasi maksimum tercapai",
+    "message": "Untuk menambahkan lebih banyak lokasi, hapus satu atau lebih, atau hapus semua lokasi dan gunakan area yang lebih umum."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Tambah lokasi",
+    "clear": "Hapus semua",
+    "extent": "Gambar sebuah persegi panjang",
+    "point": "Letakkan titik",
+    "polyline": "Gambar garis",
+    "polygon": "Gambar area"
+  }
+}

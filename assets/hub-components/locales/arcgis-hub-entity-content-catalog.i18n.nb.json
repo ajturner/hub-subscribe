@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Type",
+    "tags": "Tagg",
+    "categories": "Kategori",
+    "sharing": "Elementdeling",
+    "dateUpdated": "Oppdateringsdato",
+    "map": {
+      "label": "Lokasjon",
+      "tooltip": "Bruk kartutstrekningen som lokasjonsfilter"
+    }
+  },
+  "collections": {
+    "all": "Alle",
+    "dataset": "Data",
+    "site": "Nettsteder",
+    "document": "Dokumenter",
+    "appAndMap": "Apper og kart"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Katalogen din er for tiden tom.",
+    "button": "Konfigurer katalogen"
+  }
+}

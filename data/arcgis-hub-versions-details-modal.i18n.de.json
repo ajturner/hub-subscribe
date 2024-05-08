@@ -1,0 +1,9 @@
+{
+  "title": "Versionsdetails bearbeiten",
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "name.label": "Titel",
+  "name.helpText": "Lassen Sie den Titel leer, wenn die Version anhand eines Datums-Zeitstempels identifiziert werden soll.",
+  "description.label": "Beschreibung",
+  "error": "Fehler beim Aktualisieren der Version."
+}

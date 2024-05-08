@@ -1,0 +1,7 @@
+{
+  "days": "dagen",
+  "hours": "uur",
+  "minutes": "minuten",
+  "seconds": "seconden",
+  "countdownDateMissingError": "U moet een countdown-datum opgeven"
+}

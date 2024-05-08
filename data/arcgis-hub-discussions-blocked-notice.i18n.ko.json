@@ -1,0 +1,16 @@
+{
+  "post.title": "게시물 편집이 차단됨",
+  "post.message": "토론이 차단된 동안에는 편집할 수 없습니다.",
+  "post.message.item": "이 항목에 대한 토론이 차단된 동안에는 편집할 수 없습니다.",
+  "post.message.group": "이 그룹에 대한 토론이 차단된 동안에는 편집할 수 없습니다.",
+  "reply.title": "답글 편집이 차단됨",
+  "reply.title.generic": "토론이 차단됨",
+  "reply.message": "토론이 차단된 동안에는 편집할 수 없습니다.",
+  "reply.message.generic": "현재 답글을 생성할 수 없습니다",
+  "reply.message.item": "이 항목에 대한 토론이 차단된 동안에는 편집할 수 없습니다.",
+  "reply.message.group": "이 그룹에 대한 토론이 차단된 동안에는 편집할 수 없습니다.",
+  "item.title": "토론 항목이 차단됨",
+  "item.message": "이 항목은 토론할 수 있도록 승인되지 않았습니다.",
+  "group.title": "그룹 토론이 차단됨",
+  "group.message": "이 그룹은 토론할 수 있도록 승인되지 않았습니다."
+}

@@ -1,0 +1,36 @@
+{
+  "edit": "Bearbeiten",
+  "delete": "Löschen",
+  "noneMessage": "Keine Position festgelegt",
+  "entityTypes": {
+    "project": "Projekt",
+    "site": "Site",
+    "initiative": "Initiative",
+    "discussion": "Diskussion",
+    "content": "Inhalt"
+  },
+  "emptyLocation": {
+    "title": "Keine Position dargestellt",
+    "message": "{entityType} wird erst angezeigt, wenn eine Position hinzugefügt wurde."
+  },
+  "populatedLocation": {
+    "title": "Weitere Position hinzufügen?",
+    "message": "Wählen Sie erneut das Zeichenwerkzeug aus, um weitere Positionen (bis zu {maxLocations}) hinzuzufügen."
+  },
+  "maximumPoints": {
+    "title": "Maximale Anzahl an Punkten erreicht ({currentCount}/{maxLocations})",
+    "message": "Wenn Sie weitere Positionen hinzufügen möchten, löschen Sie Punkte, oder bearbeiten Sie Linien und Bereiche, um die zugehörigen Punkte zu löschen (Rechtsklick)."
+  },
+  "maximumLocations": {
+    "title": "Maximale Anzahl an Positionen erreicht",
+    "message": "Sie können weitere Positionen hinzufügen, eine, mehrere oder alle Positionen entfernen und einen allgemeineren Bereich verwenden."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Position hinzufügen",
+    "clear": "Alle löschen",
+    "extent": "Rechteck zeichnen",
+    "point": "Punkt hinzufügen",
+    "polyline": "Linie zeichnen",
+    "polygon": "Fläche zeichnen"
+  }
+}

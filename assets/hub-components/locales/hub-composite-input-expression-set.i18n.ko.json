@@ -1,0 +1,15 @@
+{
+  "addFilter": "필터 추가",
+  "attributeFilter": "필터",
+  "between": "사이",
+  "deleteFilter": "필터 삭제",
+  "endingDate": "종료일",
+  "endingValue": "종료 값",
+  "expression": "식",
+  "filterType": "필터 유형",
+  "filterValue": "필터 값",
+  "isExactly": "정확히",
+  "startingDate": "시작일",
+  "startingValue": "시작 값",
+  "selectAttribute": "속성 선택"
+}

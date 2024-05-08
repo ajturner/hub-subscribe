@@ -1,0 +1,15 @@
+{
+  "default": "בחר טווח תאריכים",
+  "today": "היום",
+  "yesterday": "אתמול",
+  "last7Days": "7 הימים האחרונים",
+  "last30Days": "30 הימים האחרונים",
+  "thisMonth": "חודש זה",
+  "lastMonth": "החודש הקודם",
+  "pastYear": "השנה שעברה",
+  "custom": "מותאם אישית",
+  "nextMonth": "החודש הבא",
+  "previousMonth": "החודש הקודם",
+  "year": "שנה",
+  "title": "בחר תקופת זמן"
+}

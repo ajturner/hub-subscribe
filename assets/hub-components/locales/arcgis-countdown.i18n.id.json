@@ -1,0 +1,7 @@
+{
+  "days": "hari",
+  "hours": "jam",
+  "minutes": "menit",
+  "seconds": "detik",
+  "countdownDateMissingError": "Anda harus memberikan tanggal hitung mundur"
+}

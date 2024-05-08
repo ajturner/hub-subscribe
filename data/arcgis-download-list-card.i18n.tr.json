@@ -1,0 +1,20 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite Coğrafi Veritabanı",
+  "geoPackage": "GeoPackage",
+  "filegdb": "Dosya Coğrafi Veri Tabanı",
+  "featureCollection": "Detay Toplama",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "downloadcsv": "CSV İndir",
+  "downloadshapefile": "Shapefile İndir",
+  "downloadsqlite": "SQLite Coğrafi Veri Tabanı İndir",
+  "downloadgeoPackage": "GeoPackage İndir",
+  "downloadfilegdb": "Dosya Coğrafi Veri Tabanı İndir",
+  "downloadfeatureCollection": "Detay Koleksiyonu İndir",
+  "downloadgeojson": "GeoJSON İndir",
+  "downloadexcel": "Excel İndir",
+  "rateLimitMessage": "Üzgünüz, indirme sınırına ulaşıldı. Lütfen bir saat sonra yeniden deneyin veya içerik sahibi ile iletişime geçin.",
+  "createReplicaErrorMessage": "Replika oluştur dahili hatası. Lütfen bir saat sonra yeniden deneyin veya içerik sahibi ile iletişime geçin."
+}

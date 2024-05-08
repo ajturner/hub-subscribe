@@ -1,0 +1,14 @@
+{
+  "createdBy": "Gemaakt door {creator}",
+  "emptyMessage": "Kan geen versies vinden",
+  "errorMessage": "Er is een fout opgetreden bij het ophalen van versies",
+  "menuLabel": "acties weergeven",
+  "publishedBadge": "Gepubliceerd",
+  "viewingBadge": "Bezig met weergeven",
+  "popover.label": "Versieacties",
+  "popover.actions.delete": "Verwijderen",
+  "popover.actions.edit": "Details bewerken",
+  "popover.actions.share": "Delen",
+  "shareErrorMessage": "Er is een fout opgetreden bij het kopiëren van de gedeelde URL naar het klembord.",
+  "shareSuccessMessage": "De gedeelde URL is naar het klembord gekopieerd."
+}

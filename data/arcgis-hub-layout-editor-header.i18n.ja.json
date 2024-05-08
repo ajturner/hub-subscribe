@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "組織で共有",
+      "private": "所有者で共有",
+      "public": "すべての人 (パブリック) で共有",
+      "shared": "所有者およびグループで共有"
+    },
+    "editLayout": "レイアウトの編集",
+    "lastUpdated": "最終更新日: {updated}",
+    "viewSite": "サイトの表示"
+  },
+  "cloneLayoutLabel": "レイアウトの複製",
+  "deletePageLabel": "ページの削除",
+  "deleteSiteLabel": "サイトの削除",
+  "editInAgoLabel": "ArcGIS Online で編集",
+  "managePage": "ページの管理",
+  "manageSite": "サイトの管理",
+  "moreOptionsLabel": "その他のオプション",
+  "publishLabel": "公開",
+  "saveAsTemplateLabel": "テンプレートとして保存",
+  "saveLabel": "保存",
+  "sharingLabel": "共有パネルを開く",
+  "viewLabel": "表示",
+  "viewPublishedLabel": "公開済みのドラフトを表示",
+  "viewUnpublishedLabel": "未公開のドラフトをプレビュー"
+}

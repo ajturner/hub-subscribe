@@ -1,0 +1,14 @@
+{
+  "addPost": "Thêm Bài đăng",
+  "createPost": "Tạo Bài đăng",
+  "emptyHeading": "Bắt đầu thảo luận",
+  "emptyMessage": "Hãy là người đầu tiên đưa ra một chủ đề. Thật dễ dàng đặt câu hỏi hoặc chia sẻ những điều bạn biết với người khác về một phần nội dung.",
+  "searchIdeas": "Tìm kiếm bài đăng",
+  "searchCount": "{start} - {end} / {total}",
+  "orderAsc": "Tăng dần",
+  "orderDesc": "Giảm dần",
+  "sortRecent": "Gần đây",
+  "sortCreator": "Creator",
+  "layoutGrid": "Lưới",
+  "layoutList": "Danh sách"
+}

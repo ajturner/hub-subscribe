@@ -1,0 +1,10 @@
+{
+  "true.heading": "Evet, tartışmaya izin veriliyor",
+  "false.heading": "Hayır, tartışma engellendi",
+  "content.label": "Bu ögenin tartışılmasına izin verilsin mi?",
+  "content.true.description": "Kullanıcılar bu öge hakkında gönderiler oluşturabilir.",
+  "content.false.description": "Kullanıcılar bu öge hakkında gönderiler oluşturamaz.",
+  "group.label": "Bu grup tartışmalara katılabilir mi?",
+  "group.true.description": "Grup üyeleri, grubun erişimi olan tartışma kanallarını görüntüleyebilir ve bu kanallara katılabilir.",
+  "group.false.description": "Grup üyeleri, grubun erişimi olan tartışma kanallarını görüntüleyemez veya bu kanallara katılamaz."
+}

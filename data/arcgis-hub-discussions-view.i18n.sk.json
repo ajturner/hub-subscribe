@@ -1,0 +1,17 @@
+{
+  "summary": "Sumarizácia",
+  "description": "Popis",
+  "details": "Podrobnosti",
+  "metrics": "Metriky",
+  "metricsDisclaimer": "Zobrazuje sa iba posledných 30 dní",
+  "titleOpen": "Otvorená diskusia",
+  "statusOpen": "Otvorené pre spoluúčasť",
+  "titleClosed": "Zatvorená diskusia",
+  "statusClosed": "Zatvorené pre spoluúčasť",
+  "tags": "Štítky",
+  "categories": "Kategórie",
+  "metric.pageViews": "Zobrazenia stránky",
+  "metric.postCount": "Počet príspevkov",
+  "discussion": "Diskusia",
+  "discussionBoard": "Diskusné fórum"
+}

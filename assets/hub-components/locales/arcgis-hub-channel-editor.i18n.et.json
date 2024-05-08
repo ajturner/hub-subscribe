@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Nimetu kanal",
+  "name": {
+    "label": "Nimi",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Salvesta",
+  "access": {
+    "private": {
+      "label": "Privaatne",
+      "description": "Valitud grupid saavad osaleda"
+    },
+    "organization": {
+      "label": "Minu organisatsioon",
+      "description": "Osaleda saavad kõik {orgName} kontot omavad liikmed",
+      "disabledTooltip": "Organisatsiooni kanaleid saavad luua ainult organisatsiooni administraatorid."
+    },
+    "public": {
+      "label": "Avalik",
+      "description": "Osaleda saavad kõik kontot omavad liikmed",
+      "disabledTooltip": "Avalikke kanaleid saavad luua ainult organisatsiooni administraatorid."
+    },
+    "allowAnonymous": "Luba anonüümne juurdepääs",
+    "confirmation": {
+      "header": "Kas olete kindel?",
+      "message": "Muudatuste salvestamise korral eemaldatakse teie õigus seda kanalit muuta. Avalikke või organisatsiooni kanaleid saavad muuta ainult organisatsiooni administraatorid.",
+      "secondary": "Tühista",
+      "primary": "Kinnita"
+    }
+  },
+  "participants": {
+    "label": "Osalejad",
+    "helperText": "Inimesed, kes saavad arutelu vaadata ja selles osaleda.",
+    "none": "Osalejaid ei ole määratud",
+    "add": "Lisa osalejate grupp"
+  },
+  "groupPicker": {
+    "title": "Valige grupid",
+    "facet": {
+      "label": "Lähtekoht",
+      "myGroup": "Minu grupp",
+      "myOrganization": "Minu organisatsioon",
+      "myCommunity": "Minu kogukond"
+    }
+  },
+  "blockWords": {
+    "label": "Blokeeritud sõnad",
+    "helperText": "Komaeraldusega loend Neid sisaldavad postitused ja vastused peidetakse automaatselt."
+  },
+  "manage": {
+    "label": "Halda ja vahenda",
+    "helperText": "Ülaltoodud automaatselt määratud osalemise valikute alusel saavad need inimesed osaleda, varjata või näidata postitusi ja hallata kanali seadeid."
+  },
+  "manager": "Haldur",
+  "admin": "Haldus",
+  "viewProfile": "Kuva profiil",
+  "alerts": {
+    "error": "Tõrge kanali salvestamisel",
+    "success": "Kanal edukalt salvestatud",
+    "label": "Vormi hoiatus"
+  },
+  "validations": {
+    "minChannelGroups": "Privaatkanalid vajavad vähemalt üht osalejate gruppi."
+  },
+  "notices": {
+    "edit": "Redigeerimine puudutab kõiki selle kanali kasutuskohti",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanalit ei loodud",
+          "message": "Nende juurdepääsuvalikutega kanal on juba olemas. Kasutage olemasolevat kanalit või muutke valikuid."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanalit ei uuendatud",
+          "message": "Nende juurdepääsuvalikutega kanal on juba olemas ja me ei saa neid uuendusi salvestada."
+        }
+      },
+      "action": "Kasuta olemasolevat kanalit"
+    },
+    "inaccessibleGroups": {
+      "title": "Mittekasutatavad grupid: {count}",
+      "message": "Saate vaadata või hallata mittekasutatavaid gruppe, vaid juhul, kui olete liige."
+    }
+  }
+}

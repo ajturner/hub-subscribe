@@ -1,0 +1,25 @@
+{
+  "moreResults": "Lisää tuloksia",
+  "search": "Hae",
+  "filter": "Suodattimet",
+  "viewResults": "Näytä tulokset ({numResults})",
+  "resultsCount": "1– {pageTotal}/{searchTotal}",
+  "backToTop": "Alkuun",
+  "facets": {
+    "access": {
+      "private": "Itse",
+      "shared": "Omistaja ja ryhmät",
+      "org": "Organisaatio",
+      "public": "Julkinen"
+    },
+    "license": {
+      "custom": "Mukautettu",
+      "none": "Ei mitään"
+    }
+  },
+  "layoutOptions": {
+    "list": "Näytä luettelo",
+    "grid": "Näytä ruudukko"
+  },
+  "galleryActionsLabel": "Lisätoiminnot"
+}

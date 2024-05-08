@@ -1,0 +1,14 @@
+{
+  "description": "Válassza ki a földrajzi helyzetre való zoomoláshoz",
+  "displayField.existing": "Meglévő hely",
+  "displayField.added": "Hozzáadott hely",
+  "displayField.existing.area": "Meglévő terület",
+  "displayField.added.area": "Hozzáadott terület",
+  "point": "Pont",
+  "line": "Vonal",
+  "area": "Terület",
+  "viewAll": "Minden helyszín megtekintése",
+  "viewLess": "Kevesebb helyszín megtekintése",
+  "action.update": "Hely frissítése",
+  "action.remove": "Hely eltávolítása"
+}

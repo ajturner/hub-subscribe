@@ -1,0 +1,7 @@
+{
+  "showMore": "Kuva veel {num}",
+  "showLess": "Kuva vähem",
+  "inputPlaceholder": "Filtrivalikud",
+  "noMatchesNotice": "Sobivaid valikuid ei leitud",
+  "inputAriaLabel": "Otsi valikut märksõna abil"
+}

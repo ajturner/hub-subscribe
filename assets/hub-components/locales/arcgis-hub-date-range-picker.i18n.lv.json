@@ -1,0 +1,15 @@
+{
+  "default": "Izvēlēties datuma diapazonu",
+  "today": "Šodien",
+  "yesterday": "Vakar",
+  "last7Days": "Pēdējās 7 dienas",
+  "last30Days": "Pēdējās 30 dienas",
+  "thisMonth": "Šomēnes",
+  "lastMonth": "Pagājušais mēnesis",
+  "pastYear": "Pagājušais gads",
+  "custom": "Pielāgot",
+  "nextMonth": "Nākamais mēnesis",
+  "previousMonth": "Iepriekšējais mēnesis",
+  "year": "Gads",
+  "title": "Atlasiet laika periodu"
+}

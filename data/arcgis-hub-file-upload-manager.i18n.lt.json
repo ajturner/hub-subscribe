@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Pasirinkite turinį",
+  "secondStepHeader": "Nustatyti informaciją",
+  "thirdStepHeader": "Nustatyti bendrinimo lygį ir prieigą",
+  "next": "Kitas",
+  "back": "Atgal",
+  "save": "Įrašyti",
+  "cancel": "Atšaukti",
+  "divider": "arba",
+  "duplicateFileAriaLabel": "failo dublikato klaida",
+  "duplicateFileError": "Jau yra elementas su tokiu pačiu failo pavadinimu. Pakeiskite failo pavadinimą ir bandykite dar kartą arba pašalinkite <a>failo dublikatą</a> ArcGIS Online",
+  "uploading": "Įkeliama"
+}

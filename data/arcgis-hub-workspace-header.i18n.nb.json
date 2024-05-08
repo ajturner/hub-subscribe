@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Rediger layout",
+  "editContent": "Rediger innhold",
+  "view": {
+    "project": "Vis prosjekt",
+    "site": "Vis side",
+    "initiative": "Vis initiativ",
+    "discussion": "Vis diskusjon",
+    "content": "Vis innhold",
+    "page": "Vis side",
+    "group": "Vis gruppe"
+  },
+  "label": {
+    "project": "Prosjektarbeidsområde",
+    "site": "Sidearbeidsområde",
+    "initiative": "Initiativarbeidsområde",
+    "discussion": "Diskusjonsarbeidsområde",
+    "content": "Innholdsarbeidsområde",
+    "page": "Sidearbeidsområde",
+    "group": "Gruppearbeidsområde"
+  },
+  "access": {
+    "sharingLevel": "Delingsnivå",
+    "groupSharing": "Gruppedeling",
+    "public": "Felles",
+    "org": "Organisasjon",
+    "private": "Eier",
+    "shared": "Delt privat",
+    "disabled": "Du er ikke eier eller administrator og kan derfor ikke endre deling."
+  }
+}

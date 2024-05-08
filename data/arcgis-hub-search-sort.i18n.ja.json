@@ -1,0 +1,14 @@
+{
+  "title": "タイトル",
+  "created": "作成日",
+  "modified": "更新日",
+  "updated": "更新日",
+  "asc": "昇順",
+  "desc": "降順",
+  "relevance": "関連性",
+  "change-sort-order": "並べ替え順の変更",
+  "sort-by": "並べ替え ",
+  "joined": "加入日",
+  "username": "ユーザー名",
+  "membertype": "ロール"
+}

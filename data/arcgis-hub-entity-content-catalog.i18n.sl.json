@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tip",
+    "tags": "Oznaka",
+    "categories": "Kategorija",
+    "sharing": "Deljenje",
+    "dateUpdated": "Datum posodobitve",
+    "map": {
+      "label": "Lokacija",
+      "tooltip": "Uporabi obseg karte kot lokacijski filter"
+    }
+  },
+  "collections": {
+    "all": "Vse",
+    "dataset": "Podatki",
+    "site": "Spletna mesta",
+    "document": "Dokumenti",
+    "appAndMap": "Aplikacije in karte"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Vaš katalog je trenutno prazen.",
+    "button": "Konfiguriraj katalog"
+  }
+}

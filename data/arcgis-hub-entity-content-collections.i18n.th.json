@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "แสดง",
+    "hide": "ซ่อน",
+    "rename": "เปลี่ยนชื่อ"
+  },
+  "formAlert": "แจ้งเตือนฟอร์ม",
+  "alertMessages": {
+    "success": "บันทึกการแก้ไขเรียบร้อยแล้ว",
+    "error": "ข้อผิดพลาดขณะบันทึกการแก้ไข"
+  },
+  "collectionRenameModal": {
+    "title": "เปลี่ยนชื่อคอลเลกชัน",
+    "fieldLabel": "ป้ายกำกับคอลเลกชัน",
+    "requiredMessage": "จำเป็นต้องใช้ป้ายกำกับคอลเลกชัน",
+    "apply": "ใช้"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "ข้อมูล",
+      "hidden": "ข้อมูล (ถูกซ่อนไว้)"
+    },
+    "site": {
+      "visible": "เว็บไซต์",
+      "hidden": "ไซต์ (ถูกซ่อนไว้)"
+    },
+    "document": {
+      "visible": "เอกสาร",
+      "hidden": "เอกสาร (ถูกซ่อนไว้)"
+    },
+    "appAndMap": {
+      "visible": "แอปและแผนที่",
+      "hidden": "แอปและแผนที่ (ถูกซ่อนไว้)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (ถูกซ่อนไว้)"
+    }
+  },
+  "saveButton": "จัดเก็บ"
+}

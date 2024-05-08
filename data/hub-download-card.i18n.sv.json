@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Hämta",
+  "buttonOptions": "Hämtningsalternativ",
+  "menuRequest": "Generera ny nedladdning med senaste data",
+  "menuDownload": "Hämta filen som tidigare genererats på {createdDate}",
+  "fileCreated": "Fil skapad",
+  "fileSize": "Filstorlek",
+  "bytes": "B",
+  "kb": "kB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "Inget standardvärde"
+}

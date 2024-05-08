@@ -1,0 +1,15 @@
+{
+  "new": "新建",
+  "project": {
+    "title": "新建工程",
+    "description": "突出具有明确目标和时间表的工作"
+  },
+  "initiative": {
+    "title": "新倡议",
+    "description": "突出具有明确目标和时间表的工作"
+  },
+  "discussion": {
+    "title": "新建讨论板",
+    "description": "通过输入指示主题的标题来创建一个新的讨论板。"
+  }
+}

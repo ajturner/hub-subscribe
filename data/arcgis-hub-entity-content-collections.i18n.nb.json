@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Vis",
+    "hide": "Skjul",
+    "rename": "Gi nytt navn"
+  },
+  "formAlert": "Skjemavarsel",
+  "alertMessages": {
+    "success": "Redigeringer er lagret",
+    "error": "Feil under lagring av redigeringer"
+  },
+  "collectionRenameModal": {
+    "title": "Gi nytt navn til samlingen",
+    "fieldLabel": "Samlingsetikett",
+    "requiredMessage": "Samlingsetikett er påkrevd",
+    "apply": "Bruk"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Data",
+      "hidden": "Data (skjult)"
+    },
+    "site": {
+      "visible": "Nettsteder",
+      "hidden": "Nettsteder (skjult)"
+    },
+    "document": {
+      "visible": "Dokumenter",
+      "hidden": "Dokumenter (skjult)"
+    },
+    "appAndMap": {
+      "visible": "Apper og kart",
+      "hidden": "Apper og kart (skjult)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (skjult)"
+    }
+  },
+  "saveButton": "Lagre"
+}

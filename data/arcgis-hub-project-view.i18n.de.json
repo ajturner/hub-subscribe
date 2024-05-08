@@ -1,0 +1,18 @@
+{
+  "purpose": "Zweck",
+  "description": "Unsere Strategie",
+  "details": "Details",
+  "featuredImageAlt": "Ausgewähltes Projektbild",
+  "trackProgress": "Fortschritte verfolgen",
+  "participatingGroups": "Beteiligte Gruppen",
+  "whosInvolved": "Beteiligte",
+  "tags": "Tags",
+  "status": {
+    "label": "Projektstatus",
+    "notStarted": "Nicht gestartet",
+    "inProgress": "In Bearbeitung",
+    "onHold": "Zurückgestellt",
+    "complete": "Abgeschlossen"
+  },
+  "featuredContent": "Ausgewählte Inhalte"
+}

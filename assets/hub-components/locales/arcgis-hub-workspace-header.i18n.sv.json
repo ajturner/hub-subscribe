@@ -1,0 +1,32 @@
+{
+  "beta": "Betaversion",
+  "editLayout": "Redigera layout",
+  "editContent": "Redigera innehåll",
+  "view": {
+    "project": "Visa projekt",
+    "site": "Visa webbplats",
+    "initiative": "Visa initiativ",
+    "discussion": "Visa diskussion",
+    "content": "Visa innehåll",
+    "page": "Visa sida",
+    "group": "Visa grupp"
+  },
+  "label": {
+    "project": "Projektarbetskatalog",
+    "site": "Webbplatsarbetskatalog",
+    "initiative": "Initiativarbetskatalog",
+    "discussion": "Diskussionsarbetskatalog",
+    "content": "Innehållsarbetskatalog",
+    "page": "Sidans arbetskatalog",
+    "group": "Grupparbetskatalog"
+  },
+  "access": {
+    "sharingLevel": "Delningsnivå",
+    "groupSharing": "Gruppdelning",
+    "public": "Offentlig",
+    "org": "Organisation",
+    "private": "Ägare",
+    "shared": "Privat delad",
+    "disabled": "Du kan inte ändra delning eftersom du inte är ägaren eller en administratör."
+  }
+}

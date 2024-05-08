@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Partilhado com organização",
+      "private": "Partilhado com proprietário",
+      "public": "Partilhado com público",
+      "shared": "Partilhado com proprietário e grupos"
+    },
+    "editLayout": "Editar layout",
+    "lastUpdated": "Última atualização {updated}",
+    "viewSite": "Ver site"
+  },
+  "cloneLayoutLabel": "Clonar layout",
+  "deletePageLabel": "Eliminar página",
+  "deleteSiteLabel": "Eliminar site",
+  "editInAgoLabel": "Editar no ArcGIS Online",
+  "managePage": "Gerir página",
+  "manageSite": "Gerir site",
+  "moreOptionsLabel": "Mais opções",
+  "publishLabel": "Publicar",
+  "saveAsTemplateLabel": "Guardar como modelo",
+  "saveLabel": "Guardar",
+  "sharingLabel": "Abrir painel de partilha",
+  "viewLabel": "Ver",
+  "viewPublishedLabel": "Ver rascunho publicado",
+  "viewUnpublishedLabel": "Pré-visualizar rascunho não publicado"
+}

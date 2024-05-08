@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Zobrazit",
+    "hide": "Skrýt",
+    "rename": "Přejmenovat"
+  },
+  "formAlert": "Chyba formuláře",
+  "alertMessages": {
+    "success": "Úpravy byly úspěšně uloženy",
+    "error": "Chyba při ukládání úprav"
+  },
+  "collectionRenameModal": {
+    "title": "Přejmenovat sbírku",
+    "fieldLabel": "Popisek sbírky",
+    "requiredMessage": "Požadovaný popisek sbírky",
+    "apply": "Použít"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Data",
+      "hidden": "Data (skrytá)"
+    },
+    "site": {
+      "visible": "Weby",
+      "hidden": "Weby (skryté)"
+    },
+    "document": {
+      "visible": "Dokumenty",
+      "hidden": "Dokumenty (skryté)"
+    },
+    "appAndMap": {
+      "visible": "Aplikace a mapy",
+      "hidden": "Aplikace a mapy (skryté)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (skryté)"
+    }
+  },
+  "saveButton": "Uložit"
+}

@@ -1,0 +1,30 @@
+{
+  "helperText": "Definiera och konfigurera katalogen",
+  "sections": {
+    "groups": {
+      "title": "Grupper",
+      "helperText": "Grupper nedan innehåller innehållet i din sökkatalog. Välj en grupp för att visa dess inställningar, innehåll och annat.",
+      "createGroup": "Skapa ny grupp"
+    },
+    "feeds": {
+      "title": "Feed-konfiguration",
+      "helperText": "Gör dina offentliga öppna data lättillgängliga och återanvändbara med Hub-feeds.",
+      "learn": "Läs mer om Hub-feeds",
+      "toggle": "Aktivera feeds ",
+      "configure": "Konfigurera feeds",
+      "notice": "Om du vill aktivera feeds måste du först ange dina Hubb-webbplatser till \"Offentliga\" i inställningar"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Från",
+    "editGroups": "Redigera grupper",
+    "viewGroups": "Visa grupp",
+    "myGroup": "Min grupp",
+    "myOrganization": "Min organisation",
+    "myCommunity": "Min community"
+  },
+  "formAlert": "Formulärvarning",
+  "alertMessages": {
+    "error": "Fel när ändringarna sparades"
+  }
+}

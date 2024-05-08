@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Jagatud organisatsiooniga",
+      "private": "Jagatud omanikuga",
+      "public": "Jagatud avalikult",
+      "shared": "Jagatud omaniku ja gruppidega"
+    },
+    "editLayout": "Muuda paigutust",
+    "lastUpdated": "Viimati uuendatud {updated}",
+    "viewSite": "Kuva sait"
+  },
+  "cloneLayoutLabel": "Klooni paigutus",
+  "deletePageLabel": "Kustuta leht",
+  "deleteSiteLabel": "Kustuta sait",
+  "editInAgoLabel": "Muuda ArcGIS Online’is",
+  "managePage": "Halda lehte",
+  "manageSite": "Halda saiti",
+  "moreOptionsLabel": "Rohkem valikuid",
+  "publishLabel": "Avalda",
+  "saveAsTemplateLabel": "Salvesta mallina",
+  "saveLabel": "Salvesta",
+  "sharingLabel": "Ava jagamispaneel",
+  "viewLabel": "Kuva",
+  "viewPublishedLabel": "Kuva avaldatud mustand",
+  "viewUnpublishedLabel": "Kuva avaldamata mustandi eelvaade"
+}

@@ -1,0 +1,15 @@
+{
+  "addFilter": "Pievienot filtru",
+  "attributeFilter": "Filtrēt",
+  "between": "Starp",
+  "deleteFilter": "Dzēst filtru",
+  "endingDate": "Beigu datums",
+  "endingValue": "Beigu vērtība",
+  "expression": "Izteiksme",
+  "filterType": "Filtra veids",
+  "filterValue": "Filtra vērtība",
+  "isExactly": "Ir tieši",
+  "startingDate": "Sākuma datums",
+  "startingValue": "Sākuma vērtība",
+  "selectAttribute": "Atlasīt atribūtu"
+}

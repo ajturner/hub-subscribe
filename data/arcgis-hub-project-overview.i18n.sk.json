@@ -1,0 +1,27 @@
+{
+  "overview": "Prehľad",
+  "telemetry": {
+    "pageViews": "Zobrazenia stránky",
+    "last30days": "Posledných 30 dní",
+    "lastUpdated": "Naposledy upravené pred {hoursElapsed} hodinami"
+  },
+  "newNotice": {
+    "title": "Tu je váš pracovný priestor projektu",
+    "message": "Tento pracovný priestor je prispôsobený na editáciu projektov. Pracovné priestory umožňujú spolupracovníkom zamerať sa na jednotlivé položky a neustále sa vyvíjajú.",
+    "link": "Zistiť viac"
+  },
+  "learnAbout": "Zistite viac o projektoch Hub",
+  "feedbackNotice": {
+    "message": "Ako sa vám páčia projekty Hub? Keďže táto funkcia je stále vo fáze beta, chceme sa dozvedieť, ako ju používate.",
+    "link": "Odoslať spätnú väzbu"
+  },
+  "status": {
+    "notStarted": "Nezačalo sa",
+    "inProgress": "Prebieha",
+    "onHold": "Podržané",
+    "complete": "Dokončené"
+  },
+  "editDetails": "Upraviť podrobnosti",
+  "noPurposeSet": "Žiadny stanovený účel",
+  "noLocationSet": "Nebola nastavená poloha"
+}

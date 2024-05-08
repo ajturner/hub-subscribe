@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Prenos dokončan",
+  "titleFileGeneration": "Ustvarjanje datoteke je v teku",
+  "titleFileGenerationFailed": "Ustvarjanje datoteke ni uspelo",
+  "titleDatasetNotFound": "Sklop podatkov ni najden",
+  "titleApiError": "Napaka API",
+  "titleFormatDisabled": "Prenos onemogočen",
+  "messageFailedStaleAvailable": "Prejšnjo različico lahko prenesete spodaj.",
+  "messageUpdatingFile": "Posodabljamo datoteko. To lahko traja nekaj časa.",
+  "messageCreatingFile": "Ustvarjamo datoteko. To lahko traja nekaj časa.",
+  "messageFileNeedsGenerating": "Prenašanje posodobljene datoteke lahko traja nekaj časa.",
+  "messageFormatDisabled": "Lastnik je za ta format onemogočil prenos."
+}

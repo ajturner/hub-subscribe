@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Downloaden voltooid",
+  "titleFileGeneration": "Bezig met genereren van bestanden",
+  "titleFileGenerationFailed": "Genereren van bestanden mislukt",
+  "titleDatasetNotFound": "Dataset niet gevonden",
+  "titleApiError": "API-fout",
+  "titleFormatDisabled": "Downloaden uitgeschakeld",
+  "messageFailedStaleAvailable": "U kunt hieronder een eerdere versie downloaden.",
+  "messageUpdatingFile": "We werken het bestand bij. Dit kan even duren.",
+  "messageCreatingFile": "We maken het bestand aan. Dit kan even duren.",
+  "messageFileNeedsGenerating": "Het downloaden van een bijgewerkt bestand kan even duren.",
+  "messageFormatDisabled": "De eigenaar heeft downloaden uitgeschakeld voor dit formaat."
+}

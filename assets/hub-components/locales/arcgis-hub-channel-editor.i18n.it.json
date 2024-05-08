@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canale senza nome",
+  "name": {
+    "label": "Nome",
+    "placeholder": "Canale {prefix}"
+  },
+  "save": "Salva",
+  "access": {
+    "private": {
+      "label": "Privato",
+      "description": "Possono partecipare i gruppi selezionati"
+    },
+    "organization": {
+      "label": "La mia organizzazione",
+      "description": "Possono partecipare tutti i membri con un account per {orgName}",
+      "disabledTooltip": "Solo gli amministratori dell'organizzazione possono creare canali dell'organizzazione."
+    },
+    "public": {
+      "label": "Pubblico",
+      "description": "Può partecipare chiunque abbia un account",
+      "disabledTooltip": "Solo gli amministratori dell'organizzazione possono creare canali pubblici."
+    },
+    "allowAnonymous": "Consenti anonimo",
+    "confirmation": {
+      "header": "Continuare?",
+      "message": "Salvando queste modifiche verrà rimosso l'accesso di modifica in questo canale. Solo gli amministratori dell'organizzazione possono modificare i canali pubblici o dell'organizzazione.",
+      "secondary": "Annulla",
+      "primary": "Conferma"
+    }
+  },
+  "participants": {
+    "label": "Partecipanti",
+    "helperText": "Gli utenti che possono visualizzare e contribuire alla discussione.",
+    "none": "Nessun partecipante impostato",
+    "add": "Aggiungi gruppo partecipante"
+  },
+  "groupPicker": {
+    "title": "Seleziona gruppi",
+    "facet": {
+      "label": "Da",
+      "myGroup": "Il mio gruppo",
+      "myOrganization": "La mia organizzazione",
+      "myCommunity": "La mia community"
+    }
+  },
+  "blockWords": {
+    "label": "Parole bloccate",
+    "helperText": "Elenco separato da virgole. I post e le risposte che li contengono verranno automaticamente nascosti."
+  },
+  "manage": {
+    "label": "Gestisci e modera",
+    "helperText": "Assegnati automaticamente in base alle precedenti selezioni di partecipazione, questi utenti possono partecipare, nascondere o mostrare post e gestire le impostazioni del canale."
+  },
+  "manager": "Gestore",
+  "admin": "Admin",
+  "viewProfile": "Visualizza profilo",
+  "alerts": {
+    "error": "Errore durante il salvataggio del canale",
+    "success": "Salvataggio del canale riuscito",
+    "label": "Avviso modulo"
+  },
+  "validations": {
+    "minChannelGroups": "I canali privati richiedono almeno un gruppo partecipante."
+  },
+  "notices": {
+    "edit": "Le modifiche avranno effetto ovunque venga utilizzato questo canale",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Il canale non è stato creato",
+          "message": "Esiste già un canale con queste selezioni di accesso. Usa il canale esistente o modifica le selezioni."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Il canale non è stato aggiornato",
+          "message": "Esiste già un canale con queste selezioni di accesso per cui non è stato possibile salvare gli aggiornamenti."
+        }
+      },
+      "action": "Usa canale esistente"
+    },
+    "inaccessibleGroups": {
+      "title": "Gruppi non disponibili: {count}",
+      "message": "Impossibile visualizzare o gestire gruppi non disponibili a meno che non si è un membro."
+    }
+  }
+}

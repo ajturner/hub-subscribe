@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Edit tata letak",
+  "editContent": "Edit konten",
+  "view": {
+    "project": "Tampilkan proyek",
+    "site": "Tampilkan situs",
+    "initiative": "Tampilkan inisiatif",
+    "discussion": "Tampilkan diskusi",
+    "content": "Lihat konten",
+    "page": "Lihat halaman",
+    "group": "Lihat grup"
+  },
+  "label": {
+    "project": "Ruang kerja proyek",
+    "site": "Ruang kerja situs",
+    "initiative": "Ruang kerja inisiatif",
+    "discussion": "Ruang kerja diskusi",
+    "content": "Ruang kerja konten",
+    "page": "Halaman ruang kerja",
+    "group": "Ruang kerja grup"
+  },
+  "access": {
+    "sharingLevel": "Level berbagi",
+    "groupSharing": "Berbagi grup",
+    "public": "Publik",
+    "org": "Organisasi",
+    "private": "Pemilik",
+    "shared": "Dibagikan secara pribadi",
+    "disabled": "Anda tidak dapat mengubah pembagian karena Anda bukan pemilik atau administrator."
+  }
+}

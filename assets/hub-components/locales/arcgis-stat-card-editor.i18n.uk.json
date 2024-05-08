@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Розширена конфігурація",
+    "serverTimeout": {
+      "label": "Час очікування сервера (секунди)",
+      "helperText": "Це корисно для великих сервісів, для відповіді яких може знадобитися більше часу."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Кути",
+      "enum": {
+        "round": {
+          "label": "Круг"
+        },
+        "square": {
+          "label": "Квадрат"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Тінь",
+      "enum": {
+        "heavy": {
+          "label": "Великий"
+        },
+        "low": {
+          "label": "Низький"
+        },
+        "medium": {
+          "label": "Середній"
+        },
+        "none": {
+          "label": "Не запущено"
+        }
+      }
+    },
+    "layout": {
+      "label": "Статистичне компонування",
+      "enum": {
+        "dataViz": {
+          "label": "Візуалізація даних"
+        },
+        "moreInfo": {
+          "label": "Докладніше"
+        },
+        "simple": {
+          "label": "Простий"
+        }
+      }
+    },
+    "popoverTitle": "Ім'я спливного меню",
+    "popoverDescription": "Опис спливного меню",
+    "sectionTitle": "Вигляд",
+    "textAlign": "Вирівнювання",
+    "visualInterest": {
+      "label": "Візуальний інтерес",
+      "enum": {
+        "icon": {
+          "label": "Значок"
+        },
+        "logo": {
+          "label": "Логотип"
+        },
+        "none": {
+          "label": "Немає"
+        },
+        "sparkline": {
+          "label": "Міні-діаграма"
+        }
+      }
+    },
+    "valueColor": "Колір (статистика)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Посилання",
+      "sourceLink": "URL посилання",
+      "sourceTitle": "Текст посилання"
+    },
+    "sectionTitle": "Детальна інформація",
+    "subtitle": "Субтитр",
+    "title": "Заголовок",
+    "trailingText": "Кінцевий текст"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Для відображення джерела потрібне посилання."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Форматування",
+    "unit": {
+      "label": "Одиниці відображення",
+      "helperText": "Введіть одиницю вимірювання вашого значення."
+    },
+    "unitPosition": {
+      "label": "Розташування",
+      "enum": {
+        "after": {
+          "label": "Після"
+        },
+        "before": {
+          "label": "До"
+        },
+        "below": {
+          "label": "Під"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Спільне використання",
+    "showShareIcon": "Активувати",
+    "shareableByValue": "Дозволити вбудовані елементи",
+    "shareableOnHover": {
+      "label": "Відображати",
+      "enum": {
+        "always": {
+          "label": "Завжди"
+        },
+        "hover": {
+          "label": "Тільки навести"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Джерело даних",
+    "displayValue": "Значення відображення",
+    "sectionTitle": "Статистичний",
+    "type": {
+      "label": "Тип",
+      "enum": {
+        "dynamic": {
+          "label": "Динамічний",
+          "description": "Виберіть наявний набір даних (сервіс об'єктів) для підсумовування."
+        },
+        "static": {
+          "label": "Статичний",
+          "description": "Вручну введіть значення, яке потрібно виділити в компонуванні."
+        }
+      }
+    }
+  }
+}

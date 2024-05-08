@@ -1,0 +1,10 @@
+{
+  "error": "Un problème est survenu",
+  "repliesFailure": "Les réponses à cette publication ne peuvent pas être affichées.",
+  "thread.deleted.title": "Fil supprimé",
+  "thread.deleted.message": "La publication et la réponse liées ont été supprimées et ne peuvent pas être affichées.",
+  "thread.deleted.action": "Afficher toutes les publications",
+  "reply.single.title": "Vous visualisez une seule réponse",
+  "reply.single.link": "Afficher toutes les réponses",
+  "loading": "Chargement"
+}

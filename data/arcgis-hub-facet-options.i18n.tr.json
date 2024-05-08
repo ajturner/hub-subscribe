@@ -1,0 +1,7 @@
+{
+  "showMore": "{num} daha göster",
+  "showLess": "Daha azını göster",
+  "inputPlaceholder": "Filtre seçenekleri",
+  "noMatchesNotice": "Eşleşen seçenek bulunamadı",
+  "inputAriaLabel": "Anahtar sözcüğe göre seçenek bul"
+}

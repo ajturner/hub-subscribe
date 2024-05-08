@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Pilih Konten",
+  "secondStepHeader": "Atur Detail",
+  "thirdStepHeader": "Atur Level Berbagi & Akses",
+  "next": "Selanjutnya",
+  "back": "Kembali",
+  "save": "Simpan",
+  "cancel": "Batalkan",
+  "divider": "atau",
+  "duplicateFileAriaLabel": "kesalahan duplikasi file",
+  "duplicateFileError": "Item dengan nama file yang sama sudah ada. Ganti nama file dan coba lagi, atau hapus <a>file duplikat</a> di ArcGIS Online",
+  "uploading": "Mengunggah"
+}

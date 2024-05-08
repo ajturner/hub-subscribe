@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tipas",
+    "tags": "Raktažodis",
+    "categories": "Kategorija",
+    "sharing": "Bendrinimas",
+    "dateUpdated": "Atnaujinimo data",
+    "map": {
+      "label": "Vieta",
+      "tooltip": "Taikyti žemėlapio aprėptį kaip vietos filtrą"
+    }
+  },
+  "collections": {
+    "all": "Viskas",
+    "dataset": "Duomenys",
+    "site": "Svetainės",
+    "document": "Dokumentai",
+    "appAndMap": "Programėlės ir žemėlapiai"
+  },
+  "noCollections": {
+    "title": "Katalogas",
+    "message": "Jūsų katalogas šiuo metu tuščias.",
+    "button": "Katalogo konfigūravimas"
+  }
+}

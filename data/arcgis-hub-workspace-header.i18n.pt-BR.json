@@ -1,0 +1,32 @@
+{
+  "beta": "Beta",
+  "editLayout": "Editar layout",
+  "editContent": "Editar conteúdo",
+  "view": {
+    "project": "Visualizar projeto",
+    "site": "Visualizar site",
+    "initiative": "Visualizar iniciativa",
+    "discussion": "Visualizar discussão",
+    "content": "Visualizar conteúdo",
+    "page": "Página de visualização",
+    "group": "Visualizar grupo"
+  },
+  "label": {
+    "project": "Área de trabalho do projeto",
+    "site": "Área de trabalho do site",
+    "initiative": "Área de trabalho da iniciativa",
+    "discussion": "Área de trabalho de discussão",
+    "content": "Área de trabalho de conteúdo",
+    "page": "Área de trabalho da página",
+    "group": "Área de trabalho do grupo"
+  },
+  "access": {
+    "sharingLevel": "Nivel de compartilhamento",
+    "groupSharing": "Compartilhamento do grupo",
+    "public": "Público",
+    "org": "Organização",
+    "private": "Proprietário",
+    "shared": "Reservadamente compartilhado",
+    "disabled": "Você não pode alterar o compartilhamento, pois você não é o proprietário ou um administrador."
+  }
+}

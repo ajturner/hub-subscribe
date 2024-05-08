@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite geoandmebaas",
+  "geoPackage": "GeoPackage",
+  "filegdb": "File Geodatabase",
+  "featureCollection": "Objektide kogum",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "Allalaadimine"
+}

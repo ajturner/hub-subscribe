@@ -1,0 +1,34 @@
+{
+  "settings": "הגדרות",
+  "delete": {
+    "project": "מחק פרויקט",
+    "initiative": "מחק יוזמה",
+    "site": "מחק אתר",
+    "discussion": "מחק דיון",
+    "content": "מחק תוכן",
+    "page": "מחק דף",
+    "group": "מחק קבוצה"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "מחק את הפרויקט",
+      "initiative": "מחק יוזמה",
+      "site": "מחק אתר",
+      "discussion": "מחק דיון",
+      "content": "מחק תוכן",
+      "page": "מחק דף",
+      "group": "מחק קבוצה"
+    },
+    "content": "האם אתה בטוח שברצונך למחוק:",
+    "delete": "מחיקה",
+    "cancel": "ביטול"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "יכולת החילוץ משנה את הגדרות השירות.",
+        "message": "הדבר ישפיע על פריטים אחרים שמתייחסים אל השירות. לפרטים נוספים, ראה <docLink>יצוא נתונים משכבות ישויות מתארחות</docLink>"
+      }
+    }
+  }
+}

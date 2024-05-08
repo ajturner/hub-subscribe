@@ -1,0 +1,146 @@
+{
+  "advancedConfig": {
+    "label": "Konfigurasi lanjutan",
+    "serverTimeout": {
+      "label": "Waktu Server Habis (detik)",
+      "helperText": "Berguna untuk layanan lebih besar yang mungkin memerlukan waktu lebih lama untuk merespons."
+    }
+  },
+  "appearance": {
+    "corners": {
+      "label": "Sudut",
+      "enum": {
+        "round": {
+          "label": "Bulat"
+        },
+        "square": {
+          "label": "Kotak"
+        }
+      }
+    },
+    "dropShadow": {
+      "label": "Bayangan Jatuh",
+      "enum": {
+        "heavy": {
+          "label": "Berat"
+        },
+        "low": {
+          "label": "Rendah"
+        },
+        "medium": {
+          "label": "Medium"
+        },
+        "none": {
+          "label": "Belum Dimulai"
+        }
+      }
+    },
+    "layout": {
+      "label": "Tata Letak Statistik",
+      "enum": {
+        "dataViz": {
+          "label": "Visualisasi Data"
+        },
+        "moreInfo": {
+          "label": "Info Selengkapnya"
+        },
+        "simple": {
+          "label": "Sederhana"
+        }
+      }
+    },
+    "popoverTitle": "Judul Popover",
+    "popoverDescription": "Deskripsi Popover",
+    "sectionTitle": "Penampilan",
+    "textAlign": "Penyejajaran",
+    "visualInterest": {
+      "label": "Minat Visual",
+      "enum": {
+        "icon": {
+          "label": "Ikon"
+        },
+        "logo": {
+          "label": "Logo"
+        },
+        "none": {
+          "label": "Tidak Ada"
+        },
+        "sparkline": {
+          "label": "Sparkline"
+        }
+      }
+    },
+    "valueColor": "Warna (Statistik)"
+  },
+  "details": {
+    "link": {
+      "sectionTitle": "Tautkan",
+      "sourceLink": "Tautkan URL",
+      "sourceTitle": "Tautkan teks"
+    },
+    "sectionTitle": "Detail",
+    "subtitle": "Subjudul",
+    "title": "Gelar",
+    "trailingText": "Teks mendahului"
+  },
+  "errors": {
+    "sourceLink": {
+      "required": "Tautan diperlukan untuk menampilkan sumber."
+    }
+  },
+  "formatting": {
+    "sectionTitle": "Pemformatan",
+    "unit": {
+      "label": "Unit tampilan",
+      "helperText": "Masukkan unit pengukuran untuk nilai Anda."
+    },
+    "unitPosition": {
+      "label": "Penempatan",
+      "enum": {
+        "after": {
+          "label": "Setelah"
+        },
+        "before": {
+          "label": "Sebelum"
+        },
+        "below": {
+          "label": "Bawah"
+        }
+      }
+    }
+  },
+  "sharing": {
+    "sectionTitle": "Membagikan",
+    "showShareIcon": "Aktifkan",
+    "shareableByValue": "Aktifkan Penyematan",
+    "shareableOnHover": {
+      "label": "Layar",
+      "enum": {
+        "always": {
+          "label": "Selalu"
+        },
+        "hover": {
+          "label": "Arahkan saja"
+        }
+      }
+    }
+  },
+  "statistic": {
+    "dataSource": "Sumber data",
+    "displayValue": "Nilai tampilan",
+    "sectionTitle": "Statistik",
+    "type": {
+      "label": "Jenis",
+      "enum": {
+        "dynamic": {
+          "label": "Dinamis",
+          "description": "Pilih kumpulan data yang ada (feature service) untuk dirangkum."
+        },
+        "static": {
+          "label": "Statis",
+          "description": "Masukkan nilai secara manual untuk disorot dalam tata letak Anda."
+        }
+      }
+    }
+  }
+}

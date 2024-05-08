@@ -1,0 +1,9 @@
+{
+  "title": "Upraviť podrobnosti verzie",
+  "save": "Uložiť",
+  "cancel": "Zrušiť",
+  "name.label": "Názov",
+  "name.helpText": "Ak chcete, aby sme verziu identifikovali podľa časovej pečiatky, nechajte názov prázdny.",
+  "description.label": "Popis",
+  "error": "Chyba pri aktualizácii verzie."
+}

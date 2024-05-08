@@ -1,0 +1,25 @@
+{
+  "moreResults": "Więcej wyników",
+  "search": "Szukaj",
+  "filter": "Filtry",
+  "viewResults": "Wyświetl wyniki ({numResults})",
+  "resultsCount": "1 — {pageTotal} z {searchTotal}",
+  "backToTop": "Powrót na górę",
+  "facets": {
+    "access": {
+      "private": "Ja",
+      "shared": "Właściciel i grupy",
+      "org": "Instytucja",
+      "public": "Publiczny"
+    },
+    "license": {
+      "custom": "Niestandardowy",
+      "none": "Brak"
+    }
+  },
+  "layoutOptions": {
+    "list": "Wyświetl listę",
+    "grid": "Wyświetl siatkę"
+  },
+  "galleryActionsLabel": "Działania dodatkowe"
+}

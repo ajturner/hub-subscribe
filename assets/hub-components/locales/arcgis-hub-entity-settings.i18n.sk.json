@@ -1,0 +1,34 @@
+{
+  "settings": "Nastavenia",
+  "delete": {
+    "project": "Vymazať projekt",
+    "initiative": "Vymazať iniciatívu",
+    "site": "Vymazať lokalitu",
+    "discussion": "Vymazať diskusiu",
+    "content": "Vymazať obsah",
+    "page": "Odstrániť stránku",
+    "group": "Odstrániť skupinu"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Vymazať projekt",
+      "initiative": "Vymazať iniciatívu",
+      "site": "Vymazať lokalitu",
+      "discussion": "Vymazať diskusiu",
+      "content": "Vymazať obsah",
+      "page": "Odstrániť stránku",
+      "group": "Odstrániť skupinu"
+    },
+    "content": "Ste si istý, že chcete vymazať:",
+    "delete": "Zmazať",
+    "cancel": "Zrušiť"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Možnosť \"Extrahovať\" mení nastavenia služby.",
+        "message": "Ovplyvnené budú aj ďalšie položky, ktoré odkazujú na túto službu. Pre viac podrobností si pozrite <docLink>Export dát z hostovaných prvkových vrstiev</docLink>"
+      }
+    }
+  }
+}

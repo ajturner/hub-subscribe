@@ -1,0 +1,15 @@
+{
+  "default": "Pasirinkti datos intervalą",
+  "today": "Šiandien",
+  "yesterday": "Vakar",
+  "last7Days": "Pastarosios 7 dienos",
+  "last30Days": "Pastarosios 30 dienų",
+  "thisMonth": "Šis mėnuo",
+  "lastMonth": "Praėjęs mėnuo",
+  "pastYear": "Praėję metai",
+  "custom": "Adaptuotas",
+  "nextMonth": "Kitas mėnuo",
+  "previousMonth": "Ankstesnis mėnuo",
+  "year": "Metai",
+  "title": "Pasirinkti laikotarpį"
+}

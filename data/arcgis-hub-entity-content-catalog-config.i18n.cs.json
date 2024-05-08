@@ -1,0 +1,30 @@
+{
+  "helperText": "Definujte a nakonfigurujte katalog",
+  "sections": {
+    "groups": {
+      "title": "Skupiny",
+      "helperText": "Níže uvedené skupiny zahrnují obsah ve vašem katalogu vyhledávání. Výběrem skupiny zobrazíte její nastavení, obsah a další.",
+      "createGroup": "Vytvořit novou skupinu"
+    },
+    "feeds": {
+      "title": "Konfigurace zdroje",
+      "helperText": "Zajistěte, aby vaše veřejná otevřená data byla snadno dostupná a opakovaně použitelná pomocí zdrojů Hub.",
+      "learn": "Získat informace o zdrojích Hub",
+      "toggle": "Aktivovat zdroje ",
+      "configure": "Konfigurovat zdroje",
+      "notice": "Chcete-li aktivovat zdroje, musíte nejprve v Nastavení své weby Hubu nastavit na „Veřejné“."
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Z",
+    "editGroups": "Upravit skupiny",
+    "viewGroups": "Zobrazit skupinu",
+    "myGroup": "Moje skupina",
+    "myOrganization": "Moje organizace",
+    "myCommunity": "Moje komunita"
+  },
+  "formAlert": "Chyba formuláře",
+  "alertMessages": {
+    "error": "Chyba při ukládání úprav"
+  }
+}

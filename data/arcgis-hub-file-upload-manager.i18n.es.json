@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Seleccionar contenido",
+  "secondStepHeader": "Establecer detalles",
+  "thirdStepHeader": "Definir nivel de uso compartido y acceso",
+  "next": "Siguiente",
+  "back": "Volver",
+  "save": "Guardar",
+  "cancel": "Cancelar",
+  "divider": "o",
+  "duplicateFileAriaLabel": "error de archivo duplicado",
+  "duplicateFileError": "Ya existe un elemento con el mismo nombre de archivo. Modifique el nombre de archivo y vuelva a intentarlo o elimine el <a>archivo duplicado</a> de ArcGIS Online",
+  "uploading": "Cargando"
+}

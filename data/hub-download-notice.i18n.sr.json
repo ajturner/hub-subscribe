@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Preuzimanje je završeno",
+  "titleFileGeneration": "Kreiranje datoteke u toku",
+  "titleFileGenerationFailed": "Kreiranje datoteke nije uspelo",
+  "titleDatasetNotFound": "Set podataka nije pronađen",
+  "titleApiError": "API greška",
+  "titleFormatDisabled": "Preuzimanje onemogućeno",
+  "messageFailedStaleAvailable": "Možete da preuzmete prethodnu verziju ispod.",
+  "messageUpdatingFile": "Mi ažuriramo datoteku. Za ovo može biti potrebno određeno vreme.",
+  "messageCreatingFile": "Kreiramo datoteku. Za ovo može biti potrebno određeno vreme.",
+  "messageFileNeedsGenerating": "Preuzimanje ažurirane datoteke može potrajati.",
+  "messageFormatDisabled": "Vlasnik je onemogućio preuzimanje za ovaj format."
+}

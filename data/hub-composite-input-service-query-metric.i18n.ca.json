@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Ús compartit",
+      "myself": "Jo",
+      "myOrganization": "La meva organització",
+      "public": "Tot el món (públic)"
+    },
+    "catalog": {
+      "myContent": "El meu contingut",
+      "favorites": "Favorits",
+      "organization": "La meva organització",
+      "world": "Tot el món (públic)"
+    }
+  },
+  "expression": {
+    "label": "Filtres d'atributs"
+  },
+  "field": {
+    "label": "Atribut"
+  },
+  "layer": "Capa o taula",
+  "statistic": {
+    "label": "Agregació"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dateRange": "日期范围：{start} - {end}",
+  "pageViews": "页面浏览量",
+  "timeOnSite": "站点上的平均分钟数",
+  "users": "会话",
+  "viewsOverTime": "随时间推移的页面浏览量",
+  "disabledTracking": "活动追踪已禁用",
+  "enableTracking": "在站点设置中启用 Hub 活动追踪以监控站点的使用情况。",
+  "learnMore": "了解详细信息。",
+  "disabled": "已禁用",
+  "notificationLabel": "数据已更新",
+  "dataUpdated": "数据已更新",
+  "subscribe": "订阅",
+  "subscribed": "已订阅",
+  "weeklyReport": "每周报表",
+  "timestampTitle": {
+    "hour": "时间",
+    "day": "日期",
+    "week": "周"
+  },
+  "formAlert": "表单警告",
+  "success": "订阅已成功更新",
+  "subscriptionActivatedTitle": "订阅已激活",
+  "subscriptionActivatedMessage": "您已注册 {email}，以接收每周参与度指标。",
+  "unsubscribeCompleteTitle": "取消订阅完成",
+  "unsubscribeCompleteMessage": "已成功取消 {email} 的参与度指标订阅。",
+  "problemSubscribingTitle": "订阅问题",
+  "problemSubscribingMessage": "订阅时出现问题。 错误： ",
+  "problemUnsubscribingTitle": "取消订阅问题",
+  "problemUnsubscribingMessage": "取消订阅时出现问题。 错误： "
+}

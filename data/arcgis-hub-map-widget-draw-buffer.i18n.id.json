@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Filter Lokasi",
+  "panel.reset": "Reset filter",
+  "distance.title": "Jarak",
+  "distance.placeholder": "Masukkan nomor...",
+  "distance.message": "Masukkan nomor untuk memperluas area filter.",
+  "system.imperial": "Imperial",
+  "system.metric": "Metrik",
+  "units.title": "Unit",
+  "units.feet": "Kaki",
+  "units.miles": "Mil",
+  "units.nauticalmiles": "Mil Laut",
+  "units.meters": "Meter",
+  "units.kilometers": "Kilometer"
+}

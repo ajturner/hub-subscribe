@@ -1,0 +1,52 @@
+{
+  "collaborators": "Samarbeidspartnere",
+  "editGroupButtonText": "Legg til redigeringsgrupper",
+  "viewGroupButtonText": "Legg til visningsgrupper",
+  "groupPicker": {
+    "title": "Velg grupper",
+    "facet": {
+      "label": "Fra",
+      "editGroups": "Rediger grupper",
+      "viewGroups": "Vis gruppe",
+      "myGroup": "Min gruppe",
+      "myOrganization": "Min organisasjon",
+      "myCommunity": "Mitt fellesskap"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Legg til nye folk",
+    "message": "Hvis du har behov for å legge til folk, kan du invitere dem til å bli med i fellesskapet eller du kan <orgOverviewLink>ta kontakt med administratoren din</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupper som kan redigere",
+  "viewGroupsTitle": "Grupper som kan vise",
+  "project": {
+    "description": "Velg hvilke brukergrupper som kan vise og redigere dette prosjektet.",
+    "editGroupsDescription": "Folkene i disse gruppene vil kunne redigere prosjektinformasjon.",
+    "viewGroupsDescription": "Folkene i disse gruppene vil ikke kunne søke i og vise prosjektet hvis det ikke deles offentlig.",
+    "errorMessage": "Det oppstod en feil i oppdateringen av samarbeidspartnerne for prosjektet ditt."
+  },
+  "content": {
+    "description": "Velg hvilke brukergrupper som kan vise og redigere dette innholdet.",
+    "editGroupsDescription": "Folkene i disse gruppene vil kunne redigere innholdsinformasjon.",
+    "viewGroupsDescription": "Folkene i disse gruppene vil ikke kunne søke i og vise innholdet hvis det ikke deles offentlig.",
+    "errorMessage": "Det oppstod en feil i oppdateringen av samarbeidspartnerne for innholdet ditt."
+  },
+  "discussion": {
+    "description": "Velg hvilke brukergrupper som kan vise og redigere denne diskusjonen.",
+    "editGroupsDescription": "Folkene i disse gruppene vil kunne redigere diskusjonsinformasjon.",
+    "viewGroupsDescription": "Folkene i disse gruppene vil ikke kunne søke i og vise diskusjonen hvis det ikke deles offentlig.",
+    "errorMessage": "Det oppstod en feil i oppdateringen av samarbeidspartnerne for diskusjonen din."
+  },
+  "site": {
+    "description": "Velg hvilke brukergrupper som kan vise og redigere dette området.",
+    "editGroupsDescription": "Personene i disse gruppene kan redigere områdeinformasjon.",
+    "viewGroupsDescription": "Personene i disse gruppene kan søke i og vise området hvis det ikke deles offentlig.",
+    "errorMessage": "Det oppstod en feil ved oppdateringen av samarbeidspartnerne for området."
+  },
+  "newTab": "åpne profilen i en ny fane",
+  "supportingTeams": "Støttende team",
+  "supportingTeamsDesc": "Disse støttende teamene var tidligere koblet til området ditt. Du kan fortsette å bruke dem til å dele innhold med samarbeidspartnere.",
+  "supportTeamsRemove": "Fjern team",
+  "supportingTeamsRemoveError": "Feil ved frakobling av team. Kontakt en administrator.",
+  "supportingTeamsRemoveSuccess": "Teamet er koblet fra."
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "atvērt profilu jaunā cilnē",
+  "noGroups": "Nav grupu",
+  "pickerToggle": "Pievienot grupas",
+  "pickerTitle": "Izvēlēties grupas",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Nav dalībnieku",
+      "oneMember": "1 dalībnieks",
+      "members": "{count} dalībnieki"
+    },
+    "dateCreated": "Izveides datums: {localizedDate}",
+    "sharing": "Koplietošana: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Sevi",
+      "shared": "Īpašnieks un grupas",
+      "org": "Organizācija",
+      "public": "Publisks"
+    },
+    "membership": "Dalība: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Grupas īpašnieks",
+      "admin": "Grupas pārvaldnieks",
+      "member": "Grupas dalībnieks",
+      "none": "Nav"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "select": "Zaznacz",
+  "cancel": "Anuluj",
+  "iconModalTitle": "Wybierz ikonę",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Wybierz z biblioteki"
+      },
+      "url": {
+        "description": "Podaj adres URL własnej"
+      }
+    }
+  },
+  "altText": {
+    "label": "Tekst alternatywny",
+    "helperText": "Jeśli nie zostanie dodany, ikona zostanie oznaczona jako dekoracyjna."
+  }
+}

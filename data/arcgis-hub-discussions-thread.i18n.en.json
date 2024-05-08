@@ -1,0 +1,10 @@
+{
+  "error": "Something went wrong",
+  "repliesFailure": "Replies to this post cannot be displayed.",
+  "thread.deleted.title": "Thread Deleted",
+  "thread.deleted.message": "The linked post and reply were deleted and cannot be displayed.",
+  "thread.deleted.action": "View all posts",
+  "reply.single.title": "You are viewing a single reply",
+  "reply.single.link": "View all replies",
+  "loading": "Loading"
+}

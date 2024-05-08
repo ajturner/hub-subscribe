@@ -1,0 +1,16 @@
+{
+  "location.add": "Lisa asukoht",
+  "location.remove": "Eemalda asukoht",
+  "draw.tip": "Kas lisada teine asukoht?",
+  "prompt.add.post": "Lisa postitusele",
+  "prompt.add.reply": "Lisa vastusele",
+  "prompt.edit.point": "Liiguta punkti",
+  "prompt.edit.polyline": "Muuda joont",
+  "prompt.edit.polygon": "Muuda ala",
+  "prompt.remove.point": "Kustuta punkt",
+  "prompt.remove.polyline": "Kustuta joon",
+  "prompt.remove.polygon": "Kustuta ala",
+  "prompt.remove.existing": "Tühista valik",
+  "prompt.location.edit": "Uuenda joonist",
+  "prompt.location.delete": "Kustuta joonis"
+}

@@ -1,0 +1,30 @@
+{
+  "helperText": "Definiu i configureu el catàleg",
+  "sections": {
+    "groups": {
+      "title": "Grups",
+      "helperText": "Els grups següents inclouen el contingut del catàleg de cerca. Seleccioneu un grup per veure'n la configuració, el contingut i més.",
+      "createGroup": "Crea un grup nou"
+    },
+    "feeds": {
+      "title": "Configuració de canals de contingut",
+      "helperText": "Faciliteu l'accés i la reutilització de les vostres dades públiques obertes amb els canals de contingut de Hub.",
+      "learn": "Obteniu informació sobre els canals de contingut del Hub",
+      "toggle": "Activa els canals de contingut ",
+      "configure": "Configura els canals de continguts",
+      "notice": "Per activar els canals de contingut, primer heu de configurar els vostres llocs Hub com a \"Públics\" a la Configuració"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Des de",
+    "editGroups": "Edita els grups",
+    "viewGroups": "Mostra el grup",
+    "myGroup": "El meu grup",
+    "myOrganization": "La meva organització",
+    "myCommunity": "La meva comunitat"
+  },
+  "formAlert": "Alerta del formulari",
+  "alertMessages": {
+    "error": "S'ha produït un error en desar els canvis"
+  }
+}

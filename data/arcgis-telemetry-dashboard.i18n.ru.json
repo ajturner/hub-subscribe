@@ -1,0 +1,31 @@
+{
+  "dateRange": "Диапазон дат: {start} - {end}",
+  "pageViews": "Просмотры страниц",
+  "timeOnSite": "Среднее количество минут на сайте",
+  "users": "Сеансы",
+  "viewsOverTime": "Просмотры страницы с течением времени",
+  "disabledTracking": "Отслеживание активности отключено",
+  "enableTracking": "Включите отслеживание активности хаба в настройках сайта, чтобы отслеживать использование вашего сайта.",
+  "learnMore": "Подробнее.",
+  "disabled": "Отключено",
+  "notificationLabel": "Данные обновлены",
+  "dataUpdated": "Данные обновлены",
+  "subscribe": "Подписаться",
+  "subscribed": "Подписан",
+  "weeklyReport": "Еженедельный отчет",
+  "timestampTitle": {
+    "hour": "Время дня",
+    "day": "Дата",
+    "week": "Неделя"
+  },
+  "formAlert": "Сформировать предупреждение",
+  "success": "Подписка успешно обновлена",
+  "subscriptionActivatedTitle": "Подписка активирована",
+  "subscriptionActivatedMessage": "Вы зарегистрировали адрес {email}, чтобы получать еженедельные показатели вовлеченности.",
+  "unsubscribeCompleteTitle": "Отписка завершена",
+  "unsubscribeCompleteMessage": "Адрес {email} был отписан от получения показателей вовлеченности.",
+  "problemSubscribingTitle": "Проблема с подпиской",
+  "problemSubscribingMessage": "Возникла проблема с подпиской. Ошибка: ",
+  "problemUnsubscribingTitle": "Проблема с отпиской",
+  "problemUnsubscribingMessage": "Возникла проблема с отпиской. Ошибка: "
+}

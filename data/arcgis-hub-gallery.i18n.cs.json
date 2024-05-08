@@ -1,0 +1,25 @@
+{
+  "moreResults": "Více výsledků",
+  "search": "Hledat",
+  "filter": "Filtry",
+  "viewResults": "Zobrazit výsledky ({numResults})",
+  "resultsCount": "1 - {pageTotal} z {searchTotal}",
+  "backToTop": "Zpět na začátek",
+  "facets": {
+    "access": {
+      "private": "Moje",
+      "shared": "Majitel a skupiny",
+      "org": "Organizace",
+      "public": "Veřejné"
+    },
+    "license": {
+      "custom": "Vlastní",
+      "none": "Žádný"
+    }
+  },
+  "layoutOptions": {
+    "list": "Zobrazit seznam",
+    "grid": "Zobrazit mřížku"
+  },
+  "galleryActionsLabel": "Další akce"
+}

@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Przeciągnij i upuść plik, aby go przesłać",
+  "imageHeading": "Prześlij obraz",
+  "selectedHeading": "Wybrano plik",
+  "maxSizeAndSupportedTypes": "Maksymalny rozmiar to {maxSize} MB, {fileTypes}",
+  "maxSize": "Maksymalny rozmiar to {maxSize} MB",
+  "recommendedDimensions": "Zalecane wymiary {recommendedDimensions}",
+  "linkText": "Wyświetl listę obsługiwanych plików",
+  "contentButton": "Znajdź plik",
+  "imageButton": "Znajdź obraz",
+  "clearButton": "Wyczyść wybrane",
+  "errorHeading": "Błąd",
+  "fileTooLargeError": "Plik jest za duży",
+  "multipleFilesError": "Nie można przesłać wielu plików jednocześnie",
+  "unsupportedFileTypeError": "Ten typ pliku nie jest obsługiwany"
+}

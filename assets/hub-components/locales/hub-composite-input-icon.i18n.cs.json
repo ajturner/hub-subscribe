@@ -1,0 +1,19 @@
+{
+  "select": "Vybrat",
+  "cancel": "Storno",
+  "iconModalTitle": "Vybrat ikonu",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "Vybrat z knihovny"
+      },
+      "url": {
+        "description": "Zadat URL pro vaši vlastní"
+      }
+    }
+  },
+  "altText": {
+    "label": "Alternativní text",
+    "helperText": "Pokud chybí, ikona bude označena jako dekorativní."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "dateRange": "Datoområde: {start}–{end}",
+  "pageViews": "Sidevisninger",
+  "timeOnSite": "Gjennomsnittlige minutter på stedet",
+  "users": "Økter",
+  "viewsOverTime": "Sidevisninger over tid",
+  "disabledTracking": "Aktivitetssporing er deaktivert",
+  "enableTracking": "Aktiver sporing av hub-aktivitet i områdeinnstillingene for å overvåke bruken av området ditt.",
+  "learnMore": "Mer informasjon.",
+  "disabled": "Deaktivert",
+  "notificationLabel": "Data oppdatert",
+  "dataUpdated": "Data oppdatert",
+  "subscribe": "Abonner",
+  "subscribed": "Abonnement",
+  "weeklyReport": "Ukentlig rapport",
+  "timestampTitle": {
+    "hour": "Tid på dagen",
+    "day": "Dato",
+    "week": "Uke"
+  },
+  "formAlert": "Skjemavarsel",
+  "success": "Abonnementet ble oppdatert",
+  "subscriptionActivatedTitle": "Abonnement aktivert",
+  "subscriptionActivatedMessage": "Du har registrert {email} for å motta ukentlige engasjementtall.",
+  "unsubscribeCompleteTitle": "Avslutt abonnement fullført",
+  "unsubscribeCompleteMessage": "{email} har avsluttet abonnementet fra engasjementtall.",
+  "problemSubscribingTitle": "Problem med abonnement",
+  "problemSubscribingMessage": "Det oppstod et problem med abonnementet. Feil: ",
+  "problemUnsubscribingTitle": "Problem med oppsigelse av abonnement",
+  "problemUnsubscribingMessage": "Det oppstod et problem med oppsigelse av abonnementet. Feil: "
+}

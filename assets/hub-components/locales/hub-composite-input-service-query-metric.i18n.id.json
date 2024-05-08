@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Membagikan",
+      "myself": "Diri Sendiri",
+      "myOrganization": "Organisasi Saya",
+      "public": "Dunia (Publik)"
+    },
+    "catalog": {
+      "myContent": "Konten Saya",
+      "favorites": "Favorit",
+      "organization": "Organisasi Saya",
+      "world": "Dunia (Publik)"
+    }
+  },
+  "expression": {
+    "label": "Filter atribut"
+  },
+  "field": {
+    "label": "Atribut"
+  },
+  "layer": "Layer / tabel",
+  "statistic": {
+    "label": "Agregasi"
+  }
+}

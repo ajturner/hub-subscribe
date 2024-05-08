@@ -1,0 +1,31 @@
+{
+  "dateRange": "Opseg datuma: {start} - {end}",
+  "pageViews": "Prikazi stranica",
+  "timeOnSite": "Prosečno minuta na lokaciji",
+  "users": "Sesije",
+  "viewsOverTime": "Pregled stranica tokom vremena",
+  "disabledTracking": "Praćenje aktivnosti je onemogućeno",
+  "enableTracking": "Omogućite praćenje aktivnosti čvorišta u postavkama lokacije da biste nadgledali upotrebu vaše lokacije.",
+  "learnMore": "Saznajte više.",
+  "disabled": "Onemogućeno",
+  "notificationLabel": "Ažurirani podaci",
+  "dataUpdated": "Ažurirani podaci",
+  "subscribe": "Pretplatite se",
+  "subscribed": "Prijavljeni",
+  "weeklyReport": "Nedeljni izveštaj",
+  "timestampTitle": {
+    "hour": "Doba dana",
+    "day": "Datum",
+    "week": "Sedmica"
+  },
+  "formAlert": "Formiraj upozorenje",
+  "success": "Uspešno je ažurirana pretplata.",
+  "subscriptionActivatedTitle": "Pretplata je aktivirana",
+  "subscriptionActivatedMessage": "Registrovali ste se {email} da primate sedmične podatke o učešću.",
+  "unsubscribeCompleteTitle": "Odjava je završena",
+  "unsubscribeCompleteMessage": "{email} je uspešno odjavljen u vezi sa podacima o učešću.",
+  "problemSubscribingTitle": "Problem sa pretplatom",
+  "problemSubscribingMessage": "Imali smo problem prilikom pretplate. Greška: ",
+  "problemUnsubscribingTitle": "Problem sa odjavom",
+  "problemUnsubscribingMessage": "Imali smo problem prilikom odjave. Greška: "
+}

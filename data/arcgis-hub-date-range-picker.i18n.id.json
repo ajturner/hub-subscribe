@@ -1,0 +1,15 @@
+{
+  "default": "Pilih Rentang Tanggal",
+  "today": "Hari ini",
+  "yesterday": "Kemarin",
+  "last7Days": "7 Hari Terakhir",
+  "last30Days": "30 Hari Terakhir",
+  "thisMonth": "Bulan Ini",
+  "lastMonth": "Bulan Lalu",
+  "pastYear": "Tahun Lalu",
+  "custom": "Khusus",
+  "nextMonth": "Bulan depan",
+  "previousMonth": "Bulan sebelumnya",
+  "year": "Tahun",
+  "title": "Pilih periode waktu"
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "Lisa postitus",
+  "createPost": "Loo postitus",
+  "emptyHeading": "Alusta arutelu",
+  "emptyMessage": "Olge esimene, kes teema üles võtab. Saate hõlpsasti esitada küsimusi või jagada teistega oma teadmisi teatud sisu kohta.",
+  "searchIdeas": "Otsi postitusi",
+  "searchCount": "{start} - {end} / {total}",
+  "orderAsc": "Kasvav",
+  "orderDesc": "Kahanev",
+  "sortRecent": "Hiljutised",
+  "sortCreator": "Autor",
+  "layoutGrid": "Ruudustik",
+  "layoutList": "Loend"
+}

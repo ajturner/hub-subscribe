@@ -1,0 +1,11 @@
+{
+  "anonymous": "Névtelen",
+  "noUser": "Nincs felhasználónév",
+  "privateUser": "Privát tag",
+  "privateOrg": "Privát szervezet",
+  "orgLabel": "Szervezet",
+  "profile": "Ugrás a profilhoz",
+  "location": "Helyszín",
+  "information": "A közzétételre vonatkozó információ",
+  "mentionedBy": "@{username} által megemlítve"
+}

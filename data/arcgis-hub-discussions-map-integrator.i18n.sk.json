@@ -1,0 +1,16 @@
+{
+  "location.add": "Pridať lokalitu",
+  "location.remove": "Odstrániť lokalitu",
+  "draw.tip": "Pridať ďalšiu lokalitu?",
+  "prompt.add.post": "Pridať k príspevku",
+  "prompt.add.reply": "Pridať k odpovedi",
+  "prompt.edit.point": "Posunúť bod",
+  "prompt.edit.polyline": "Editovať líniu",
+  "prompt.edit.polygon": "Editovať plochu",
+  "prompt.remove.point": "Vymazať bod",
+  "prompt.remove.polyline": "Vymazať líniu",
+  "prompt.remove.polygon": "Vymazať plochu",
+  "prompt.remove.existing": "Zrušiť výber",
+  "prompt.location.edit": "Aktualizovať nákres",
+  "prompt.location.delete": "Vymazať nákres"
+}

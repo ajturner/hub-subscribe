@@ -1,0 +1,36 @@
+{
+  "edit": "עריכה",
+  "delete": "מחיקה",
+  "noneMessage": "לא הוגדר מיקום",
+  "entityTypes": {
+    "project": "פרויקט",
+    "site": "אתר",
+    "initiative": "יוזמה",
+    "discussion": "דיון",
+    "content": "תוכן"
+  },
+  "emptyLocation": {
+    "title": "לא שורטט מיקום",
+    "message": "{entityType} לא יוצג על מפות עד להוספת מיקום."
+  },
+  "populatedLocation": {
+    "title": "להוסיף מיקום אחר?",
+    "message": "בחר את כלי השרטוט שוב כדי להוסיף מיקומים נוספים (עד {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "הגעת למספר המקסימלי של נקודות ({currentCount}/{maxLocations})",
+    "message": "כדי להוסיף עוד מיקומים: מחק נקודות, או ערוך קווים ואזורים למחיקת הנקודות שלהם (לחיצה ימנית)."
+  },
+  "maximumLocations": {
+    "title": "הגעת למספר המקסימלי של מיקומים",
+    "message": "כדי להוסיף עוד מיקומים, הסר מיקום אחד או יותר, או הסר את כל המיקומים והשתמש באזור כללי יותר."
+  },
+  "drawLocationPopover": {
+    "tooltip": "הוסף מיקום",
+    "clear": "נקה הכול",
+    "extent": "שרטט מלבן",
+    "point": "שחרר נקודה",
+    "polyline": "שרטט קו",
+    "polygon": "צייר אזור"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "header": "Diskussionsoptionen",
+  "secondary": "Abbrechen",
+  "primary": "Änderungen speichern",
+  "pending": "Wird gespeichert",
+  "error.title": "Ein Fehler ist aufgetreten.",
+  "error.message": "Versuchen Sie erneut, die Änderungen zu speichern."
+}

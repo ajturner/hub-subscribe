@@ -1,0 +1,14 @@
+{
+  "createdBy": "Auteur : {creator}",
+  "emptyMessage": "Aucune version trouvée",
+  "errorMessage": "Erreur lors de la récupération des versions",
+  "menuLabel": "afficher les actions",
+  "publishedBadge": "Publié",
+  "viewingBadge": "Affichage",
+  "popover.label": "Actions sur les versions",
+  "popover.actions.delete": "Supprimer",
+  "popover.actions.edit": "Modifier les détails",
+  "popover.actions.share": "Partager",
+  "shareErrorMessage": "Erreur lors de la copie de l’URL de partage dans le Presse-papiers.",
+  "shareSuccessMessage": "URL de partage copiée dans le Presse-papiers."
+}

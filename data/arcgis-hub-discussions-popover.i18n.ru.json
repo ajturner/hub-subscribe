@@ -1,0 +1,19 @@
+{
+  "anonymous": "Анонимный пользователь",
+  "noUser": "Нет имени пользователя",
+  "privateUser": "Частный участник",
+  "privateOrg": "Частная организация",
+  "org": "Моя организация",
+  "orgLabel": "Организация",
+  "profile": "Перейти в профиль",
+  "location": "Местоположение",
+  "information": "Информация о посте",
+  "postedIn": "Опубликовано в {groupName}",
+  "replyingTo": "Ответ @{username}",
+  "visiblePrivate": "Виден только участникам",
+  "visibleOrg": "Виден организации",
+  "visibleAll": "Виден всем",
+  "manageChannel": "Управление каналом",
+  "group.deleted": "Удаленная группа",
+  "unnamedChannel": "Безымянный канал"
+}

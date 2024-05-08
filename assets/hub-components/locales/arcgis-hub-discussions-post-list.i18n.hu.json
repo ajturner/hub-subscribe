@@ -1,0 +1,14 @@
+{
+  "addPost": "Közzététel hozzáadása",
+  "createPost": "Közzététel létrehozása",
+  "emptyHeading": "Beszélgetés indítása",
+  "emptyMessage": "Legyen az első, aki felvet egy témát. Egyszerűen tegyen fel egy kérdést, vagy ossza meg másokkal, amit egy tartalommal kapcsolatban tud.",
+  "searchIdeas": "Közzétételek keresése",
+  "searchCount": "{start} - {end}, összesen: {total}",
+  "orderAsc": "Növekvő",
+  "orderDesc": "Csökkenő",
+  "sortRecent": "Legutóbbi",
+  "sortCreator": "Készítő",
+  "layoutGrid": "Rácsháló",
+  "layoutList": "Lista"
+}

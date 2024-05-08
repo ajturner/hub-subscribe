@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "اكتمل التنزيل",
+  "titleFileGeneration": "إنشاء الملف قيد التقدم",
+  "titleFileGenerationFailed": "فشل إنشاء الملف",
+  "titleDatasetNotFound": "لم يتم العثور على مجموعة البيانات",
+  "titleApiError": "خطأ في API",
+  "titleFormatDisabled": "تم تعطيل التنزيل",
+  "messageFailedStaleAvailable": "يمكنك تنزيل إصدار سابق أدناه.",
+  "messageUpdatingFile": "نقوم بتحديث الملف. قد يستغرق ذلك بعض الوقت.",
+  "messageCreatingFile": "نحن ننُشئ الملف. قد يستغرق ذلك بعض الوقت.",
+  "messageFileNeedsGenerating": "قد يستغرق تنزيل ملف مُحدّث بعض الوقت.",
+  "messageFormatDisabled": "عطّل المالك تنزيل هذا التنسيق."
+}

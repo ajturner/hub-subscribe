@@ -1,0 +1,9 @@
+{
+  "heading": "Szint megosztása…",
+  "public": "Nyilvános",
+  "publicInfo": "Mindenki számára látható: {itemType}",
+  "organization": "Szervezet",
+  "organizationInfo": "Minden tag, akinek fiókja {orgName} van, és a csoportok láthatják ezt: {itemType}",
+  "owner": "Tulajdonos",
+  "ownerInfo": "Ez ({itemType}) a tulajdonos és a hozzáféréssel rendelkező csoportok számára látható"
+}

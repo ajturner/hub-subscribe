@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Udostępnianie",
+      "myself": "Ja",
+      "myOrganization": "Moja instytucja",
+      "public": "Świat (publiczne)"
+    },
+    "catalog": {
+      "myContent": "Moje zasoby",
+      "favorites": "Ulubione",
+      "organization": "Moja instytucja",
+      "world": "Świat (publiczne)"
+    }
+  },
+  "expression": {
+    "label": "Filtry atrybutów"
+  },
+  "field": {
+    "label": "Atrybut"
+  },
+  "layer": "Warstwa/tabela",
+  "statistic": {
+    "label": "Agregacja"
+  }
+}

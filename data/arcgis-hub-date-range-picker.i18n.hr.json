@@ -1,0 +1,15 @@
+{
+  "default": "Odaberite raspon datuma",
+  "today": "Danas",
+  "yesterday": "Jučer",
+  "last7Days": "Posljednjih 7 dana",
+  "last30Days": "Posljednih 30 dana",
+  "thisMonth": "Ovaj mjesec",
+  "lastMonth": "Prošli mjesec",
+  "pastYear": "Posljednja godina",
+  "custom": "Prilagodi",
+  "nextMonth": "Sljedeći mjesec",
+  "previousMonth": "Prethodni mjesec",
+  "year": "Godina",
+  "title": "Odaberi vremensko razdoblje"
+}

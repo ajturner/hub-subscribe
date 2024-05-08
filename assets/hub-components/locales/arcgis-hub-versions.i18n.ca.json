@@ -1,0 +1,14 @@
+{
+  "createdBy": "Creat per {creator}",
+  "emptyMessage": "No s'ha trobat cap versió",
+  "errorMessage": "S'ha produït un error en recuperar les versions",
+  "menuLabel": "mostra les accions",
+  "publishedBadge": "Publicat",
+  "viewingBadge": "Visualització",
+  "popover.label": "Accions de la versió",
+  "popover.actions.delete": "Suprimeix",
+  "popover.actions.edit": "Edita els detalls",
+  "popover.actions.share": "Comparteix",
+  "shareErrorMessage": "S'ha produït un error en copiar l'URL d'ús compartit al porta-retalls.",
+  "shareSuccessMessage": "L'URL d'ús compartit s'ha copiat al porta-retalls."
+}

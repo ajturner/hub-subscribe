@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "A conexão do servidor expirou e não pôde exibir a estatística.",
+    "title": "O servidor expirou"
+  },
+  "genericError": {
+    "message": "A estatística não pode ser exibida.",
+    "title": "Aconteceu algo errado"
+  }
+}

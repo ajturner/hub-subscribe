@@ -1,0 +1,15 @@
+{
+  "default": "Datumsbereich auswählen",
+  "today": "Heute",
+  "yesterday": "Gestern",
+  "last7Days": "Letzte 7 Tage",
+  "last30Days": "Letzte 30 Tage",
+  "thisMonth": "Dieser Monat",
+  "lastMonth": "Letzter Monat",
+  "pastYear": "Letztes Jahr",
+  "custom": "Benutzerdefiniert",
+  "nextMonth": "Nächster Monat",
+  "previousMonth": "Vorheriger Monat",
+  "year": "Jahr",
+  "title": "Zeitraum auswählen"
+}

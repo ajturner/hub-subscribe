@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Vlasnik"
+  },
+  "updatedDate": {
+    "description": "Datum ažuriranja"
+  },
+  "createdDate": {
+    "description": "Objavljeno"
+  },
+  "access": {
+    "label": {
+      "public": "Javno",
+      "org": "Organizacija",
+      "private": "Vlasnik",
+      "shared": "Podijeljeno privatno"
+    },
+    "description": {
+      "public": {
+        "site": "Svatko može vidjeti ovo web-mjesto",
+        "project": "Svi mogu vidjeti ovaj projekt",
+        "initiative": "Svatko može vidjeti ovu inicijativu",
+        "discussion": "Svatko može vidjeti ovu raspravu",
+        "default": "Svatko može vidjeti ovaj sadržaj"
+      },
+      "org": {
+        "site": "Svatko u vašoj organizaciji može vidjeti ovo web-mjesto",
+        "project": "Svi u vašoj organizaciji mogu vidjeti ovaj projekt",
+        "initiative": "Svatko u vašoj organizaciji može vidjeti ovu inicijativu",
+        "discussion": "Svatko u vašoj organizaciji može vidjeti ovu raspravu",
+        "default": "Svatko u vašoj organizaciji može vidjeti ovaj sadržaj"
+      },
+      "private": {
+        "site": "Samo vi možete vidjeti ovo web-mjesto",
+        "project": "Samo vi možete vidjeti ovaj projekt",
+        "initiative": "Samo vi možete vidjeti ovu inicijativu",
+        "discussion": "Samo vi možete vidjeti ovu raspravu",
+        "default": "Samo vi možete vidjeti ovaj sadržaj"
+      },
+      "shared": {
+        "site": "Odabrane grupe mogu vidjeti ovo web-mjesto",
+        "project": "Odabrane grupe mogu vidjeti ovaj projekt",
+        "initiative": "Odabrane grupe mogu vidjeti ovu inicijativu",
+        "discussion": "Odabrane grupe mogu vidjeti ovu raspravu",
+        "default": "Odabrane grupe mogu vidjeti ovaj sadržaj"
+      }
+    }
+  }
+}

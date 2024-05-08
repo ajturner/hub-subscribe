@@ -1,0 +1,15 @@
+{
+  "addFilter": "Thêm bộ lọc",
+  "attributeFilter": "Bộ lọc",
+  "between": "Giữa",
+  "deleteFilter": "Xóa bộ lọc",
+  "endingDate": "Ngày kết thúc",
+  "endingValue": "Giá trị kết thúc",
+  "expression": "Biểu thức",
+  "filterType": "Loại bộ lọc",
+  "filterValue": "Giá trị bộ lọc",
+  "isExactly": "Chính xác",
+  "startingDate": "Ngày bắt đầu",
+  "startingValue": "Giá trị bắt đầu",
+  "selectAttribute": "Chọn thuộc tính"
+}

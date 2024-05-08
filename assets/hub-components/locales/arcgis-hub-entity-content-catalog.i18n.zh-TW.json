@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "類型",
+    "tags": "標籤",
+    "categories": "類別",
+    "sharing": "分享",
+    "dateUpdated": "更新日期",
+    "map": {
+      "label": "位置",
+      "tooltip": "將地圖範圍套用為位置篩選器"
+    }
+  },
+  "collections": {
+    "all": "全部",
+    "dataset": "資料",
+    "site": "網站",
+    "document": "文件",
+    "appAndMap": "應用程式與地圖"
+  },
+  "noCollections": {
+    "title": "目錄",
+    "message": "您的目錄目前空白。",
+    "button": "設定目錄"
+  }
+}

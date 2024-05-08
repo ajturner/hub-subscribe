@@ -1,0 +1,19 @@
+{
+  "heading": "Додати за URL-адресою",
+  "subText": "CSV, SHP, GeoJSON, сервіс об'єктів ArcGIS, XLS, PDF, PNG, JPG, веб-посилання",
+  "fileTypeSelector": "Встановити тип файлу вручну",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "Сервіс об'єктів ArcGIS",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Веб-посилання",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Зображення (png, jpg, jpeg)",
+  "invalidFormat": "Помилка: неприпустимий формат",
+  "invalidUrl": "Помилка: неприпустима URL-адреса",
+  "recognizedType": "Встановити тип файлу вручну"
+}

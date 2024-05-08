@@ -1,0 +1,16 @@
+{
+  "location.add": "เพิ่มสถานที่",
+  "location.remove": "ลบตำแหน่ง",
+  "draw.tip": "เพิ่มอีกหนึ่งตำแหน่งที่ตั้งหรือไม่",
+  "prompt.add.post": "เพิ่มลงโพสต์",
+  "prompt.add.reply": "เพิ่มลงในการตอบกลับ",
+  "prompt.edit.point": "ย้ายจุด",
+  "prompt.edit.polyline": "แก้ไขเส้น",
+  "prompt.edit.polygon": "แก้ไขพื้นที่",
+  "prompt.remove.point": "ลบจุด",
+  "prompt.remove.polyline": "ลบเส้น",
+  "prompt.remove.polygon": "ลบพื้นที่",
+  "prompt.remove.existing": "ยกเลิกการเลือก",
+  "prompt.location.edit": "อัปเดตการวาด",
+  "prompt.location.delete": "ลบการวาด"
+}

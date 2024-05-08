@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Omanik"
+  },
+  "updatedDate": {
+    "description": "Uuendamise kuupäev"
+  },
+  "createdDate": {
+    "description": "Publitseeritud"
+  },
+  "access": {
+    "label": {
+      "public": "Avalik",
+      "org": "Organisatsioon",
+      "private": "Omanik",
+      "shared": "Privaatselt jagatud"
+    },
+    "description": {
+      "public": {
+        "site": "Kõik saavad seda saiti vaadata",
+        "project": "Igaüks saab seda projekti vaadata",
+        "initiative": "Kõik saavad seda algatust vaadata",
+        "discussion": "Kõik saavad seda arutelu vaadata",
+        "default": "Kõik saavad seda sisu vaadata"
+      },
+      "org": {
+        "site": "Kõik teie organisatsioonis saavad seda saiti vaadata",
+        "project": "Igaüks teie organisatsioonis saab seda projekti vaadata",
+        "initiative": "Kõik teie organisatsioonis saavad seda algatust vaadata",
+        "discussion": "Kõik teie organisatsioonis saavad seda arutelu vaadata",
+        "default": "Kõik teie organisatsioonis saavad seda sisu vaadata"
+      },
+      "private": {
+        "site": "Ainult teie saate seda saiti vaadata",
+        "project": "Ainult teie saate seda projekti vaadata",
+        "initiative": "Ainult teie saate seda algatust vaadata",
+        "discussion": "Ainult teie saate seda arutelu vaadata",
+        "default": "Ainult teie saate seda sisu vaadata"
+      },
+      "shared": {
+        "site": "Valitud grupid saavad seda saiti vaadata",
+        "project": "Valitud grupid saavad seda projekti vaadata",
+        "initiative": "Valitud grupid saavad seda algatust vaadata",
+        "discussion": "Valitud grupid saavad seda arutelu vaadata",
+        "default": "Valitud grupid saavad seda sisu vaadata"
+      }
+    }
+  }
+}

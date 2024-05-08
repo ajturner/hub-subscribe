@@ -1,0 +1,15 @@
+{
+  "new": "Nauja",
+  "project": {
+    "title": "Naujas projektas",
+    "description": "Akcentuokite užduotis su aiškiais tikslais ir terminais"
+  },
+  "initiative": {
+    "title": "Nauja iniciatyva",
+    "description": "Akcentuokite užduotis su aiškiais tikslais ir terminais"
+  },
+  "discussion": {
+    "title": "Nauja diskusijų lenta",
+    "description": "Sukurkite naują diskusijų lentą įvesdami temą nurodantį pavadinimą."
+  }
+}

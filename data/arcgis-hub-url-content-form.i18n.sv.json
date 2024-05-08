@@ -1,0 +1,19 @@
+{
+  "heading": "Lägg till efter URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS-geoobjekttjänster, XLS, PDF, PNG, JPG, webblänk",
+  "fileTypeSelector": "Manuellt konfigurerad filtyp",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS-geoobjekttjänst",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Webblänk",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Bild (png, jpg, jpeg)",
+  "invalidFormat": "Fel: Ogiltigt format",
+  "invalidUrl": "Fel: Ogiltig URL",
+  "recognizedType": "Manuellt konfigurerad filtyp"
+}

@@ -1,0 +1,1 @@
+import{c as t}from"./p-c94c130f.js";import{g as o}from"./p-992b9d10.js";const s=t((function(t,s){return o(t,s)}),{scope:"teams",ttl:1e3});export{s as f}

@@ -1,0 +1,28 @@
+{
+  "newTab": "Profil auf neuer Registerkarte öffnen",
+  "noGroups": "Keine Gruppen",
+  "pickerToggle": "Gruppen hinzufügen",
+  "pickerTitle": "Gruppen auswählen",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Keine Mitglieder",
+      "oneMember": "1 Mitglied",
+      "members": "{count} Mitglieder"
+    },
+    "dateCreated": "Erstellungsdatum: {localizedDate}",
+    "sharing": "Freigabe: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Ich",
+      "shared": "Besitzer und Gruppen",
+      "org": "Organisation",
+      "public": "Öffentlich"
+    },
+    "membership": "Mitgliedschaft: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Gruppenbesitzer",
+      "admin": "Gruppenmanager",
+      "member": "Gruppenmitglied",
+      "none": "Keine"
+    }
+  }
+}

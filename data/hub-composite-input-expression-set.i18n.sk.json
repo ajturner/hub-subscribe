@@ -1,0 +1,15 @@
+{
+  "addFilter": "Pridať filter",
+  "attributeFilter": "Filter",
+  "between": "Medzi",
+  "deleteFilter": "Odstrániť filter",
+  "endingDate": "Dátum ukončenia",
+  "endingValue": "Hodnota ukončenia",
+  "expression": "Výraz",
+  "filterType": "Typ filtra",
+  "filterValue": "Hodnota filtra",
+  "isExactly": "Je presne",
+  "startingDate": "Dátum začiatku",
+  "startingValue": "Počiatočná hodnota",
+  "selectAttribute": "Vyberte atribút"
+}

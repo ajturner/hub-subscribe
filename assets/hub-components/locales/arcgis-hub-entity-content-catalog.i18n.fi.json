@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tyyppi",
+    "tags": "Tunniste",
+    "categories": "Luokka",
+    "sharing": "Jakaminen",
+    "dateUpdated": "Päivitetty viimeksi",
+    "map": {
+      "label": "Sijainti",
+      "tooltip": "Käytä kartan laajuutta sijainnin suodattimena"
+    }
+  },
+  "collections": {
+    "all": "Kaikki",
+    "dataset": "Aineisto",
+    "site": "Sivustot",
+    "document": "Dokumentit",
+    "appAndMap": "Sovellukset ja kartat"
+  },
+  "noCollections": {
+    "title": "Luettelo",
+    "message": "Luettelosi on tyhjä tällä hetkellä.",
+    "button": "Määritä luettelo"
+  }
+}

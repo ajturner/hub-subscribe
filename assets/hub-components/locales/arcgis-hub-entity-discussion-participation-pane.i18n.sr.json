@@ -1,0 +1,21 @@
+{
+  "title": "Učešće",
+  "channelTitle": "Kanal za učešće",
+  "addChannelsTitle": "Kanal je neophodan za ovu stavku; samo jedan može biti podešen.",
+  "headingChannelEdit": "Uredi kanal",
+  "headingChannelView": "Pregledaj kanal",
+  "headingChannelCreate": "Kreiraj novi kanal",
+  "buttons": {
+    "browse": "Pregledajte sve kanale",
+    "new": "Novi kanal"
+  },
+  "galleryPickerTitle": "Odaberite kanal",
+  "channelsLabel": "Kanali",
+  "accessLabel": "Pristupite",
+  "optionPublicLabel": "Javni",
+  "optionOrganizationLabel": "Organizacija",
+  "optionPrivateLabel": "Privatni",
+  "viewChannel": "Pregledaj kanal",
+  "editChannel": "Uredi kanal",
+  "save": "Sačuvaj"
+}

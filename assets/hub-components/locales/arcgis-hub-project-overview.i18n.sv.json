@@ -1,0 +1,27 @@
+{
+  "overview": "Översikt",
+  "telemetry": {
+    "pageViews": "Sidvisningar",
+    "last30days": "Senaste 30 dagarna",
+    "lastUpdated": "Senast uppdaterad för {hoursElapsed} timmar sedan"
+  },
+  "newNotice": {
+    "title": "Här är din projektarbetskatalog",
+    "message": "Den här arbetskatalogen är anpassad för redigering av projekt. Arbetskataloger gör det möjligt för samarbetspartner att fokusera på enskilda objekt och är under ständig utveckling.",
+    "link": "Läs mer"
+  },
+  "learnAbout": "Läs mer om Hub-projekt",
+  "feedbackNotice": {
+    "message": "Vad tycker du om Hub-projekt? Eftersom den här funktionen fortfarande är i betaversion vill vi höra hur du tänkt använda den.",
+    "link": "Skicka feedback"
+  },
+  "status": {
+    "notStarted": "Inte startad",
+    "inProgress": "Pågår",
+    "onHold": "Väntande",
+    "complete": "Fullständig"
+  },
+  "editDetails": "Redigera information",
+  "noPurposeSet": "Inget syfte har angivits",
+  "noLocationSet": "Ingen plats har angivits"
+}

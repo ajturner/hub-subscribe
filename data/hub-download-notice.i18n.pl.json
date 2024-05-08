@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Zakończono pobieranie",
+  "titleFileGeneration": "Trwa generowanie pliku",
+  "titleFileGenerationFailed": "Generowanie pliku nie powiodło się",
+  "titleDatasetNotFound": "Nie znaleziono zestawu danych",
+  "titleApiError": "Błąd API",
+  "titleFormatDisabled": "Panel jest wyłączony",
+  "messageFailedStaleAvailable": "Poniżej można pobrać poprzednią wersję.",
+  "messageUpdatingFile": "Aktualizujemy plik. Może to zająć trochę czasu.",
+  "messageCreatingFile": "Tworzymy plik. Może to zająć trochę czasu.",
+  "messageFileNeedsGenerating": "Pobranie zaktualizowanego pliku może trochę potrwać.",
+  "messageFormatDisabled": "Właściciel wyłączył możliwość pobierania w tym formacie"
+}

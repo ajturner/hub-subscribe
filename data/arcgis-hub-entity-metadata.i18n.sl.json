@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Lastnik"
+  },
+  "updatedDate": {
+    "description": "Datum je posodobljen"
+  },
+  "createdDate": {
+    "description": "Objavljeno"
+  },
+  "access": {
+    "label": {
+      "public": "Javno",
+      "org": "Organizacija",
+      "private": "Lastnik",
+      "shared": "Zasebno deljeno"
+    },
+    "description": {
+      "public": {
+        "site": "Kdorkoli lahko vidi to mesto",
+        "project": "Ta projekt lahko vidi vsak",
+        "initiative": "Kdorkoli lahko vidi to iniciativo",
+        "discussion": "Kdorkoli lahko vidi to razpravo",
+        "default": "Kdorkoli lahko vidi to vsebino"
+      },
+      "org": {
+        "site": "Kdorkoli v vaši organizaciji lahko vidi to mesto",
+        "project": "Vsak v vaši organizaciji lahko vidi ta projekt",
+        "initiative": "Kdorkoli v vaši organizaciji lahko vidi to iniciativo",
+        "discussion": "Kdorkoli v vaši organizaciji lahko vidi to razpravo",
+        "default": "Kdorkoli v vaši organizaciji lahko vidi to vsebino"
+      },
+      "private": {
+        "site": "Samo vi lahko vidite to mesto",
+        "project": "Samo vi lahko vidite ta projekt",
+        "initiative": "Samo vi lahko vidite to iniciativo",
+        "discussion": "To razpravo lahko vidite samo vi",
+        "default": "Samo vi lahko vidite to vsebino"
+      },
+      "shared": {
+        "site": "Izbrane skupine lahko vidijo to mesto",
+        "project": "Izbrane skupine lahko vidijo ta projekt",
+        "initiative": "Izbrane skupine lahko vidijo to iniciativo",
+        "discussion": "Izbrane skupine lahko vidijo to razpravo",
+        "default": "Izbrane skupine lahko vidijo to vsebino"
+      }
+    }
+  }
+}

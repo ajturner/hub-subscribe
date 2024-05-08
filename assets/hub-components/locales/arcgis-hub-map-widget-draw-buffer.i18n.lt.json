@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Vietos filtras",
+  "panel.reset": "Iš naujo nustatyti filtrą",
+  "distance.title": "Atstumas",
+  "distance.placeholder": "Įveskite skaičių...",
+  "distance.message": "Įveskite skaičių, norėdami išplėsti filtruojamą teritoriją.",
+  "system.imperial": "Imperinė",
+  "system.metric": "Metrinė",
+  "units.title": "Vienetai",
+  "units.feet": "Pėdos",
+  "units.miles": "Mylios",
+  "units.nauticalmiles": "Jūrmylės",
+  "units.meters": "Metrai",
+  "units.kilometers": "Kilometrai"
+}

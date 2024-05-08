@@ -1,0 +1,21 @@
+{
+  "title": "Deltagande",
+  "channelTitle": "Deltagandekanal",
+  "addChannelsTitle": "En kanal behövs för det här objektet - endast en kan anges.",
+  "headingChannelEdit": "Redigera kanal",
+  "headingChannelView": "Visa kanal",
+  "headingChannelCreate": "Skapa ny kanal",
+  "buttons": {
+    "browse": "Bläddra bland alla kanaler",
+    "new": "Ny kanal"
+  },
+  "galleryPickerTitle": "Välj en kanal",
+  "channelsLabel": "Kanaler",
+  "accessLabel": "Åtkomst",
+  "optionPublicLabel": "Offentlig",
+  "optionOrganizationLabel": "Organisation",
+  "optionPrivateLabel": "Privat",
+  "viewChannel": "Visa kanal",
+  "editChannel": "Redigera kanal",
+  "save": "Spara"
+}

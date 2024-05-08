@@ -1,0 +1,18 @@
+{
+  "purpose": "Цель",
+  "description": "Как мы осуществим это",
+  "details": "Сведения",
+  "featuredImageAlt": "Избранное изображение проекта",
+  "trackProgress": "Отследить наш прогресс",
+  "participatingGroups": "Участвующие группы",
+  "whosInvolved": "Кто задействован",
+  "tags": "Теги",
+  "status": {
+    "label": "Статус проекта",
+    "notStarted": "Не начато",
+    "inProgress": "Выполняется",
+    "onHold": "В режиме ожидания",
+    "complete": "Завершено"
+  },
+  "featuredContent": "Избранные ресурсы"
+}

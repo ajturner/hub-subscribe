@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Adlandırılmamış kanal",
+  "name": {
+    "label": "Adı",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Kaydet",
+  "access": {
+    "private": {
+      "label": "Özel",
+      "description": "Seçili gruplar katılabilir"
+    },
+    "organization": {
+      "label": "Kuruluşum",
+      "description": "{orgName} hesabına sahip tüm üyeler katılabilir",
+      "disabledTooltip": "Kuruluş kanallarını yalnızca kuruluş yöneticileri oluşturabilir."
+    },
+    "public": {
+      "label": "Genel",
+      "description": "Bir hesaba sahip herkes katılabilir",
+      "disabledTooltip": "Halka açık kanallarını yalnızca kuruluş yöneticileri oluşturabilir."
+    },
+    "allowAnonymous": "Anonime izin ver",
+    "confirmation": {
+      "header": "Emin misiniz?",
+      "message": "Bu değişiklikleri kaydetmek, bu kanala düzenleme erişiminizi kaldıracaktır. Herkese açık kanalları veya kuruluş kanallarını yalnızca kuruluş yöneticileri düzenleyebilir.",
+      "secondary": "İptal",
+      "primary": "Onayla"
+    }
+  },
+  "participants": {
+    "label": "Katılımcılar",
+    "helperText": "Tartışmayı görüntüleyebilen ve tartışmaya katkıda bulunabilen kişiler.",
+    "none": "Herhangi bir katılımcı ayarlanmadı",
+    "add": "Katılımcı grubu ekle"
+  },
+  "groupPicker": {
+    "title": "Grupları seç",
+    "facet": {
+      "label": "Kaynak",
+      "myGroup": "Grubum",
+      "myOrganization": "Kuruluşum",
+      "myCommunity": "Topluluğum"
+    }
+  },
+  "blockWords": {
+    "label": "Engellenen sözcükler",
+    "helperText": "Virgülle ayrılan liste. Bunları içeren gönderiler ve yanıtlar otomatik olarak gizlenecektir."
+  },
+  "manage": {
+    "label": "Yönet ve başkanlık et",
+    "helperText": "Yukarıdaki katılım seçimlerine göre otomatik olarak atanan bu kişiler katılabilir, gönderileri gizleyebilir veya gösterebilir ve kanal ayarlarını yönetebilir."
+  },
+  "manager": "Yönetici",
+  "admin": "Yönetici",
+  "viewProfile": "Profili görüntüle",
+  "alerts": {
+    "error": "Kanal kaydedilirken hata oluştu",
+    "success": "Kanal başarıyla kaydedildi",
+    "label": "Biçim uyarısı"
+  },
+  "validations": {
+    "minChannelGroups": "Özel kanallar en az bir katılımcı grubu gerektirir."
+  },
+  "notices": {
+    "edit": "Düzenlemeler bu kanalın kullanıldığı her yeri etkileyecektir",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal oluşturulmadı",
+          "message": "Bu erişim seçimlerini içeren bir kanal zaten var. Mevcut kanalı kullanın veya seçimleri değiştirin."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal güncellenmedi",
+          "message": "Bu erişim seçimlerini içeren bir kanal zaten mevcut olduğundan bu güncellemeleri kaydedemiyoruz."
+        }
+      },
+      "action": "Mevcut kanalı kullan"
+    },
+    "inaccessibleGroups": {
+      "title": "Kullanılamayan gruplar: {count}",
+      "message": "Üye olmadığınız sürece kullanılamayan grupları görüntüleyemez veya yönetemezsiniz."
+    }
+  }
+}

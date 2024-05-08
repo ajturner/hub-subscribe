@@ -1,0 +1,14 @@
+{
+  "buttonDownload": "Baixa",
+  "buttonOptions": "Opcions de baixada",
+  "menuRequest": "Genera una baixada nova amb les dades més recents",
+  "menuDownload": "Baixa el fitxer generat prèviament el dia {createdDate}",
+  "fileCreated": "S'ha creat el fitxer",
+  "fileSize": "Mida del fitxer",
+  "bytes": "B",
+  "kb": "KB",
+  "mb": "MB",
+  "gb": "GB",
+  "tb": "TB",
+  "n/a": "N/A"
+}

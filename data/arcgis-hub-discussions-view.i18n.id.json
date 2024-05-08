@@ -1,0 +1,17 @@
+{
+  "summary": "Ringkasan",
+  "description": "Keterangan",
+  "details": "Detail",
+  "metrics": "Metrik",
+  "metricsDisclaimer": "Hanya menampilkan 30 hari terakhir",
+  "titleOpen": "Diskusi Terbuka",
+  "statusOpen": "Terbuka untuk partisipasi",
+  "titleClosed": "Diskusi Tertutup",
+  "statusClosed": "Tertutup untuk partisipasi",
+  "tags": "Label",
+  "categories": "Kategori",
+  "metric.pageViews": "Tampilan Halaman",
+  "metric.postCount": "Jumlah Posting",
+  "discussion": "Diskusi",
+  "discussionBoard": "Forum Diskusi"
+}

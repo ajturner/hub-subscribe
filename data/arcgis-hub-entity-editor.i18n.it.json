@@ -1,0 +1,494 @@
+{
+  "success": "Modifiche salvate correttamente",
+  "error": "Errore durante il salvataggio delle modifiche",
+  "create": "Crea",
+  "shared": {
+    "fields": {
+      "location": {
+        "none": "Nessuna posizione",
+        "org": "Estensione dell’organizzazione",
+        "custom": "Posizione personalizzata",
+        "customDescription": "Disegna una o più posizioni",
+        "itemExtent": "Estensione corrente dell'elemento"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipo",
+          "sharing": "Condivisione"
+        },
+        "catalog": {
+          "myContent": "I miei contenuti",
+          "favorites": "Preferiti",
+          "organization": "Organizzazione",
+          "world": "Mondo (pubblico)"
+        },
+        "collection": {
+          "appsAndMaps": "App e mappe",
+          "dataset": "Dati",
+          "documents": "Documenti",
+          "feedback": "Commenti e suggerimenti",
+          "sites": "Siti"
+        }
+      }
+    }
+  },
+  "project": {
+    "sections": {
+      "details": {
+        "label": "Dettagli"
+      },
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "location": {
+        "label": "Posizione",
+        "helperText": "Mostra l'area geografica in cui si svolgerà il progetto (per apparire sul layout del progetto)."
+      },
+      "status": {
+        "label": "Stato"
+      },
+      "sharing": {
+        "label": "Condivisione"
+      },
+      "timeline": {
+        "label": "Sequenza temporale"
+      },
+      "searchDiscoverability": {
+        "label": "Ricerca e individuabilità"
+      },
+      "featuredContent": {
+        "label": "Contenuto in primo piano",
+        "helperText": "Evidenzia documenti, applicazioni e dati specifici relativi al tuo progetto. Puoi mostrare fino a 4 elementi."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nome progetto",
+        "requiredError": "Il nome del progetto è un campo obbligatorio"
+      },
+      "description": {
+        "label": "Descrizione",
+        "helperText": "Specifica in che modo il tuo progetto raggiungerà i propri obiettivi. Considera la possibilità di includere informazioni di base rilevanti e i cambiamenti previsti come risultato del progetto."
+      },
+      "summary": {
+        "label": "Scopo",
+        "helperText": "Riassumi brevemente gli obiettivi del tuo progetto."
+      },
+      "access": {
+        "itemType": "Progetto"
+      },
+      "groups": {
+        "label": "Condividere con...",
+        "viewGroup": "(Visualizza gruppo)",
+        "editGroup": "(Modifica gruppo)"
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Imposta un thumbnail per rappresentare questo progetto in ArcGIS Online, nonché nella ricerca e nelle gallerie.",
+        "sizeDescription": "Dimensioni raccomandate: 760 x 505 o superiore"
+      },
+      "featuredImage": {
+        "label": "Immagine in primo piano",
+        "helperText": "Seleziona un'immagine per rappresentare il tuo lavoro sul layout del progetto.",
+        "sizeDescription": "La dimensione massima del file è 10mb. Dimensioni raccomandate: 718 x 478 o superiore",
+        "altText": {
+          "label": "Testo alternativo",
+          "helperText": "Fornisci una breve descrizione della tua immagine per coloro che utilizzano i dispositivi di lettura dello schermo. Lascia vuoto per indicare che l'immagine è decorativa."
+        }
+      },
+      "tags": {
+        "label": "Tag",
+        "helperText": "I tag vengono utilizzati nei cataloghi di ricerca per aiutare gli altri a trovare questo progetto. Aggiungi testo e seleziona invio per creare nuovi tag."
+      },
+      "categories": {
+        "label": "Categorie",
+        "helperText": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questo progetto. Vengono impostate dalla tua organizzazione ArcGIS Online."
+      },
+      "status": {
+        "label": "Stato progetto",
+        "enum": {
+          "notStarted": {
+            "label": "Non avviato"
+          },
+          "inProgress": {
+            "label": "In corso"
+          },
+          "onHold": {
+            "label": "In sospeso"
+          },
+          "complete": {
+            "label": "Completo"
+          }
+        }
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipo",
+          "sharing": "Condivisione"
+        }
+      }
+    }
+  },
+  "initiative": {
+    "sections": {
+      "details": {
+        "label": "Dettagli"
+      },
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "location": {
+        "label": "Posizione",
+        "helperText": "Mostra l'area geografica in cui si svolgerà l'iniziativa (per apparire sul layout dell'iniziativa)."
+      },
+      "sharing": {
+        "label": "Condivisione"
+      },
+      "featuredContent": {
+        "label": "Contenuto in evidenza",
+        "helperText": "Evidenzia documenti, app e dati specifici correlati al tuo progetto. Puoi mostrare fino a 4 elementi."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nome iniziativa",
+        "requiredError": "Nome iniziativa è un campo richiesto"
+      },
+      "summary": {
+        "label": "Scopo",
+        "helperText": "Riepiloga brevemente gli obiettivi di questa iniziativa."
+      },
+      "access": {
+        "itemType": "Iniziativa"
+      },
+      "description": {
+        "label": "Descrizione",
+        "helperText": "Fornisci più contesto che potrebbe risultare utile quando si effettua la ricerca per questa iniziativa."
+      },
+      "tags": {
+        "label": "Tag",
+        "helperText": "I tag sono utilizzati nei cataloghi di ricerca per aiutare gli altri a trovare questa iniziativa. Aggiungi testo e seleziona invio per creare nuovi tag."
+      },
+      "categories": {
+        "label": "Categorie",
+        "helperText": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questa iniziativa. Vengono impostate dalla tua organizzazione ArcGIS Online."
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Imposta un thumbnail per rappresentare questa iniziativa in ArcGIS Online, nonché nella ricerca e nelle gallerie."
+      },
+      "groups": {
+        "label": "Condividere con...",
+        "viewGroup": "(Visualizza gruppo)",
+        "editGroup": "(Modifica gruppo)"
+      },
+      "featuredContent": {
+        "facets": {
+          "type": "Tipo",
+          "sharing": "Condivisione"
+        }
+      }
+    }
+  },
+  "discussion": {
+    "sections": {
+      "details": {
+        "label": "Dettagli"
+      },
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "location": {
+        "label": "Posizione"
+      },
+      "settings": {
+        "label": "Impostazioni discussione"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Titolo",
+        "requiredError": "È richiesto un nome per il pannello di discussione."
+      },
+      "prompt": {
+        "label": "Prompt",
+        "helperText": "Descrivi brevemente cosa desideri che i partecipanti inviino su questo pannello di discussione.",
+        "requiredError": "Prompt è un campo obbligatorio"
+      },
+      "description": {
+        "label": "Descrizione",
+        "helperText": "Fornisci più contesto che potrebbe risultare utile quando si effettua la ricerca per questo pannello."
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Seleziona un'immagine per rappresentare la tua discussione."
+      },
+      "summary": {
+        "label": "Scopo",
+        "helperText": "Descrivi brevemente lo scopo del Pannello di discussione in modo che sia utile quando si condivide il link con gli altri."
+      },
+      "featuredImage": {
+        "label": "Immagine in primo piano",
+        "sizeDescription": "La dimensione massima è di 10 mb, JPEG, JPG o PNG",
+        "altText": {
+          "label": "Testo alternativo",
+          "helperText": "Fornisci una breve descrizione della tua immagine per coloro che utilizzano i dispositivi di lettura dello schermo. Lascia vuoto per indicare che l'immagine è decorativa."
+        },
+        "name": {
+          "label": "Nome immagine"
+        }
+      },
+      "tags": {
+        "label": "Tag"
+      },
+      "categories": {
+        "label": "Categorie"
+      },
+      "discussable": {
+        "label": "La discussione è consentita?",
+        "enabled": {
+          "label": "Sì, la discussione è consentita",
+          "description": "I partecipanti possono aggiungere post, risposte e reazioni al pannello di discussione"
+        },
+        "disabled": {
+          "label": "No, la discussione è bloccata",
+          "description": "Rimuovere la possibilità di aggiungere nuovi post, risposte e reazioni. Non elimina la partecipazione precedente."
+        }
+      }
+    }
+  },
+  "site": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "location": {
+        "label": "Posizione",
+        "helperText": "Mostrare l'area geografica di pertinenza di questo sito."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nome sito",
+        "requiredError": "Il campo Nome sito è obbligatorio"
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Imposta un thumbnail per rappresentare questo sito in ArcGIS Online, nonché nella ricerca e nelle gallerie."
+      },
+      "description": {
+        "label": "Descrizione",
+        "helperText": "La descrizione del sito."
+      },
+      "summary": {
+        "label": "Riepilogo",
+        "helperText": "Riassumere brevemente il sito."
+      },
+      "tags": {
+        "label": "Tag",
+        "helperText": "I tag vengono utilizzati nei cataloghi di ricerca per aiutare gli altri a trovare questo sito. Aggiungi testo e seleziona invio per creare nuovi tag."
+      },
+      "categories": {
+        "label": "Categorie",
+        "helperText": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questo sito. Vengono impostate dalla tua organizzazione ArcGIS Online."
+      },
+      "followers": {
+        "groupAccess": {
+          "label": "Imposta visibilità",
+          "helperText": "Controlla chi può visualizzare i pulsanti Segui. Queste impostazioni si applicano sia al pulsante Segui dell'azione nella pagina che all'eventuale pulsante Segui incorporato direttamente nel layout.",
+          "private": {
+            "label": "Privato",
+            "description": "Il proprietario del sito e i gruppi con accesso possono visualizzare i pulsanti Segui"
+          },
+          "org": {
+            "label": "Organizzazione",
+            "description": "Tutti i membri con account per l'organizzazione del sito e i gruppi con accesso possono visualizzare i pulsanti Segui"
+          },
+          "public": {
+            "label": "Pubblico",
+            "description": "Tutti possono visualizzare il pulsante Segui"
+          }
+        },
+        "showFollowAction": {
+          "label": "Azione Segui",
+          "helperText": "Aggiungi al menu di azioni interno alla pagina un pulsante Segui che resta visibile quando gli utenti scorrono il layout."
+        }
+      }
+    }
+  },
+  "page": {
+    "sections": {
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "location": {
+        "label": "Posizione",
+        "helperText": "Mostrare l'area geografica di pertinenza di questa pagina."
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nome pagina",
+        "requiredError": "Il campo nome pagina è obbligatorio"
+      },
+      "description": {
+        "label": "Descrizione",
+        "helperText": "La descrizione della pagina."
+      },
+      "summary": {
+        "label": "Riepilogo",
+        "helperText": "Riassumere brevemente la pagina."
+      },
+      "tags": {
+        "label": "Tag",
+        "helperText": "I tag vengono utilizzati nei cataloghi di ricerca per aiutare gli altri a trovare questa pagina. Aggiungi testo e seleziona invio per creare nuovi tag."
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Imposta un thumbnail per rappresentare questa Pagina in ArcGIS Online, nonché nella ricerca e nelle gallerie."
+      },
+      "categories": {
+        "label": "Categorie",
+        "helperText": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questa pagina. Vengono impostate dalla tua organizzazione ArcGIS Online."
+      }
+    }
+  },
+  "content": {
+    "fields": {
+      "title": {
+        "label": "Titolo",
+        "hint": "Titoli concisi aumenteranno la facilità di individuazione del tuo contenuto.",
+        "requiredError": "Il titolo è un campo obbligatorio"
+      },
+      "summary": {
+        "label": "Riepilogo",
+        "hint": "Riassumi brevemente il tuo contenuto. SUGGERIMENTO: Migliora la SEO utilizzando parole chiave diverse dal tuo \"Titolo\" o \"Tag\"."
+      },
+      "description": {
+        "label": "Descrizione",
+        "hint": "Aggiungi ulteriori dettagli che spieghino i tuoi contenuti. Puntare a un livello di lettura di 7°-9° grado per raggiungere un pubblico più ampio. <a href='https://www.webfx.com/tools/read-able/' target='_blank'>Utilizzare uno strumento di analisi della leggibilità gratuito per testare il testo</a>."
+      },
+      "tags": {
+        "label": "Tag",
+        "hint": "I tag vengono utilizzati nei cataloghi di ricerca per aiutare gli altri a trovare questo contenuto. Aggiungi testo e seleziona invio per creare nuovi tag."
+      },
+      "categories": {
+        "label": "Categorie",
+        "agolHint": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questo contenuto. Vengono impostate dalla tua organizzazione ArcGIS Online.",
+        "enterpriseHint": "Le categorie sono utilizzate nei cataloghi di ricerca per aiutare gli altri a trovare questo contenuto. Sono impostate dalla tua organizzazione ArcGIS Enterprise.",
+        "agolNoCategoryHint": "Suggerimento: le categorie sono disponibili se vengono impostate dalla tua organizzazione nell'organizzazione ArcGIS Online.",
+        "enterpriseNoCategoryHint": "Suggerimento: le categorie sono disponibili solo se vengono impostate dalla tua organizzazione nell'organizzazione ArcGIS Enterprise."
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Imposta un thumbnail per rappresentare questo elemento in ArcGIS Online, nonché nella ricerca e nelle gallerie."
+      },
+      "license": {
+        "label": "Condizioni d'uso",
+        "helperText": "Minori restrizioni favoriscono il riutilizzo."
+      },
+      "serverExtractCapability": {
+        "label": "Estrai funzionalità (esporta dati)",
+        "helperText": "Abilita la funzionalità \"estrai\" nel servizio di questo elemento. L'estrazione supporta i formati aggiuntivi."
+      },
+      "hostedDownloads": {
+        "label": "(Beta) Download in hosting",
+        "helperText": "Crea file di download direttamente in un servizio hosted. Questo migliora le prestazioni durante il download di contenuti quali i Feature Layer e le Tabelle. Per abilitare i download hosted, Estrazione Funzionalità deve essere abilitato."
+      }
+    },
+    "sections": {
+      "basic": {
+        "title": "Informazioni di base",
+        "message": "Queste informazioni vengono utilizzate per popolare i risultati di ricerca e le schede della galleria, e vengono visualizzate nella visualizzazione dettagli."
+      },
+      "about": {
+        "title": "Informazioni sul contenuto",
+        "message": "Le prime due righe della descrizione sono quelle visualizzate nei risultati di ricerca, ma l'intera descrizione viene mostrata in viste di contenuti mirate."
+      },
+      "image": {
+        "title": "Immagine in primo piano",
+        "message": "Avere una buona immagine o miniatura in primo piano è importante quando si mostrano i contenuti nelle nostre gallerie o nelle visualizzazioni che evidenziano immagini come iniziative, eventi e rilevamenti. La dimensione consigliata è 760x505. Se l'immagine appare sfocata sui percorsi in tempo reale, valutare la possibilità di sostituire la miniatura con un'immagine più grande."
+      },
+      "location": {
+        "label": "Posizione",
+        "helperText": "Mostra l'area geografica in cui si svolgerà il contenuto (per apparire sul layout del contenuto)."
+      },
+      "downloads": {
+        "label": "Download",
+        "helperText": "Configurare i formati di download, la pianificazione dell'aggiornamento file in cache e altro. Per maggiori dettagli consultare <calcite-link href=\"https://doc.arcgis.com/en/hub/content/data-download-settings.htm\" target=\"_blank\" icon-end=\"launch\">la documentazione di download.</calcite-link>"
+      }
+    },
+    "stringField": {
+      "charCounter": "{count} caratteri restanti"
+    },
+    "imageThumbnail": {
+      "label": "Immagine di anteprima",
+      "upload": "Carica immagine",
+      "done": "Completato",
+      "editThumbnail": "Modifica anteprima",
+      "browse": "Cerca immagine",
+      "remove": "Rimuovi immagine",
+      "edit": "Modifica immagine",
+      "defaultHeading": "Aggiungere immagine di anteprima",
+      "dropHeading": "Rilascia per caricare",
+      "errorHeading": "Prova un’immagine diversa",
+      "subheading": "La dimensione massima è {size}, {types}",
+      "zoomOut": "Zoom indietro",
+      "zoomIn": "Zoom avanti",
+      "drag": "Trascina per riposizionare",
+      "urlPlaceholder": "Tipi supportati: {types}",
+      "browseForImage": "Cercare immagine",
+      "aria": {
+        "container": "Area immagine",
+        "crop": "Area da ritagliare",
+        "handle": {
+          "top": "Ridimensionare la parte superiore",
+          "right": "Ridimensionare la parte destra",
+          "left": "Ridimensionare la parte sinistra",
+          "bottom": "Ridimensionare la parte inferiore"
+        }
+      }
+    }
+  },
+  "group": {
+    "sections": {
+      "details": {
+        "label": "Dettagli"
+      },
+      "basicInfo": {
+        "label": "Informazioni di base"
+      },
+      "membershipAccess": {
+        "label": "Accesso ai membri"
+      }
+    },
+    "fields": {
+      "name": {
+        "label": "Nome gruppo",
+        "requiredError": "Nome gruppo è un campo obbligatorio"
+      },
+      "summary": {
+        "label": "Riepilogo"
+      },
+      "access": {
+        "itemType": "Gruppo"
+      },
+      "_thumbnail": {
+        "label": "Anteprima",
+        "helperText": "Seleziona un'immagine per rappresentare il tuo gruppo nel profilo del gruppo.",
+        "sizeDescription": "Dimensione massima 10mb. Dimensione consigliata: 400 x 400 o più grande"
+      },
+      "membershipAccess": {
+        "label": "Chi può fare parte di questo gruppo?",
+        "org": "Solo i membri della mia organizzazione",
+        "collab": "Collaborazione associata e solo i membri della mia organizzazione",
+        "any": "I membri di qualsiasi organizzazione"
+      },
+      "contributeContent": {
+        "label": "Chi può contribuire al contenuto?",
+        "all": "Tutti i membri del gruppo",
+        "admins": "Proprietari e manager del gruppo"
+      }
+    }
+  }
+}

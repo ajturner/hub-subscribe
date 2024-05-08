@@ -1,0 +1,11 @@
+{
+  "csv": "CSV",
+  "shapefile": "Shapefile",
+  "sqlite": "SQLite 地理資料庫",
+  "geoPackage": "GeoPackage",
+  "filegdb": "檔案地理資料庫",
+  "featureCollection": "圖徵採集",
+  "geojson": "GeoJSON",
+  "excel": "Excel",
+  "download": "下載"
+}

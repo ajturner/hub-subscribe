@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Фильтр местоположений",
+  "panel.reset": "Сбросить фильтр",
+  "distance.title": "Расстояние",
+  "distance.placeholder": "Введите число...",
+  "distance.message": "Введите число, чтобы расширить отфильтрованную область.",
+  "system.imperial": "Британские",
+  "system.metric": "Метрические",
+  "units.title": "Единицы измерения",
+  "units.feet": "Футы",
+  "units.miles": "Мили",
+  "units.nauticalmiles": "Морские мили",
+  "units.meters": "Метры",
+  "units.kilometers": "Километры"
+}

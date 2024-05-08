@@ -1,0 +1,46 @@
+{
+  "followers": "Followers",
+  "tabs": {
+    "followers": "Followers",
+    "settings": "Settings"
+  },
+  "addFollowers": {
+    "label": "Add followers"
+  },
+  "emptyState": {
+    "message": "You don't currently have a followers group."
+  },
+  "restrictedAccessState": {
+    "message": "You do not have access."
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Followers"
+    },
+    "new": {
+      "title": "New",
+      "trailingText": "Last 30 days"
+    }
+  },
+  "addMembers": {
+    "button": "Add members",
+    "modal": {
+      "title": "Add members",
+      "org": "My organization",
+      "community": "My community",
+      "partner": "My partners",
+      "world": "World"
+    },
+    "notifications": {
+      "invited": "Invite sent. Users must accept to join",
+      "added": "User(s) added",
+      "notInvited": "Some users may not have the privileges needed to join the group or may be at a group maximum limit (512)"
+    }
+  },
+  "removeUsers": {
+    "button": "Remove",
+    "success": "Members successfully removed from {groupName}.",
+    "error": "One or more users could not be removed from the group."
+  }
+}

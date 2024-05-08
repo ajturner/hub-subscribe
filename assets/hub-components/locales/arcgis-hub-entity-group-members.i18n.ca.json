@@ -1,0 +1,24 @@
+{
+  "title": "Membres",
+  "facets": {
+    "role": {
+      "label": "Rol",
+      "all": "Tots",
+      "manager": "Administrador",
+      "member": "Membre"
+    },
+    "dateJoined": {
+      "label": "Data d'incorporació"
+    }
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Membres de l'equip"
+    },
+    "new": {
+      "title": "Nou",
+      "trailingText": "Darrers 30 dies"
+    }
+  }
+}

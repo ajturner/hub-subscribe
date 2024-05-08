@@ -1,0 +1,9 @@
+{
+  "heading": "רמת שיתוף",
+  "public": "ציבורי",
+  "publicInfo": "כל אחד יכול לראות את {itemType} זה/זו",
+  "organization": "ארגון",
+  "organizationInfo": "כל החברים בעלי חשבון ל-{orgName} וקבוצות כולים לראות {itemType} זה/זו",
+  "owner": "בעלים",
+  "ownerInfo": "בעלים וקבוצות עם גישה יכולים לראות {itemType} זה/זו"
+}

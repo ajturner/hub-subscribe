@@ -1,0 +1,15 @@
+{
+  "new": "Mới",
+  "project": {
+    "title": "Dự án Mới",
+    "description": "Đánh dấu công việc có mục tiêu và khung thời gian rõ ràng"
+  },
+  "initiative": {
+    "title": "Sáng kiến Mới",
+    "description": "Đánh dấu công việc có mục tiêu và khung thời gian rõ ràng"
+  },
+  "discussion": {
+    "title": "Bảng Thảo luận Mới",
+    "description": "Tạo bảng thảo luận mới bằng cách nhập tiêu đề cho biết chủ đề."
+  }
+}

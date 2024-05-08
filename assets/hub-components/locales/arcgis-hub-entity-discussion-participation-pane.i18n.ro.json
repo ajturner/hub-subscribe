@@ -1,0 +1,21 @@
+{
+  "title": "Participare",
+  "channelTitle": "Canal de participare",
+  "addChannelsTitle": "Este necesar un canal pentru acest element; poate fi setat doar unul.",
+  "headingChannelEdit": "Editare canal",
+  "headingChannelView": "Vizualizare canal",
+  "headingChannelCreate": "Creare canal nou",
+  "buttons": {
+    "browse": "Răsfoiți toate canalele",
+    "new": "Canal nou"
+  },
+  "galleryPickerTitle": "Selectați un canal",
+  "channelsLabel": "Canale",
+  "accessLabel": "Acces",
+  "optionPublicLabel": "Public",
+  "optionOrganizationLabel": "Organizaţie",
+  "optionPrivateLabel": "Privat",
+  "viewChannel": "Vizualizare canal",
+  "editChannel": "Editare canal",
+  "save": "Salvare"
+}

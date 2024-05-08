@@ -1,0 +1,18 @@
+{
+  "purpose": "Svrha",
+  "description": "Kako ćemo ju ostvariti",
+  "details": "Pojedinosti",
+  "featuredImageAlt": "Istaknuta slika projekta",
+  "trackProgress": "Pratite naš napredak",
+  "participatingGroups": "Grupe koje sudjeluju",
+  "whosInvolved": "Tko je uključen",
+  "tags": "Oznake",
+  "status": {
+    "label": "Status projekta",
+    "notStarted": "Nije započeto",
+    "inProgress": "U tijeku",
+    "onHold": "Na čekanju",
+    "complete": "Završeno"
+  },
+  "featuredContent": "Istaknuti sadržaj"
+}

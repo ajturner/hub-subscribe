@@ -1,0 +1,14 @@
+{
+  "addPost": "Add a Post",
+  "createPost": "Create a Post",
+  "emptyHeading": "Start a discussion",
+  "emptyMessage": "Be the first to bring up a topic. It's easy to ask a question or share what you know with others about a piece of content.",
+  "searchIdeas": "Search posts",
+  "searchCount": "{start} - {end} of {total}",
+  "orderAsc": "Ascending",
+  "orderDesc": "Descending",
+  "sortRecent": "Recent",
+  "sortCreator": "Creator",
+  "layoutGrid": "Grid",
+  "layoutList": "List"
+}

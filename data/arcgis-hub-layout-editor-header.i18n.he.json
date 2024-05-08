@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "משותף עם ארגון",
+      "private": "משותף עם בעלים",
+      "public": "משותף עם הציבור",
+      "shared": "משותף עם בעלים וקבוצות"
+    },
+    "editLayout": "ערוך פריסה",
+    "lastUpdated": "עדכון אחרון {updated}",
+    "viewSite": "הצג אתר"
+  },
+  "cloneLayoutLabel": "שכפל פריסה",
+  "deletePageLabel": "מחק דף",
+  "deleteSiteLabel": "מחק אתר",
+  "editInAgoLabel": "ערוך ב-ArcGIS Online",
+  "managePage": "נהל דף",
+  "manageSite": "נהל אתר",
+  "moreOptionsLabel": "אפשרויות נוספות",
+  "publishLabel": "פרסם",
+  "saveAsTemplateLabel": "שמור כתבנית",
+  "saveLabel": "שמור",
+  "sharingLabel": "פתח את לוח השיתוף",
+  "viewLabel": "הצג",
+  "viewPublishedLabel": "הצג טיוטה שפורסמה",
+  "viewUnpublishedLabel": "הצג תצוגה מקדימה של טיוטה שלא פורסמה"
+}

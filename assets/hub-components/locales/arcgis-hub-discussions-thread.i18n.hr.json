@@ -1,0 +1,10 @@
+{
+  "error": "Nešto je pošlo po zlu",
+  "repliesFailure": "Ne mogu se prikazati odgovori na ovu objavu.",
+  "thread.deleted.title": "Tema je izbrisana",
+  "thread.deleted.message": "Poveznicom dijeljena objava i odgovor su izbrisani i ne mogu se prikazivati.",
+  "thread.deleted.action": "Prikaži sve objave",
+  "reply.single.title": "Gledate pojedinačan odgovor",
+  "reply.single.link": "Prikaži sve odgovore",
+  "loading": "Učitavanje u tijeku"
+}

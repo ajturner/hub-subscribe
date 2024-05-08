@@ -1,0 +1,15 @@
+{
+  "panes": {
+    "dashboard": "Gösterge Paneli",
+    "details": "Ayrıntılar",
+    "overview": "Genel Bakış",
+    "metrics": "Metrikler",
+    "settings": "Ayarlar",
+    "collaborators": "İş birliği yapanlar",
+    "discussion": "Tartışma",
+    "content": "İçerik",
+    "members": "Üyeler",
+    "participation": "Katılım",
+    "followers": "Takipçiler"
+  }
+}

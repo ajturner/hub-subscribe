@@ -1,0 +1,28 @@
+{
+  "newTab": "새 탭에서 프로필 열기",
+  "noGroups": "그룹 없음",
+  "pickerToggle": "그룹 추가",
+  "pickerTitle": "그룹 선택",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "구성원 없음",
+      "oneMember": "구성원 1명",
+      "members": "구성원 {count}명"
+    },
+    "dateCreated": "생성일: {localizedDate}",
+    "sharing": "공유: {sharingLevel}",
+    "sharingLevels": {
+      "private": "본인",
+      "shared": "소유자 및 그룹",
+      "org": "기관",
+      "public": "공개"
+    },
+    "membership": "멤버십: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "그룹 소유자",
+      "admin": "그룹 관리자",
+      "member": "그룹 구성원",
+      "none": "없음"
+    }
+  }
+}

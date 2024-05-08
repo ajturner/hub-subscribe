@@ -1,0 +1,7 @@
+{
+  "days": "ngày",
+  "hours": "giờ",
+  "minutes": "phút",
+  "seconds": "các giây",
+  "countdownDateMissingError": "Bạn phải cung cấp ngày đếm ngược"
+}

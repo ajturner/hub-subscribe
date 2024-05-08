@@ -1,0 +1,18 @@
+{
+  "purpose": "الغرض",
+  "description": "كيف سنصل الى هناك",
+  "details": "التفاصيل",
+  "featuredImageAlt": "الصورة المميزة للمشروع",
+  "trackProgress": "تتبع تقدمنا",
+  "participatingGroups": "المجموعات المشاركة",
+  "whosInvolved": "المشاركون",
+  "tags": "العلامات",
+  "status": {
+    "label": "حالة المشروع",
+    "notStarted": "لم يتم البدء",
+    "inProgress": "قيد التقدم",
+    "onHold": "متوقف مؤقتًا",
+    "complete": "اكتمل"
+  },
+  "featuredContent": "محتوى مميز"
+}

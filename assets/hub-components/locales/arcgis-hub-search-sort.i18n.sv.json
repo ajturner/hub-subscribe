@@ -1,0 +1,14 @@
+{
+  "title": "Titel",
+  "created": "Skapad den",
+  "modified": "Datum uppdaterat",
+  "updated": "Datum uppdaterat",
+  "asc": "stigande",
+  "desc": "fallande",
+  "relevance": "Relevans",
+  "change-sort-order": "Ändra sorteringsordning",
+  "sort-by": "Sortera efter ",
+  "joined": "Anslutningsdatum",
+  "username": "Användarnamn",
+  "membertype": "Roll"
+}

@@ -1,0 +1,26 @@
+{
+  "followers": "Obserwujący",
+  "tabs": {
+    "followers": "Obserwujący",
+    "settings": "Ustawienia"
+  },
+  "addFollowers": {
+    "label": "Dodaj obserwujących"
+  },
+  "emptyState": {
+    "message": "Nie masz obecnie grupy obserwujących."
+  },
+  "restrictedAccessState": {
+    "message": "Nie masz dostępu."
+  },
+  "stats": {
+    "total": {
+      "title": "Razem",
+      "trailingText": "Obserwujący"
+    },
+    "new": {
+      "title": "Nowe",
+      "trailingText": "Ostatnie 30 dni"
+    }
+  }
+}

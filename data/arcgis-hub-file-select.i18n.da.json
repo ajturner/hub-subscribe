@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Træk og slip filen for at overføre",
+  "imageHeading": "Overfør billede",
+  "selectedHeading": "Fil valgt",
+  "maxSizeAndSupportedTypes": "Maks. størrelse er {maxSize}MB, {fileTypes}",
+  "maxSize": "Maks. størrelse er {maxSize}MB",
+  "recommendedDimensions": "Anbefalede dimensioner {recommendedDimensions}",
+  "linkText": "Vis liste med understøttede filer",
+  "contentButton": "Gennemse for at finde fil",
+  "imageButton": "Gennemse for at finde billede",
+  "clearButton": "Ryd valgte",
+  "errorHeading": "Fejl",
+  "fileTooLargeError": "Filen er for stor",
+  "multipleFilesError": "Kan ikke overføre flere filer på samme tid",
+  "unsupportedFileTypeError": "Denne filtype understøttes ikke."
+}

@@ -1,0 +1,8 @@
+{
+  "header": "토론 옵션",
+  "secondary": "취소",
+  "primary": "변경 사항 저장",
+  "pending": "저장 중",
+  "error.title": "오류가 발생했습니다.",
+  "error.message": "변경 사항을 저장하려면 다시 시도하세요."
+}

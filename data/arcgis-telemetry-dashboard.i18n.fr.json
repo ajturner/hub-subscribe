@@ -1,0 +1,31 @@
+{
+  "dateRange": "Plage de dates : {start} -‏ {end}",
+  "pageViews": "Vues des pages",
+  "timeOnSite": "Temps moyen (en minutes) passé sur le site",
+  "users": "Sessions",
+  "viewsOverTime": "Vues des pages au fil du temps",
+  "disabledTracking": "Le suivi des activités est désactivé",
+  "enableTracking": "Activez le suivi des activités Hub dans les paramètres du site pour surveiller son utilisation.",
+  "learnMore": "En savoir plus.",
+  "disabled": "Désactivé",
+  "notificationLabel": "Données mises à jour",
+  "dataUpdated": "Données mises à jour",
+  "subscribe": "S’abonner",
+  "subscribed": "Abonné",
+  "weeklyReport": "Rapport hebdomadaire",
+  "timestampTitle": {
+    "hour": "Heure du jour",
+    "day": "Date",
+    "week": "Semaine"
+  },
+  "formAlert": "Alerte de formulaire",
+  "success": "L’abonnement a été mis à jour",
+  "subscriptionActivatedTitle": "Abonnement activé",
+  "subscriptionActivatedMessage": "{email} est inscrit pour recevoir les métriques hebdomadaires de participation.",
+  "unsubscribeCompleteTitle": "Désabonnement effectué",
+  "unsubscribeCompleteMessage": "{email} a été désabonné des métriques de participation.",
+  "problemSubscribingTitle": "Problème lors de l’abonnement",
+  "problemSubscribingMessage": "Un problème est survenu lors de l’abonnement. Erreur : ",
+  "problemUnsubscribingTitle": "Problème lors du désabonnement",
+  "problemUnsubscribingMessage": "Un problème est survenu lors du désabonnement. Erreur : "
+}

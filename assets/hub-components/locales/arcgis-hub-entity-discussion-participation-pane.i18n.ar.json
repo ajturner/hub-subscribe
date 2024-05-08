@@ -1,0 +1,21 @@
+{
+  "title": "المشاركة",
+  "channelTitle": "قناة المشاركة",
+  "addChannelsTitle": "يتطلب هذا العنصر وجود قناة؛ يمكن تعيين واحدة فقط.",
+  "headingChannelEdit": "تحرير القناة",
+  "headingChannelView": "عرض القناة",
+  "headingChannelCreate": "قناة إنشاء جديدة",
+  "buttons": {
+    "browse": "استعراض كل القنوات",
+    "new": "قناة جديدة"
+  },
+  "galleryPickerTitle": "تحديد قناة",
+  "channelsLabel": "القنوات",
+  "accessLabel": "وصول",
+  "optionPublicLabel": "عام",
+  "optionOrganizationLabel": "المؤسسة",
+  "optionPrivateLabel": "خاص",
+  "viewChannel": "عرض القناة",
+  "editChannel": "تحرير القناة",
+  "save": "حفظ"
+}

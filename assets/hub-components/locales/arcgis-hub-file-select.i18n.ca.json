@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Arrossegueu el fitxer i deixeu-lo anar per pujar-lo",
+  "imageHeading": "Puja una imatge",
+  "selectedHeading": "Fitxer seleccionat",
+  "maxSizeAndSupportedTypes": "La mida màxima és de {maxSize} MB, {fileTypes}",
+  "maxSize": "La mida màxima és de {maxSize} MB",
+  "recommendedDimensions": "Dimensions recomanades: {recommendedDimensions}",
+  "linkText": "Mostra la llista de fitxers admesos",
+  "contentButton": "Cerca un fitxer",
+  "imageButton": "Cerca una imatge",
+  "clearButton": "Esborra la selecció",
+  "errorHeading": "Error",
+  "fileTooLargeError": "El fitxer és massa gran",
+  "multipleFilesError": "No es poden pujar diversos fitxers alhora",
+  "unsupportedFileTypeError": "Aquest tipus de fitxer no és compatible"
+}

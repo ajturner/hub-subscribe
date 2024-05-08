@@ -1,0 +1,52 @@
+{
+  "collaborators": "Người hợp tác",
+  "editGroupButtonText": "Thêm các nhóm chỉnh sửa",
+  "viewGroupButtonText": "Thêm các nhóm xem",
+  "groupPicker": {
+    "title": "Chọn nhóm",
+    "facet": {
+      "label": "Từ",
+      "editGroups": "Chỉnh sửa nhóm",
+      "viewGroups": "Xem nhóm",
+      "myGroup": "Nhóm của tôi",
+      "myOrganization": "Tổ chức của tôi",
+      "myCommunity": "Cộng đồng của tôi"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Thêm thành viên mới",
+    "message": "Để thêm thành viên, bạn có thể mời họ tham gia cộng đồng hoặc bạn có thể <orgOverviewLink>liên hệ với quản trị viên</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Nhóm có thể chỉnh sửa",
+  "viewGroupsTitle": "Nhóm có thể xem",
+  "project": {
+    "description": "Chọn nhóm người dùng có thể xem và chỉnh sửa dự án này.",
+    "editGroupsDescription": "Thành viên trong các nhóm này sẽ có thể chỉnh sửa thông tin dự án.",
+    "viewGroupsDescription": "Thành viên trong các nhóm này sẽ có thể tìm kiếm và xem dự án, nếu dự án này không được chia sẻ công khai.",
+    "errorMessage": "Đã xảy ra lỗi khi cập nhật người hợp tác trong dự án của bạn."
+  },
+  "content": {
+    "description": "Chọn nhóm người dùng có thể xem và chỉnh sửa nội dung này.",
+    "editGroupsDescription": "Thành viên trong các nhóm này sẽ có thể chỉnh sửa thông tin nội dung.",
+    "viewGroupsDescription": "Thành viên trong các nhóm này sẽ có thể tìm kiếm và xem nội dung, nếu nội dung này không được chia sẻ công khai.",
+    "errorMessage": "Đã xảy ra lỗi khi cập nhật người hợp tác nội dung của bạn."
+  },
+  "discussion": {
+    "description": "Chọn nhóm người dùng có thể xem và chỉnh sửa thảo luận này.",
+    "editGroupsDescription": "Thành viên trong các nhóm này sẽ có thể chỉnh sửa thông tin thảo luận.",
+    "viewGroupsDescription": "Thành viên trong các nhóm này sẽ có thể tìm kiếm và xem thảo luận, nếu thảo luận này không được chia sẻ công khai.",
+    "errorMessage": "Đã xảy ra lỗi khi cập nhật người hợp tác thảo luận của bạn."
+  },
+  "site": {
+    "description": "Chọn nhóm người dùng có thể xem và chỉnh sửa trang này.",
+    "editGroupsDescription": "Thành viên trong các nhóm này sẽ có thể chỉnh sửa thông tin trang.",
+    "viewGroupsDescription": "Thành viên trong các nhóm này sẽ có thể tìm kiếm và xem trang nếu trang này không được chia sẻ công khai.",
+    "errorMessage": "Đã xảy ra lỗi khi cập nhật người hợp tác trang của bạn."
+  },
+  "newTab": "mở hồ sơ trong tab mới",
+  "supportingTeams": "Nhóm hỗ trợ",
+  "supportingTeamsDesc": "Trước kia các nhóm hỗ trợ này đã được liên kết với trang của bạn. Bạn có thể tiếp tục sử dụng các nhóm này để chia sẻ nội dung với người hợp tác.",
+  "supportTeamsRemove": "Xóa nhóm",
+  "supportingTeamsRemoveError": "Lỗi khi bỏ liên kết nhóm. Liên hệ quản trị viên.",
+  "supportingTeamsRemoveSuccess": "Đã bỏ liên kết nhóm thành công."
+}

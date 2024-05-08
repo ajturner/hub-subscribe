@@ -1,0 +1,36 @@
+{
+  "edit": "Bewerken",
+  "delete": "Verwijderen",
+  "noneMessage": "Er is geen locatie ingesteld",
+  "entityTypes": {
+    "project": "Project",
+    "site": "Site",
+    "initiative": "Initiatief",
+    "discussion": "Discussie",
+    "content": "Content"
+  },
+  "emptyLocation": {
+    "title": "Er is geen locatie getekend",
+    "message": "{entityType} wordt niet in kaarten weergegeven tot een locatie is toegevoegd."
+  },
+  "populatedLocation": {
+    "title": "Wilt u nog een locatie toevoegen?",
+    "message": "Selecteer de tekentool opnieuw als u meer locaties wilt toevoegen (maximaal {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Het maximumaantal punten is bereikt ({currentCount}/{maxLocations})",
+    "message": "Als u meer locaties wilt toevoegen, moet u punten verwijderen of lijnen en gebieden zo bewerken dat de punten hiervoor worden verwijderd (klik met de rechtermuisknop)."
+  },
+  "maximumLocations": {
+    "title": "Het maximumaantal locaties is bereikt",
+    "message": "Als u meer locaties wilt toevoegen, moet u een of meer locaties verwijderen of alle locaties verwijderen en moet u daarna een meer algemeen gebied gebruiken."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Locatie toevoegen",
+    "clear": "Alles wissen",
+    "extent": "Rechthoek tekenen",
+    "point": "Punt neerzetten",
+    "polyline": "Lijn tekenen",
+    "polygon": "Gebied tekenen"
+  }
+}

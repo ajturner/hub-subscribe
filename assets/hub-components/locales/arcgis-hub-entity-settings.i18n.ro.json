@@ -1,0 +1,34 @@
+{
+  "settings": "Setări",
+  "delete": {
+    "project": "Ștergere proiect",
+    "initiative": "Ștergere inițiativă",
+    "site": "Ștergere site",
+    "discussion": "Ștergere discuție",
+    "content": "Ștergere conținut",
+    "page": "Ștergere pagină",
+    "group": "Ștergere grup"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Ștergere proiect",
+      "initiative": "Ștergere inițiativă",
+      "site": "Ștergere site",
+      "discussion": "Ștergere discuție",
+      "content": "Ștergere conținut",
+      "page": "Ștergere pagină",
+      "group": "Ștergere grup"
+    },
+    "content": "Sigur doriți să ștergeți:",
+    "delete": "Ștergere",
+    "cancel": "Anulare"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Capacitatea de „extragere” modifică setările serviciului.",
+        "message": "Alte elemente care se referă la serviciu vor fi influențate. Pentru mai multe detalii, consultați <docLink>Exportarea datelor din Straturile tematice ale obiectelor spațiale găzduite</docLink>"
+      }
+    }
+  }
+}

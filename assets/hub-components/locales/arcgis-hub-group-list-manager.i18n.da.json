@@ -1,0 +1,28 @@
+{
+  "newTab": "åbn profil på ny fane",
+  "noGroups": "Ingen grupper",
+  "pickerToggle": "Tilføj grupper",
+  "pickerTitle": "Vælg grupper",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Ingen medlemmer",
+      "oneMember": "1 medlem",
+      "members": "{count} medlemmer"
+    },
+    "dateCreated": "Oprettelsesdato: {localizedDate}",
+    "sharing": "Deling: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Mig",
+      "shared": "Ejer og grupper",
+      "org": "Organisation",
+      "public": "Offentlig"
+    },
+    "membership": "Medlemskab: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Gruppeejer",
+      "admin": "Gruppeadministrator",
+      "member": "Gruppemedlem",
+      "none": "Ingen"
+    }
+  }
+}

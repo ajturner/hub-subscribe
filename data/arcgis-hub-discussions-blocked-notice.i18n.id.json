@@ -1,0 +1,16 @@
+{
+  "post.title": "Pengeditan postingan diblokir",
+  "post.message": "Pengeditan tidak tersedia ketika diskusi diblokir.",
+  "post.message.item": "Pengeditan tidak tersedia ketika diskusi pada item ini diblokir.",
+  "post.message.group": "Pengeditan tidak tersedia ketika diskusi diblokir pada grup ini.",
+  "reply.title": "Pengeditan balasan diblokir",
+  "reply.title.generic": "Diskusi diblokir",
+  "reply.message": "Pengeditan tidak tersedia ketika diskusi ini diblokir.",
+  "reply.message.generic": "Anda tidak dapat membuat balasan saat ini.",
+  "reply.message.item": "Pengeditan tidak tersedia ketika diskusi pada item ini diblokir.",
+  "reply.message.group": "Pengeditan tidak tersedia ketika diskusi diblokir pada grup ini.",
+  "item.title": "Diskusi item diblokir",
+  "item.message": "Item ini tidak disetujui untuk didiskusikan.",
+  "group.title": "Diskusi grup diblokir",
+  "group.message": "Grup ini tidak disetujui untuk diskusi"
+}

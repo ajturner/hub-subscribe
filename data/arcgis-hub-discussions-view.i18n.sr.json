@@ -1,0 +1,17 @@
+{
+  "summary": "Rezime",
+  "description": "Opis",
+  "details": "Detalji",
+  "metrics": "Merenja",
+  "metricsDisclaimer": "Prikazuje se samo poslednjih 30 dana",
+  "titleOpen": "Otvorite diskusiju",
+  "statusOpen": "Otvoreno za učešće",
+  "titleClosed": "Zatvorite diskusiju",
+  "statusClosed": "Zatvoreno za učešće",
+  "tags": "Oznake",
+  "categories": "Kategorije",
+  "metric.pageViews": "Pregledi stranica",
+  "metric.postCount": "Broj postova",
+  "discussion": "Diskusija",
+  "discussionBoard": "Tabla za diskusiju"
+}

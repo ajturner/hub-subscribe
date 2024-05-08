@@ -1,0 +1,16 @@
+{
+  "post.title": "Post editarea este blocată",
+  "post.message": "Editarea nu este disponibilă când discuțiile sunt blocate.",
+  "post.message.item": "Editarea nu este disponibilă atunci când discuțiile sunt blocate în acest element.",
+  "post.message.group": "Editarea nu este disponibilă când discuțiile sunt blocate în acest grup.",
+  "reply.title": "Editarea răspunsului este blocată",
+  "reply.title.generic": "Discuție blocată",
+  "reply.message": "Editarea nu este disponibilă când discuțiile sunt blocate.",
+  "reply.message.generic": "Nu puteți crea răspunsuri în acest moment.",
+  "reply.message.item": "Editarea nu este disponibilă atunci când discuțiile sunt blocate în acest element.",
+  "reply.message.group": "Editarea nu este disponibilă când discuțiile sunt blocate în acest grup.",
+  "item.title": "Discuție elemente blocată",
+  "item.message": "Acest element nu este aprobat pentru discuție.",
+  "group.title": "Discuția de grup este blocată",
+  "group.message": "Acest grup nu este aprobat pentru discuții."
+}

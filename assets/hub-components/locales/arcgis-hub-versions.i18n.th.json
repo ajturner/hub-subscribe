@@ -1,0 +1,14 @@
+{
+  "createdBy": "สร้างโดย {creator}",
+  "emptyMessage": "ไม่พบเวอร์ชัน",
+  "errorMessage": "ข้อผิดพลาดในการดึงข้อมูลเวอร์ชัน",
+  "menuLabel": "แสดงการดำเนินการ",
+  "publishedBadge": "ตีพิมพ์",
+  "viewingBadge": "กำลังดู",
+  "popover.label": "การดำเนินการของเวอร์ชัน",
+  "popover.actions.delete": "ลบ",
+  "popover.actions.edit": "แก้ไขรายละเอียด",
+  "popover.actions.share": "แชร์",
+  "shareErrorMessage": "เกิดข้อผิดพลาดขณะคัดลอก url การแชร์ไปยังคลิปบอร์ด",
+  "shareSuccessMessage": "คัดลอก url การแชร์ไปยังคลิปบอร์ดแล้ว"
+}

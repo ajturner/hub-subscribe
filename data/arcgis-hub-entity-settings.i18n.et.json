@@ -1,0 +1,34 @@
+{
+  "settings": "Sätted",
+  "delete": {
+    "project": "Kustuta projekt",
+    "initiative": "Kustuta algatus",
+    "site": "Kustuta sait",
+    "discussion": "Kustuta arutelu",
+    "content": "Kustuta sisu",
+    "page": "Kustuta leht",
+    "group": "Kustuta grupp"
+  },
+  "deleteModal": {
+    "header": {
+      "project": "Kustuta projekt",
+      "initiative": "Kustuta algatus",
+      "site": "Kustuta sait",
+      "discussion": "Kustuta arutelu",
+      "content": "Kustuta sisu",
+      "page": "Kustuta leht",
+      "group": "Kustuta grupp"
+    },
+    "content": "Kas soovite kindlasti kustutada:",
+    "delete": "Kustuta",
+    "cancel": "Tühista"
+  },
+  "sidePanel": {
+    "content": {
+      "extractNotice": {
+        "title": "Ekstraktimisvõimalus muudab teenuse seadeid.",
+        "message": "See mõjutab muid üksusi, mis teenusele viitavad. Lisateavet leiate teemast <docLink>Andmete eksportimine majutatud objektikihtidest</docLink>"
+      }
+    }
+  }
+}

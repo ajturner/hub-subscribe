@@ -1,0 +1,27 @@
+{
+  "overview": "Oversikt",
+  "telemetry": {
+    "pageViews": "Sidevisninger",
+    "last30days": "Siste 30 dager",
+    "lastUpdated": "Sist oppdatert for {hoursElapsed} timer siden"
+  },
+  "newNotice": {
+    "title": "Her er prosjektarbeidsområdet ditt",
+    "message": "Dette arbeidsområdet er tilpasset redigering av prosjekter. Arbeidsområder lar samarbeidspartnere fokusere på enkeltelementer, og er i kontinuerlig utvikling.",
+    "link": "Mer informasjon"
+  },
+  "learnAbout": "Lær om Hub-prosjekter",
+  "feedbackNotice": {
+    "message": "Liker du Hub-prosjekter? Siden denne funksjonen fortsatt er i beta, vil vi gjerne høre hvordan du kan komme til å bruke den.",
+    "link": "Send tilbakemelding"
+  },
+  "status": {
+    "notStarted": "Ikke startet",
+    "inProgress": "Pågår",
+    "onHold": "På vent",
+    "complete": "Fullført"
+  },
+  "editDetails": "Redigere detaljer",
+  "noPurposeSet": "Ingen formål angitt",
+  "noLocationSet": "Ingen lokasjon er angitt"
+}

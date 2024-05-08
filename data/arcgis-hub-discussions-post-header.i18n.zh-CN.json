@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "仅对成员可见",
+  "visibleOrg": "对组织可见",
+  "visibleAll": "对所有人可见",
+  "anonymous": "匿名",
+  "privateUser": "私有成员",
+  "noUser": "无用户名",
+  "orgLabel": "组织",
+  "privateOrg": "私有组织",
+  "location": "位置",
+  "profile": "转至配置文件",
+  "postedIn": "发布到 {groupName}",
+  "manageChannel": "管理信道",
+  "information": "关于发布内容的信息",
+  "group.deleted": "已删除群组",
+  "unnamedChannel": "未命名通道",
+  "replyingTo": "回复 {fullName}",
+  "viewPost": "查看帖子"
+}

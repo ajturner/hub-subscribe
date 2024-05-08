@@ -1,0 +1,28 @@
+{
+  "newTab": "在新选项卡中打开配置文件",
+  "noGroups": "无群组",
+  "pickerToggle": "添加群组",
+  "pickerTitle": "选择群组",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "无任何成员",
+      "oneMember": "1 位成员",
+      "members": "{count} 位成员"
+    },
+    "dateCreated": "创建日期：{localizedDate}",
+    "sharing": "共享：{sharingLevel}",
+    "sharingLevels": {
+      "private": "我自己",
+      "shared": "所有者和群组",
+      "org": "组织",
+      "public": "公共"
+    },
+    "membership": "成员资格：{membershipLevel}",
+    "membershipLevels": {
+      "owner": "群组所有者",
+      "admin": "群组管理员",
+      "member": "群组成员",
+      "none": "无"
+    }
+  }
+}

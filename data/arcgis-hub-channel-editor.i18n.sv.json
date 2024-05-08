@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Namnlös kanal",
+  "name": {
+    "label": "Namn",
+    "placeholder": "{prefix} kanal"
+  },
+  "save": "Spara",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Valda grupper kan delta"
+    },
+    "organization": {
+      "label": "Min organisation",
+      "description": "Alla medlemmar med ett konto för {orgName} kan delta",
+      "disabledTooltip": "Endast organisationsadministratörer kan skapa organisationskanaler."
+    },
+    "public": {
+      "label": "Offentlig",
+      "description": "Alla med ett konto kan delta",
+      "disabledTooltip": "Endast organisationsadministratörer kan skapa offentliga kanaler."
+    },
+    "allowAnonymous": "Tillåt anonym",
+    "confirmation": {
+      "header": "Är du säker?",
+      "message": "Om du sparar dessa ändringar tas din redigeringsåtkomst till den här kanalen bort. Endast organisationsadministratörer kan redigera offentliga kanaler eller organisationskanaler.",
+      "secondary": "Avbryt",
+      "primary": "Bekräfta"
+    }
+  },
+  "participants": {
+    "label": "Deltagare",
+    "helperText": "Personer som kan visa och bidra till diskussionen.",
+    "none": "Inga deltagare har angivits",
+    "add": "Lägg till deltagargrupp"
+  },
+  "groupPicker": {
+    "title": "Välj grupper",
+    "facet": {
+      "label": "Från",
+      "myGroup": "Min grupp",
+      "myOrganization": "Min organisation",
+      "myCommunity": "Min community"
+    }
+  },
+  "blockWords": {
+    "label": "Blockerade ord",
+    "helperText": "Kommaseparerad lista. Inlägg och svar som innehåller dem döljs automatiskt."
+  },
+  "manage": {
+    "label": "Hantera och moderera",
+    "helperText": "Automatiskt tilldelat baserat på deltagandeval där de här personerna kan delta, dölja eller visa inlägg och hantera kanalinställningar."
+  },
+  "manager": "Ledare",
+  "admin": "Admin",
+  "viewProfile": "Visa profil",
+  "alerts": {
+    "error": "Fel när kanalen sparades",
+    "success": "Kanalen har sparats",
+    "label": "Formulärvarning"
+  },
+  "validations": {
+    "minChannelGroups": "Privata kanaler kräver minst en deltagargrupp."
+  },
+  "notices": {
+    "edit": "Redigeringar påverkar allt där den här kanalen används",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal har inte skapats",
+          "message": "En kanal med dessa åtkomstval finns redan. Använd befintlig kanal eller ändra valen."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanalen har inte uppdaterats",
+          "message": "Det finns redan en kanal med dessa åtkomstval, så vi kan inte spara dessa uppdateringar."
+        }
+      },
+      "action": "Använd befintlig kanal"
+    },
+    "inaccessibleGroups": {
+      "title": "Ej tillgängliga grupper: {count}",
+      "message": "Du kan inte visa eller hantera otillgängliga grupper om du inte är medlem."
+    }
+  }
+}

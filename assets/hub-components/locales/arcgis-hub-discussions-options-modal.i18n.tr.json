@@ -1,0 +1,8 @@
+{
+  "header": "Tartışma Seçenekleri",
+  "secondary": "İptal",
+  "primary": "Değişiklikleri Kaydet",
+  "pending": "Kaydediliyor",
+  "error.title": "Bir şey ters gitti",
+  "error.message": "Değişiklikleri kaydetmek için lütfen tekrar deneyin."
+}

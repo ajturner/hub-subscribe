@@ -1,0 +1,9 @@
+{
+  "title": "Redigera versionsinformation",
+  "save": "Spara",
+  "cancel": "Avbryt",
+  "name.label": "Titel",
+  "name.helpText": "Lämna titeln tom om du vill att vi ska identifiera versionen med en datum-tidsstämpel.",
+  "description.label": "Beskrivning",
+  "error": "Fel uppstod när versionen skulle uppdateras."
+}

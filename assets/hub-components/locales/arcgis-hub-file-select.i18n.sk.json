@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Potiahnite a pustite súbor na nahratie",
+  "imageHeading": "Nahrať obrázok",
+  "selectedHeading": "Vybraný súbor",
+  "maxSizeAndSupportedTypes": "Maximálna veľkosť je {maxSize}MB, {fileTypes}",
+  "maxSize": "Maximálna veľkosť je {maxSize}MB",
+  "recommendedDimensions": "Odporúčané rozmery {recommendedDimensions}",
+  "linkText": "Zobraziť zoznam podporovaných súborov",
+  "contentButton": "Vyhľadať súbor",
+  "imageButton": "Vyhľadať obrázok",
+  "clearButton": "Vyčistiť vybrané",
+  "errorHeading": "Chyba",
+  "fileTooLargeError": "Súbor je príliš veľký",
+  "multipleFilesError": "Nie je možné nahrať viac súborov súčasne",
+  "unsupportedFileTypeError": "Tento typ súboru nie je podporovaný"
+}

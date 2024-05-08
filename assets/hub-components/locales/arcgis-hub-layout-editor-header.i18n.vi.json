@@ -1,0 +1,27 @@
+{
+  "popover": {
+    "access": {
+      "org": "Đã chia sẻ với tổ chức",
+      "private": "Đã chia sẻ với chủ sở hữu",
+      "public": "Đã chia sẻ với công chúng",
+      "shared": "Đã chia sẻ với chủ sở hữu và nhóm"
+    },
+    "editLayout": "Chỉnh sửa bố cục",
+    "lastUpdated": "Cập nhật lần cuối {updated}",
+    "viewSite": "Xem trang web"
+  },
+  "cloneLayoutLabel": "Sao chép bố cục",
+  "deletePageLabel": "Xóa trang",
+  "deleteSiteLabel": "Xóa trang web",
+  "editInAgoLabel": "Chỉnh sửa trên ArcGIS Online",
+  "managePage": "Quản lý trang",
+  "manageSite": "Quản lý trang web",
+  "moreOptionsLabel": "Các tùy chọn khác",
+  "publishLabel": "Xuất bản",
+  "saveAsTemplateLabel": "Lưu dưới dạng biểu mẫu",
+  "saveLabel": "Lưu",
+  "sharingLabel": "Mở bảng chia sẻ",
+  "viewLabel": "Xem",
+  "viewPublishedLabel": "Xem bản nháp đã xuất bản",
+  "viewUnpublishedLabel": "Xem bản nháp chưa xuất bản"
+}

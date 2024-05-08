@@ -1,0 +1,15 @@
+{
+  "default": "Een datumbereik selecteren",
+  "today": "Vandaag",
+  "yesterday": "Gisteren",
+  "last7Days": "Afgelopen 7 dagen",
+  "last30Days": "Afgelopen 30 dagen",
+  "thisMonth": "Deze maand",
+  "lastMonth": "Vorige maand",
+  "pastYear": "Afgelopen jaar",
+  "custom": "Aangepast",
+  "nextMonth": "Volgende maand",
+  "previousMonth": "Vorige maand",
+  "year": "Jaar",
+  "title": "Selecteer een tijdsperiode"
+}

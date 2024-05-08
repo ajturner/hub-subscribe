@@ -1,0 +1,30 @@
+{
+  "helperText": "Opredeli in konfiguriraj katalog",
+  "sections": {
+    "groups": {
+      "title": "Skupine",
+      "helperText": "Spodnje skupine vsebujejo vsebino vašega iskanja po katalogu. Izberite skupino za ogled njenih nastavitev, vsebine in več.",
+      "createGroup": "Ustvari novo skupino"
+    },
+    "feeds": {
+      "title": "Konfiguracija vira",
+      "helperText": "Poskrbite, da bodo vaši javno odprti podatki enostavno dostopni in ponovno uporabni z viri Hub.",
+      "learn": "Izvedite več o virih Hub",
+      "toggle": "Omogoči vire ",
+      "configure": "Konfiguriraj vire",
+      "notice": "Če želite omogočiti vire, morate svoja spletna mesta Hub v nastavitvah najprej nastaviti na »Javno«"
+    }
+  },
+  "groupPickerFacet": {
+    "label": "Od",
+    "editGroups": "Skupine za urejanje",
+    "viewGroups": "Ogled skupine",
+    "myGroup": "Moja skupina",
+    "myOrganization": "Moja organizacija",
+    "myCommunity": "Moja zainteresirana javnost"
+  },
+  "formAlert": "Opozorilo obrazca",
+  "alertMessages": {
+    "error": "Napaka pri shranjevanju urejanj"
+  }
+}

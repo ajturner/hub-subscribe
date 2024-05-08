@@ -1,0 +1,18 @@
+{
+  "purpose": "목적",
+  "description": "미션을 성취하는 방법",
+  "details": "세부정보",
+  "featuredImageAlt": "프로젝트 추천 이미지",
+  "trackProgress": "진행 상황 추적",
+  "participatingGroups": "참여 중인 그룹",
+  "whosInvolved": "참여 대상",
+  "tags": "태그",
+  "status": {
+    "label": "프로젝트 상태",
+    "notStarted": "시작되지 않음",
+    "inProgress": "진행 중",
+    "onHold": "대기 중",
+    "complete": "완료"
+  },
+  "featuredContent": "추천 콘텐츠"
+}

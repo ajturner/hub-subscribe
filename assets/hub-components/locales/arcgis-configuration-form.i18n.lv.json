@@ -1,0 +1,12 @@
+{
+  "save": "Saglabāt",
+  "cancel": "Atcelt",
+  "undoChanges": "Atsaukt izmaiņas",
+  "next": "Tālāk",
+  "back": "Atpakaļ",
+  "formAlert": "Veidlapas brīdinājums",
+  "invalidForm": "Novērsiet visas kļūdas.",
+  "saveDisabled": "Saglabāt atspējoto",
+  "success": "Veiksmīgi saglabāti labojumi",
+  "error": "Kļūda, saglabājot labojumus"
+}

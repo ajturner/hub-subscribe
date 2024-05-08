@@ -1,0 +1,16 @@
+{
+  "location.add": "Legg til lokasjon",
+  "location.remove": "Fjern lokasjon",
+  "draw.tip": "Legg til en annen lokasjon?",
+  "prompt.add.post": "Legg til innlegg",
+  "prompt.add.reply": "Legg til svar",
+  "prompt.edit.point": "Flytt punkt",
+  "prompt.edit.polyline": "Rediger linje",
+  "prompt.edit.polygon": "Rediger område",
+  "prompt.remove.point": "Slett punkt",
+  "prompt.remove.polyline": "Slett linje",
+  "prompt.remove.polygon": "Slett område",
+  "prompt.remove.existing": "Avbryt utvalg",
+  "prompt.location.edit": "Oppdater tegning",
+  "prompt.location.delete": "Slett tegning"
+}

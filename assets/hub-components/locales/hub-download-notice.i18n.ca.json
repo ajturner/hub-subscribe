@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "Baixada completa",
+  "titleFileGeneration": "Generació de fitxers en curs",
+  "titleFileGenerationFailed": "S'ha produït un error en generar els fitxers",
+  "titleDatasetNotFound": "No s'ha trobat el dataset",
+  "titleApiError": "Error de l'API",
+  "titleFormatDisabled": "Baixada deshabilitada",
+  "messageFailedStaleAvailable": "Podeu baixar una versió anterior a continuació.",
+  "messageUpdatingFile": "S'està actualitzant el fitxer. Pot tardar una estona.",
+  "messageCreatingFile": "S'està creant el fitxer. Pot tardar una estona.",
+  "messageFileNeedsGenerating": "Es pot tardar una estona a baixar un fitxer actualitzat.",
+  "messageFormatDisabled": "El propietari ha deshabilitat la baixada per a aquest format."
+}

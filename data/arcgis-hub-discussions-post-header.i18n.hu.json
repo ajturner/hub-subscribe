@@ -1,0 +1,19 @@
+{
+  "visiblePrivate": "Csak a tagok részére látható",
+  "visibleOrg": "A szervezet részére látható",
+  "visibleAll": "Mindenki számára látható",
+  "anonymous": "Névtelen",
+  "privateUser": "Privát tag",
+  "noUser": "Nincs felhasználónév",
+  "orgLabel": "Szervezet",
+  "privateOrg": "Privát szervezet",
+  "location": "Helyszín",
+  "profile": "Ugrás a profilhoz",
+  "postedIn": "Közzétéve itt: {groupName}",
+  "manageChannel": "Csatorna kezelése",
+  "information": "A közzétételre vonatkozó információ",
+  "group.deleted": "Törölt csoport",
+  "unnamedChannel": "Név nélküli csatorna",
+  "replyingTo": "Válasz: {fullName}",
+  "viewPost": "Közzététel megtekintése"
+}

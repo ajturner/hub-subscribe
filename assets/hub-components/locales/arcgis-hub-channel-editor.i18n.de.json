@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Unbenannter Kanal",
+  "name": {
+    "label": "Name",
+    "placeholder": "{prefix}-Kanal"
+  },
+  "save": "Speichern",
+  "access": {
+    "private": {
+      "label": "Privat",
+      "description": "Ausgewählte Gruppen können teilnehmen"
+    },
+    "organization": {
+      "label": "Eigene Organisation",
+      "description": "Alle Mitglieder mit einem {orgName}-Konto können teilnehmen",
+      "disabledTooltip": "Nur Administratoren von Organisationen können Organisationskanäle erstellen."
+    },
+    "public": {
+      "label": "Öffentlich",
+      "description": "Alle Personen mit einem Konto können teilnehmen",
+      "disabledTooltip": "Nur Administratoren von Organisationen können öffentliche Kanäle erstellen."
+    },
+    "allowAnonymous": "Anonymen Zugriff zulassen",
+    "confirmation": {
+      "header": "Sind Sie sicher?",
+      "message": "Durch das Speichern dieser Änderungen verlieren Sie den Bearbeitungszugriff für diesen Kanal. Nur Administratoren von Organisationen können öffentliche Kanäle oder Organisationskanäle bearbeiten.",
+      "secondary": "Abbrechen",
+      "primary": "Bestätigen"
+    }
+  },
+  "participants": {
+    "label": "Teilnehmer",
+    "helperText": "Die Personen, die die Diskussion sehen und sich daran beteiligen können.",
+    "none": "Keine Teilnehmer festgelegt",
+    "add": "Teilnehmergruppe hinzufügen"
+  },
+  "groupPicker": {
+    "title": "Gruppen auswählen",
+    "facet": {
+      "label": "Von",
+      "myGroup": "Eigene Gruppe",
+      "myOrganization": "Eigene Organisation",
+      "myCommunity": "Eigene Community"
+    }
+  },
+  "blockWords": {
+    "label": "Gesperrte Wörter",
+    "helperText": "Kommagetrennte Liste. Beiträge und Antworten, die solche enthalten, werden automatisch ausgeblendet."
+  },
+  "manage": {
+    "label": "Verwalten und moderieren",
+    "helperText": "Diese Personen werden automatisch entsprechend der oben getroffenen Auswahl für die Teilnahme zugewiesen. Sie können teilnehmen, Beiträge ein- oder ausblenden und Kanaleinstellungen verwalten."
+  },
+  "manager": "Manager",
+  "admin": "Admin",
+  "viewProfile": "Profil anzeigen",
+  "alerts": {
+    "error": "Fehler beim Speichern des Kanals",
+    "success": "Kanal erfolgreich gespeichert",
+    "label": "Formularwarnung"
+  },
+  "validations": {
+    "minChannelGroups": "Für private Kanäle ist mindestens eine Teilnehmergruppe erforderlich."
+  },
+  "notices": {
+    "edit": "Die Änderungen werden überall dort wirksam, wo dieser Kanal verwendet wird.",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanal wurde nicht erstellt",
+          "message": "Ein Kanal mit dieser Zugriffsauswahl ist bereits vorhanden. Verwenden Sie den vorhandenen Kanal, oder ändern Sie die Auswahl."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanal wurde nicht aktualisiert",
+          "message": "Ein Kanal mit dieser Zugriffsauswahl ist bereits vorhanden, sodass diese Aktualisierungen nicht gespeichert werden können."
+        }
+      },
+      "action": "Vorhandenen Kanal verwenden"
+    },
+    "inaccessibleGroups": {
+      "title": "Nicht verfügbare Gruppen: {count}",
+      "message": "Sie können nicht verfügbare Gruppen nur anzeigen oder verwalten, wenn Sie Mitglied sind."
+    }
+  }
+}

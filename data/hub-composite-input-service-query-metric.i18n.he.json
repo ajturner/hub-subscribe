@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "שיתוף",
+      "myself": "אני",
+      "myOrganization": "הארגון שלי",
+      "public": "עולם (ציבורי)"
+    },
+    "catalog": {
+      "myContent": "התוכן שלי",
+      "favorites": "מועדפים",
+      "organization": "הארגון שלי",
+      "world": "עולם (ציבורי)"
+    }
+  },
+  "expression": {
+    "label": "מסנני מאפיינים"
+  },
+  "field": {
+    "label": "מאפיין"
+  },
+  "layer": "שכבה / טבלה",
+  "statistic": {
+    "label": "צבירה"
+  }
+}

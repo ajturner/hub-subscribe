@@ -1,0 +1,26 @@
+{
+  "followers": "关注者",
+  "tabs": {
+    "followers": "关注者",
+    "settings": "设置"
+  },
+  "addFollowers": {
+    "label": "添加关注者"
+  },
+  "emptyState": {
+    "message": "您当前没有关注者群组。"
+  },
+  "restrictedAccessState": {
+    "message": "您没有访问权限。"
+  },
+  "stats": {
+    "total": {
+      "title": "总计",
+      "trailingText": "关注者"
+    },
+    "new": {
+      "title": "新建",
+      "trailingText": "最近 30 天"
+    }
+  }
+}

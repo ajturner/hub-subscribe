@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonyymi",
+  "noUser": "Ei käyttäjänimeä",
+  "privateUser": "Yksityinen jäsen",
+  "privateOrg": "Yksityinen organisaatio",
+  "orgLabel": "Organisaatio",
+  "profile": "Siirry profiiliin",
+  "location": "Sijainti",
+  "information": "Tietoja julkaisusta",
+  "mentionedBy": "Maininnut @{username}"
+}

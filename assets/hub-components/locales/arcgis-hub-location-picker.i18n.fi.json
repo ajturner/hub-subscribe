@@ -1,0 +1,36 @@
+{
+  "edit": "Muokkaa",
+  "delete": "Poista",
+  "noneMessage": "Sijaintia ei määritetty",
+  "entityTypes": {
+    "project": "Projekti",
+    "site": "Sivusto",
+    "initiative": "Aloite",
+    "discussion": "Keskustelu",
+    "content": "Sisältö"
+  },
+  "emptyLocation": {
+    "title": "Sijaintia ei ole piirretty",
+    "message": "{entityType} ei näy kartoissa, ennen kuin sijainti lisätään"
+  },
+  "populatedLocation": {
+    "title": "Lisätäänkö toinen sijainti?",
+    "message": "Valitse piirtotyökalu uudelleen, jotta voit lisätä sijainteja (enintään {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Pisteiden enimmäismäärä saavutettu ({currentCount}/{maxLocations})",
+    "message": "Jos haluat lisätä sijainteja, poista pisteitä tai poista viivoja ja alueita, jotta voit poistaa niiden pisteet (napsauta hiiren kakkospainiketta)."
+  },
+  "maximumLocations": {
+    "title": "Sijaintien enimmäismäärä saavutettu",
+    "message": "Jos haluat lisätä enemmän sijainteja, poista vähintään yksi sijainti tai poista kaikki sijainnit ja käytä yleisempää aluetta."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Lisää sijainti",
+    "clear": "Tyhjennä kaikki",
+    "extent": "Piirrä suorakulmio",
+    "point": "Pudota piste",
+    "polyline": "Piirrä viiva",
+    "polygon": "Piirrä alue"
+  }
+}

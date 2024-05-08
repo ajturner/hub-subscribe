@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonimas",
+  "noUser": "Nėra naudotojo vardo",
+  "privateUser": "Privatus narys",
+  "privateOrg": "Privati organizacija",
+  "org": "Organizacija",
+  "orgLabel": "Organizacija",
+  "profile": "Eiti į profilį",
+  "location": "Vieta",
+  "information": "Informacija apie įrašą",
+  "postedIn": "Publikuota {groupName}",
+  "replyingTo": "Atsakoma į @{username}",
+  "visiblePrivate": "Matoma tik nariams",
+  "visibleOrg": "Matoma organizacijoje",
+  "visibleAll": "Matoma visiems",
+  "manageChannel": "Tvarkyti kanalą",
+  "group.deleted": "Ištrinta grupė",
+  "unnamedChannel": "Kanalas be pavadinimo"
+}

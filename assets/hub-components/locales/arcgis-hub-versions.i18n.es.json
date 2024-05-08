@@ -1,0 +1,14 @@
+{
+  "createdBy": "Creado por {creator}",
+  "emptyMessage": "No se ha encontrado ninguna versión",
+  "errorMessage": "Error al obtener las versiones",
+  "menuLabel": "mostrar acciones",
+  "publishedBadge": "Publicado",
+  "viewingBadge": "Visualizando",
+  "popover.label": "Acciones de la versión",
+  "popover.actions.delete": "Eliminar",
+  "popover.actions.edit": "Editar detalles",
+  "popover.actions.share": "Compartir",
+  "shareErrorMessage": "Error al copiar la URL de uso compartido al portapapeles.",
+  "shareSuccessMessage": "URL de uso compartido copiada en el portapapeles."
+}

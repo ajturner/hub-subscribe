@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Tür",
+    "tags": "Etiket",
+    "categories": "Kategori",
+    "sharing": "Paylaşım",
+    "dateUpdated": "Güncellenme Tarihi",
+    "map": {
+      "label": "Konum",
+      "tooltip": "Harita yayılımını bir konum filtresi olarak uygula"
+    }
+  },
+  "collections": {
+    "all": "Tümü",
+    "dataset": "Veri",
+    "site": "Siteler",
+    "document": "Belgeler",
+    "appAndMap": "Uygulamalar ve Haritalar"
+  },
+  "noCollections": {
+    "title": "Katalog",
+    "message": "Katalogunuz şu anda boş.",
+    "button": "Kataloğu Yapılandır"
+  }
+}

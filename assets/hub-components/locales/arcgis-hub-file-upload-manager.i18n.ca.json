@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "Seleccioneu contingut",
+  "secondStepHeader": "Defineix els detalls",
+  "thirdStepHeader": "Defineix l'ús compartit i l'accés",
+  "next": "Següent",
+  "back": "Enrere",
+  "save": "Desa",
+  "cancel": "Cancel·la",
+  "divider": "o",
+  "duplicateFileAriaLabel": "error de fitxer duplicat",
+  "duplicateFileError": "Ja existeix un element amb el mateix nom de fitxer. Modifiqueu el nom del fitxer i torneu-ho a provar o elimineu el <a>fitxer duplicat</a> a l'ArcGIS Online",
+  "uploading": "S'està pujant"
+}

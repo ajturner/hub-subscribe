@@ -1,0 +1,27 @@
+{
+  "overview": "Yleiskuvaus",
+  "telemetry": {
+    "pageViews": "Sivun katselukerrat",
+    "last30days": "Edelliset 30 päivää",
+    "lastUpdated": "Päivitetty viimeksi {hoursElapsed} tuntia sitten"
+  },
+  "newNotice": {
+    "title": "Tässä on projektityötilasi",
+    "message": "Tämä työtila on suunniteltu muokkausprojekteja varten. Työtiloissa avustajat voivat keskittyä yksittäisiin kohteisiin, ja niitä kehitetään jatkuvasti.",
+    "link": "Lisätietoja"
+  },
+  "learnAbout": "Lisätietoja Hub-projekteista",
+  "feedbackNotice": {
+    "message": "Mitä mieltä olet Hub-projekteista? Tämä ominaisuus on vielä beeta-vaiheessa, joten haluamme kuulla mielipiteesi sen käyttämisestä.",
+    "link": "Lähetä palautetta"
+  },
+  "status": {
+    "notStarted": "Ei aloitettu",
+    "inProgress": "Meneillään",
+    "onHold": "Pidossa",
+    "complete": "Valmis"
+  },
+  "editDetails": "Muokkaa tietoja",
+  "noPurposeSet": "Tarkoitusta ei määritetty",
+  "noLocationSet": "Sijaintia ei määritetty"
+}

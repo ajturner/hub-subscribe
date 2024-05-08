@@ -1,0 +1,28 @@
+{
+  "newTab": "obre el perfil en una pestanya nova",
+  "noGroups": "No hi ha cap grup",
+  "pickerToggle": "Afegeix grups",
+  "pickerTitle": "Seleccioneu grups",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "No hi ha cap membre",
+      "oneMember": "1 membre",
+      "members": "{count} membres"
+    },
+    "dateCreated": "Data de creació: {localizedDate}",
+    "sharing": "Ús compartit: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Jo",
+      "shared": "Propietari i grups",
+      "org": "Organització",
+      "public": "Públic"
+    },
+    "membership": "Pertinença: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Propietari del grup",
+      "admin": "Administrador del grup",
+      "member": "Membre del grup",
+      "none": "Cap"
+    }
+  }
+}

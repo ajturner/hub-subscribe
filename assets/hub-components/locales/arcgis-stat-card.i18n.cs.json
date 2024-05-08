@@ -1,0 +1,10 @@
+{
+  "timeoutError": {
+    "message": "Připojení k serveru vypršelo a statistiku nebylo možné zobrazit.",
+    "title": "Vypršel časový limit serveru"
+  },
+  "genericError": {
+    "message": "Statistiku nelze zobrazit.",
+    "title": "Něco se pokazilo"
+  }
+}

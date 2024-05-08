@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Chủ sở hữu"
+  },
+  "updatedDate": {
+    "description": "Ngày đã cập nhật"
+  },
+  "createdDate": {
+    "description": "Đã xuất bản"
+  },
+  "access": {
+    "label": {
+      "public": "Công khai",
+      "org": "Tổ chức",
+      "private": "Chủ sở hữu",
+      "shared": "Được chia sẻ riêng tư"
+    },
+    "description": {
+      "public": {
+        "site": "Bất kỳ ai cũng có thể xem trang web này",
+        "project": "Ai cũng có thể xem dự án này",
+        "initiative": "Bất kỳ ai cũng có thể xem sáng kiến này",
+        "discussion": "Bất kỳ ai cũng có thể xem cuộc thảo luận này",
+        "default": "Bất kỳ ai cũng có thể xem nội dung này"
+      },
+      "org": {
+        "site": "Bất kỳ ai trong tổ chức của bạn cũng có thể xem trang web này",
+        "project": "Bất kỳ ai trong tổ chức của bạn cũng có thể xem dự án này",
+        "initiative": "Bất kỳ ai trong tổ chức của bạn cũng có thể xem sáng kiến này",
+        "discussion": "Bất kỳ ai trong tổ chức của bạn cũng có thể xem cuộc thảo luận này",
+        "default": "Bất kỳ ai trong tổ chức của bạn cũng có thể xem nội dung này"
+      },
+      "private": {
+        "site": "Chỉ bạn có thể xem trang web này",
+        "project": "Chỉ bạn có thể xem dự án này",
+        "initiative": "Chỉ bạn có thể xem sáng kiến này",
+        "discussion": "Chỉ bạn có thể xem cuộc thảo luận này",
+        "default": "Chỉ bạn mới có thể xem nội dung này"
+      },
+      "shared": {
+        "site": "Nhóm được chọn có thể xem trang web này",
+        "project": "Nhóm được chọn có thể xem dự án này",
+        "initiative": "Nhóm được chọn có thể xem sáng kiến này",
+        "discussion": "Nhóm được chọn có thể xem cuộc thảo luận này",
+        "default": "Nhóm được chọn có thể xem nội dung này"
+      }
+    }
+  }
+}

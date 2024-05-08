@@ -1,0 +1,11 @@
+{
+  "anonymous": "Anonyme",
+  "noUser": "Pas de nom d’utilisateur",
+  "privateUser": "Membre privé",
+  "privateOrg": "Organisation privée",
+  "orgLabel": "Organisation",
+  "profile": "Accéder au profil",
+  "location": "Localisation",
+  "information": "Informations sur la publication",
+  "mentionedBy": "Mentionné par @{username}"
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+  <title>arcgis-hub-subscribe</title>
+
+  <script type="module" src="./build/arcgis-hub-subscribe.esm.js"></script>
+  <script nomodule src="./build/arcgis-hub-subscribe.js"></script>
+
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://js.arcgis.com/calcite-components/2.8.0/calcite.css"
+  />
+</head>
+
+<body>
+  <div id="placeholder">
+    <!-- Placeholder fo more examples -->
+  </div>
+  
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    arcgis-hub-navigation-breadcrumbs {
+      display: block;
+      margin: 0 0 2rem 0;
+      
+      border-top: 1px solid gray;
+    }
+
+    code {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      font-family: monospace;
+    }
+  </style>
+
+  <script>
+    const urlParams = new URL(window.location).searchParams;
+    const domain = urlParams.get('domain') || "opendata.dc.gov";
+
+    examples = [
+      {
+          domain: domain,
+          breadcrumbs: [{
+            title: "Home",
+            link: "workspace",
+            icon: "home"
+          },{
+            title: "UNCA Native Plant Advocates",
+            link: "/datasets/unca-native-plant",
+            icon: "data"
+          }
+        ]
+      },
+      {
+        domain: domain,
+        breadcrumbs: [{
+          title: "Open",
+          link: "/",
+          icon: "web"
+        },{
+          title: "Datasets",
+          link: "/datasets",
+          icon: "search"
+        },{
+          title: "Trees",
+          link: "/datasets/tree",
+          icon: "data"
+        }
+      ]
+    }
+    ]
+    // Dynamically add the component so we can set URL or object properties
+    const componentName = "arcgis-hub-navigation-breadcrumbs";
+
+    const placeholderEl = document.getElementById("placeholder");
+
+    examples.forEach(createExample);
+
+    function createExample(config) {
+
+      const componentEl = document.createElement( componentName );
+
+      componentEl.navigation = config;
+      componentEl.path = urlParams.get('path') || window.location.pathname;
+
+      // componentEl.innerHTML = `Example ${config.domain}`;
+      
+      placeholderEl.appendChild(componentEl);
+      this.addExampleCode(config);
+    }
+
+    function addExampleCode(config) {
+      const codeEl = document.createElement("code");
+      codeEl.innerHTML = JSON.stringify(config, null, 2);
+      placeholderEl.appendChild(codeEl);
+    }
+  </script>
+</body>
+
+</html>

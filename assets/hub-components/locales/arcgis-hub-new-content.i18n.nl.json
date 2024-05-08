@@ -1,0 +1,15 @@
+{
+  "new": "Nieuw",
+  "project": {
+    "title": "Nieuw project",
+    "description": "Markeer werk dat duidelijke doelstellingen en tijdschema's heeft"
+  },
+  "initiative": {
+    "title": "Nieuw initiatief",
+    "description": "Markeer werk dat duidelijke doelstellingen en tijdschema's heeft"
+  },
+  "discussion": {
+    "title": "Nieuw discussiebord",
+    "description": "Maak een nieuw discussiebord door een titel in te voeren die het onderwerp aangeeft."
+  }
+}

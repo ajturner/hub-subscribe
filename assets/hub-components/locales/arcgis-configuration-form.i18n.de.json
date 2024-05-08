@@ -1,0 +1,12 @@
+{
+  "save": "Speichern",
+  "cancel": "Abbrechen",
+  "undoChanges": "Änderungen rückgängig machen",
+  "next": "Weiter",
+  "back": "Zurück",
+  "formAlert": "Formularwarnung",
+  "invalidForm": "Beheben Sie alle Fehler.",
+  "saveDisabled": "\"Speichern\" deaktiviert",
+  "success": "Änderungen erfolgreich gespeichert",
+  "error": "Fehler beim Speichern der Änderungen"
+}

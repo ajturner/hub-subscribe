@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Canal sem nome",
+  "name": {
+    "label": "Nome",
+    "placeholder": "Canal {prefix}"
+  },
+  "save": "Guardar",
+  "access": {
+    "private": {
+      "label": "Privado",
+      "description": "Grupos selecionados podem participar"
+    },
+    "organization": {
+      "label": "A Minha Organização",
+      "description": "Todos os membros com uma conta {orgName} podem participar",
+      "disabledTooltip": "Apenas os administradores da organização podem criar canais de organização."
+    },
+    "public": {
+      "label": "Público",
+      "description": "Qualquer pessoa com uma conta pode participar",
+      "disabledTooltip": "Apenas os administradores da organização podem criar canais públicos."
+    },
+    "allowAnonymous": "Permitir anónimos",
+    "confirmation": {
+      "header": "Tem a certeza?",
+      "message": "Ao guardar estas alterações, o seu acesso de edição a este canal será removido. Apenas os administradores da organização podem editar canais públicos ou de organização.",
+      "secondary": "Cancelar",
+      "primary": "Confirmar"
+    }
+  },
+  "participants": {
+    "label": "Participantes",
+    "helperText": "As pessoas que podem ver e contribuir para a discussão.",
+    "none": "Sem participantes definidos",
+    "add": "Adicionar grupo de participantes"
+  },
+  "groupPicker": {
+    "title": "Selecionar grupos",
+    "facet": {
+      "label": "De",
+      "myGroup": "O meu grupo",
+      "myOrganization": "A minha organização",
+      "myCommunity": "A minha comunidade"
+    }
+  },
+  "blockWords": {
+    "label": "Palavras bloqueadas",
+    "helperText": "Lista separada por vírgulas. As publicações e respostas que as contenham serão ocultadas automaticamente."
+  },
+  "manage": {
+    "label": "Gerir e moderar",
+    "helperText": "Atribuídas automaticamente com base nas seleções de participação acima, estas pessoas podem participar, ocultar ou exibir mensagens e gerir as definições do canal."
+  },
+  "manager": "Gestor",
+  "admin": "Admin",
+  "viewProfile": "Ver perfil",
+  "alerts": {
+    "error": "Erro ao guardar o canal",
+    "success": "Canal guardado com sucesso",
+    "label": "Alerta de formulário"
+  },
+  "validations": {
+    "minChannelGroups": "Os canais privados requerem, pelo menos, um grupo de participantes."
+  },
+  "notices": {
+    "edit": "As edições irão afetar todos os locais onde este canal é utilizado",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "O canal não foi criado",
+          "message": "Já existe um canal com estas seleções de acesso. Utilize o canal existente ou modifique as seleções."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "O canal não foi atualizado",
+          "message": "Já existe um canal com estas seleções de acesso, pelo que não podemos guardar estas atualizações."
+        }
+      },
+      "action": "Utilizar canal existente"
+    },
+    "inaccessibleGroups": {
+      "title": "Grupos indisponíveis: {count}",
+      "message": "Só pode ver ou gerir grupos indisponíveis se for um membro."
+    }
+  }
+}

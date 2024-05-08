@@ -1,0 +1,36 @@
+{
+  "edit": "编辑",
+  "delete": "删除",
+  "noneMessage": "未设置位置",
+  "entityTypes": {
+    "project": "工程",
+    "site": "场所",
+    "initiative": "倡议",
+    "discussion": "说明",
+    "content": "内容"
+  },
+  "emptyLocation": {
+    "title": "未绘制位置",
+    "message": "在添加位置之前，{entityType} 不会显示在地图上。"
+  },
+  "populatedLocation": {
+    "title": "是否添加其他位置?",
+    "message": "再次选择绘制工具以添加更多位置(最多 {maxLocations} 个)。"
+  },
+  "maximumPoints": {
+    "title": "已达到最大点数 ({currentCount}/{maxLocations})",
+    "message": "要添加更多位置：删除点，或编辑线和面以删除它们的点(右键单击)。"
+  },
+  "maximumLocations": {
+    "title": "已达到最大位置数。",
+    "message": "要添加更多位置，请移除一个或多个位置，或者移除所有位置并使用更通用的区域。"
+  },
+  "drawLocationPopover": {
+    "tooltip": "添加位置",
+    "clear": "全部清除",
+    "extent": "绘制一个矩形",
+    "point": "放置一个点",
+    "polyline": "绘制一条线",
+    "polygon": "绘制一个区域"
+  }
+}

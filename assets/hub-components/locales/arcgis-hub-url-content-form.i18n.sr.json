@@ -1,0 +1,19 @@
+{
+  "heading": "Dodajte prema URL-u",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Ručno podesite tip datoteke",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS servis geoobjekata",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Veb veza",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Snimak (png, jpg, jpeg)",
+  "invalidFormat": "Greška: Pogrešan format",
+  "invalidUrl": "Greška: Nevažeća URL adresa",
+  "recognizedType": "Ručno podesite tip datoteke"
+}

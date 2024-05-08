@@ -1,0 +1,1 @@
+function e(e,t="OR"){const c=[];return e.length&&e.forEach((e=>{const l={label:e.field,key:e.field,field:e.field,display:"multi-select"},s=[];e.values.filter((e=>!!e.value)).forEach((c=>{const l={},n={};n["OR"===t?"any":"all"]=[c.value],l[e.field]=n,s.push({label:c.value,key:c.value,count:c.count,selected:!1,predicates:[l]})})),l.options=s,c.push(l)})),c}export{e as c}

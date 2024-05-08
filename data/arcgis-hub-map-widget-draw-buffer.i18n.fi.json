@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Sijaintisuodatin",
+  "panel.reset": "Nollaa suodatin",
+  "distance.title": "Etäisyys",
+  "distance.placeholder": "Kirjoita numero...",
+  "distance.message": "Laajenna suodatettua aluetta kirjoittamalla numero.",
+  "system.imperial": "Mailijärjestelmä",
+  "system.metric": "Metrijärjestelmä",
+  "units.title": "Yksiköt",
+  "units.feet": "Jalkaa",
+  "units.miles": "Mailia",
+  "units.nauticalmiles": "Meripeninkulmat",
+  "units.meters": "Metriä",
+  "units.kilometers": "Kilometriä"
+}

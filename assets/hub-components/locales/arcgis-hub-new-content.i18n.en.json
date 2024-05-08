@@ -1,0 +1,15 @@
+{
+  "new": "New",
+  "project": {
+    "title": "New Project",
+    "description": "Highlight work that has clear objectives and timeframes"
+  },
+   "initiative": {
+    "title": "New Initiative",
+    "description": "Highlight work that has clear objectives and timeframes"
+  },
+  "discussion": {
+    "title": "New Discussion Board",
+    "description": "Create a new discussion board by entering a title that indicates the topic."
+  }
+}

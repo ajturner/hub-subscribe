@@ -1,0 +1,7 @@
+{
+  "title": "Supprimer la version",
+  "message": "Voulez-vous vraiment supprimer :",
+  "cancel": "Annuler",
+  "delete": "Supprimer",
+  "error": "Erreur lors de la suppression de la version."
+}

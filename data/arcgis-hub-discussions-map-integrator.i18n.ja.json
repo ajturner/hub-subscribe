@@ -1,0 +1,16 @@
+{
+  "location.add": "場所の追加",
+  "location.remove": "場所の削除",
+  "draw.tip": "別の場所を追加しますか？",
+  "prompt.add.post": "投稿に追加",
+  "prompt.add.reply": "返信に追加",
+  "prompt.edit.point": "ポイントの移動",
+  "prompt.edit.polyline": "ラインの編集",
+  "prompt.edit.polygon": "エリアの編集",
+  "prompt.remove.point": "ポイントの削除",
+  "prompt.remove.polyline": "ラインの削除",
+  "prompt.remove.polygon": "エリアの削除",
+  "prompt.remove.existing": "選択のキャンセル",
+  "prompt.location.edit": "描画の更新",
+  "prompt.location.delete": "描画を削除"
+}

@@ -1,0 +1,49 @@
+{
+  "owner": {
+    "description": "Savininkas"
+  },
+  "updatedDate": {
+    "description": "Atnaujinimo data"
+  },
+  "createdDate": {
+    "description": "Publikuota"
+  },
+  "access": {
+    "label": {
+      "public": "Vieša",
+      "org": "Organizacija",
+      "private": "Savininkas",
+      "shared": "Bendrinta privačiai"
+    },
+    "description": {
+      "public": {
+        "site": "Kiekvienas gali matyti šią svetainę",
+        "project": "Bet kas gali matyti šį projektą",
+        "initiative": "Bet kas gali matyti šią iniciatyvą",
+        "discussion": "Bet kas gali matyti šią diskusiją",
+        "default": "Kiekvienas gali matyti šį turinį"
+      },
+      "org": {
+        "site": "Visi jūsų organizacijoje gali matyti šią svetainę",
+        "project": "Visi jūsų organizacijoje gali matyti šį projektą",
+        "initiative": "Visi jūsų organizacijoje gali matyti šią iniciatyvą",
+        "discussion": "Visi jūsų organizacijoje gali matyti šią diskusiją",
+        "default": "Visi jūsų organizacijoje gali matyti šį turinį"
+      },
+      "private": {
+        "site": "Tik jūs galite matyti šią svetainę",
+        "project": "Tik jūs galite matyti šį projektą",
+        "initiative": "Tik jūs galite matyti šią iniciatyvą",
+        "discussion": "Tik jūs galite matyti šią diskusiją",
+        "default": "Tik jūs galite matyti šį turinį"
+      },
+      "shared": {
+        "site": "Pasirinktos grupės gali matyti šią svetainę",
+        "project": "Pasirinktos grupės gali matyti šį projektą",
+        "initiative": "Pasirinktos grupės gali matyti šią iniciatyvą",
+        "discussion": "Pasirinktos grupės gali matyti šią diskusiją",
+        "default": "Pasirinktos grupės gali matyti šį turinį"
+      }
+    }
+  }
+}

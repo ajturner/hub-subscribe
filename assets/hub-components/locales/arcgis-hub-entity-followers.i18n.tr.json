@@ -1,0 +1,26 @@
+{
+  "followers": "Takipçiler",
+  "tabs": {
+    "followers": "Takipçiler",
+    "settings": "Ayarlar"
+  },
+  "addFollowers": {
+    "label": "Takipçi ekle"
+  },
+  "emptyState": {
+    "message": "Şu anda bir takipçi grubunuz yok."
+  },
+  "restrictedAccessState": {
+    "message": "Erişiminiz yok"
+  },
+  "stats": {
+    "total": {
+      "title": "Toplam",
+      "trailingText": "Takipçiler"
+    },
+    "new": {
+      "title": "Yeni",
+      "trailingText": "Son 30 gün"
+    }
+  }
+}

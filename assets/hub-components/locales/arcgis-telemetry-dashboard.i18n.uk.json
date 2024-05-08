@@ -1,0 +1,31 @@
+{
+  "dateRange": "Діапазон дат: {start} - {end}",
+  "pageViews": "Перегляди сторінок",
+  "timeOnSite": "Середня кількість хвилин на сайті",
+  "users": "Сеанси",
+  "viewsOverTime": "Перегляди сторінок з часом",
+  "disabledTracking": "Відстежування дій деактивовано",
+  "enableTracking": "Увімкнути відстежування дій хабу в налаштуваннях сайту для спостереження за використанням вашого сайту.",
+  "learnMore": "Докладніше.",
+  "disabled": "Відключено",
+  "notificationLabel": "Дані оновлені",
+  "dataUpdated": "Дані оновлені",
+  "subscribe": "Підписатися",
+  "subscribed": "З підпискою",
+  "weeklyReport": "Щотижневий звіт",
+  "timestampTitle": {
+    "hour": "Час доби",
+    "day": "Дата",
+    "week": "Тиждень"
+  },
+  "formAlert": "Форма попередження",
+  "success": "Підписку успішно оновлено",
+  "subscriptionActivatedTitle": "Підписка активована",
+  "subscriptionActivatedMessage": "Ви зареєстрували {email}, щоб отримувати щотижневі метрики залучення.",
+  "unsubscribeCompleteTitle": "Скасування підписки завершено",
+  "unsubscribeCompleteMessage": "{email} успішно скасував(-ла) підписку на метрики залучення.",
+  "problemSubscribingTitle": "Проблема з підпискою",
+  "problemSubscribingMessage": "Під час підписки виникла проблема. Помилка: ",
+  "problemUnsubscribingTitle": "Проблема скасування підписки",
+  "problemUnsubscribingMessage": "Під час скасування підписки виникла проблема. Помилка: "
+}

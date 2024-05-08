@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Показати",
+    "hide": "Приховати",
+    "rename": "Змінити назву"
+  },
+  "formAlert": "Форма попередження",
+  "alertMessages": {
+    "success": "Редагування успішно збережені",
+    "error": "Помилка під час збереження редагувань"
+  },
+  "collectionRenameModal": {
+    "title": "Перейменувати колекцію",
+    "fieldLabel": "Напис колекції",
+    "requiredMessage": "Потрібен напис колекції",
+    "apply": "Застосувати"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Дані",
+      "hidden": "Дані (приховано)"
+    },
+    "site": {
+      "visible": "Сайти",
+      "hidden": "Сайти (приховано)"
+    },
+    "document": {
+      "visible": "Документи",
+      "hidden": "Документи (приховано)"
+    },
+    "appAndMap": {
+      "visible": "Додатки та карти",
+      "hidden": "Додатки та карти (приховано)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (приховано)"
+    }
+  },
+  "saveButton": "Зберегти"
+}

@@ -1,0 +1,9 @@
+{
+  "heading": "Nivo deljenja",
+  "public": "Javni",
+  "publicInfo": "Svako može da vidi ovo {itemType}",
+  "organization": "Organizacija",
+  "organizationInfo": "Svi članovi sa nalogom na {orgName} i grupama mogu da vide ovo {itemType}",
+  "owner": "Vlasnik",
+  "ownerInfo": "Vlasnik i grupe sa pristupom mogu da vide ovaj {itemType}"
+}

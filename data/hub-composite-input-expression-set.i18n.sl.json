@@ -1,0 +1,15 @@
+{
+  "addFilter": "Dodaj filter",
+  "attributeFilter": "Filter",
+  "between": "Med",
+  "deleteFilter": "Izbriši filter",
+  "endingDate": "Končni datum",
+  "endingValue": "Končna vrednost",
+  "expression": "Izraz",
+  "filterType": "Tip filtra",
+  "filterValue": "Vrednost filtra",
+  "isExactly": "Je točno",
+  "startingDate": "Datum začetka",
+  "startingValue": "Začetna vrednost",
+  "selectAttribute": "Izberi atribut"
+}

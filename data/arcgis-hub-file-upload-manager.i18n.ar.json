@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "تحديد المحتوى",
+  "secondStepHeader": "راجع التفاصيل",
+  "thirdStepHeader": "تعيين مستوى المشاركة والوصول",
+  "next": "التالي",
+  "back": "السابق",
+  "save": "حفظ",
+  "cancel": "إلغاء الأمر",
+  "divider": "أو",
+  "duplicateFileAriaLabel": "خطأ ملف مكرر",
+  "duplicateFileError": "يوجد بالفعل عنصر باسم الملف نفسه. يرجى تعديل اسم الملف والمحاولة مرة أخرى، أو إزالة <a>الملف المكرر</a> من ArcGIS Online.",
+  "uploading": "جارٍ التحميل"
+}

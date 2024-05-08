@@ -1,0 +1,19 @@
+{
+  "heading": "Toevoegen op URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS Feature Service, XLS, PDF, PNG, JPG, Web Link",
+  "fileTypeSelector": "Bestandstype handmatig instellen",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS Feature Service",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Internetkoppeling",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Afbeelding (png, jpg, jpeg)",
+  "invalidFormat": "Fout: ongeldige indeling",
+  "invalidUrl": "Fout: ongeldige URL",
+  "recognizedType": "Bestandstype handmatig instellen"
+}

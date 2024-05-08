@@ -1,0 +1,16 @@
+{
+  "location.add": "Pridėti vietą",
+  "location.remove": "Pašalinti vietą",
+  "draw.tip": "Pridėti kitą vietą?",
+  "prompt.add.post": "Pridėti prie įrašo",
+  "prompt.add.reply": "Pridėti prie atsakymo",
+  "prompt.edit.point": "Perkelti tašką",
+  "prompt.edit.polyline": "Redaguoti liniją",
+  "prompt.edit.polygon": "Redaguoti teritoriją",
+  "prompt.remove.point": "Naikinti tašką",
+  "prompt.remove.polyline": "Naikinti liniją",
+  "prompt.remove.polygon": "Naikinti teritoriją",
+  "prompt.remove.existing": "Atšaukti pasirinkimą",
+  "prompt.location.edit": "Atnaujinti brėžinį",
+  "prompt.location.delete": "Trinti brėžinį"
+}

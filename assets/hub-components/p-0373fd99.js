@@ -1,0 +1,1 @@
+const a=async a=>{try{await navigator.clipboard.writeText(a)}catch(a){console.error("Unable to copy to clipboard")}};export{a as c}

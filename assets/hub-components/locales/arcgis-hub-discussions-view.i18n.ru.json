@@ -1,0 +1,17 @@
+{
+  "summary": "Краткая информация",
+  "description": "Описание",
+  "details": "Сведения",
+  "metrics": "Метрики",
+  "metricsDisclaimer": "Показаны только последние 30 дней",
+  "titleOpen": "Открыть Обсуждение",
+  "statusOpen": "Открыт для участия",
+  "titleClosed": "Закрытое обсуждение",
+  "statusClosed": "Закрыт для участия",
+  "tags": "Теги",
+  "categories": "Категории",
+  "metric.pageViews": "Виды страниц",
+  "metric.postCount": "Количество постов",
+  "discussion": "Обсуждение",
+  "discussionBoard": "Доска обсуждений"
+}

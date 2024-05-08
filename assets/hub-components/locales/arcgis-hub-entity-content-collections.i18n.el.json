@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Εμφάνιση",
+    "hide": "Απόκρυψη",
+    "rename": "Μετονομασία"
+  },
+  "formAlert": "Προειδοποίηση φόρμας",
+  "alertMessages": {
+    "success": "Επιτυχής αποθήκευση αλλαγών",
+    "error": "Σφάλμα κατά την αποθήκευση των αλλαγών"
+  },
+  "collectionRenameModal": {
+    "title": "Μετονομασία συλλογής",
+    "fieldLabel": "Ετικέτα συλλογής",
+    "requiredMessage": "Απαιτείται ετικέτα συλλογής",
+    "apply": "Εφαρμογή"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Δεδομένα",
+      "hidden": "Δεδομένα (Απόκρυψη)"
+    },
+    "site": {
+      "visible": "Ιστότοποι",
+      "hidden": "Ιστότοποι (Απόκρυψη)"
+    },
+    "document": {
+      "visible": "Έγγραφα",
+      "hidden": "Έγγραφα (Απόκρυψη)"
+    },
+    "appAndMap": {
+      "visible": "Εφαρμογές & χάρτες",
+      "hidden": "Εφαρμογές & χάρτες (Απόκρυψη)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (Απόκρυψη)"
+    }
+  },
+  "saveButton": "Αποθήκευση"
+}

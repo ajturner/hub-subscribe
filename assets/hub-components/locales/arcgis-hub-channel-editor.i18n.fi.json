@@ -1,0 +1,87 @@
+{
+  "unnamedChannel": "Nimetön kanava",
+  "name": {
+    "label": "Nimi",
+    "placeholder": "{prefix}-kanava"
+  },
+  "save": "Tallenna",
+  "access": {
+    "private": {
+      "label": "Yksityinen",
+      "description": "Valitut ryhmät voivat osallistua"
+    },
+    "organization": {
+      "label": "Organisaationi",
+      "description": "Kaikki jäsenet, joilla on organisaation {orgName} tili, voivat osallistua",
+      "disabledTooltip": "Vain organisaation pääkäyttäjät voivat luoda organisaatiokanavia."
+    },
+    "public": {
+      "label": "Julkinen",
+      "description": "Kaikki, joilla on tili, voivat osallistua",
+      "disabledTooltip": "Vain organisaation pääkäyttäjät voivat luoda julkisia kanavia."
+    },
+    "allowAnonymous": "Salli anonyymi",
+    "confirmation": {
+      "header": "Oletko varma?",
+      "message": "Näiden muutosten tallentaminen poistaa muokkausoikeutesi tähän kanavaan. Vain organisaation pääkäyttäjät voivat muokata julkisia tai organisaation kanavia.",
+      "secondary": "Peruuta",
+      "primary": "Vahvista"
+    }
+  },
+  "participants": {
+    "label": "Osallistujat",
+    "helperText": "Henkilöt, jotka voivat näyttää keskustelun ja osallistua siihen.",
+    "none": "Osallistujia ei ole määritetty",
+    "add": "Lisää osallistujaryhmä"
+  },
+  "groupPicker": {
+    "title": "Valitse ryhmät",
+    "facet": {
+      "label": "Lähtien",
+      "myGroup": "Oma ryhmä",
+      "myOrganization": "Organisaationi",
+      "myCommunity": "Oma yhteisö"
+    }
+  },
+  "blockWords": {
+    "label": "Estetyt sanat",
+    "helperText": "Pilkuin eroteltu luettelo. Niitä sisältävät julkaisut ja vastaukset piilotetaan automaattisesti."
+  },
+  "manage": {
+    "label": "Hallinnoi ja moderoi",
+    "helperText": "Määritetään automaattisesti. Nämä henkilöt voivat osallistua, piilottaa tai näyttää julkaisuja ja hallinnoida kanavan asetuksia osallistumisvalintojen mukaan."
+  },
+  "manager": "Hallinnoija",
+  "admin": "Pääkäyttäjä",
+  "viewProfile": "Näytä profiili",
+  "alerts": {
+    "error": "Virhe kanavan tallennuksessa",
+    "success": "Kanavan tallennus onnistui",
+    "label": "Lomakevaroitus"
+  },
+  "validations": {
+    "minChannelGroups": "Yksityisiin kanaviin tarvitaan vähintään yksi osallistujaryhmä."
+  },
+  "notices": {
+    "edit": "Muokkaukset koskevat kaikkia tämän kanavan käyttökohteita",
+    "duplicate": {
+      "create": {
+        "error": {
+          "title": "Kanavaa ei luotu",
+          "message": "Kanava, jolla on nämä käyttöoikeusvalinnat, on jo olemassa. Käytä olemassa olevaa kanavaa tai muokkaa valintoja."
+        }
+      },
+      "update": {
+        "error": {
+          "title": "Kanavaa ei päivitetty",
+          "message": "Kanava, jolla on nämä käyttöoikeusvalinnat, on jo olemassa. Näitä päivityksiä ei voi tallentaa."
+        }
+      },
+      "action": "Käytä olemassa olevaa kanavaa"
+    },
+    "inaccessibleGroups": {
+      "title": "Ryhmät, jotka eivät ole käytettävissä: {count}",
+      "message": "Et voi näyttää tai hallita ryhmiä, jotka eivät ole käytettävissä, ellet ole jäsen."
+    }
+  }
+}

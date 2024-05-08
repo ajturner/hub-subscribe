@@ -1,0 +1,16 @@
+{
+  "post.title": "La mise à jour des publications est bloquée",
+  "post.message": "La mise à jour n’est pas disponible tant que les discussions sont bloquées.",
+  "post.message.item": "La mise à jour n’est pas disponible tant que les discussions sont bloquées sur cet élément.",
+  "post.message.group": "La mise à jour n’est pas disponible tant que les discussions sont bloquées sur ce groupe.",
+  "reply.title": "La mise à jour des réponses est bloquée",
+  "reply.title.generic": "Discussion bloquée",
+  "reply.message": "La mise à jour n’est pas disponible tant que les discussions sont bloquées.",
+  "reply.message.generic": "Vous ne pouvez pas créer de réponses pour l’instant.",
+  "reply.message.item": "La mise à jour n’est pas disponible tant que les discussions sont bloquées sur cet élément.",
+  "reply.message.group": "La mise à jour n’est pas disponible tant que les discussions sont bloquées sur ce groupe.",
+  "item.title": "Discussion sur l’élément bloquée",
+  "item.message": "Cet élément ne peut pas faire l’objet d’une discussion.",
+  "group.title": "Discussion sur le groupe bloquée",
+  "group.message": "Ce groupe ne peut pas faire l’objet d’une discussion."
+}

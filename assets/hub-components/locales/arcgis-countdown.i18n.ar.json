@@ -1,0 +1,7 @@
+{
+  "days": "أيام",
+  "hours": "ساعة/ساعات",
+  "minutes": "دقائق",
+  "seconds": "ثواني",
+  "countdownDateMissingError": "يجب عليك تقديم تاريخ العد التنازلي"
+}

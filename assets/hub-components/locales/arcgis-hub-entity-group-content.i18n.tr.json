@@ -1,0 +1,50 @@
+{
+  "title": "İçerik",
+  "facets": {
+    "type": "Tür",
+    "tags": "Etiket",
+    "categories": "Kategori",
+    "sharing": "Paylaşım",
+    "dateUpdated": "Güncellenme tarihi",
+    "map": {
+      "label": "Konum",
+      "tooltip": "Harita yayılımını bir konum filtresi olarak uygula"
+    }
+  },
+  "shareContent": {
+    "buttonText": "İçerik ekle",
+    "catalog": {
+      "myContent": "İçeriğim",
+      "favorites": "Sık kullanılanlar",
+      "organization": "Kuruluşum",
+      "world": "Dünya (Genel)"
+    },
+    "facets": {
+      "type": "Tür",
+      "sharing": "Paylaşım"
+    },
+    "collection": {
+      "appsAndMaps": "Uygulamalar ve Haritalar",
+      "dataset": "Veriler",
+      "documents": "Belgeler",
+      "feedback": "Geri bildirim",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "İçerik ekle"
+    },
+    "unsharedModal": {
+      "title": "Öğeler eklenmedi",
+      "notice": {
+        "icon": "ünlem-işareti-üçgen",
+        "type": "tehlike",
+        "title": "Eylem tamamlanmadı",
+        "message": "Bazı öğeler eklenemedi. Bunun nedeni içerikteki paylaşım seviyelerinin uyumsuz olması veya öğenin sahibinin grup üyesi olmaması olabilir.",
+        "linkText": "Paylaşım hakkında daha fazla bilgi edinin"
+      }
+    },
+    "itemSharedSuccessAlert": "Öğeler başarıyla paylaşıldı"
+  },
+  "close": "Kapat",
+  "newTab": "yeni sekmede açılır"
+}

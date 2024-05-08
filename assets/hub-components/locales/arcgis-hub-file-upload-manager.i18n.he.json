@@ -1,0 +1,13 @@
+{
+  "firstStepHeader": "בחר תוכן",
+  "secondStepHeader": "הגדר פרטים",
+  "thirdStepHeader": "הגדר רמת שיתוף וגישה",
+  "next": "הבא",
+  "back": "חזור",
+  "save": "שמור",
+  "cancel": "ביטול",
+  "divider": "או",
+  "duplicateFileAriaLabel": "שגיאת קובץ כפול",
+  "duplicateFileError": "קיים כבר פריט עם אותו שם קובץ. שנה את שם הקובץ ונסה שוב, או הסר את <a>הקובץ הכפול</a> ב-ArcGIS Online",
+  "uploading": "מעלה"
+}

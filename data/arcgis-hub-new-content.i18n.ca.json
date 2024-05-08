@@ -1,0 +1,15 @@
+{
+  "new": "Nou",
+  "project": {
+    "title": "Projecte nou",
+    "description": "Destaqueu feina que tingui objectius i terminis definits"
+  },
+  "initiative": {
+    "title": "Iniciativa nova",
+    "description": "Destaqueu feina que tingui objectius i terminis definits"
+  },
+  "discussion": {
+    "title": "Tauler de debat nou",
+    "description": "Creeu un tauler de debat nou introduint un títol que n'indiqui el tema."
+  }
+}

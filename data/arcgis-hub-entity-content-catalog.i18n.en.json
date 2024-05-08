@@ -1,0 +1,26 @@
+{
+  "title": "Catalog",
+  "facets": {
+      "type": "Type",
+      "tags": "Tag",
+      "categories": "Category",
+      "sharing": "Sharing",
+      "dateUpdated": "Date Updated",
+      "map": {
+          "label": "Location",
+          "tooltip": "Apply the map extent as a location filter"
+      }
+  },
+  "collections": {
+      "all": "All",
+      "dataset": "Data",
+      "site": "Sites",
+      "document": "Documents",
+      "appAndMap": "Apps & Maps"
+  },
+  "noCollections": {
+      "title": "Catalog",
+      "message": "Your catalog is currently empty.",
+      "button": "Configure Catalog"
+  }
+}

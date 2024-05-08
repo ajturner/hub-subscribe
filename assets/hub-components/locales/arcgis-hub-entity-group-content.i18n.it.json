@@ -1,0 +1,50 @@
+{
+  "title": "Contenuto",
+  "facets": {
+    "type": "Tipo",
+    "tags": "Tag",
+    "categories": "Categoria",
+    "sharing": "Condivisione",
+    "dateUpdated": "Data aggiornamento",
+    "map": {
+      "label": "Posizione",
+      "tooltip": "Applica l'estensione mappa come filtro posizione"
+    }
+  },
+  "shareContent": {
+    "buttonText": "Aggiungi contenuto",
+    "catalog": {
+      "myContent": "I miei contenuti",
+      "favorites": "Preferiti",
+      "organization": "La mia organizzazione",
+      "world": "Mondo (pubblico)"
+    },
+    "facets": {
+      "type": "Tipo",
+      "sharing": "Condivisione"
+    },
+    "collection": {
+      "appsAndMaps": "App e mappe",
+      "dataset": "Dati",
+      "documents": "Documenti",
+      "feedback": "Feedback",
+      "sites": "Sites"
+    },
+    "modal": {
+      "title": "Aggiungi contenuto"
+    },
+    "unsharedModal": {
+      "title": "Elementi non aggiunti",
+      "notice": {
+        "icon": "triangolo-punto-esclamativo",
+        "type": "pericolo",
+        "title": "Azione incompleta",
+        "message": "Alcuni elementi non sono stati aggiunti. La causa potrebbe essere la mancata corrispondenza dei livelli di condivisione nel contenuto o il fatto che il proprietario dell'elemento non è un membro del gruppo.",
+        "linkText": "Ulteriori informazioni sulla condivisione"
+      }
+    },
+    "itemSharedSuccessAlert": "Elementi condivisi correttamente"
+  },
+  "close": "Chiudi",
+  "newTab": "si apre in una nuova scheda"
+}

@@ -1,0 +1,52 @@
+{
+  "collaborators": "Samarbejdspartnere",
+  "editGroupButtonText": "Tilføj redigeringsgrupper",
+  "viewGroupButtonText": "Tilføj visningsgrupper",
+  "groupPicker": {
+    "title": "Vælg grupper",
+    "facet": {
+      "label": "Fra",
+      "editGroups": "Rediger grupper",
+      "viewGroups": "Vis gruppe",
+      "myGroup": "Min gruppe",
+      "myOrganization": "Min organisation",
+      "myCommunity": "Mit fællesskab"
+    }
+  },
+  "addNewPeopleNotice": {
+    "title": "Tilføj nye personer",
+    "message": "Hvis du har brug for at tilføje personer, kan du invitere dem til deltage i fællesskabet, eller du kan <orgOverviewLink>kontakte din administrator</orgOverviewLink>."
+  },
+  "editGroupsTitle": "Grupper, der kan redigere",
+  "viewGroupsTitle": "Grupper, der kan vise",
+  "project": {
+    "description": "Vælg, hvilke grupper af brugere der kan vise og redigere dette projekt.",
+    "editGroupsDescription": "Personerne i disse grupper kan redigere projektoplysninger.",
+    "viewGroupsDescription": "Personerne i disse grupper vil kunne søge efter og vise projektet, hvis det ikke er delt med offentligheden.",
+    "errorMessage": "Der opstod en fejl under opdatering af samarbejdspartnere for dit projekt."
+  },
+  "content": {
+    "description": "Vælg, hvilke grupper af brugere der kan vise og redigere dette indhold.",
+    "editGroupsDescription": "Personerne i disse grupper vil kunne redigere indholdsoplysninger.",
+    "viewGroupsDescription": "Personerne i disse grupper vil kunne søge efter og vise indholdet, hvis det ikke er delt med offentligheden.",
+    "errorMessage": "Der opstod en fejl under opdatering af samarbejdspartnerne for dit indhold."
+  },
+  "discussion": {
+    "description": "Vælg, hvilke grupper af brugere der kan vise og redigere denne diskussion.",
+    "editGroupsDescription": "Personerne i disse grupper vil kunne redigere diskussionsoplysninger.",
+    "viewGroupsDescription": "Personerne i disse grupper vil kunne søge efter og vise diskussionen, hvis den ikke er delt med offentligheden.",
+    "errorMessage": "Der opstod en fejl under opdatering af samarbejdspartnerne for din diskussion."
+  },
+  "site": {
+    "description": "Vælg, hvilke grupper af brugere der kan vise og redigere dette websted.",
+    "editGroupsDescription": "Personerne i disse grupper vil kunne redigere oplysninger på webstedet.",
+    "viewGroupsDescription": "Personerne i disse grupper vil kunne søge i og vise webstedet, hvis det ikke er delt med offentligheden.",
+    "errorMessage": "Der opstod en fejl under opdatering af samarbejdspartnerne for dit websted."
+  },
+  "newTab": "åbn profil på ny fane",
+  "supportingTeams": "Supportteams",
+  "supportingTeamsDesc": "Disse supportteams var tidligere knyttet til dit websted. Du kan fortsat bruge dem til at dele indhold med samarbejdspartnere.",
+  "supportTeamsRemove": "Fjern team",
+  "supportingTeamsRemoveError": "Fejl ved fjernelse af link til team. Kontakt en administrator.",
+  "supportingTeamsRemoveSuccess": "Link til team blev fjernet."
+}

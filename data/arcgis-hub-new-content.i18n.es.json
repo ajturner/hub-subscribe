@@ -1,0 +1,15 @@
+{
+  "new": "Nuevo",
+  "project": {
+    "title": "Nuevo proyecto",
+    "description": "Destaque trabajo que tenga objetivos y plazos definidos"
+  },
+  "initiative": {
+    "title": "Nueva iniciativa",
+    "description": "Destaque trabajo que tenga objetivos y plazos definidos"
+  },
+  "discussion": {
+    "title": "Nuevo panel de discusión",
+    "description": "Crear un panel de discusión nuevo introduciendo un título que indique el tema."
+  }
+}

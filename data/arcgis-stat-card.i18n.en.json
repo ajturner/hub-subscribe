@@ -1,0 +1,12 @@
+{
+  "timeoutError": {
+    "message": "The server connection timed out and could not display the statistic.",
+    "title": "Server timed out"
+  },
+  "genericError": {
+    "message": "Statistic cannot be displayed.",
+    "title": "Something went wrong"
+  },
+  "loading": "Loading statistic",
+  "source": "Source:"
+}

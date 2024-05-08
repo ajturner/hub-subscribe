@@ -1,0 +1,25 @@
+{
+  "moreResults": "Vairāk rezultātu",
+  "search": "Meklēšana",
+  "filter": "Filtri",
+  "viewResults": "Skatīt rezultātus ({numResults})",
+  "resultsCount": "1 - {pageTotal} no {searchTotal}",
+  "backToTop": "Atpakaļ uz sākumu",
+  "facets": {
+    "access": {
+      "private": "Sevi",
+      "shared": "Īpašnieks un grupas",
+      "org": "Organizācija",
+      "public": "Publisks"
+    },
+    "license": {
+      "custom": "Pielāgota",
+      "none": "Nav"
+    }
+  },
+  "layoutOptions": {
+    "list": "Rādīt sarakstu",
+    "grid": "Rādīt režģi"
+  },
+  "galleryActionsLabel": "Papildu darbības"
+}

@@ -1,0 +1,24 @@
+{
+  "content": "Nội dung",
+  "tabs": {
+    "catalog": "Danh mục",
+    "collections": "Bộ sưu tập",
+    "catalogConfig": "Cấu hình Danh mục"
+  },
+  "sidePanels": {
+    "catalogConfig": {
+      "configureCatalogNotice": {
+        "title": "Định cấu hình danh mục của Bạn",
+        "message": "Đã bắt đầu lập và định cấu hình danh mục của bạn! Danh mục của bạn được tạo thành từ các nhóm và được điền theo nội dung trong các nhóm đó.",
+        "link": "Tìm hiểu thêm về danh mục"
+      }
+    },
+    "catalog": {
+      "catalogNotice": {
+        "title": "Danh mục trống",
+        "message": "Bạn đã sẵn sàng để bắt đầu tạo danh mục riêng! Danh mục của bạn được định cấu hình bằng cách thêm một hoặc nhiều nhóm và điền theo nội dung trong các nhóm đó.",
+        "link": "Bắt đầu"
+      }
+    }
+  }
+}

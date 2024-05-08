@@ -1,0 +1,25 @@
+{
+  "moreResults": "Mai multe rezultate",
+  "search": "Căutare",
+  "filter": "Filtre",
+  "viewResults": "Vizualizare rezultate ({numResults})",
+  "resultsCount": "1 - {pageTotal} din {searchTotal}",
+  "backToTop": "Înapoi sus",
+  "facets": {
+    "access": {
+      "private": "Eu",
+      "shared": "Proprietar și grupuri",
+      "org": "Organizaţie",
+      "public": "Public"
+    },
+    "license": {
+      "custom": "Personalizare",
+      "none": "Niciunul"
+    }
+  },
+  "layoutOptions": {
+    "list": "Listă de afișare",
+    "grid": "Grilă de afișare"
+  },
+  "galleryActionsLabel": "Acțiuni suplimentare"
+}

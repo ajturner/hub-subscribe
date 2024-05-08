@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Partajare",
+      "myself": "Eu",
+      "myOrganization": "Organizația mea",
+      "public": "Internațional (public)"
+    },
+    "catalog": {
+      "myContent": "Resursele mele",
+      "favorites": "Preferinţe",
+      "organization": "Organizația mea",
+      "world": "Internațional (public)"
+    }
+  },
+  "expression": {
+    "label": "Filtre atribute"
+  },
+  "field": {
+    "label": "Atribut"
+  },
+  "layer": "Strat tematic/tabel",
+  "statistic": {
+    "label": "Însumare"
+  }
+}

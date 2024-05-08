@@ -1,0 +1,36 @@
+{
+  "edit": "Redaguoti",
+  "delete": "Pašalinti",
+  "noneMessage": "Vieta nenustatyta",
+  "entityTypes": {
+    "project": "Projektas",
+    "site": "Svetainė",
+    "initiative": "Iniciatyva",
+    "discussion": "Diskusija",
+    "content": "Turinys"
+  },
+  "emptyLocation": {
+    "title": "Vieta nenurodyta",
+    "message": "Nepažymėjus vietos, {entityType} nebus rodoma žemėlapiuose"
+  },
+  "populatedLocation": {
+    "title": "Pridėti kitą vietą?",
+    "message": "Norėdami pridėti daugiau vietų, dar kartą pasirinkite braižymo įrankį (iki {maxLocations})."
+  },
+  "maximumPoints": {
+    "title": "Pasiektas maksimalus taškų skaičius ({currentCount}/{maxLocations})",
+    "message": "Norėdami pridėti daugiau vietų: ištrinkite taškus arba redaguokite linijas bei sritis, kad ištrintumėte jų taškus (spustelėkite dešiniuoju pelės klavišu)."
+  },
+  "maximumLocations": {
+    "title": "Pasiektas maksimalus vietų skaičius",
+    "message": "Norėdami pridėti daugiau vietų, pašalinkite vieną ar kelias vietas, arba pašalinkite visas vietas ir naudokite bendresnę sritį."
+  },
+  "drawLocationPopover": {
+    "tooltip": "Pridėti vietą",
+    "clear": "Valyti viską",
+    "extent": "Brėžti stačiakampį",
+    "point": "Pažymėti tašką",
+    "polyline": "Brėžti liniją",
+    "polygon": "Apibrėžti teritoriją"
+  }
+}

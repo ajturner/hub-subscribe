@@ -1,0 +1,19 @@
+{
+  "chooseButton": "Gebruiksvoorwaarden kiezen",
+  "editorLabel": "Geselecteerde gebruiksvoorwaarden",
+  "editorRemoveWarning": "Waarschuwing: u staat op het punt de gebruiksvoorwaarden te verwijderen.",
+  "licenseDescriptionCc0": "Dit werk is bedoeld voor het publiek",
+  "licenseDescriptionCcBy": "Vereist naamsvermelding",
+  "licenseDescriptionCcByNc": "Vereist naamsvermelding, staat remixen toe, maar verbiedt commercieel gebruik",
+  "licenseDescriptionCcByNcNd": "Meest restrictief, vereist naamsvermelding, verbiedt commercieel gebruik en remixen",
+  "licenseDescriptionCcByNcSa": "Vereist naamsvermelding, staat remixen toe maar verbiedt commercieel gebruik en afgeleide werken moeten dezelfde licentie handhaven",
+  "licenseDescriptionCcByNd": "Vereist naamsvermelding, staat commercieel gebruik toe maar verbiedt het delen van afgeleide werken",
+  "licenseDescriptionCcBySa": "Vereist naamsvermelding, staat remixen en commercieel gebruik toe",
+  "licenseDescriptionCustom": "Voor meer informatie",
+  "licenseDescriptionOdbl": "Staat delen, maken en aanpassen toe zolang anderen naamsvermelding toevoegen, gelijk delen toepassen en open houden",
+  "licenseDescriptionOdcBy": "Staat delen, maken en aanpassen toe zolang anderen naamsvermelding toevoegen",
+  "licenseDescriptionPddl": "Staat delen, maken en aanpassen toe",
+  "licenseInfoButtonAriaLabel": "Details gebruiksvoorwaarden, worden geopend in een nieuw tabblad",
+  "selectedLicenseLabelFallback": "Aangepast",
+  "selectedLicenseLabelNoLicense": "Er zijn geen gebruiksvoorwaarden"
+}

@@ -1,0 +1,28 @@
+{
+  "newTab": "открыть профиль в новой вкладке",
+  "noGroups": "Нет групп",
+  "pickerToggle": "Добавить группы",
+  "pickerTitle": "Выбрать группы",
+  "groupBlock": {
+    "memberCount": {
+      "noMember": "Нет участников",
+      "oneMember": "1 участник",
+      "members": "{count} участников"
+    },
+    "dateCreated": "Дата создания: {localizedDate}",
+    "sharing": "Публикация: {sharingLevel}",
+    "sharingLevels": {
+      "private": "Для себя",
+      "shared": "Владелец и группы",
+      "org": "Организация",
+      "public": "Для всех"
+    },
+    "membership": "Членство: {membershipLevel}",
+    "membershipLevels": {
+      "owner": "Владелец группы",
+      "admin": "Менеджер группы",
+      "member": "Участник группы",
+      "none": "Нет"
+    }
+  }
+}

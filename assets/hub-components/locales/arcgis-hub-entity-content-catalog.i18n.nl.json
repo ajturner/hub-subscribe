@@ -1,0 +1,25 @@
+{
+  "facets": {
+    "type": "Type",
+    "tags": "Tag",
+    "categories": "Categorie",
+    "sharing": "Delen",
+    "dateUpdated": "Datum bijgewerkt",
+    "map": {
+      "label": "Locatie",
+      "tooltip": "Pas de kaartextent toe als een locatiefilter"
+    }
+  },
+  "collections": {
+    "all": "Alle",
+    "dataset": "Gegevens",
+    "site": "Sites",
+    "document": "Documenten",
+    "appAndMap": "Apps & kaarten"
+  },
+  "noCollections": {
+    "title": "Catalogus",
+    "message": "Uw catalogus is momenteel leeg.",
+    "button": "Catalogus configureren"
+  }
+}

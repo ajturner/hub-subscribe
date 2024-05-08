@@ -1,0 +1,32 @@
+{
+  "beta": "베타",
+  "editLayout": "레이아웃 편집",
+  "editContent": "콘텐츠 편집",
+  "view": {
+    "project": "프로젝트 보기",
+    "site": "사이트 보기",
+    "initiative": "이니셔티브 보기",
+    "discussion": "토론 보기",
+    "content": "콘텐츠 보기",
+    "page": "페이지 보기",
+    "group": "그룹 보기"
+  },
+  "label": {
+    "project": "프로젝트 작업 영역",
+    "site": "사이트 작업 영역",
+    "initiative": "이니셔티브 작업 영역",
+    "discussion": "토론 작업 영역",
+    "content": "콘텐츠 작업 영역",
+    "page": "페이지 작업 영역",
+    "group": "그룹 작업 영역"
+  },
+  "access": {
+    "sharingLevel": "공유 레벨",
+    "groupSharing": "그룹 공유",
+    "public": "공개",
+    "org": "기관",
+    "private": "소유자",
+    "shared": "비공개로 공유됨",
+    "disabled": "소유자나 관리자가 아니므로 공유를 변경할 수 없습니다."
+  }
+}

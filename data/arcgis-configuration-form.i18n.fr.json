@@ -1,0 +1,12 @@
+{
+  "save": "Enregistrer",
+  "cancel": "Annuler",
+  "undoChanges": "Annuler les modifications",
+  "next": "Suivant",
+  "back": "Retour",
+  "formAlert": "Alerte de formulaire",
+  "invalidForm": "Corrigez toutes les erreurs.",
+  "saveDisabled": "Enregistrement désactivé",
+  "success": "Mises à jour enregistrées",
+  "error": "Erreur lors de l’enregistrement des mises à jour"
+}

@@ -1,0 +1,19 @@
+{
+  "heading": "Pievienot pēc URL",
+  "subText": "CSV, SHP, GeoJSON, ArcGIS elementu serviss, XLS, PDF, PNG, JPG, tīmekļa saite",
+  "fileTypeSelector": "Manuāli iestatīt faila veidu",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS elementu serviss",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Tīmekļa saite",
+  "microsoftexcel": "Microsoft Excel (xls, xlsx)",
+  "image": "Attēls (png, jpg, jpeg)",
+  "invalidFormat": "Kļūda: nederīgs formāts",
+  "invalidUrl": "Kļūda: nederīgs URL",
+  "recognizedType": "Manuāli iestatīt faila veidu"
+}

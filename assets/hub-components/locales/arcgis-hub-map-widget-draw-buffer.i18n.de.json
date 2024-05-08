@@ -1,0 +1,15 @@
+{
+  "panel.heading": "Positionsfilter",
+  "panel.reset": "Filter zurücksetzen",
+  "distance.title": "Entfernung",
+  "distance.placeholder": "Zahl eingeben...",
+  "distance.message": "Eine Zahl eingeben, um den gefilterten Bereich zu erweitern.",
+  "system.imperial": "Britisch",
+  "system.metric": "Metrisch",
+  "units.title": "Einheiten",
+  "units.feet": "Fuß",
+  "units.miles": "Meilen",
+  "units.nauticalmiles": "Seemeilen",
+  "units.meters": "Meter",
+  "units.kilometers": "Kilometer"
+}

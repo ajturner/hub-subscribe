@@ -1,0 +1,14 @@
+{
+  "addPost": "Adăugați o postare",
+  "createPost": "Creați o postare",
+  "emptyHeading": "Începeți o discuție",
+  "emptyMessage": "Fiți primul care aduce în atenție un subiect. Este ușor să puteți o întrebare sau să partajați despre un anumit conținut cu alte persoane.",
+  "searchIdeas": "Căutare postări",
+  "searchCount": "{start} - {end} din {total}",
+  "orderAsc": "Ascendent",
+  "orderDesc": "Descendent",
+  "sortRecent": "Recente",
+  "sortCreator": "Creator",
+  "layoutGrid": "Grilă",
+  "layoutList": "Listare"
+}

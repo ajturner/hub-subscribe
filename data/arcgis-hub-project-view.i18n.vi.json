@@ -1,0 +1,18 @@
+{
+  "purpose": "Mục đích",
+  "description": "Cách chúng tôi đạt được mục tiêu",
+  "details": "Thông tin chi tiết",
+  "featuredImageAlt": "Hình ảnh nổi bật của dự án",
+  "trackProgress": "Theo dõi tiến trình của chúng tôi",
+  "participatingGroups": "Nhóm tham gia",
+  "whosInvolved": "Bên liên quan",
+  "tags": "Thẻ",
+  "status": {
+    "label": "Trạng thái dự án",
+    "notStarted": "Chưa bắt đầu",
+    "inProgress": "Đang tiến hành",
+    "onHold": "Đang bị tạm ngưng",
+    "complete": "Hoàn tất"
+  },
+  "featuredContent": "Nội dung nổi bật"
+}

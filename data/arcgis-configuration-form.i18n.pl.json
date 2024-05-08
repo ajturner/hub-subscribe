@@ -1,0 +1,12 @@
+{
+  "save": "Zapisz",
+  "cancel": "Anuluj",
+  "undoChanges": "Cofnij zmiany",
+  "next": "Dalej",
+  "back": "Powrót",
+  "formAlert": "Alert dotyczący formularza",
+  "invalidForm": "Napraw wszystkie błędy.",
+  "saveDisabled": "Wyłączono zapisywanie",
+  "success": "Pomyślnie zapisano zmiany",
+  "error": "Błąd podczas zapisywania zmian"
+}

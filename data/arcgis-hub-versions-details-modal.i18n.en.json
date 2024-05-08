@@ -1,0 +1,10 @@
+
+{
+  "title": "Edit version details",
+  "save": "Save",
+  "cancel": "Cancel",
+  "name.label": "Title",
+  "name.helpText": "Leave title empty if you want us to identify the version by a date-timestamp.",
+  "description.label": "Description",
+  "error": "Error updating version."
+}

@@ -1,0 +1,14 @@
+{
+  "addPost": "إضافة منشور",
+  "createPost": "إنشاء منشور",
+  "emptyHeading": "بدء مناقشة",
+  "emptyMessage": "كن أول من يطرح موضوعًا. من السهل طرح سؤال أو مشاركة المحتوى الذي تعرفه مع الآخرين.",
+  "searchIdeas": "بحث في المشاركات",
+  "searchCount": "{start} - {end} من {total}",
+  "orderAsc": "تصاعدي",
+  "orderDesc": "تنازلي",
+  "sortRecent": "حديث",
+  "sortCreator": "المُنشئ",
+  "layoutGrid": "شبكة",
+  "layoutList": "قائمة"
+}

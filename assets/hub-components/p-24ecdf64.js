@@ -1,0 +1,1 @@
+function n(n,r={}){return(...t)=>n(...t).catch((()=>r))}export{n as f}

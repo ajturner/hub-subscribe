@@ -1,0 +1,19 @@
+{
+  "heading": "按 URL 新增",
+  "subText": "CSV、SHP、GeoJSON、ArcGIS 圖徵服務、XLS、PDF、PNG、JPG、Web 連結",
+  "fileTypeSelector": "手動設定檔案類型",
+  "csv": "CSV",
+  "shp": "SHP",
+  "geojson": "GeoJSON",
+  "featureservice": "ArcGIS 圖徵服務",
+  "xls": "XLS",
+  "pdf": "PDF",
+  "png": "PNG",
+  "jpg": "JPG",
+  "doclink": "Web 連結",
+  "microsoftexcel": "Microsoft Excel (xls、xlsx)",
+  "image": "圖片 (png、jpg、jpeg)",
+  "invalidFormat": "錯誤: 格式無效",
+  "invalidUrl": "錯誤: URL 無效",
+  "recognizedType": "手動設定檔案類型"
+}

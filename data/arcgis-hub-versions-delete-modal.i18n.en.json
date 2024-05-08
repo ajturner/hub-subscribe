@@ -1,0 +1,7 @@
+{
+  "title": "Delete version",
+  "message": "Are you sure you want to delete:",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "error": "Error deleting version."
+}

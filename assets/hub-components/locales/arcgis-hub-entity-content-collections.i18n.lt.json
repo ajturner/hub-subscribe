@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Rodyti",
+    "hide": "Slėpti",
+    "rename": "Pervardinti"
+  },
+  "formAlert": "Formos pavojus",
+  "alertMessages": {
+    "success": "Pakeitimai įrašyti sėkmingai",
+    "error": "Klaida išsaugant pakeitimus"
+  },
+  "collectionRenameModal": {
+    "title": "Pervardyti rinkinį",
+    "fieldLabel": "Rinkinio žymė",
+    "requiredMessage": "Būtina rinkinio žymė",
+    "apply": "Taikyti"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Duomenys",
+      "hidden": "Duomenys (paslėpti)"
+    },
+    "site": {
+      "visible": "Svetainės",
+      "hidden": "Svetainės (paslėptos)"
+    },
+    "document": {
+      "visible": "Dokumentai",
+      "hidden": "Dokumentai (paslėpti)"
+    },
+    "appAndMap": {
+      "visible": "Programėlės ir žemėlapiai",
+      "hidden": "Programėlės ir žemėlapiai (paslėpti)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (paslėpta)"
+    }
+  },
+  "saveButton": "Įrašyti"
+}

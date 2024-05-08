@@ -1,0 +1,7 @@
+{
+  "days": "dana",
+  "hours": "časova",
+  "minutes": "minuta",
+  "seconds": "sekundi",
+  "countdownDateMissingError": "Morate da obezbedite datum za odbrojavanje"
+}

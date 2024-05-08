@@ -1,0 +1,16 @@
+{
+  "contentHeading": "Drag and drop file to upload",
+  "imageHeading": "Upload an Image",
+  "selectedHeading": "File Selected", 
+  "maxSizeAndSupportedTypes": "Max Size is {maxSize}MB, {fileTypes}",
+  "maxSize": "Max Size is {maxSize}MB",
+  "recommendedDimensions": "Recommended dimensions {recommendedDimensions}",
+  "linkText": "View List of Supported Files",
+  "contentButton": "Browse for File",
+  "imageButton": "Browse for Image",
+  "clearButton": "Clear Selected",
+  "errorHeading": "Error",
+  "fileTooLargeError": "File too large",
+  "multipleFilesError": "Cannot upload multiple files at once",
+  "unsupportedFileTypeError": "This file type is not supported"
+}

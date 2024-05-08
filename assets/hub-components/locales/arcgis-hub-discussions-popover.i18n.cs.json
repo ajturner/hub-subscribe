@@ -1,0 +1,19 @@
+{
+  "anonymous": "Anonymní",
+  "noUser": "Žádné uživatelské jméno",
+  "privateUser": "Soukromý člen",
+  "privateOrg": "Soukromá organizace",
+  "org": "Moje organizace",
+  "orgLabel": "Organizace",
+  "profile": "Přejít na profil",
+  "location": "Umístění",
+  "information": "Informace o příspěvku",
+  "postedIn": "Odesláno do {groupName}",
+  "replyingTo": "Odpověď uživateli @{username}",
+  "visiblePrivate": "Viditelné pouze pro členy",
+  "visibleOrg": "Viditelné pro organizaci",
+  "visibleAll": "Viditelné pro všechny",
+  "manageChannel": "Spravovat kanál",
+  "group.deleted": "Odstraněná skupina",
+  "unnamedChannel": "Kanál bez názvu"
+}

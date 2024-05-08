@@ -1,0 +1,16 @@
+{
+  "contentHeading": "اسحب الملف وأفلته للتحميل",
+  "imageHeading": "تحميل صورة",
+  "selectedHeading": "الملف المحدد",
+  "maxSizeAndSupportedTypes": "أقصى حجم هو {maxSize}ميغابايت، {fileTypes}",
+  "maxSize": "أقصى حجم هو {maxSize}ميغابايت",
+  "recommendedDimensions": "الأبعاد الموصى بها {recommendedDimensions}",
+  "linkText": "عرض قائمة الملفات المدعومة",
+  "contentButton": "استعرض ملف",
+  "imageButton": "استعراض من أجل صورة",
+  "clearButton": "مسح التحديد",
+  "errorHeading": "خطأ",
+  "fileTooLargeError": "الملف كبير جدًا",
+  "multipleFilesError": "يتعذر تحميل عدة ملفات مرة واحدة",
+  "unsupportedFileTypeError": "نوع هذا الملف غير مدعوم"
+}

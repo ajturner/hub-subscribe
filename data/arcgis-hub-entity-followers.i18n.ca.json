@@ -1,0 +1,26 @@
+{
+  "followers": "Seguidors",
+  "tabs": {
+    "followers": "Seguidors",
+    "settings": "Configuració"
+  },
+  "addFollowers": {
+    "label": "Afegeix seguidors"
+  },
+  "emptyState": {
+    "message": "Actualment no teniu cap grup de seguidors."
+  },
+  "restrictedAccessState": {
+    "message": "No teniu accés."
+  },
+  "stats": {
+    "total": {
+      "title": "Total",
+      "trailingText": "Seguidors"
+    },
+    "new": {
+      "title": "Nou",
+      "trailingText": "Darrers 30 dies"
+    }
+  }
+}

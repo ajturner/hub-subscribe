@@ -1,0 +1,14 @@
+{
+  "description": "اختر تكبير/تصغير موقع معين",
+  "displayField.existing": "الموقع الحالي",
+  "displayField.added": "تمت إضافة موقع",
+  "displayField.existing.area": "المنطقة الحالية",
+  "displayField.added.area": "تمت إضافة منطقة",
+  "point": "نقطة",
+  "line": "خط",
+  "area": "المنطقة",
+  "viewAll": "عرض جميع المواقع",
+  "viewLess": "عرض مواقع أقل",
+  "action.update": "تحديث الموقع",
+  "action.remove": "إزالة الموقع"
+}

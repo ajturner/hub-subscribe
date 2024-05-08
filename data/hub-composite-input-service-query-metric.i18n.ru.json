@@ -1,0 +1,26 @@
+{
+  "dynamicStat": {
+    "facets": {
+      "sharing": "Общий доступ",
+      "myself": "Для себя",
+      "myOrganization": "Моя организация",
+      "public": "Мир (общедоступно)"
+    },
+    "catalog": {
+      "myContent": "Мои ресурсы",
+      "favorites": "Избранное",
+      "organization": "Моя организация",
+      "world": "Мир (общедоступно)"
+    }
+  },
+  "expression": {
+    "label": "Атрибутивные фильтры"
+  },
+  "field": {
+    "label": "Атрибут"
+  },
+  "layer": "Слой / Таблица",
+  "statistic": {
+    "label": "Агрегирование"
+  }
+}

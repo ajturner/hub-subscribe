@@ -1,0 +1,9 @@
+{
+  "heading": "Úroveň zdieľania",
+  "public": "Verejné",
+  "publicInfo": "Viditeľné pre každého {itemType}",
+  "organization": "Organizácia",
+  "organizationInfo": "Viditeľné pre všetkých členov účtom do {orgName} a skupín {itemType}",
+  "owner": "Vlastník",
+  "ownerInfo": "Viditeľné pre vlastníka a skupiny s prístupom {itemType}"
+}

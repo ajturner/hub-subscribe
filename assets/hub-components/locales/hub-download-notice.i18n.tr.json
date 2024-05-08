@@ -1,0 +1,13 @@
+{
+  "titleDownloadComplete": "İndirme tamamlandı",
+  "titleFileGeneration": "Dosya üretimi devam ediyor",
+  "titleFileGenerationFailed": "Dosya üretimi başarısız oldu",
+  "titleDatasetNotFound": "Veri kümesi bulunamadı",
+  "titleApiError": "API hatası",
+  "titleFormatDisabled": "İndirme devre dışı bırakıldı",
+  "messageFailedStaleAvailable": "Aşağıdaki önceki versiyonu indirebilirsiniz.",
+  "messageUpdatingFile": "Dosyayı güncelliyoruz. Bu işlem biraz uzun sürebilir.",
+  "messageCreatingFile": "Dosyayı oluşturuyoruz. Bu işlem biraz uzun sürebilir.",
+  "messageFileNeedsGenerating": "Güncel dosyayı indirmek biraz zaman alabilir.",
+  "messageFormatDisabled": "Sahibi bu biçim için indirmeyi devre dışı bıraktı."
+}

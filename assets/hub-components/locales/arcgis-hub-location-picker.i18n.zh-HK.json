@@ -1,0 +1,36 @@
+{
+  "edit": "編輯",
+  "delete": "刪除",
+  "noneMessage": "未設定位置",
+  "entityTypes": {
+    "project": "專案",
+    "site": "網站",
+    "initiative": "倡議",
+    "discussion": "討論",
+    "content": "內容"
+  },
+  "emptyLocation": {
+    "title": "未繪製位置",
+    "message": "在新增位置前不會在地圖上顯示 {entityType}"
+  },
+  "populatedLocation": {
+    "title": "新增其他位置?",
+    "message": "再次選擇繪製工具以新增更多位置 (最多 {maxLocations} 個)。"
+  },
+  "maximumPoints": {
+    "title": "已達點數上限 ({currentCount}/{maxLocations})",
+    "message": "要新增更多位置: 刪除點，或編輯線和區域以刪除它們的點 (按滑鼠右鍵)。"
+  },
+  "maximumLocations": {
+    "title": "已達位置數上限",
+    "message": "要新增更多位置，請移除一或多個位置，或者移除所有位置並使用更通用的區域。"
+  },
+  "drawLocationPopover": {
+    "tooltip": "新增位置",
+    "clear": "全部清除",
+    "extent": "繪製一個矩形",
+    "point": "放置點",
+    "polyline": "繪製一條線",
+    "polygon": "繪製區域"
+  }
+}

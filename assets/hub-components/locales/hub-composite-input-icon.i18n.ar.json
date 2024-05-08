@@ -1,0 +1,19 @@
+{
+  "select": "تحديد",
+  "cancel": "إلغاء الأمر",
+  "iconModalTitle": "تحديد رمز",
+  "scope": {
+    "enum": {
+      "library": {
+        "description": "اختر من المكتبة"
+      },
+      "url": {
+        "description": "اكتب عنوان URL لنفسك"
+      }
+    }
+  },
+  "altText": {
+    "label": "نص بديل",
+    "helperText": "إذا لم يتم إضافته، فسيتم تصنيف الرمز على أنه للتزيين."
+  }
+}

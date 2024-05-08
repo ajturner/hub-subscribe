@@ -1,0 +1,26 @@
+{
+  "followers": "Ακόλουθοι",
+  "tabs": {
+    "followers": "Ακόλουθοι",
+    "settings": "Ρυθμίσεις"
+  },
+  "addFollowers": {
+    "label": "Προσθήκη ακολούθων"
+  },
+  "emptyState": {
+    "message": "Προς το παρόν δεν έχετε ομάδα ακολούθων"
+  },
+  "restrictedAccessState": {
+    "message": "Δεν έχετε δικαίωμα πρόσβασης."
+  },
+  "stats": {
+    "total": {
+      "title": "Σύνολο",
+      "trailingText": "Ακόλουθοι"
+    },
+    "new": {
+      "title": "Νέο",
+      "trailingText": "Τελευταίες 30 ημέρες"
+    }
+  }
+}

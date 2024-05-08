@@ -1,0 +1,10 @@
+{
+  "true.heading": "是，允許討論",
+  "false.heading": "否，封鎖討論",
+  "content.label": "允許討論此項目?",
+  "content.true.description": "使用者可在此項目上建立貼文。",
+  "content.false.description": "使用者無法在此項目上建立貼文。",
+  "group.label": "此群組可以參與討論嗎?",
+  "group.true.description": "群組成員可以檢視和參與群組有權存取的討論通道。",
+  "group.false.description": "群組成員無法檢視或參與群組有權存取的討論通道。"
+}

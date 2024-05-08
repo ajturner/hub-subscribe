@@ -1,0 +1,40 @@
+{
+  "actions": {
+    "show": "Afficher",
+    "hide": "Masquer",
+    "rename": "Renommer"
+  },
+  "formAlert": "Alerte de formulaire",
+  "alertMessages": {
+    "success": "Modifications enregistrées",
+    "error": "Erreur lors de l’enregistrement des modifications"
+  },
+  "collectionRenameModal": {
+    "title": "Renommer la collection",
+    "fieldLabel": "Étiquette de la collection",
+    "requiredMessage": "L’étiquette de la collection est requise",
+    "apply": "Appliquer"
+  },
+  "collections": {
+    "dataset": {
+      "visible": "Données",
+      "hidden": "Données (masquées)"
+    },
+    "site": {
+      "visible": "Sites",
+      "hidden": "Sites (masqués)"
+    },
+    "document": {
+      "visible": "Documents",
+      "hidden": "Documents (masqués)"
+    },
+    "appAndMap": {
+      "visible": "Applications et cartes",
+      "hidden": "Applications et cartes (masquées)"
+    },
+    "custom": {
+      "hidden": "{userTitleInput} (masqué)"
+    }
+  },
+  "saveButton": "Enregistrer"
+}

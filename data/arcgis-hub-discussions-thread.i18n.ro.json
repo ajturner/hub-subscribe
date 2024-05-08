@@ -1,0 +1,10 @@
+{
+  "error": "Ceva nu a mers bine",
+  "repliesFailure": "Răspunsurile la această postare nu pot fi afișate.",
+  "thread.deleted.title": "Fir șters",
+  "thread.deleted.message": "Postarea asociată și răspunsul au fost șterse și nu pot fi afișate.",
+  "thread.deleted.action": "Vizualizați toate postările",
+  "reply.single.title": "Vizualizați un singur răspuns",
+  "reply.single.link": "Vizualizați toate răspunsurile",
+  "loading": "Se încarcă"
+}
